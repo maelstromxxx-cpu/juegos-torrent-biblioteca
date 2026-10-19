@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "imagenes/Bloodborne GOTY Edition.webp",
+      "size": 31434,
+      "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
+    },
+    {
+      "path": "imagenes/Call Of Duty Vanguard Full.webp",
+      "size": 30410,
+      "sha256": "2d755aafd5ff86eee10ab845adfbac0e053425bba86d5da1cd45d9840aed818e"
+    },
+    {
+      "path": "imagenes/Call Of Duty Vanguard.webp",
+      "size": 30410,
+      "sha256": "2d755aafd5ff86eee10ab845adfbac0e053425bba86d5da1cd45d9840aed818e"
+    },
+    {
+      "path": "imagenes/Call Of Duty WWII Full.webp",
+      "size": 43320,
+      "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
+    },
+    {
+      "path": "imagenes/Call Of Duty wwII.webp",
+      "size": 43320,
+      "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/01.webp",
+      "size": 125638,
+      "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/02.webp",
+      "size": 107334,
+      "sha256": "6c0e69186f19f305c7cbce3920e46c8d5d8a990bd7f626324bb524503d9c13e9"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/03.webp",
+      "size": 196596,
+      "sha256": "d92a54dab02896759843dd5d09f215bbcdbb9e7c6fa19f340d4d7f32fea1cd60"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/04.webp",
+      "size": 207398,
+      "sha256": "606903fb96e5da05c32040cb519e9ac44070f97e5bd4ef91725f9841c4a10749"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/05.webp",
+      "size": 161920,
+      "sha256": "0ca6d6ff0f96c27a29911bf21ebc7cc50529d18c300354468fbe1a36ec7ce2a1"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/06.webp",
+      "size": 133052,
+      "sha256": "4477ffdfea904527b4ca1ad50fea070b28f20c1c4de72bb35fca172fad9b753c"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/07.webp",
+      "size": 149112,
+      "sha256": "cebbead48a772fff14a3ed5d3080730751d0656b6f17f9a69bd9d4d723133ae3"
+    },
+    {
+      "path": "capturas/Bloodborne GOTY Edition/08.webp",
+      "size": 106268,
+      "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard/01.webp",
+      "size": 15928,
+      "sha256": "673a0d7271d22ab59713b0a59fcd0da71be52556f576e80dc8abf4d61d55b07a"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard/02.webp",
+      "size": 18296,
+      "sha256": "e154a52c811a8c46b5c020969d5b311bcfa52dfb987ae8bdb712efc839087c18"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard/03.webp",
+      "size": 9042,
+      "sha256": "248f30c2b7b7c5c284951b731b26bd237a278e27aebba00786e771fb7f0d900c"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard/04.webp",
+      "size": 34662,
+      "sha256": "3c67e322615e6ee3c2a63612654fa64cb944335796b6e2e1b0af16ee767385e3"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/01.webp",
+      "size": 35614,
+      "sha256": "6d4045ec18fab833a6ff404c55bcdbebc8d99519352311084731221b601a89d7"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/02.webp",
+      "size": 33808,
+      "sha256": "542249ea10ffe466de99aaadba59b81630c4a2ae837133fbd682633ad679f457"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/03.webp",
+      "size": 35918,
+      "sha256": "22ff594d99dcc4185f23ce12907e5e9ff60ee69f66658b23b0cb748decdd6515"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/04.webp",
+      "size": 40024,
+      "sha256": "3e025065dc2ff7313a7b5e0385c1ff344be926e3c4e04d1322abe049f3a7a9e7"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/05.webp",
+      "size": 25660,
+      "sha256": "2c51f0a9c6de4decf459d49fc5a10066aaa6d5964ad525d0741d5ee9dd96e7ec"
+    },
+    {
+      "path": "capturas/Call Of Duty Vanguard Full/06.webp",
+      "size": 38130,
+      "sha256": "a89a9b926e6a245090ba2cff5ae063f109de921efb0a2f0d494472a02a12766c"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/00.webp",
+      "size": 12504,
+      "sha256": "bc24927b872df7790089b3cf64d7f426f2fbdea3cd8c9c2069fa6dbda20f5638"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/01.webp",
+      "size": 12598,
+      "sha256": "57ec0e5d49fb54bd33bfe14cc9d482c096a7f781cec382eb5a5063a247024d0e"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/02.webp",
+      "size": 19240,
+      "sha256": "3a992f7865496f29c373c951a7a1fc4d7fe0cea787bd637a6db1fb7bede8f1d9"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/03.webp",
+      "size": 20176,
+      "sha256": "d87994a6714f5ea9bc9ac97ba4b13b9de16f253301a24f4662b5bbafee16301c"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/06.webp",
+      "size": 68992,
+      "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/07.webp",
+      "size": 77764,
+      "sha256": "3674a76f50c9b211bec15707c7373959fc63eeec1bb183a45c9656cd2601509c"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/08.webp",
+      "size": 55776,
+      "sha256": "9e8042861509bd2cbd01d7176b211bf1c8c6ae456f375a26521cdd297f20ba6b"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII/12.webp",
+      "size": 234882,
+      "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/00.webp",
+      "size": 12504,
+      "sha256": "bc24927b872df7790089b3cf64d7f426f2fbdea3cd8c9c2069fa6dbda20f5638"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/01.webp",
+      "size": 12598,
+      "sha256": "57ec0e5d49fb54bd33bfe14cc9d482c096a7f781cec382eb5a5063a247024d0e"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/02.webp",
+      "size": 19240,
+      "sha256": "3a992f7865496f29c373c951a7a1fc4d7fe0cea787bd637a6db1fb7bede8f1d9"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/03.webp",
+      "size": 20176,
+      "sha256": "d87994a6714f5ea9bc9ac97ba4b13b9de16f253301a24f4662b5bbafee16301c"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/05.webp",
+      "size": 234882,
+      "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/06.webp",
+      "size": 68992,
+      "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/07.webp",
+      "size": 77764,
+      "sha256": "3674a76f50c9b211bec15707c7373959fc63eeec1bb183a45c9656cd2601509c"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/08.webp",
+      "size": 55776,
+      "sha256": "9e8042861509bd2cbd01d7176b211bf1c8c6ae456f375a26521cdd297f20ba6b"
+    },
+    {
+      "path": "capturas/Call Of Duty WWII Full/12.webp",
+      "size": 234882,
+      "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
+    },
+    {
+      "path": "sinopsis/Bloodborne GOTY Edition.txt",
+      "size": 952,
+      "sha256": "6ca1cac917ce7520324de01b70349b4cac49220cc3f79dbbee78953511383fdc"
+    },
+    {
+      "path": "sinopsis/Call Of Duty Vanguard Full.txt",
+      "size": 1351,
+      "sha256": "350f59d9bc06bda64d0216ee3d8b116371ae25de77268f2b2ead8aa982c2d5aa"
+    },
+    {
+      "path": "sinopsis/Call Of Duty Vanguard.txt",
+      "size": 553,
+      "sha256": "10142f8351efd8cf809f746f1edfdbadf836b26dc9d37dc53e4071027da3d0b6"
+    },
+    {
+      "path": "sinopsis/Call Of Duty WWII Full.txt",
+      "size": 1724,
+      "sha256": "301fa97b3b67ab5dcf5563869bb55af6b239443dfbeb3b6c1c0954d8457d8495"
+    },
+    {
+      "path": "sinopsis/Call Of Duty WWII.txt",
+      "size": 794,
+      "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
+    }
+  ]
+}

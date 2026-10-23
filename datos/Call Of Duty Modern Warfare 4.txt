@@ -1,5 +1,5 @@
 Año: 2026
-Género: Acción - Shooter en primera persona
+Género: FPS
 Tamaño: 57GB
-Modo: Un jugador / Multijugador
+Modo: Singleplayer/Multiplayer
 Idioma: MULTI

@@ -258,18 +258,18 @@
     },
     {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
-      "size": 944,
-      "sha256": "4f722df0fe556fc511e65c67e5f942d6bcb6420281998abd7691f5f5c2093639"
+      "size": 952,
+      "sha256": "6ca1cac917ce7520324de01b70349b4cac49220cc3f79dbbee78953511383fdc"
     },
     {
       "path": "sinopsis/Call Of Duty Modern Warfare 4.txt",
-      "size": 1354,
-      "sha256": "0afdf53d75a675e874a8fc91b202dabfb9b9e57b6bd81e0ff0adacfede0a1e00"
+      "size": 1362,
+      "sha256": "951092109b387649ae87493abd4fd228e2f445576f23cda57a9c9f8d66dedb13"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard Full.txt",
-      "size": 1339,
-      "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
+      "size": 1351,
+      "sha256": "350f59d9bc06bda64d0216ee3d8b116371ae25de77268f2b2ead8aa982c2d5aa"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard.txt",
@@ -278,8 +278,8 @@
     },
     {
       "path": "sinopsis/Call Of Duty WWII Full.txt",
-      "size": 1708,
-      "sha256": "c16128485b478675a4990a28d7ed14168d9f2cb999bf7fa6fb05b28072896228"
+      "size": 1724,
+      "sha256": "301fa97b3b67ab5dcf5563869bb55af6b239443dfbeb3b6c1c0954d8457d8495"
     },
     {
       "path": "sinopsis/Call Of Duty WWII.txt",
@@ -288,8 +288,8 @@
     },
     {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
-      "size": 814,
-      "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
+      "size": 816,
+      "sha256": "52516b518075db948b717e1e40b208e14eca82a48612ccfbca62381989841ac8"
     }
   ]
 }

@@ -8,8 +8,8 @@
     },
     {
       "path": "imagenes/Call of Duty Modern Warfare 4.webp",
-      "size": 49780,
-      "sha256": "148dbb1ec08456dda0c318f26c01ec2e42ca4d583dfbcc1869905ee6ffb99591"
+      "size": 66148,
+      "sha256": "e82c87c12693cb1517cc5b2db3db9c3ef82d955cd9c03135fd4906c93d5f0579"
     },
     {
       "path": "imagenes/Call Of Duty Vanguard Full.webp",
@@ -30,6 +30,26 @@
       "path": "imagenes/Call Of Duty WWII.webp",
       "size": 43320,
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
+    },
+    {
+      "path": "imagenes/Gears Of War E-Days Online.webp",
+      "size": 61216,
+      "sha256": "81ebbdceab07068ee47f61a9a2bce8fdc14c42ec21757d2b6f7407679da378a6"
+    },
+    {
+      "path": "imagenes/Gears Of War E-Days.webp",
+      "size": 67602,
+      "sha256": "042e1e4be417938a41bc1464dcd3072123d26c40138d36f9d9bd33a098452e27"
+    },
+    {
+      "path": "imagenes/Hot Wheels Infinite Rush.webp",
+      "size": 58584,
+      "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
+    },
+    {
+      "path": "imagenes/Need For Speed Most Wanted HD.webp",
+      "size": 83744,
+      "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
     },
     {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
@@ -237,14 +257,124 @@
       "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
     },
     {
+      "path": "capturas/Gears Of War E-Days/01.webp",
+      "size": 36580,
+      "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/02.webp",
+      "size": 32136,
+      "sha256": "45ba9183e50b614a29adb2c988db793f0541c5323aef23345c2bd1e13dd814b9"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/03.webp",
+      "size": 28500,
+      "sha256": "ef40790aee68273f553b0c4e4cb9c7adac8d5390005274b7c60a2c5439424e5a"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/04.webp",
+      "size": 19104,
+      "sha256": "e8e18472f4d87d99a9400fbb90f487e50fafb43138abc90ea3bb0e91371b3c64"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/05.webp",
+      "size": 22594,
+      "sha256": "45f3e6bd590dcec7a4f9c73364a2929ed1d42e19ac3cab58ea911fb9e64907e1"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/06.webp",
+      "size": 56470,
+      "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/01.webp",
+      "size": 36580,
+      "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/02.webp",
+      "size": 32136,
+      "sha256": "45ba9183e50b614a29adb2c988db793f0541c5323aef23345c2bd1e13dd814b9"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/03.webp",
+      "size": 28500,
+      "sha256": "ef40790aee68273f553b0c4e4cb9c7adac8d5390005274b7c60a2c5439424e5a"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/04.webp",
+      "size": 19104,
+      "sha256": "e8e18472f4d87d99a9400fbb90f487e50fafb43138abc90ea3bb0e91371b3c64"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/05.webp",
+      "size": 22594,
+      "sha256": "45f3e6bd590dcec7a4f9c73364a2929ed1d42e19ac3cab58ea911fb9e64907e1"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/06.webp",
+      "size": 56470,
+      "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/01.webp",
+      "size": 38326,
+      "sha256": "ee1c6f3484b8017e2f0e0f17d67ff92a3bb12386947ffac44cfdb843d9411dc4"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/02.webp",
+      "size": 32514,
+      "sha256": "ef4013d97457f84fa8bf72b8f7380f4ec70770db56cc1069f71ab2b4fbb0bef7"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/03.webp",
+      "size": 31772,
+      "sha256": "6ea9a8ce88d9ccc4600d8da71820772086730c17064c02d4e88a3f6e5971b956"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/04.webp",
+      "size": 29384,
+      "sha256": "13b33da1eb9e5aed9710d12eee3a79bc11bd0f7437c66a9592d45a8f53cc7510"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/05.webp",
+      "size": 40240,
+      "sha256": "99ad27a62670837d0a7c0e0a7687f1271a02b887dcd6a958d8072e779596fa7f"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/06.webp",
+      "size": 34592,
+      "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
+    },
+    {
+      "path": "capturas/Need For Speed Most Wanted HD/01.webp",
+      "size": 40904,
+      "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
+    },
+    {
+      "path": "capturas/Need For Speed Most Wanted HD/02.webp",
+      "size": 38202,
+      "sha256": "e311583c15c712bc9ac4ffbbce9af8e9979c936abcbb22434e74676fd1df788e"
+    },
+    {
+      "path": "capturas/Need For Speed Most Wanted HD/03.webp",
+      "size": 34724,
+      "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
+    },
+    {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
-      "size": 952,
-      "sha256": "6ca1cac917ce7520324de01b70349b4cac49220cc3f79dbbee78953511383fdc"
+      "size": 944,
+      "sha256": "4f722df0fe556fc511e65c67e5f942d6bcb6420281998abd7691f5f5c2093639"
+    },
+    {
+      "path": "sinopsis/Call Of Duty Modern Warfare 4.txt",
+      "size": 1354,
+      "sha256": "0afdf53d75a675e874a8fc91b202dabfb9b9e57b6bd81e0ff0adacfede0a1e00"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard Full.txt",
-      "size": 1351,
-      "sha256": "350f59d9bc06bda64d0216ee3d8b116371ae25de77268f2b2ead8aa982c2d5aa"
+      "size": 1339,
+      "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard.txt",
@@ -253,13 +383,23 @@
     },
     {
       "path": "sinopsis/Call Of Duty WWII Full.txt",
-      "size": 1724,
-      "sha256": "301fa97b3b67ab5dcf5563869bb55af6b239443dfbeb3b6c1c0954d8457d8495"
+      "size": 1708,
+      "sha256": "c16128485b478675a4990a28d7ed14168d9f2cb999bf7fa6fb05b28072896228"
     },
     {
       "path": "sinopsis/Call Of Duty WWII.txt",
       "size": 794,
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
+    },
+    {
+      "path": "sinopsis/Hot Wheels Infinite Rush.txt",
+      "size": 1828,
+      "sha256": "9bd17d723643c56ccb1c5a5e1f15c9d907076e819c312d2b071ad95ab129410c"
+    },
+    {
+      "path": "sinopsis/Need For Speed Most Wanted HD.txt",
+      "size": 814,
+      "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
     }
   ]
 }

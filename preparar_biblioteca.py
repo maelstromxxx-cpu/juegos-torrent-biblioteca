@@ -1,7 +1,8 @@
-"""Juegos Torrent - generador de biblioteca.json directamente en el repositorio.
+"""Juegos Torrent - genera biblioteca.json con hashes compatibles con Git.
 
-Colocá este script en la raíz del clon de juegos-torrent-biblioteca,
-al lado de imagenes/, capturas/ y sinopsis/. No copia ni borra recursos.
+Ubicar en la raíz del repositorio, junto a imagenes/, capturas/ y sinopsis/.
+Los archivos TXT se publican con saltos de línea LF (ver .gitattributes).
+No modifica las imágenes, capturas ni sinopsis originales.
 """
 from __future__ import annotations
 
@@ -16,6 +17,15 @@ CARPETAS = {
     'sinopsis': {'.txt'},
 }
 LIMITE_BYTES = 12_000_000
+
+
+def bytes_publicados(archivo: Path) -> bytes:
+    """Reproduce la normalización de fin de línea de Git para TXT."""
+    datos = archivo.read_bytes()
+    if archivo.suffix.lower() == '.txt':
+        # Primero CRLF, luego CR aislados: ambos terminan como LF.
+        datos = datos.replace(b'\r\n', b'\n').replace(b'\r', b'\n')
+    return datos
 
 
 def main() -> None:
@@ -35,19 +45,20 @@ def main() -> None:
             if any(parte.is_symlink() for parte in archivo.relative_to(BASE).parents if parte != Path('.')):
                 omitidos += 1
                 continue
-            tamano = archivo.stat().st_size
-            if tamano > LIMITE_BYTES:
+            try:
+                datos = bytes_publicados(archivo)
+            except OSError as error:
+                print(f'No se pudo leer {archivo.relative_to(BASE)}: {error}')
+                omitidos += 1
+                continue
+            if len(datos) > LIMITE_BYTES:
                 print(f'Omitido por tamaño: {archivo.relative_to(BASE)}')
                 omitidos += 1
                 continue
-            sha = hashlib.sha256()
-            with archivo.open('rb') as entrada:
-                for bloque in iter(lambda: entrada.read(1024 * 1024), b''):
-                    sha.update(bloque)
             registros.append({
                 'path': archivo.relative_to(BASE).as_posix(),
-                'size': tamano,
-                'sha256': sha.hexdigest(),
+                'size': len(datos),
+                'sha256': hashlib.sha256(datos).hexdigest(),
             })
 
     if not registros:
@@ -60,7 +71,7 @@ def main() -> None:
         print(f'Biblioteca sin cambios: {len(registros)} archivos.')
     else:
         temporal = BASE / 'biblioteca.json.tmp'
-        temporal.write_text(contenido, encoding='utf-8')
+        temporal.write_text(contenido, encoding='utf-8', newline='\n')
         temporal.replace(destino)
         print(f'Actualizado biblioteca.json: {len(registros)} archivos.')
     if omitidos:

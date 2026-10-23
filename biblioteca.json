@@ -242,6 +242,66 @@
       "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
     },
     {
+      "path": "capturas/Gears Of War E-Days/01.webp",
+      "size": 36580,
+      "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/02.webp",
+      "size": 32136,
+      "sha256": "45ba9183e50b614a29adb2c988db793f0541c5323aef23345c2bd1e13dd814b9"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/03.webp",
+      "size": 28500,
+      "sha256": "ef40790aee68273f553b0c4e4cb9c7adac8d5390005274b7c60a2c5439424e5a"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/04.webp",
+      "size": 19104,
+      "sha256": "e8e18472f4d87d99a9400fbb90f487e50fafb43138abc90ea3bb0e91371b3c64"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/05.webp",
+      "size": 22594,
+      "sha256": "45f3e6bd590dcec7a4f9c73364a2929ed1d42e19ac3cab58ea911fb9e64907e1"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days/06.webp",
+      "size": 56470,
+      "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/01.webp",
+      "size": 36580,
+      "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/02.webp",
+      "size": 32136,
+      "sha256": "45ba9183e50b614a29adb2c988db793f0541c5323aef23345c2bd1e13dd814b9"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/03.webp",
+      "size": 28500,
+      "sha256": "ef40790aee68273f553b0c4e4cb9c7adac8d5390005274b7c60a2c5439424e5a"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/04.webp",
+      "size": 19104,
+      "sha256": "e8e18472f4d87d99a9400fbb90f487e50fafb43138abc90ea3bb0e91371b3c64"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/05.webp",
+      "size": 22594,
+      "sha256": "45f3e6bd590dcec7a4f9c73364a2929ed1d42e19ac3cab58ea911fb9e64907e1"
+    },
+    {
+      "path": "capturas/Gears Of War E-Days Online/06.webp",
+      "size": 56470,
+      "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
       "size": 40904,
       "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
@@ -258,18 +318,18 @@
     },
     {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
-      "size": 952,
-      "sha256": "6ca1cac917ce7520324de01b70349b4cac49220cc3f79dbbee78953511383fdc"
+      "size": 944,
+      "sha256": "4f722df0fe556fc511e65c67e5f942d6bcb6420281998abd7691f5f5c2093639"
     },
     {
       "path": "sinopsis/Call Of Duty Modern Warfare 4.txt",
-      "size": 1362,
-      "sha256": "951092109b387649ae87493abd4fd228e2f445576f23cda57a9c9f8d66dedb13"
+      "size": 1354,
+      "sha256": "0afdf53d75a675e874a8fc91b202dabfb9b9e57b6bd81e0ff0adacfede0a1e00"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard Full.txt",
-      "size": 1351,
-      "sha256": "350f59d9bc06bda64d0216ee3d8b116371ae25de77268f2b2ead8aa982c2d5aa"
+      "size": 1339,
+      "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
     },
     {
       "path": "sinopsis/Call Of Duty Vanguard.txt",
@@ -278,8 +338,8 @@
     },
     {
       "path": "sinopsis/Call Of Duty WWII Full.txt",
-      "size": 1724,
-      "sha256": "301fa97b3b67ab5dcf5563869bb55af6b239443dfbeb3b6c1c0954d8457d8495"
+      "size": 1708,
+      "sha256": "c16128485b478675a4990a28d7ed14168d9f2cb999bf7fa6fb05b28072896228"
     },
     {
       "path": "sinopsis/Call Of Duty WWII.txt",
@@ -288,8 +348,8 @@
     },
     {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
-      "size": 816,
-      "sha256": "52516b518075db948b717e1e40b208e14eca82a48612ccfbca62381989841ac8"
+      "size": 814,
+      "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
     }
   ]
 }

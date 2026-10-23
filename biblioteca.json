@@ -392,6 +392,16 @@
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
     },
     {
+      "path": "sinopsis/Gears Of War E-Days Online.txt",
+      "size": 500,
+      "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
+    },
+    {
+      "path": "sinopsis/Gears Of War E-Days.txt",
+      "size": 500,
+      "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
+    },
+    {
       "path": "sinopsis/Hot Wheels Infinite Rush.txt",
       "size": 1828,
       "sha256": "9bd17d723643c56ccb1c5a5e1f15c9d907076e819c312d2b071ad95ab129410c"

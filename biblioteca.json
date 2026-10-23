@@ -42,6 +42,11 @@
       "sha256": "042e1e4be417938a41bc1464dcd3072123d26c40138d36f9d9bd33a098452e27"
     },
     {
+      "path": "imagenes/Hot Wheels Infinite Rush.webp",
+      "size": 58584,
+      "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
+    },
+    {
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
@@ -312,6 +317,36 @@
       "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
     },
     {
+      "path": "capturas/Hot Wheels Infinite Rush/01.webp",
+      "size": 38326,
+      "sha256": "ee1c6f3484b8017e2f0e0f17d67ff92a3bb12386947ffac44cfdb843d9411dc4"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/02.webp",
+      "size": 32514,
+      "sha256": "ef4013d97457f84fa8bf72b8f7380f4ec70770db56cc1069f71ab2b4fbb0bef7"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/03.webp",
+      "size": 31772,
+      "sha256": "6ea9a8ce88d9ccc4600d8da71820772086730c17064c02d4e88a3f6e5971b956"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/04.webp",
+      "size": 29384,
+      "sha256": "13b33da1eb9e5aed9710d12eee3a79bc11bd0f7437c66a9592d45a8f53cc7510"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/05.webp",
+      "size": 40240,
+      "sha256": "99ad27a62670837d0a7c0e0a7687f1271a02b887dcd6a958d8072e779596fa7f"
+    },
+    {
+      "path": "capturas/Hot Wheels Infinite Rush/06.webp",
+      "size": 34592,
+      "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
+    },
+    {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
       "size": 40904,
       "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
@@ -355,6 +390,11 @@
       "path": "sinopsis/Call Of Duty WWII.txt",
       "size": 794,
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
+    },
+    {
+      "path": "sinopsis/Hot Wheels Infinite Rush.txt",
+      "size": 1828,
+      "sha256": "9bd17d723643c56ccb1c5a5e1f15c9d907076e819c312d2b071ad95ab129410c"
     },
     {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",

@@ -362,9 +362,74 @@
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
     },
     {
+      "path": "sinopsis/A Plague Tale Requiem.txt",
+      "size": 963,
+      "sha256": "bd3855fbea41aed3ead3d2d82d3b9cca690de77528c1db2fa199f0ceb67ff80e"
+    },
+    {
+      "path": "sinopsis/Alan Wake 2.txt",
+      "size": 950,
+      "sha256": "1856c4219d6277feadb011934bafc640c652eb5883c121e5ec7e6c7c21c7ad38"
+    },
+    {
+      "path": "sinopsis/Alan Wake Remastered.txt",
+      "size": 1029,
+      "sha256": "625fa492cfb87d7c134c163f4a9a901123e3fb05e131cda4c893c22e9db3cac1"
+    },
+    {
+      "path": "sinopsis/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",
+      "size": 926,
+      "sha256": "5f8b4f8bbab8b4b9f6b506df8fca389199fb8229b7a317a232f37163f162d9ff"
+    },
+    {
+      "path": "sinopsis/Atomic Heart.txt",
+      "size": 840,
+      "sha256": "c7a7de17cf894abcba0e87061840431ba0a4d049aafa35700829df91628ab02c"
+    },
+    {
+      "path": "sinopsis/Baldurs Gate 3 Deluxe Edition.txt",
+      "size": 1047,
+      "sha256": "0a51b80c7124755fb609b6ac8bca9cbcc67e96b19b3a6be7b22d22de978bd230"
+    },
+    {
+      "path": "sinopsis/Battlefield 3.txt",
+      "size": 664,
+      "sha256": "46ddf2ceef8c9e52dcf51efd7691f4fd1647043d97c2a94824bb6e703dd880c0"
+    },
+    {
+      "path": "sinopsis/Battlefield 4.txt",
+      "size": 715,
+      "sha256": "b751b9647bb989c810bc019e3c5c0f0f63307d9f4285663b4591876e474bb7c2"
+    },
+    {
+      "path": "sinopsis/Battlefield 6.txt",
+      "size": 761,
+      "sha256": "93670823b3b01d96d10d3d3a5455f738fbb7fa8adf9ee4e00dfbef2ab5e2f837"
+    },
+    {
+      "path": "sinopsis/Battlefield I.txt",
+      "size": 751,
+      "sha256": "21eff8beec31f4892adb70420b46fa399c75c698bfbac46bb10ad1befa8f6288"
+    },
+    {
+      "path": "sinopsis/Battlefield V.txt",
+      "size": 700,
+      "sha256": "e03612225958e5495e0883d5a36759d8b4cf9ce7967a877c3d411943cad67553"
+    },
+    {
+      "path": "sinopsis/Black Myth Wukong.txt",
+      "size": 833,
+      "sha256": "728b262924be972a5bfcaed652f208577465727bafe467f0d9a7a8ffad1e2830"
+    },
+    {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
       "size": 944,
       "sha256": "4f722df0fe556fc511e65c67e5f942d6bcb6420281998abd7691f5f5c2093639"
+    },
+    {
+      "path": "sinopsis/Call Of Duty Black Ops 6.txt",
+      "size": 894,
+      "sha256": "bbba340ebae725c67d4c322f3611b93ee3252b792d75280ca189da3a33a02623"
     },
     {
       "path": "sinopsis/Call Of Duty Modern Warfare 4.txt",
@@ -392,6 +457,46 @@
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
     },
     {
+      "path": "sinopsis/Control Resonance.txt",
+      "size": 710,
+      "sha256": "f392adfd33cccaded2ef7c75a90a172d28c0f4d94593a25a8ddb2b202462b92b"
+    },
+    {
+      "path": "sinopsis/Cyberpunk 2077 Ultimate Edition.txt",
+      "size": 828,
+      "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
+    },
+    {
+      "path": "sinopsis/Doom Eternal Deluxe Edition.txt",
+      "size": 937,
+      "sha256": "307ffa2c0439c2b739c148b5e3c82720560f4471be4271c833d86d9941f965eb"
+    },
+    {
+      "path": "sinopsis/Doom The Dark Ages.txt",
+      "size": 1012,
+      "sha256": "bc0de59fb05d8b3fbef1b89ab2d1d0bcf3a9b119a86e79f8d770887cc18b7447"
+    },
+    {
+      "path": "sinopsis/Dying Light 2 Stay Human.txt",
+      "size": 1029,
+      "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
+    },
+    {
+      "path": "sinopsis/Elden Ring.txt",
+      "size": 927,
+      "sha256": "292b1e71a61fc1543958eeb4a8a84f689fa27370150286e98ab139638122660d"
+    },
+    {
+      "path": "sinopsis/Forza Horizon 3.txt",
+      "size": 615,
+      "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
+    },
+    {
+      "path": "sinopsis/Forza Horizon 5 Premium Edition.txt",
+      "size": 922,
+      "sha256": "56cea7f3fdec8b123e21a795bd6bf7caabb730110ae19eef73412f33728f622d"
+    },
+    {
       "path": "sinopsis/Gears Of War E-Days Online.txt",
       "size": 500,
       "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
@@ -402,14 +507,119 @@
       "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
     },
     {
+      "path": "sinopsis/Ghost Of Tsushima.txt",
+      "size": 910,
+      "sha256": "8d5cfe6c5c4ea4363c4973c3ebf3432fe35b987d951b17ab40cf0fb76470d00e"
+    },
+    {
+      "path": "sinopsis/God Of War Ragnarok Deluxe Edition.txt",
+      "size": 990,
+      "sha256": "562b1562d0a727b4c5510a7933561609e7e69629aaa14f509e06cd97d6b2d475"
+    },
+    {
+      "path": "sinopsis/Halo Campaign Evolved.txt",
+      "size": 928,
+      "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
+    },
+    {
+      "path": "sinopsis/Hogwarts Legacy Complete Edition.txt",
+      "size": 916,
+      "sha256": "bb308cab92638f356f71d59c723f40b8f9856a71f1d81395996d0c17c1ee555b"
+    },
+    {
+      "path": "sinopsis/Horizon Forbidden West Complete Edition.txt",
+      "size": 870,
+      "sha256": "9e198663cf6bfe08e7cc2b98c972175961a401763e5bfff76029cafc75173643"
+    },
+    {
       "path": "sinopsis/Hot Wheels Infinite Rush.txt",
       "size": 1828,
       "sha256": "9bd17d723643c56ccb1c5a5e1f15c9d907076e819c312d2b071ad95ab129410c"
     },
     {
+      "path": "sinopsis/Indiana Jones And The Great Circle.txt",
+      "size": 1007,
+      "sha256": "989f5b6086dcc3cb99d42e302ee49525ddf658a852365badc1136078a81e4eed"
+    },
+    {
+      "path": "sinopsis/Kingdom Come Deliverance 2.txt",
+      "size": 1040,
+      "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
+    },
+    {
+      "path": "sinopsis/Lies Of P.txt",
+      "size": 1014,
+      "sha256": "75f74bcb3b42694eee2d268c152022eceb8f4186066fe9e60e2661c36c22189a"
+    },
+    {
+      "path": "sinopsis/Metal Gear Solid 5 The Phantom Pain.txt",
+      "size": 727,
+      "sha256": "2748f4ee7cb2f17ddc8bc3ba7fbcaeb08b3f1ba0862371038a2028fcf3c1dbfb"
+    },
+    {
+      "path": "sinopsis/Monster Hunter Wild.txt",
+      "size": 1088,
+      "sha256": "9a4e7b5e145cadeb16dba3de462cf3d441c912b93a904ddf826f5a656d15b4a6"
+    },
+    {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
       "size": 814,
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
+    },
+    {
+      "path": "sinopsis/Ready Or Not.txt",
+      "size": 767,
+      "sha256": "fefe1efa38a35449f1cc4c6477735128752ec5c7468393185a398acb964d40f9"
+    },
+    {
+      "path": "sinopsis/Resident Evil 4 Remake.txt",
+      "size": 910,
+      "sha256": "51ab375a9045ab1b0dae07ab5b3141e7889608125b42e84837624b3013e0c9e6"
+    },
+    {
+      "path": "sinopsis/Resident Evil 8 Village.txt",
+      "size": 946,
+      "sha256": "884c954721d3ec8c408c5170b61017cf59ec72cc58bad5c8271a84a1248ccc2c"
+    },
+    {
+      "path": "sinopsis/Silent Hill Downfall.txt",
+      "size": 723,
+      "sha256": "068c69d35acfdac520e4f545e118fd0ce70f38de1eab76578f26a5bd41930bea"
+    },
+    {
+      "path": "sinopsis/Spiderman Remastered.txt",
+      "size": 955,
+      "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
+    },
+    {
+      "path": "sinopsis/Stalker 2 Heart Of Chornobyl.txt",
+      "size": 706,
+      "sha256": "a59f0c379679dc14e6d62786c20f0f3165c4dbdf73801684085059ee508494b5"
+    },
+    {
+      "path": "sinopsis/Star Wars Jedi Survivor.txt",
+      "size": 936,
+      "sha256": "7ad18bf2ee5251da82364343db209f299418ae3ea59e18410e017e1d5c7cf570"
+    },
+    {
+      "path": "sinopsis/Starfield.txt",
+      "size": 916,
+      "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
+    },
+    {
+      "path": "sinopsis/The Last Of Us Part 1.txt",
+      "size": 844,
+      "sha256": "44b9e6350dd3b757d91a8cf8e9253e70b0da9f535f30f2b955148b3737359c27"
+    },
+    {
+      "path": "sinopsis/The Last Of Us Part 2 Remastered.txt",
+      "size": 846,
+      "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
+    },
+    {
+      "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
+      "size": 645,
+      "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
     }
   ]
 }

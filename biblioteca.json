@@ -620,6 +620,11 @@
       "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
+    },
+    {
+      "path": "datos/Hot Wheels Infinite Rush.txt",
+      "size": 60,
+      "sha256": "1f8b757b678fdbb3eff5e68d35545fd6618a932ab40c90fa4d0421258dc4a10e"
     }
   ]
 }

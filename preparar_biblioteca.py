@@ -15,6 +15,7 @@ CARPETAS = {
     'imagenes': {'.jpg', '.jpeg', '.png', '.webp'},
     'capturas': {'.jpg', '.jpeg', '.png', '.webp'},
     'sinopsis': {'.txt'},
+    'datos': {'.txt'},
 }
 LIMITE_BYTES = 12_000_000
 

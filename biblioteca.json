@@ -32,6 +32,11 @@
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
     {
+      "path": "imagenes/Need For Speed Most Wanted HD.webp",
+      "size": 83744,
+      "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
+    },
+    {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
@@ -237,6 +242,21 @@
       "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
     },
     {
+      "path": "capturas/Need For Speed Most Wanted HD/01.webp",
+      "size": 40904,
+      "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
+    },
+    {
+      "path": "capturas/Need For Speed Most Wanted HD/02.webp",
+      "size": 38202,
+      "sha256": "e311583c15c712bc9ac4ffbbce9af8e9979c936abcbb22434e74676fd1df788e"
+    },
+    {
+      "path": "capturas/Need For Speed Most Wanted HD/03.webp",
+      "size": 34724,
+      "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
+    },
+    {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
       "size": 952,
       "sha256": "6ca1cac917ce7520324de01b70349b4cac49220cc3f79dbbee78953511383fdc"
@@ -260,6 +280,11 @@
       "path": "sinopsis/Call Of Duty WWII.txt",
       "size": 794,
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
+    },
+    {
+      "path": "sinopsis/Need For Speed Most Wanted HD.txt",
+      "size": 816,
+      "sha256": "52516b518075db948b717e1e40b208e14eca82a48612ccfbca62381989841ac8"
     }
   ]
 }

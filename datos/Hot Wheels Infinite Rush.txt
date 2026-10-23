@@ -2,3 +2,4 @@ Año: 2025
 Género: Carreras
 Tamaño: 14 GB
 Modo: Un jugador
+Idioma: Español

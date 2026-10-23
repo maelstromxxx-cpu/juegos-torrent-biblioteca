@@ -1,5 +1,0 @@
-Año: 2026
-Género: FPS
-Tamaño: 57GB
-Modo: Singleplayer / Multiplayer
-Idioma: MULTI

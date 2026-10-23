@@ -1,0 +1,5 @@
+Año: 2025
+Género: FPS
+Tamaño: 88GB
+Modo: Singleplayer / Multiplayer
+Idioma: Español

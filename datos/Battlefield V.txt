@@ -1,0 +1,5 @@
+Año: 2018
+Género: FPS
+Tamaño: 42GB
+Modo: Singleplayer / Multiplayer
+Idioma: Español

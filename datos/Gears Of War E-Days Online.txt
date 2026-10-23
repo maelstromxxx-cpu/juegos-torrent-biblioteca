@@ -1,0 +1,5 @@
+Año: 2026
+Género: TPS
+Tamaño: 115GB
+Modo: Multiplayer
+Idioma: Español

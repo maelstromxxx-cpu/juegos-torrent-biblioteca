@@ -47,6 +47,11 @@
       "sha256": "042e1e4be417938a41bc1464dcd3072123d26c40138d36f9d9bd33a098452e27"
     },
     {
+      "path": "imagenes/Grand Theft Auto V GTA.webp",
+      "size": 86114,
+      "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
+    },
+    {
       "path": "imagenes/Hot Wheels Infinite Rush.webp",
       "size": 58584,
       "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
@@ -352,6 +357,36 @@
       "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
     },
     {
+      "path": "capturas/Grand Theft Auto V GTA/01.webp",
+      "size": 26208,
+      "sha256": "fad88d5a4ae0201e9b313cd8e2151885c606ea28149789bb0cecd4cc3b5fb0b0"
+    },
+    {
+      "path": "capturas/Grand Theft Auto V GTA/02.webp",
+      "size": 22120,
+      "sha256": "9493077581f3fc0073152017c1324233155c7eb16119fd99c445fbbef11596cc"
+    },
+    {
+      "path": "capturas/Grand Theft Auto V GTA/03.webp",
+      "size": 15384,
+      "sha256": "96a92c5787a7e8e8bf90b6d443324ba9d599c9187bb45ad08b20b7229e319f8a"
+    },
+    {
+      "path": "capturas/Grand Theft Auto V GTA/04.webp",
+      "size": 30228,
+      "sha256": "7f18967f8896a302c51addad2448dc678b2ebf2abee224c295be67231ca6cfcc"
+    },
+    {
+      "path": "capturas/Grand Theft Auto V GTA/05.webp",
+      "size": 7744,
+      "sha256": "19237bef4cc3000c351706443ff40e0255db90f4c961ed84e03942f784b0a928"
+    },
+    {
+      "path": "capturas/Grand Theft Auto V GTA/06.webp",
+      "size": 30122,
+      "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
+    },
+    {
       "path": "capturas/Hot Wheels Infinite Rush/01.webp",
       "size": 38326,
       "sha256": "ee1c6f3484b8017e2f0e0f17d67ff92a3bb12386947ffac44cfdb843d9411dc4"
@@ -555,6 +590,11 @@
       "path": "sinopsis/God Of War Ragnarok Deluxe Edition.txt",
       "size": 990,
       "sha256": "562b1562d0a727b4c5510a7933561609e7e69629aaa14f509e06cd97d6b2d475"
+    },
+    {
+      "path": "sinopsis/Grand Theft Auto V GTA.txt",
+      "size": 106,
+      "sha256": "69730ed949da4f5590363840dbab2c213ebb3bf2bbf4a16e9f973725e47e2472"
     },
     {
       "path": "sinopsis/Halo Campaign Evolved.txt",
@@ -820,6 +860,11 @@
       "path": "datos/God Of War Ragnarok Deluxe Edition.txt",
       "size": 88,
       "sha256": "7f775d48bfcd78cbab12ceafac2646b4a37601944ae8e5b014261e7aac47f4a7"
+    },
+    {
+      "path": "datos/Grand Theft Auto V GTA.txt",
+      "size": 300,
+      "sha256": "f6b14d786eee7e06fdd8b4c56161eb22dbcc01329daaf30eaabd3a1cff2998f3"
     },
     {
       "path": "datos/Halo Campaign Evolved.txt",

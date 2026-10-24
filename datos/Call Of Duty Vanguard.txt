@@ -1,5 +1,5 @@
 Año: 2021
 Género: FPS
 Tamaño: 47GB
-Modo: Singleplayer / Multiplayer
+Modo: Single/Multiplayer
 Idioma: Español

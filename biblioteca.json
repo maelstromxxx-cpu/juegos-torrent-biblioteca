@@ -187,6 +187,36 @@
       "sha256": "a0656bf17bf8c0cfef724720dab7ca525fca42dc298dc279e71e67bf112a71d5"
     },
     {
+      "path": "capturas/Call of Duty Modern Warfare II/1.webp",
+      "size": 34278,
+      "sha256": "2cf0c78f9466d8228806ded04e6d7376ad1cf0b267a4db5203dd4f5fa321c688"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare II/2.webp",
+      "size": 31754,
+      "sha256": "c4a23104f4122ac36acccb170b619342272a9a5f8cdf5d899f927fb1299d9ff2"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare II/3.webp",
+      "size": 39958,
+      "sha256": "9f89ae1a7979b92a3c717ebf0d327164cbd26fc7d10816e38c6c3ceffdb26691"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare II/4.webp",
+      "size": 23878,
+      "sha256": "9ec44318260ab89a231f15a7a982e42b39a9bc9359fef691cf608a2c1a8fb6bc"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare II/5.webp",
+      "size": 22178,
+      "sha256": "67dacce7af28be178d4cc66f35cbeb8f055466711649a5ebe720380eb8569e5b"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare II/6.webp",
+      "size": 22238,
+      "sha256": "09d159b5ba8d1101098d03339e224cf0a0283b5dc94016e5b7496d88d141cbcd"
+    },
+    {
       "path": "capturas/Call Of Duty Vanguard/01.webp",
       "size": 15928,
       "sha256": "673a0d7271d22ab59713b0a59fcd0da71be52556f576e80dc8abf4d61d55b07a"
@@ -717,6 +747,11 @@
       "sha256": "0afdf53d75a675e874a8fc91b202dabfb9b9e57b6bd81e0ff0adacfede0a1e00"
     },
     {
+      "path": "sinopsis/Call of Duty Modern Warfare II.txt",
+      "size": 434,
+      "sha256": "27cb5c2f905f5a270f8101fab4ec6ed01ce25d964d5676ab5e4b7b6332926b48"
+    },
+    {
       "path": "sinopsis/Call Of Duty Vanguard Full.txt",
       "size": 1339,
       "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
@@ -1020,6 +1055,11 @@
       "path": "datos/Call Of Duty Modern Warfare 4.txt",
       "size": 82,
       "sha256": "d41617edff47e0246b8349eea42e43f2e95f718490c6db1e5a61b13845ba0a23"
+    },
+    {
+      "path": "datos/Call of Duty Modern Warfare II.txt",
+      "size": 81,
+      "sha256": "49269050c916154881318b763267bc8b4ea20706e6ab79e70f64e3ffe6d2cf4d"
     },
     {
       "path": "datos/Call Of Duty Vanguard Full.txt",

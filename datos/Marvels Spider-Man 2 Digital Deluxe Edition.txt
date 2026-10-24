@@ -1,5 +1,5 @@
-Año:
-Género:
-Tamaño:
-Modo:
-Idioma:
+Año:2025
+Género: Acción/Mundo abierto
+Tamaño: 55 GB
+Modo: Singleplayer
+Idioma: Multi

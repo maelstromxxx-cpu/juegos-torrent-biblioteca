@@ -62,6 +62,11 @@
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
     },
     {
+      "path": "imagenes/The Genesis Order.webp",
+      "size": 16848,
+      "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
+    },
+    {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
@@ -405,6 +410,36 @@
       "path": "capturas/Need For Speed Most Wanted HD/03.webp",
       "size": 34724,
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
+    },
+    {
+      "path": "capturas/The Genesis Order/01.webp",
+      "size": 12160,
+      "sha256": "d3948198b69da5fc08f62710da8788ec27d6cba7a6f7a1c29ed9e30d4ca22270"
+    },
+    {
+      "path": "capturas/The Genesis Order/02.webp",
+      "size": 9820,
+      "sha256": "10708dc5262d793e9132cced50999c3f97eaef31ca33cba983a1fc32c268daf8"
+    },
+    {
+      "path": "capturas/The Genesis Order/03.webp",
+      "size": 13246,
+      "sha256": "b46e729696ab196a99496bfc12b9500049cb29bb34d153a8030f1438c8b3084d"
+    },
+    {
+      "path": "capturas/The Genesis Order/04.webp",
+      "size": 8846,
+      "sha256": "f76a23ee7055ee6a3fc1f411fa5446e674ca9341fd8861116224825a35f8c4a0"
+    },
+    {
+      "path": "capturas/The Genesis Order/05.webp",
+      "size": 9558,
+      "sha256": "97a00c92d029d98fec489d2c1b36b2a3934bf0f8b00f5bc41ea7afb270f662ed"
+    },
+    {
+      "path": "capturas/The Genesis Order/06.webp",
+      "size": 24892,
+      "sha256": "943ac459d3122a53b146d333ba8ec5cb108ac66fe7006bdee991a5a3de66fe82"
     },
     {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",

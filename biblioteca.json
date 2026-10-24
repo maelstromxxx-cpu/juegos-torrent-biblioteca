@@ -62,6 +62,11 @@
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
     },
     {
+      "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
+      "size": 68648,
+      "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
@@ -432,6 +437,36 @@
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
     },
     {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
+      "size": 45572,
+      "sha256": "61894db3e297ed83122567bd12fff2767b7d5d528795542a41d4380b19da0a72"
+    },
+    {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/02.webp",
+      "size": 41214,
+      "sha256": "6373dbab6d4f69a19d079deeb76a5d3a39ac8975f856eaee9d518761ed89f839"
+    },
+    {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/03.webp",
+      "size": 33186,
+      "sha256": "776f547738c7bab0c9ed565d20d015f4c56124d52134798e2356fdd3fb9736b6"
+    },
+    {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/04.webp",
+      "size": 25896,
+      "sha256": "f58b9109b1c909c84ce7cb49c9f3ac528499a3cd96e7044f712643d1e5b6ce81"
+    },
+    {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/05.webp",
+      "size": 38852,
+      "sha256": "38decd462b5cc87f46b8d9da7c08c4787435804b9c2586a1b98b70738fbf2ab5"
+    },
+    {
+      "path": "capturas/The Witcher 3 Wild Hunt Remastered/06.webp",
+      "size": 49890,
+      "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
+    },
+    {
       "path": "sinopsis/A Plague Tale Requiem.txt",
       "size": 963,
       "sha256": "bd3855fbea41aed3ead3d2d82d3b9cca690de77528c1db2fa199f0ceb67ff80e"
@@ -695,6 +730,11 @@
       "path": "sinopsis/The Last Of Us Part 2 Remastered.txt",
       "size": 846,
       "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
+    },
+    {
+      "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
+      "size": 265,
+      "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
     },
     {
       "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
@@ -965,6 +1005,11 @@
       "path": "datos/The Last Of Us Part 2.txt",
       "size": 83,
       "sha256": "59824f75594237890e9b0f291a6ecd13d1584ae361c3925f812fcc8711c1d90a"
+    },
+    {
+      "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
+      "size": 96,
+      "sha256": "b9d69c9c280f1a794849f4be4fcc335827fafa4dcd59b9e8393100ca567923eb"
     },
     {
       "path": "datos/Warhammer 40K Space Marine 2.txt",

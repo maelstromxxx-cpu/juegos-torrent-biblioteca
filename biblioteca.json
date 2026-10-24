@@ -547,6 +547,36 @@
       "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
     },
     {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/1.webp",
+      "size": 28650,
+      "sha256": "c01aee6f5ee2614933e9285d112ea72a6d2b412cc66121299315d28df8dd59ce"
+    },
+    {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/2.webp",
+      "size": 12220,
+      "sha256": "c640682abe49bc3057f936f016b34b6ca908b78e755143891501841593dc96fc"
+    },
+    {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/3.webp",
+      "size": 8466,
+      "sha256": "0b41b64f3e82258561d940b517978b7dc80e2b4643349bfcde7909773befe0c5"
+    },
+    {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/4.webp",
+      "size": 19240,
+      "sha256": "dc2882922267c71f8d8234bc7672def2728799252d25f54ace19d2d8897bb7f5"
+    },
+    {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/5.webp",
+      "size": 4954,
+      "sha256": "b23b3eb7d071051fed299e2226b63993be5ebb3dfdc9210ec8bf5dc033151119"
+    },
+    {
+      "path": "capturas/The Blood of Dawnwalker Eclipse Edition/6.webp",
+      "size": 5848,
+      "sha256": "8d5a085f60cb83ce59a877a0c8520bdca0631e37cb0273d9ad7011a5f722a1a1"
+    },
+    {
       "path": "capturas/The Genesis Order/01.webp",
       "size": 12160,
       "sha256": "d3948198b69da5fc08f62710da8788ec27d6cba7a6f7a1c29ed9e30d4ca22270"
@@ -882,6 +912,11 @@
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
     },
     {
+      "path": "sinopsis/The Blood of Dawnwalker Eclipse Edition.txt",
+      "size": 409,
+      "sha256": "58de70b68252693fbba03096705a9ebd51e8a0df810592b3568465d4c25cf011"
+    },
+    {
       "path": "sinopsis/The Genesis Order.txt",
       "size": 1176,
       "sha256": "bb3ed0df3a8ae21725474c0ded0eaf75b7abcba63f2a7ee5689c15db3bcc11cb"
@@ -1180,6 +1215,11 @@
       "path": "datos/Starfield.txt",
       "size": 91,
       "sha256": "512a2f70d05be7cdbfe02f876dec1479c166e52119876f54b5a1235be13e8034"
+    },
+    {
+      "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",
+      "size": 96,
+      "sha256": "6e2921c91ddd90ac82d649292d6dd0233a3119ad18d6845aab7cf081ec99b3ee"
     },
     {
       "path": "datos/The Genesis Order.txt",

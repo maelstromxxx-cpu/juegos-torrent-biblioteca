@@ -32,6 +32,11 @@
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
     {
+      "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
+      "size": 42484,
+      "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
+    },
+    {
       "path": "imagenes/Gears Of War E-Days Online.webp",
       "size": 61216,
       "sha256": "81ebbdceab07068ee47f61a9a2bce8fdc14c42ec21757d2b6f7407679da378a6"
@@ -257,6 +262,36 @@
       "sha256": "d374e1c08d54f34527b9613394b984f7840646540a6254e080fd21bf41e5e1e1"
     },
     {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/01.webp",
+      "size": 19140,
+      "sha256": "7dfed94c981fbeb0a4d80bb62630c53e3ccad862a8ea3d49a93da731673ca26c"
+    },
+    {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/02.webp",
+      "size": 15922,
+      "sha256": "1cb902c477e0333388cb644192a59cfe90e36cb5845168609c7c99e655b7ecba"
+    },
+    {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/03.webp",
+      "size": 23730,
+      "sha256": "25ba6f489d5832781443b2ef9019d87dcc08a350f5f5746a5d78b9d91a1fc401"
+    },
+    {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/04.webp",
+      "size": 23634,
+      "sha256": "9ad861eaa11facb32bdd1ff61cf9a1c3b4c0865df1ddb9696be341aef2dd09dd"
+    },
+    {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/05.webp",
+      "size": 18824,
+      "sha256": "8306f484e48b1af1b6d6a5c21315cc93b1ef25b9c68d6c59478a6734964873d8"
+    },
+    {
+      "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/06.webp",
+      "size": 15284,
+      "sha256": "84ca74c76648cc9ff8f7dc53a5041d41842e47d3e721f79b1799b3cbd67a3c11"
+    },
+    {
       "path": "capturas/Gears Of War E-Days/01.webp",
       "size": 36580,
       "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
@@ -465,6 +500,11 @@
       "path": "sinopsis/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 828,
       "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
+    },
+    {
+      "path": "sinopsis/Disney Pixar Toy Story 3 Complete Edition.txt",
+      "size": 468,
+      "sha256": "2202660e30fe15926e0870e26361e2b40f3fab11fe98b7059030490d7966760c"
     },
     {
       "path": "sinopsis/Doom Eternal Deluxe Edition.txt",
@@ -725,6 +765,11 @@
       "path": "datos/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 81,
       "sha256": "4e0b4ac0745be7d0df9a44d4499bd88bacf41e84a22d039c869e33a39317a5af"
+    },
+    {
+      "path": "datos/Disney Pixar Toy Story 3 Complete Edition.txt",
+      "size": 105,
+      "sha256": "e6169fd6b0ca28c23fc1025cee598def84453874b7f70b1aed37ec56d8e9b768"
     },
     {
       "path": "datos/Doom Eternal Deluxe Edition.txt",

@@ -67,6 +67,11 @@
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
     },
     {
+      "path": "imagenes/Red Dead Redemption 2 Ultimate Edition.webp",
+      "size": 63114,
+      "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
+    },
+    {
       "path": "imagenes/The Genesis Order.webp",
       "size": 16848,
       "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
@@ -447,6 +452,36 @@
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
     },
     {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/1.webp",
+      "size": 27594,
+      "sha256": "5f7e08e044e34c612fdf35b2d114fee248d788656f18e5100325c91f530c06b7"
+    },
+    {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/2.webp",
+      "size": 23478,
+      "sha256": "597d28aca7ccc7dc97d4562e325eedeef71d31951d70e125b8f6e4993b73a302"
+    },
+    {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/3.webp",
+      "size": 29616,
+      "sha256": "0a1ef2d5d67616fc1ffbd2e11ac3db8a5c128385cc41440926701f55c276683a"
+    },
+    {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/4.webp",
+      "size": 13770,
+      "sha256": "1c025a4b79c47d20ea4259684c83cfaceeece61f955b69c4d74c00f928062ae0"
+    },
+    {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/5.webp",
+      "size": 38714,
+      "sha256": "7a69dbca57b63f7d443b562b08d1b5a4d4038273b4ac4745e13cc0aac3471939"
+    },
+    {
+      "path": "capturas/Red Dead Redemption 2 Ultimate Edition/6.webp",
+      "size": 14604,
+      "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
+    },
+    {
       "path": "capturas/The Genesis Order/01.webp",
       "size": 12160,
       "sha256": "d3948198b69da5fc08f62710da8788ec27d6cba7a6f7a1c29ed9e30d4ca22270"
@@ -732,6 +767,11 @@
       "sha256": "fefe1efa38a35449f1cc4c6477735128752ec5c7468393185a398acb964d40f9"
     },
     {
+      "path": "sinopsis/Red Dead Redemption 2 Ultimate Edition.txt",
+      "size": 1616,
+      "sha256": "37bb88787952f1b1569302090ddd4ee942d7faed5dee9009e1f22e38169f864b"
+    },
+    {
       "path": "sinopsis/Resident Evil 4 Remake.txt",
       "size": 910,
       "sha256": "51ab375a9045ab1b0dae07ab5b3141e7889608125b42e84837624b3013e0c9e6"
@@ -1015,6 +1055,11 @@
       "path": "datos/Ready Or Not.txt",
       "size": 96,
       "sha256": "b847ca3250fb8a36bf754185dbff3645e1264da9532a2155e88c801cf3c002e5"
+    },
+    {
+      "path": "datos/Red Dead Redemption 2 Ultimate Edition.txt",
+      "size": 88,
+      "sha256": "02d16a6de935f32e1b03bcb8db29b7814d368a69b2ae52d46ea1aefef402f678"
     },
     {
       "path": "datos/Resident Evil 4 Remake.txt",

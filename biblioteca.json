@@ -32,6 +32,11 @@
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
     {
+      "path": "imagenes/Clive Barkers Hellraiser Revival Deluxe Edition.webp",
+      "size": 46782,
+      "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
+    },
+    {
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
       "size": 42484,
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
@@ -245,6 +250,36 @@
       "path": "capturas/Call Of Duty WWII Full/06.webp",
       "size": 68992,
       "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/1.webp",
+      "size": 126770,
+      "sha256": "fb8178099265672c8cadaa1cd4b5382cf2542d09468b0dfcc06d63dea14f9858"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/2.webp",
+      "size": 94162,
+      "sha256": "c0ae949c42cb188ea507e067054c021c35ce4ea176df83cb2c672c2408f3cc47"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/3.webp",
+      "size": 114888,
+      "sha256": "55f5f6519832c9e384d9c81e8b11cdb70883fc5199c73af2c9526b2f07b82d6d"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/4.webp",
+      "size": 98666,
+      "sha256": "4533ccbfd849eacbf2701ba2f616327a8084912a368ad82ee371444abcb9e985"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/5.webp",
+      "size": 47202,
+      "sha256": "25229f3c97f4111a8fa7edb19ea3e5017f7a470246dc3fff0b04170e5ba029fe"
+    },
+    {
+      "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/6.webp",
+      "size": 50734,
+      "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
     },
     {
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/01.webp",
@@ -567,6 +602,11 @@
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
     },
     {
+      "path": "sinopsis/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
+      "size": 1033,
+      "sha256": "a52c2cca5b52bd2dcbf7e63e042e13a6d39754e1b291442ac6f96ddf2e70fa4f"
+    },
+    {
       "path": "sinopsis/Control Resonant.txt",
       "size": 710,
       "sha256": "f392adfd33cccaded2ef7c75a90a172d28c0f4d94593a25a8ddb2b202462b92b"
@@ -845,6 +885,11 @@
       "path": "datos/Call Of Duty WWII.txt",
       "size": 87,
       "sha256": "96b60c9f9ce233ba794116eab6f7aa7aa32afc8a4e1b586f4c386c758fa530dd"
+    },
+    {
+      "path": "datos/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
+      "size": 84,
+      "sha256": "418a8c1b82d9a0d9516a837f1b40673531348cb7949eba6b3d5f2f124ad6ccc9"
     },
     {
       "path": "datos/Control Resonant.txt",

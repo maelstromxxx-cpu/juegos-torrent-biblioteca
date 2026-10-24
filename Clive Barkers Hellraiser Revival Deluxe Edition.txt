@@ -1,0 +1,12 @@
+Repack Features
+Based on Clive.Barkers.Hellraiser.Revival-RUNE ISO release: rune-clive.barkers.hellraiser.revival.iso (70,506,283,008 bytes)
+Game version: v1.0.1.227219; Pre-order Content & Deluxe Content DLCs are included and activated
+100% Lossless & MD5 Perfect: all files are identical to originals after installation
+NOTHING ripped, NOTHING re-encoded
+Smaller archive size (compressed from 65.7 GB to 51.6 GB)
+Installation takes from 30 minutes (on 32-threads CPU) up to 1.5 hours (on 8-threads CPU)
+After-install integrity check so you could make sure that everything installed properly
+HDD space after installation: 72.3 GB
+Language can be changed in game settings
+Repack uses XTool library by Razor12911
+At least 2 GB of free RAM (inc. virtual) required for installing this repack

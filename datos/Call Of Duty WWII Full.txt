@@ -2,4 +2,4 @@ Año: 2017
 Género: FPS
 Tamaño: 109GB
 Modo: Single/Multiplayer
-Idioma: Multi14
+Idioma: Multi

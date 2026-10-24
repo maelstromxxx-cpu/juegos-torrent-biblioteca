@@ -2,4 +2,4 @@ Año: 2021
 Género: FPS
 Tamaño: 42 GB
 Modo: Single/Multiplayer
-Idioma: MULTI14
+Idioma: MULTI

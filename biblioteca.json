@@ -692,6 +692,11 @@
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
     },
     {
+      "path": "sinopsis/The Genesis Order.txt",
+      "size": 986,
+      "sha256": "d7143cc70a8d19abe6501398f6a1bc9089ec5df16a8224303e923d96a1936432"
+    },
+    {
       "path": "sinopsis/The Last Of Us Part 1.txt",
       "size": 844,
       "sha256": "44b9e6350dd3b757d91a8cf8e9253e70b0da9f535f30f2b955148b3737359c27"
@@ -788,8 +793,8 @@
     },
     {
       "path": "datos/Call Of Duty Vanguard Full.txt",
-      "size": 79,
-      "sha256": "ffb61c4797546b164285403fbde404ddb5875aca7bdc649efe95196b6ac9e9e2"
+      "size": 77,
+      "sha256": "6908d38984aa72e3e4542e440f349983664900f804366cab3e697510bca82794"
     },
     {
       "path": "datos/Call Of Duty Vanguard.txt",
@@ -798,8 +803,8 @@
     },
     {
       "path": "datos/Call Of Duty WWII Full.txt",
-      "size": 79,
-      "sha256": "31677a0c253b971d54c0d93d57c2fcdfbcdd298bd532c97620e05d504c41730b"
+      "size": 77,
+      "sha256": "9df0f914f6559ff2ad9bebe58abf1332f9e9afe90763550a567c6ada10b2a8d1"
     },
     {
       "path": "datos/Call Of Duty WWII.txt",
@@ -965,6 +970,11 @@
       "path": "datos/Starfield.txt",
       "size": 91,
       "sha256": "512a2f70d05be7cdbfe02f876dec1479c166e52119876f54b5a1235be13e8034"
+    },
+    {
+      "path": "datos/The Genesis Order.txt",
+      "size": 96,
+      "sha256": "b9d69c9c280f1a794849f4be4fcc335827fafa4dcd59b9e8393100ca567923eb"
     },
     {
       "path": "datos/The Last Of Us Part 1.txt",

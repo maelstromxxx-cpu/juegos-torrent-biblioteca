@@ -87,6 +87,36 @@
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
     },
     {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/1.webp",
+      "size": 27806,
+      "sha256": "d3331cc21a96c567e4a55e1a8b6bac915c9e4470cf278a4352f66aca1353b8ce"
+    },
+    {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/2.webp",
+      "size": 42668,
+      "sha256": "6bd611e1a414e4a272cb5a9c70506c3e237da82c4d89b3bac598b4f015828316"
+    },
+    {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/3.webp",
+      "size": 25316,
+      "sha256": "67b8aa11d1def9a44bdc796c9391d697efdf5ba36856369b83f38be09040eda6"
+    },
+    {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/4.webp",
+      "size": 19202,
+      "sha256": "9d4415d9e2478cee74fde9b12d17b99533632bad51abc5fb8a7a63ef17c537bd"
+    },
+    {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/5.webp",
+      "size": 16472,
+      "sha256": "19bee6769b4cac29503e6af9acff9681c3079977103430354f1b40621c51a99b"
+    },
+    {
+      "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/6.webp",
+      "size": 22542,
+      "sha256": "79d459e9874a69f597e5219c7d9e0c280baffbb78bdf5a16f9db1e3fe1b6ed92"
+    },
+    {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
@@ -597,6 +627,11 @@
       "sha256": "5f8b4f8bbab8b4b9f6b506df8fca389199fb8229b7a317a232f37163f162d9ff"
     },
     {
+      "path": "sinopsis/Assassins Creed Black Flag Resynced Deluxe Edition.txt",
+      "size": 570,
+      "sha256": "5b573ca0b3f509ac1a196479ac2e88aba11922f6ec47f72dd13a37963b4df3b3"
+    },
+    {
       "path": "sinopsis/Atomic Heart.txt",
       "size": 840,
       "sha256": "c7a7de17cf894abcba0e87061840431ba0a4d049aafa35700829df91628ab02c"
@@ -890,6 +925,11 @@
       "path": "datos/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",
       "size": 99,
       "sha256": "9a7366cf4236692be9f972762f88516e4f541e199050311b3133f6c656b2514c"
+    },
+    {
+      "path": "datos/Assassins Creed Black Flag Resynced Deluxe Edition.txt",
+      "size": 99,
+      "sha256": "d58f384c3ada1b29934c6b051ba877d2762b850ae83db73d6b88aa3262085a6e"
     },
     {
       "path": "datos/Atomic Heart.txt",

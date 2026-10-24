@@ -52,6 +52,14 @@ def main() -> None:
                 print(f'No se pudo leer {archivo.relative_to(BASE)}: {error}')
                 omitidos += 1
                 continue
+            if not datos:
+                print(f'ADVERTENCIA: archivo vacío omitido: {archivo.relative_to(BASE)}')
+                omitidos += 1
+                continue
+            if not datos:
+                print(f'ADVERTENCIA: archivo vacío omitido: {archivo.relative_to(BASE)}')
+                omitidos += 1
+                continue
             if len(datos) > LIMITE_BYTES:
                 print(f'Omitido por tamaño: {archivo.relative_to(BASE)}')
                 omitidos += 1

@@ -1,5 +1,6 @@
-Año: 2025
-Género: Acción/Mundo abierto
-Tamaño: 55 GB
+Año: 2023
+Género: Acción / Aventura / Mundo abierto
+Tamaño: 55GB
 Modo: Singleplayer
-Idioma: Multi
+Idioma: MULTI
+Fecha de incorporación: 25/10/2026

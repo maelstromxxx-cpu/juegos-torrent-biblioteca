@@ -1,5 +1,6 @@
 Año: 2022
-Género: Acción / FPS
-Tamaño: 22 GB
-Modo: Singleplayer
+Género: Acción / Shooter / FPS
+Tamaño: 22GB
+Modo: Singleplayer / Multiplayer
 Idioma: MULTI
+Fecha de incorporación: 25/10/2026

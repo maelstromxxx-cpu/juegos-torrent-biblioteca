@@ -1,5 +1,6 @@
-Año: 2025
-Género: Carreras
-Tamaño: 14 GB
-Modo: Singleplayer
+Año: 2026
+Género: Carreras / Conducción / Arcade
+Tamaño: 14GB
+Modo: Singleplayer / Multiplayer
 Idioma: Español
+Fecha de incorporación: 25/10/2026

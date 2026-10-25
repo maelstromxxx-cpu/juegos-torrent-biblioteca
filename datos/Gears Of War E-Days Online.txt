@@ -1,5 +1,6 @@
 Año: 2026
-Género: TPS
+Género: Acción / Shooter / TPS
 Tamaño: 115GB
-Modo: Multiplayer
+Modo: Singleplayer / Multiplayer
 Idioma: Español
+Fecha de incorporación: 25/10/2026

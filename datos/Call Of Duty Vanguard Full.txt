@@ -1,5 +1,6 @@
 Año: 2021
-Género: FPS
-Tamaño: 42 GB
-Modo: Single/Multiplayer
+Género: Acción / Shooter / FPS
+Tamaño: 42GB
+Modo: Singleplayer / Multiplayer
 Idioma: MULTI
+Fecha de incorporación: 25/10/2026

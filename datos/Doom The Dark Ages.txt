@@ -1,5 +1,6 @@
 Año: 2025
-Género: FPS
+Género: Acción / Shooter / FPS
 Tamaño: 88GB
-Modo: Singleplayer / Multiplayer
+Modo: Singleplayer
 Idioma: Español
+Fecha de incorporación: 25/10/2026

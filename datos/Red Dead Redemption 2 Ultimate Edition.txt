@@ -1,5 +1,6 @@
 Año: 2018
-Género: Accion/Mundo abierto
-Tamaño: 68 GB
-Modo: Multiplayer
-Idioma: Multi
+Género: Acción / Aventura / Mundo abierto
+Tamaño: 68GB
+Modo: Singleplayer / Multiplayer
+Idioma: MULTI
+Fecha de incorporación: 25/10/2026

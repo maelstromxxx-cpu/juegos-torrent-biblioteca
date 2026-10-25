@@ -1,5 +1,6 @@
-Año: 2025
-Género: Survival Horror
-Tamaño: 51 GB
-Modo: Single/Multi
-Idioma: Multi
+Año: 2026
+Género: Acción / Survival Horror / Terror
+Tamaño: 51GB
+Modo: Singleplayer
+Idioma: MULTI
+Fecha de incorporación: 25/10/2026

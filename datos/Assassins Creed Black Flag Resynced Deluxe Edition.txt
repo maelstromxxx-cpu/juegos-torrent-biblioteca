@@ -1,5 +1,6 @@
-Año: 2026
-Género:  Action/Aventura/Combate naval
-Tamaño: 35 GB
-Modo: Singleplayer
+Año: 2024
+Género: Acción / Aventura / Mundo abierto / Sigilo
+Tamaño: 35GB
+Modo: Singleplayer / Multiplayer
 Idioma: MULTI
+Fecha de incorporación: 25/10/2026

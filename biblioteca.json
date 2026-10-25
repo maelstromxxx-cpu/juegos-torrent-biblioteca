@@ -2018,78 +2018,78 @@
     },
     {
       "path": "datos/A Plague Tale Requiem.txt",
-      "size": 97,
-      "sha256": "a2c2645f46a3970c79bdc6926cb2860337a633da0042a611c576e5f16d38753a"
+      "size": 133,
+      "sha256": "b951630df0acb8933cd5f46d25553ce3798e07b11b06ad470606a6440afa7d93"
     },
     {
       "path": "datos/Alan Wake 2.txt",
-      "size": 85,
-      "sha256": "30446bbabac9a06afcb65d10bd7abf7c06474c8bca37b6a17c9f5412480a5229"
+      "size": 164,
+      "sha256": "c22c75bdbaa6cfd12453b0f0f4ea60fe75849eb1efe9b2e6a0d285631c7636d8"
     },
     {
       "path": "datos/Alan Wake Remastered.txt",
-      "size": 95,
-      "sha256": "573a18fd378d1071893070cab1d7b878d25f6f6c5bfc0372fa42fff29bc1a3ea"
+      "size": 133,
+      "sha256": "5a3e9f2dcb2b28f5bdee1b061c959a42cfb159cab0e5fdaf61569d3f86dc0a8a"
     },
     {
       "path": "datos/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",
-      "size": 99,
-      "sha256": "9a7366cf4236692be9f972762f88516e4f541e199050311b3133f6c656b2514c"
+      "size": 155,
+      "sha256": "b53b8f32f354333dd7b5aeb4d118d6a8a4ed1fd4c966d44231053d9097926e00"
     },
     {
       "path": "datos/Assassins Creed Black Flag Resynced Deluxe Edition.txt",
-      "size": 99,
-      "sha256": "d58f384c3ada1b29934c6b051ba877d2762b850ae83db73d6b88aa3262085a6e"
+      "size": 160,
+      "sha256": "f1ac943f144a7ebfe8613888cce1840fd8ff2c6e193cd81c6e1b7a4d93af7691"
     },
     {
       "path": "datos/Atomic Heart.txt",
-      "size": 87,
-      "sha256": "60c7a2d001562e1de69d8c05856e8749845ec75edc0f33f49acf15615614394f"
+      "size": 146,
+      "sha256": "c4d56f07ea188ffda6df43ba78bc8dd77ef832f14819f8086728285ac9b61db9"
     },
     {
       "path": "datos/Baldurs Gate 3 Deluxe Edition.txt",
-      "size": 94,
-      "sha256": "1959e8daa756428604715ed97d3dad8b1a37a2af87e4449fc0d3cfde5534b8dc"
+      "size": 159,
+      "sha256": "7b7dc17e08d297579f83359541b757664be59fe1601e9921b9b3fe78895f5495"
     },
     {
       "path": "datos/Battlefield 3.txt",
-      "size": 87,
-      "sha256": "04b2f98e623d6c21277ea99bd2326da2dadd72a58d1200ba3643cc57af75468f"
+      "size": 143,
+      "sha256": "fa0abf7ad2d14e7b8fbb8aeedaf65721bb4ceae1c2877872386ce9443db35d15"
     },
     {
       "path": "datos/Battlefield 4.txt",
-      "size": 87,
-      "sha256": "4b6337a537d8f89feb815c5e2bf086f166d030de099ab2afa92c510fb1866c61"
+      "size": 143,
+      "sha256": "c68f18417b842038851ee3e07f7d77d68e6b22b56cd4a5fc0402a37fddee181e"
     },
     {
       "path": "datos/Battlefield 6.txt",
-      "size": 87,
-      "sha256": "046257f3c58fca514e396de1d62ea3fb11a2a397c1b25ac1ad36857e2682592b"
+      "size": 143,
+      "sha256": "44921fa21ed1088b0058c59c22ad431de7baaf6012c0eb1486d3492532d6019d"
     },
     {
       "path": "datos/Battlefield I Ultimate Edition.txt",
-      "size": 87,
-      "sha256": "3642218e2cd63de52b5e0082e6a1bba573d195bd615b1653e9bbf434dc6aab56"
+      "size": 143,
+      "sha256": "7add1efdcb8297cf62b0420638f635c99e8d0d9dfef30b15c7b85371b8683581"
     },
     {
       "path": "datos/Battlefield V.txt",
-      "size": 87,
-      "sha256": "368f8f947bfa8c43c525b5d27588fc64740d497c07d705ecbdcda1859abf61de"
+      "size": 143,
+      "sha256": "683118ea04b8b207b4893a0a7cb7b88ab4523c76602bd47d9039f80d2c393261"
     },
     {
       "path": "datos/Black Myth Wukong.txt",
-      "size": 94,
-      "sha256": "9bafcfff8922850f0db266ca45569f632cbd251f7860afa984cf79cc850560ba"
+      "size": 143,
+      "sha256": "156ac1a3c59fbc8d2d7b62ecf48ec28b60edddfb5c110791a0f9cf6ce4e5dbca"
     },
     {
       "path": "datos/Bloodborne GOTY Edition.txt",
-      "size": 106,
-      "sha256": "e4c7b063c3519e2e94a2c31f19d78227d8231f1c8ef55044142bb3076bdf4b18"
+      "size": 162,
+      "sha256": "c7e0f408d2acc7eb04688063fe4b1dc7ea5c5840f15c9c1684bd102865ff56e1"
     },
     {
       "path": "datos/Call Of Duty Black Ops 6.txt",
-      "size": 87,
-      "sha256": "78fe668f1d25e09056b3b5213d7c86c71c5371e06ab9bb40942f2cc43e0becff"
+      "size": 143,
+      "sha256": "7cc2a52c9856e5408ff0cb86bb42546f94850716e1578f6cb8acebdd1ba19c3d"
     },
     {
       "path": "datos/Call Of Duty Modern Warfare 4.txt",

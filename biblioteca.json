@@ -2,6 +2,11 @@
   "schema": 1,
   "files": [
     {
+      "path": "imagenes/A Plague Tale Requiem.webp",
+      "size": 40318,
+      "sha256": "67b57714a494ac30417b5c6bfa9b3def8baaef0a03869b45cba02ce243200fc5"
+    },
+    {
       "path": "imagenes/Armored Core VI Fires Of Rubicon Deluxe Edition.webp",
       "size": 83546,
       "sha256": "773130cda8596648f5513191847d33091e0934805956d001140802274d6d50bb"
@@ -57,6 +62,11 @@
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
     },
     {
+      "path": "imagenes/Dying Light 2 Stay Human.webp",
+      "size": 66860,
+      "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
+    },
+    {
       "path": "imagenes/Gears Of War E-Days Online.webp",
       "size": 61216,
       "sha256": "81ebbdceab07068ee47f61a9a2bce8fdc14c42ec21757d2b6f7407679da378a6"
@@ -77,9 +87,19 @@
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
     },
     {
+      "path": "imagenes/Hogwarts Legacy Complete Edition.webp",
+      "size": 43794,
+      "sha256": "50d2f8566e0cea82bd4f32b0266ca46cfd667578f871bd697da0c9ef1fb45910"
+    },
+    {
       "path": "imagenes/Hot Wheels Infinite Rush.webp",
       "size": 58584,
       "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
+    },
+    {
+      "path": "imagenes/Kingdom Come Deliverance 2.webp",
+      "size": 51288,
+      "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
     },
     {
       "path": "imagenes/Lies Of P.webp",
@@ -92,6 +112,11 @@
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
     },
     {
+      "path": "imagenes/Monster Hunter Wild.webp",
+      "size": 55228,
+      "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
+    },
+    {
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
@@ -102,9 +127,19 @@
       "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
     },
     {
+      "path": "imagenes/Resident Evil 8 Village.webp",
+      "size": 31968,
+      "sha256": "887962f047b907e7d4b4e67b0cf62a36e06768f5853b6c8acee346b42c606bc7"
+    },
+    {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
+    },
+    {
+      "path": "imagenes/Star Wars Jedi Survivor.webp",
+      "size": 27812,
+      "sha256": "f1a36c397640ae98e4c75214b39f2aee2884fe5117f7aaa5fef34eab4ab18867"
     },
     {
       "path": "imagenes/Starfield.webp",
@@ -125,6 +160,36 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/1.webp",
+      "size": 10176,
+      "sha256": "5590e0ecb1f588062eceadadfc11377b4852a4c7f6094f72a4e7b9f9ca8435da"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/2.webp",
+      "size": 16178,
+      "sha256": "ece38c80663ad556aee21fbb44a5127b0f9ae0ffdd13b5f51b2c488f8205cdf9"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/3.webp",
+      "size": 33258,
+      "sha256": "ba6745aa87bb2da198a9e137439018d0fdf93308053ed67391d6deb1780b0177"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/4.webp",
+      "size": 11914,
+      "sha256": "a4fe582b1d791f7ec7904c76ef7882023c557ac3dba2cd6e5d19b66c21043397"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/5.webp",
+      "size": 23210,
+      "sha256": "fd58dc1e53e5416c7a5d72fb6a69a27033d522961ed12346f7e5cfab41dc8dcf"
+    },
+    {
+      "path": "capturas/A Plague Tale Requiem/6.webp",
+      "size": 43788,
+      "sha256": "35b533280cd4f1ad25745a637c55fbebdf78f650387daafc23d9c42997639dce"
     },
     {
       "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/1.webp",
@@ -452,6 +517,36 @@
       "sha256": "84ca74c76648cc9ff8f7dc53a5041d41842e47d3e721f79b1799b3cbd67a3c11"
     },
     {
+      "path": "capturas/Dying Light 2 Stay Human/1.webp",
+      "size": 37928,
+      "sha256": "d56c135e49a5823487923d601514c4a3bc6f0c9c756ccbed2eac15e22df08e73"
+    },
+    {
+      "path": "capturas/Dying Light 2 Stay Human/2.webp",
+      "size": 33332,
+      "sha256": "e4dfd7a1f55de28d029421095a3b35c72d09a7735be388e89d0ecfd616b52b63"
+    },
+    {
+      "path": "capturas/Dying Light 2 Stay Human/3.webp",
+      "size": 10632,
+      "sha256": "320bfce6f5933232b9b2c75984541bac2988dc65fe0e11d30a2cb1e1ac6d3f1c"
+    },
+    {
+      "path": "capturas/Dying Light 2 Stay Human/4.webp",
+      "size": 16800,
+      "sha256": "54840138d9f030fc6bfae956d0770547afdc0d8d89e04632251822e64b4e58b1"
+    },
+    {
+      "path": "capturas/Dying Light 2 Stay Human/5.webp",
+      "size": 17608,
+      "sha256": "b93ca8a6c7c81af0c5607d67a6a1b1a53c43c15cca7d2c8dd203a9d6343f48bd"
+    },
+    {
+      "path": "capturas/Dying Light 2 Stay Human/6.webp",
+      "size": 11968,
+      "sha256": "25f50df2fab2333efedce5d93463c9aef7d16bb03a96690ae0dcc68bcc873a37"
+    },
+    {
       "path": "capturas/Gears Of War E-Days/01.webp",
       "size": 36580,
       "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
@@ -572,6 +667,36 @@
       "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
     },
     {
+      "path": "capturas/Hogwarts Legacy Complete Edition/1.webp",
+      "size": 28366,
+      "sha256": "aede184cfd064869e5b5c4e7d6679212214afea022c1e888083e26141f0226e2"
+    },
+    {
+      "path": "capturas/Hogwarts Legacy Complete Edition/2.webp",
+      "size": 27748,
+      "sha256": "965ddcc4819c593285fa0d66c1e8e456e7fad05a80b45ec43b26717b9249f931"
+    },
+    {
+      "path": "capturas/Hogwarts Legacy Complete Edition/3.webp",
+      "size": 14816,
+      "sha256": "d92ac2a121011b07988d235f001b3d6e68542004cfcadc6314477b36561f2973"
+    },
+    {
+      "path": "capturas/Hogwarts Legacy Complete Edition/4.webp",
+      "size": 11018,
+      "sha256": "0c481748d4f3e76196f8f8433cd47a9a12503199794bf27d21ad557e778a6363"
+    },
+    {
+      "path": "capturas/Hogwarts Legacy Complete Edition/5.webp",
+      "size": 26964,
+      "sha256": "bce5c4d77359f6bfb0bf47f566dd605739096e7f1265d59d5c6da2ebbaad8ba2"
+    },
+    {
+      "path": "capturas/Hogwarts Legacy Complete Edition/6.webp",
+      "size": 24324,
+      "sha256": "038d6faac00442b687c1c34ecc39f8e59bd5bf06b06906a2c67d15e983563086"
+    },
+    {
       "path": "capturas/Hot Wheels Infinite Rush/01.webp",
       "size": 38326,
       "sha256": "ee1c6f3484b8017e2f0e0f17d67ff92a3bb12386947ffac44cfdb843d9411dc4"
@@ -600,6 +725,36 @@
       "path": "capturas/Hot Wheels Infinite Rush/06.webp",
       "size": 34592,
       "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/1.webp",
+      "size": 16454,
+      "sha256": "afc736f9ebefd5da0eadfb157a9e5612dbf04c13fc42ecf35d3145bcaf9212a4"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/2.webp",
+      "size": 18614,
+      "sha256": "2a9a2d2d82f12f9c954f7a2bfe78936622baa4e9a5c18b12bce40b3fb93d6ec4"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/3.webp",
+      "size": 18542,
+      "sha256": "ebfbb537b61fe984247f70516ea6c5212bb9225729ce74fcc81be7a1ce59c048"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/4.webp",
+      "size": 18198,
+      "sha256": "279fd100477c53ea11bf6ffcc8f983b0b82f1b89a4547be5c4bc2f66d7ddc40e"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/5.webp",
+      "size": 14542,
+      "sha256": "ecbee9dbb50bbb73aa2b369ad426fcc6d38e87e8c5748813cd4e5bf14bcb8f41"
+    },
+    {
+      "path": "capturas/Kingdom Come Deliverance 2/6.webp",
+      "size": 20274,
+      "sha256": "cd93a16f6b45304b9eb2fe4d66084e9ae4a11a788d35d6cd5cfb6ef02035ea9b"
     },
     {
       "path": "capturas/Lies Of P/1.webp",
@@ -662,6 +817,36 @@
       "sha256": "0728968eaa05677b3fb9b1104dcc8ffa63fbfef852313b22273ae976f6046769"
     },
     {
+      "path": "capturas/Monster Hunter Wild/1.webp",
+      "size": 41510,
+      "sha256": "32f98083cbe8bae1d521ec9fee7f6711e51f3d8ab3fc5123a6a170315964e546"
+    },
+    {
+      "path": "capturas/Monster Hunter Wild/2.webp",
+      "size": 21412,
+      "sha256": "2110e77d2dbb6615f3794140f092df6340415def21cdf160f20e966d0914512d"
+    },
+    {
+      "path": "capturas/Monster Hunter Wild/3.webp",
+      "size": 43826,
+      "sha256": "7395cb872198af41ec78413d67bc1ff1f564f77e8429d3ee4d6011d23dbf5f90"
+    },
+    {
+      "path": "capturas/Monster Hunter Wild/4.webp",
+      "size": 25264,
+      "sha256": "91c269b2ac066c6f856f844288089d45dce9210de6a5337518047dd020b5434a"
+    },
+    {
+      "path": "capturas/Monster Hunter Wild/5.webp",
+      "size": 23522,
+      "sha256": "9bba52a631a5aa184870adac2ba9aa1972fa9021225aa8c7ea490a0e7cab15d4"
+    },
+    {
+      "path": "capturas/Monster Hunter Wild/6.webp",
+      "size": 10222,
+      "sha256": "a2a1d286a686a8aba77e005e072099cd1ef642933f0f495890a8e8a176a15f3a"
+    },
+    {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
       "size": 40904,
       "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
@@ -707,6 +892,36 @@
       "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
     },
     {
+      "path": "capturas/Resident Evil 8 Village/1.webp",
+      "size": 12786,
+      "sha256": "35bd5a5adab7140656b86007361360f75292721b9566f397d81abe9ac29e7e3b"
+    },
+    {
+      "path": "capturas/Resident Evil 8 Village/2.webp",
+      "size": 22150,
+      "sha256": "be74dc3374f3858d5b7ece08c1ca139fef4d08a4525455aec23876e24beab640"
+    },
+    {
+      "path": "capturas/Resident Evil 8 Village/3.webp",
+      "size": 8954,
+      "sha256": "7e771c9e72dc09ddaed438597422185e85720f8175ada4a1952a49f63cb76ff0"
+    },
+    {
+      "path": "capturas/Resident Evil 8 Village/4.webp",
+      "size": 20722,
+      "sha256": "8e8d00f405e76bcf2058a32eca83a25284e857375d28ca4ff7d68334ee1ca33c"
+    },
+    {
+      "path": "capturas/Resident Evil 8 Village/5.webp",
+      "size": 11276,
+      "sha256": "ca74b70ec0e35bcf09a802bfac3db8ba65af7ce57f707d11b3561f46870294bc"
+    },
+    {
+      "path": "capturas/Resident Evil 8 Village/6.webp",
+      "size": 12956,
+      "sha256": "0981b6ea3e9a3cb9fa57d8bf92d50d7003628d58ba7334154f9fbe7465de79d4"
+    },
+    {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
       "size": 14458,
       "sha256": "9e9ba3aec4c26c50ea3a4af6d6fd0ead215196c9b90c6ade35a7f2e555103e4a"
@@ -735,6 +950,36 @@
       "path": "capturas/Sexnatural MILFs Must Be Filled/6.webp",
       "size": 15834,
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/1.webp",
+      "size": 19060,
+      "sha256": "db1117dc4b2b4b0bd624c6ad351a4c122d0026a6c1cf27099d58636868fa83ca"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/2.webp",
+      "size": 16000,
+      "sha256": "016f2278b219794688c06e296721ae2975ba93b678b36cccbb820775529850cd"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/3.webp",
+      "size": 19136,
+      "sha256": "742710a69256ac180e19a8d70fdef0dc8d816b495dc52d6551f2c4c2baa0be9f"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/4.webp",
+      "size": 10804,
+      "sha256": "337ff4c2cb9f14ad7bb6c911a43d3a6c4220d6f198eaf929e36390afdb0f1140"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/5.webp",
+      "size": 49946,
+      "sha256": "21e8198ff68c8027221577c164e09f42a64b9bfe60a16c1c77e4f1f1188c2be9"
+    },
+    {
+      "path": "capturas/Star Wars Jedi Survivor/6.webp",
+      "size": 24616,
+      "sha256": "0c70cf9dfd28d51dfbd702b00a7760d17061f43b8ab053902e5cfac14def7970"
     },
     {
       "path": "capturas/Starfield/1.webp",

@@ -27,6 +27,11 @@
       "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
     },
     {
+      "path": "imagenes/Baldurs Gate 3 Deluxe Edition.webp",
+      "size": 72342,
+      "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
+    },
+    {
       "path": "imagenes/Black Myth Wukong.webp",
       "size": 20164,
       "sha256": "fd49ad02170176587bde8ba20d53989ed8b72fc848dc6f73a9f06c0b7b1432cd"
@@ -77,6 +82,11 @@
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
     },
     {
+      "path": "imagenes/Cyberpunk 2077 Ultimate Edition.webp",
+      "size": 25706,
+      "sha256": "e5df2e454d6eab6629bce5bb7fd7de30894bfe9fc124784714ff31315f1a972c"
+    },
+    {
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
       "size": 42484,
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
@@ -90,6 +100,11 @@
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
+    },
+    {
+      "path": "imagenes/Elden Ring.webp",
+      "size": 9244,
+      "sha256": "ccdc90a5f4d5944a14e28fad5d2e016fb583e545930fec4500ae86244bc97b17"
     },
     {
       "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
@@ -380,6 +395,36 @@
       "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/6.webp",
       "size": 22542,
       "sha256": "79d459e9874a69f597e5219c7d9e0c280baffbb78bdf5a16f9db1e3fe1b6ed92"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/1.webp",
+      "size": 15842,
+      "sha256": "47eef960a21fe4b8211c14870d091d55e2a71e255beaf1d55f847e822ed1ca0f"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/2.webp",
+      "size": 24034,
+      "sha256": "7c9c75772105e6a304800c96b5d73016213ef8b029e155fe631d12801ced09ba"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/3.webp",
+      "size": 25814,
+      "sha256": "cce73c57b3b43adb2d9c91339897d3ae137096a0023624af75f29f0087b6b2cd"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/4.webp",
+      "size": 15126,
+      "sha256": "93cc2de7fa9d8d0617a6d5644f9299bdb64c2bd84e4f6434c881231829b85f76"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/5.webp",
+      "size": 46630,
+      "sha256": "9b275b83671b934c150cdf86311013d7ba7a0794a896216b234992a7421a4938"
+    },
+    {
+      "path": "capturas/Baldurs Gate 3 Deluxe Edition/6.webp",
+      "size": 31778,
+      "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
     },
     {
       "path": "capturas/Black Myth Wukong/1.webp",
@@ -677,6 +722,36 @@
       "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
     },
     {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/1.webp",
+      "size": 29398,
+      "sha256": "a091a8fac320355bba40a83139e23ff0db8394f23e063e58641b7e366fb5f098"
+    },
+    {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/2.webp",
+      "size": 29510,
+      "sha256": "9610eda15ea34b0febd64cbbd865e20d1c4b323b989c5c0a6a11590ab421dcad"
+    },
+    {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/3.webp",
+      "size": 28544,
+      "sha256": "90ce5f35dbd145b25073320d7c8084aa9b04425035c42e310e60b5d7560712d0"
+    },
+    {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/4.webp",
+      "size": 20958,
+      "sha256": "cf6b5b198710837a7945e335ce707e2d7e699431c5c98809a3f2715d9e3e01f5"
+    },
+    {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/5.webp",
+      "size": 21614,
+      "sha256": "ff1625d1649f7b4856f14644f28ac07ecc601037b72e4bf2bf021d658e027b81"
+    },
+    {
+      "path": "capturas/Cyberpunk 2077 Ultimate Edition/6.webp",
+      "size": 21228,
+      "sha256": "b3ae4c75963f77bd3086841c77318a3f685af848cd623b3dc13e71898bc418da"
+    },
+    {
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/01.webp",
       "size": 19140,
       "sha256": "7dfed94c981fbeb0a4d80bb62630c53e3ccad862a8ea3d49a93da731673ca26c"
@@ -765,6 +840,36 @@
       "path": "capturas/Dying Light 2 Stay Human/6.webp",
       "size": 11968,
       "sha256": "25f50df2fab2333efedce5d93463c9aef7d16bb03a96690ae0dcc68bcc873a37"
+    },
+    {
+      "path": "capturas/Elden Ring/1.webp",
+      "size": 32814,
+      "sha256": "732d95b2d848fbdaab8abad602e8625137ecea089b410b0d528a84b8734101ce"
+    },
+    {
+      "path": "capturas/Elden Ring/2.webp",
+      "size": 29760,
+      "sha256": "6c3d45884d994e2d649f28bd577952bdcf7749447f122d8761c410b8d14f0ba9"
+    },
+    {
+      "path": "capturas/Elden Ring/3.webp",
+      "size": 37070,
+      "sha256": "e5e7c7891b59ce6a3c4f7280493997f6daab781babd9c309e27f937a99d2b2ef"
+    },
+    {
+      "path": "capturas/Elden Ring/4.webp",
+      "size": 25198,
+      "sha256": "eb54f71efba23787f4359a164ebbeba6e88d90f784e15f479fdafc16397c8b40"
+    },
+    {
+      "path": "capturas/Elden Ring/5.webp",
+      "size": 19466,
+      "sha256": "af30e1b782d388f299feaee06bf310320eae24e46fcc2868d9474d3be48ee79f"
+    },
+    {
+      "path": "capturas/Elden Ring/6.webp",
+      "size": 14362,
+      "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
     },
     {
       "path": "capturas/Forza Horizon 5 Premium Edition/1.webp",

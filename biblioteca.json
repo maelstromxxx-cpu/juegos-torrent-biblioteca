@@ -2293,28 +2293,28 @@
     },
     {
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
-      "size": 92,
-      "sha256": "ec9fba642b486074eaed25fb84498f23e284297d7596c165dd1f75b87bdb3cbc"
+      "size": 142,
+      "sha256": "cd5dd7d3cb58bf3329e4129ef51c6f5e3cec4eb65d15069a84ae264e4fc9725c"
     },
     {
       "path": "datos/Star Wars Jedi Survivor.txt",
-      "size": 89,
-      "sha256": "b8c22cfaf526c1201b90ae158821af65f4fb4d1d26b7b2b8cbd9a10549ef7bc2"
+      "size": 125,
+      "sha256": "86cb3e1471bd0137e541e82b5d5905c9e5dcbd0738dfe5622c098f2e37cea7c9"
     },
     {
       "path": "datos/Starfield.txt",
-      "size": 91,
-      "sha256": "512a2f70d05be7cdbfe02f876dec1479c166e52119876f54b5a1235be13e8034"
+      "size": 155,
+      "sha256": "e9e025dd608d655e13f836effb38348c1d5cfa99f220694932068590af7d293e"
     },
     {
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",
-      "size": 96,
-      "sha256": "6e2921c91ddd90ac82d649292d6dd0233a3119ad18d6845aab7cf081ec99b3ee"
+      "size": 145,
+      "sha256": "9eafaa8c8e92f119fc9d32a9ba97fe4c53dd7a98413f2c7ba66d0f659a82ba9d"
     },
     {
       "path": "datos/The Genesis Order.txt",
-      "size": 78,
-      "sha256": "238b5e3cbecb9042062d96074546692b57743e1ac6336d613ce3f21c74459c48"
+      "size": 126,
+      "sha256": "fa653507c32f84bac1d080ee75d0443a57a106d967273b498c77d6298db457ab"
     },
     {
       "path": "datos/The Last Of Us Part 1.txt",
@@ -2323,18 +2323,18 @@
     },
     {
       "path": "datos/The Last Of Us Part 2.txt",
-      "size": 83,
-      "sha256": "59824f75594237890e9b0f291a6ecd13d1584ae361c3925f812fcc8711c1d90a"
+      "size": 139,
+      "sha256": "67193367edb175d40e1962699256cc2554d5c7d53e855184464aa5d68d88b628"
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
-      "size": 96,
-      "sha256": "b9d69c9c280f1a794849f4be4fcc335827fafa4dcd59b9e8393100ca567923eb"
+      "size": 155,
+      "sha256": "ff90beec7023867dea367ba00dada5ab62cbf8d5a63b2abc26c5d6fe5fc7a3e9"
     },
     {
       "path": "datos/Warhammer 40K Space Marine 2.txt",
-      "size": 104,
-      "sha256": "460c36d74ab4a6ab40e4178fbb82205c5611f51f1dca3da1b78ecdb734e4aeaa"
+      "size": 154,
+      "sha256": "1511f27a87099dd58eaa193e10f7dba65ce7dd55f25860a37b9ab4200d0b5e17"
     }
   ]
 }

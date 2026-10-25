@@ -17,9 +17,19 @@
       "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
     },
     {
+      "path": "imagenes/Black Myth Wukong.webp",
+      "size": 20164,
+      "sha256": "fd49ad02170176587bde8ba20d53989ed8b72fc848dc6f73a9f06c0b7b1432cd"
+    },
+    {
       "path": "imagenes/Bloodborne GOTY Edition.webp",
       "size": 31434,
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
+    },
+    {
+      "path": "imagenes/Call Of Duty Black Ops 6.webp",
+      "size": 53860,
+      "sha256": "f788b8a2bac39046f31b00b7c16fa0e3da3103a46e2a625788a6a7fddeb2c678"
     },
     {
       "path": "imagenes/Call of Duty Modern Warfare 4.webp",
@@ -62,9 +72,19 @@
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
     },
     {
+      "path": "imagenes/Doom The Dark Ages.webp",
+      "size": 75804,
+      "sha256": "57b9fc4ade46fa9bc30bbe9038657aca9c97cd2133befc0e7c1b10a537f88d40"
+    },
+    {
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
+    },
+    {
+      "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
+      "size": 77266,
+      "sha256": "9d919821b89de27d336556b6fabf0a79effb3f7589b6f30cefb1ba6032c0bad6"
     },
     {
       "path": "imagenes/Gears Of War E-Days Online.webp",
@@ -92,9 +112,19 @@
       "sha256": "50d2f8566e0cea82bd4f32b0266ca46cfd667578f871bd697da0c9ef1fb45910"
     },
     {
+      "path": "imagenes/Horizon Forbidden West Complete Edition.webp",
+      "size": 58316,
+      "sha256": "2d78a922b2dff7254ed21612114f91f8502137a12b6b76e4d671b4af1cd15d63"
+    },
+    {
       "path": "imagenes/Hot Wheels Infinite Rush.webp",
       "size": 58584,
       "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
+    },
+    {
+      "path": "imagenes/Indiana Jones And The Great Circle.webp",
+      "size": 80318,
+      "sha256": "021900d89b6ee922c542622074d0266f9899d131aee1b930f8760daefee25375"
     },
     {
       "path": "imagenes/Kingdom Come Deliverance 2.webp",
@@ -160,6 +190,11 @@
       "path": "imagenes/The Genesis Order.webp",
       "size": 16848,
       "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
+    },
+    {
+      "path": "imagenes/The Last Of Us Part 1.webp",
+      "size": 34872,
+      "sha256": "3b3863a109ffa9a8857723084d15c5f0b780dfd351b62a38dce13a66c41e1c88"
     },
     {
       "path": "imagenes/The Last Of Us Part 2 Remastered.webp",
@@ -262,6 +297,36 @@
       "sha256": "79d459e9874a69f597e5219c7d9e0c280baffbb78bdf5a16f9db1e3fe1b6ed92"
     },
     {
+      "path": "capturas/Black Myth Wukong/1.webp",
+      "size": 22580,
+      "sha256": "4ea554c858a05ed370f13e903c7841708d3782d3a5e83c917f295f58359b7d0a"
+    },
+    {
+      "path": "capturas/Black Myth Wukong/2.webp",
+      "size": 9742,
+      "sha256": "584439a378891b935d2fdc95712eee5ab95260893d6646f52bcd7af1d811d7d9"
+    },
+    {
+      "path": "capturas/Black Myth Wukong/3.webp",
+      "size": 29290,
+      "sha256": "68d1469737cbda871aeb38b2187c4faefe36f572350dc6b9132d7d6d44b04ea7"
+    },
+    {
+      "path": "capturas/Black Myth Wukong/4.webp",
+      "size": 14436,
+      "sha256": "f03f2f3323e3c3008830264b3b7aaee299a99f14c96da810f9f761d27010119e"
+    },
+    {
+      "path": "capturas/Black Myth Wukong/5.webp",
+      "size": 11652,
+      "sha256": "1a3f67a3c28aeedd1def6ccdfc0580518c47fb444059ac9595128ad95325a1b6"
+    },
+    {
+      "path": "capturas/Black Myth Wukong/6.webp",
+      "size": 21636,
+      "sha256": "a8baecce1e09bad983b26b0d479c09bfe25b9f3f1eea0d1992e126baa1b66a94"
+    },
+    {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
@@ -300,6 +365,36 @@
       "path": "capturas/Bloodborne GOTY Edition/08.webp",
       "size": 106268,
       "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/1.webp",
+      "size": 27112,
+      "sha256": "8cc029eda1a62cba4cb6f4c6ca49252f6c6fb90886eea2f01b3a353fc8ad7111"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/2.webp",
+      "size": 14720,
+      "sha256": "420fbe5cca03a070c52bab04438c2845a41465ad52995320923d26677ba36d33"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/3.webp",
+      "size": 14974,
+      "sha256": "9121c752dbe85601446c1438efe8e1262dd724ef2b0f894f14bdf259450696e4"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/4.webp",
+      "size": 16600,
+      "sha256": "e8f27dbb6f1a8124dea5b1ff3a500edd2a4e7f656ea081d8e3407f881bc89494"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/5.webp",
+      "size": 28252,
+      "sha256": "6002271b3425ba9c81d1b6cc2328f68ca71a35bb1aa1a8df6a7dd6ee945dbafa"
+    },
+    {
+      "path": "capturas/Call Of Duty Black Ops 6/6.webp",
+      "size": 20206,
+      "sha256": "248b5dbe42d94a557015d98226f85dd827ac5ffb01a95f95a50c5910ed84b41b"
     },
     {
       "path": "capturas/Call Of Duty Modern Warfare 4/01.webp",
@@ -527,6 +622,36 @@
       "sha256": "84ca74c76648cc9ff8f7dc53a5041d41842e47d3e721f79b1799b3cbd67a3c11"
     },
     {
+      "path": "capturas/Doom The Dark Ages/1.webp",
+      "size": 38966,
+      "sha256": "4046ef769b55a25afb5e88ba410efc4bbab76d34add2810cf1d0f3095b97ec38"
+    },
+    {
+      "path": "capturas/Doom The Dark Ages/2.webp",
+      "size": 18220,
+      "sha256": "17d8ef11c022ba1755063fe34231b8a459bf158882acc079e99e230b313d3051"
+    },
+    {
+      "path": "capturas/Doom The Dark Ages/3.webp",
+      "size": 9662,
+      "sha256": "76eba7a9a62236827a23839283f2bd64e2629ad401dd9d53adb222aa25a9fb87"
+    },
+    {
+      "path": "capturas/Doom The Dark Ages/4.webp",
+      "size": 19352,
+      "sha256": "9081f7a329abeba893aa31968b84affae37e9fc98fa2718cc346b52272d20b35"
+    },
+    {
+      "path": "capturas/Doom The Dark Ages/5.webp",
+      "size": 30988,
+      "sha256": "aa113a1741e4020b9add1f16f7fe63b82d8708f9d54efdac2325e02923550e12"
+    },
+    {
+      "path": "capturas/Doom The Dark Ages/6.webp",
+      "size": 21950,
+      "sha256": "6641928982ae7acdee184184776109dce7b189e6bce52b0b60538bc1a29532d8"
+    },
+    {
       "path": "capturas/Dying Light 2 Stay Human/1.webp",
       "size": 37928,
       "sha256": "d56c135e49a5823487923d601514c4a3bc6f0c9c756ccbed2eac15e22df08e73"
@@ -555,6 +680,36 @@
       "path": "capturas/Dying Light 2 Stay Human/6.webp",
       "size": 11968,
       "sha256": "25f50df2fab2333efedce5d93463c9aef7d16bb03a96690ae0dcc68bcc873a37"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/1.webp",
+      "size": 33564,
+      "sha256": "fa7c02bfc1c7111d362670670a62b4fbb34b05b8e58ac98d2681cacd529acb6f"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/2.webp",
+      "size": 39208,
+      "sha256": "8255dd1ec12f3ca03d0f45bc6cdfb9d813525a6442e78e7d830773bdca1029ae"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/3.webp",
+      "size": 21668,
+      "sha256": "889d5a4fcfa17f02cac7ee5749848e383b11a666fdcf1f762766b8b20c1f38cb"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/4.webp",
+      "size": 13422,
+      "sha256": "9fd4ca5aec45262024a63b49e4c8560a250e82da039708034aac82301f4d69a1"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/5.webp",
+      "size": 23310,
+      "sha256": "639232a0dcb1b08ad327386bd26db55712b3f0bfdd9b683c66f62bd0feeec8ab"
+    },
+    {
+      "path": "capturas/Forza Horizon 5 Premium Edition/6.webp",
+      "size": 18282,
+      "sha256": "90b4dba0067b790c1be7fefbd93bbf46ea969a3646893d167f34c9ea3b0e06fd"
     },
     {
       "path": "capturas/Gears Of War E-Days/01.webp",
@@ -707,6 +862,36 @@
       "sha256": "038d6faac00442b687c1c34ecc39f8e59bd5bf06b06906a2c67d15e983563086"
     },
     {
+      "path": "capturas/Horizon Forbidden West Complete Edition/1.webp",
+      "size": 34794,
+      "sha256": "9843b20ed3cea2917a2e29df261c5ca879baff30e6519b5b94cb7df63245d850"
+    },
+    {
+      "path": "capturas/Horizon Forbidden West Complete Edition/2.webp",
+      "size": 18102,
+      "sha256": "82123a6236604a9996e3b16e95f7650a85e4df4e1214484654b1e99adb497211"
+    },
+    {
+      "path": "capturas/Horizon Forbidden West Complete Edition/3.webp",
+      "size": 21100,
+      "sha256": "a3a174c2ecc1e43971def3b64d2659e959509f26bd2ae1391b20fc3cbf82fa55"
+    },
+    {
+      "path": "capturas/Horizon Forbidden West Complete Edition/4.webp",
+      "size": 25364,
+      "sha256": "4b5616ac9fd82695c72d4a5737be7a80320001b1cf5ac9cbf882dcf5fd1b7b5b"
+    },
+    {
+      "path": "capturas/Horizon Forbidden West Complete Edition/5.webp",
+      "size": 18508,
+      "sha256": "710adb4ec53455303cedb1159b1d558b996479c035e75a5eb318c6544003625c"
+    },
+    {
+      "path": "capturas/Horizon Forbidden West Complete Edition/6.webp",
+      "size": 23760,
+      "sha256": "a9b76fe95370604d7828b6a3ac6f3450e454c16ed36e9b73a81ab7d41097f415"
+    },
+    {
       "path": "capturas/Hot Wheels Infinite Rush/01.webp",
       "size": 38326,
       "sha256": "ee1c6f3484b8017e2f0e0f17d67ff92a3bb12386947ffac44cfdb843d9411dc4"
@@ -735,6 +920,36 @@
       "path": "capturas/Hot Wheels Infinite Rush/06.webp",
       "size": 34592,
       "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/1.webp",
+      "size": 26126,
+      "sha256": "fed9a92867265a72a8d6252ed0a5ac0ddae04b5a9363decbfc076d69f14dde4a"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/2.webp",
+      "size": 18320,
+      "sha256": "9a56b8e0054154979b17bf0b846086efd095759d68f11312c7eb08bed4e7c92f"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/3.webp",
+      "size": 16230,
+      "sha256": "52d4581036644ec8f385023d60ede076ab542da4b03c978ce0516a69f7f48610"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/4.webp",
+      "size": 23406,
+      "sha256": "ff3b1e9f204ac9d685749fad8fb15b92cb91625fb6f77b1dfab0b1209db2fe71"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/5.webp",
+      "size": 13674,
+      "sha256": "7a5538af618c0d3f8f1f117ed2d1715c44b4f2abb8feae609b2b5c71ed1eb660"
+    },
+    {
+      "path": "capturas/Indiana Jones And The Great Circle/6.webp",
+      "size": 34540,
+      "sha256": "c946da04994b60c25c88c04652dd5e8f78a3ac9e0abd6fc5ca1381d80594b5eb"
     },
     {
       "path": "capturas/Kingdom Come Deliverance 2/1.webp",
@@ -1110,6 +1325,36 @@
       "path": "capturas/The Genesis Order/06.webp",
       "size": 24892,
       "sha256": "943ac459d3122a53b146d333ba8ec5cb108ac66fe7006bdee991a5a3de66fe82"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/1.webp",
+      "size": 8494,
+      "sha256": "3c831b9247d994e6d52c5d39e1e44a3d3e7a4bc32239c24cbc438ecb6dff9d2f"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/2.webp",
+      "size": 14268,
+      "sha256": "171962c41e7cafdc74a20e9da37fd8aad4a016f05b9e7ac044e361318a3850b4"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/3.webp",
+      "size": 19370,
+      "sha256": "373b2a6fa7aa97e09040fb7c67df502a6413cf428f75f98819bfaa6750e9ff87"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/4.webp",
+      "size": 20214,
+      "sha256": "7f33974d2853e225861e6cc73ec313ee1f950bb9381b868d4f85b65ebab1976f"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/5.webp",
+      "size": 7326,
+      "sha256": "3cbd70db7eba496f56bbe038fa94b81bde37601496cfacb0c9dfa74ca25be300"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 1/6.webp",
+      "size": 7482,
+      "sha256": "ff79ee89f413466acc56df22b4fac840d49eb2b2f8277012d35ff38946b88d34"
     },
     {
       "path": "capturas/The Last Of Us Part 2 Remastered/1.webp",

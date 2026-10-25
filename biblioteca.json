@@ -97,6 +97,11 @@
       "sha256": "042e1e4be417938a41bc1464dcd3072123d26c40138d36f9d9bd33a098452e27"
     },
     {
+      "path": "imagenes/Ghost Of Tsushima.webp",
+      "size": 75112,
+      "sha256": "3115bcaa28fd98fecd866bf849eaafba90a975acaf0d264bcc6c9ae6e76845f8"
+    },
+    {
       "path": "imagenes/God of War III Remastered.webp",
       "size": 148420,
       "sha256": "6d3377e94e330e62a386c6bd2fc6511dc41845bbb5b1272c57aa03c8ea049e93"
@@ -770,6 +775,36 @@
       "path": "capturas/Gears Of War E-Days Online/06.webp",
       "size": 56470,
       "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/1.webp",
+      "size": 11406,
+      "sha256": "d749963440ebaf1f13bc9e0c9b9fdd31e320e44c75cdafcfeeb4b4b712a01c2a"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/2.webp",
+      "size": 41282,
+      "sha256": "33c61ffe45b557ddd3a61106ebe977cfbbcae53a780cb84bbaee3595dfe83fb7"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/3.webp",
+      "size": 23180,
+      "sha256": "4d4b42a934e91804d9098257d86c3f28c2627499ff8986d46ac4a09b87bf5c0f"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/4.webp",
+      "size": 5600,
+      "sha256": "c12847690cd9ce8af7178cf2b4a0f0d1dcb2641d046bf397b11457ec150c2258"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/5.webp",
+      "size": 17938,
+      "sha256": "9f0c91403708d4c8a65012ecc2d61201a8ffac8a90c4e9624010aed169ab23a2"
+    },
+    {
+      "path": "capturas/Ghost Of Tsushima/6.webp",
+      "size": 15462,
+      "sha256": "d5f32726019756f943797b65511c12217640773232548a4e883c8e93e70f61f7"
     },
     {
       "path": "capturas/God of War III Remastered/1.webp",

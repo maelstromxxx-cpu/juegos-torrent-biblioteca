@@ -7,6 +7,16 @@
       "sha256": "67b57714a494ac30417b5c6bfa9b3def8baaef0a03869b45cba02ce243200fc5"
     },
     {
+      "path": "imagenes/Alan Wake 2.webp",
+      "size": 46236,
+      "sha256": "878c49b7d8f442c39856aab500dd2e428e609231fbfaf285b088b763f326672c"
+    },
+    {
+      "path": "imagenes/Alan Wake Remastered.webp",
+      "size": 12506,
+      "sha256": "826e4677eaaa0c27900d8200004d0581de5680e65356a8da8e3b671c5df3dddd"
+    },
+    {
       "path": "imagenes/Armored Core VI Fires Of Rubicon Deluxe Edition.webp",
       "size": 83546,
       "sha256": "773130cda8596648f5513191847d33091e0934805956d001140802274d6d50bb"
@@ -250,6 +260,66 @@
       "path": "capturas/A Plague Tale Requiem/6.webp",
       "size": 43788,
       "sha256": "35b533280cd4f1ad25745a637c55fbebdf78f650387daafc23d9c42997639dce"
+    },
+    {
+      "path": "capturas/Alan Wake 2/1.webp",
+      "size": 19464,
+      "sha256": "747be3d42686908f41e6ed4cecb0a318946d17f7576d0521f8fb9ea75fda332a"
+    },
+    {
+      "path": "capturas/Alan Wake 2/2.webp",
+      "size": 11420,
+      "sha256": "67f7869701ba008e4203be3c4c8a794f94bf951505b45aaf75329c9805860a77"
+    },
+    {
+      "path": "capturas/Alan Wake 2/3.webp",
+      "size": 10370,
+      "sha256": "b7fc18bc9fc26489bf572a9a9e7514d3a6c0a25cf4e74f0193730b120a8c115e"
+    },
+    {
+      "path": "capturas/Alan Wake 2/4.webp",
+      "size": 23908,
+      "sha256": "751847f1c0c2aada4e4b594a213930d6e9991b6fe4c9238f74f2694bb0a52631"
+    },
+    {
+      "path": "capturas/Alan Wake 2/5.webp",
+      "size": 20226,
+      "sha256": "fa9e7a68226d229b7d534cf3c56290d544169966edb6021d11aa4f44b34671dc"
+    },
+    {
+      "path": "capturas/Alan Wake 2/6.webp",
+      "size": 11644,
+      "sha256": "fb80a9098d51cbf677b81a58c0ed6e97d8da08de0605795d17ff03a08b72cc56"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/1.webp",
+      "size": 19952,
+      "sha256": "27c133c60b74bfbf387b89c68fea989d4ec0ec48dacf2b4985eea3e066d3f19c"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/2.webp",
+      "size": 11442,
+      "sha256": "830f1c53ac31d7699c3e40069618f3fc96b11be3c630bf50938d3878a7451cdb"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/3.webp",
+      "size": 11372,
+      "sha256": "5b587653fa20bdfa2654979d2ffab4ae1fb9be2964c46a09b5a01a9a9f70763f"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/4.webp",
+      "size": 7744,
+      "sha256": "72cb7fae35647be06af6ff4121d396623861afdf47809703a330ca9cf4748720"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/5.webp",
+      "size": 7710,
+      "sha256": "7c7be3aa4aa393f6ac7b0a6041e29697074e42b0e050102de3e205891266d15b"
+    },
+    {
+      "path": "capturas/Alan Wake Remastered/6.webp",
+      "size": 6918,
+      "sha256": "f8ca81169ed8aec41c5470c80a0f6795e0b7e191faa108a0a111a7779018750f"
     },
     {
       "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/1.webp",

@@ -2,6 +2,11 @@
   "schema": 1,
   "files": [
     {
+      "path": "imagenes/Assassins Creed Black Flag Resynced Deluxe Edition.webp",
+      "size": 70274,
+      "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
+    },
+    {
       "path": "imagenes/Bloodborne GOTY Edition.webp",
       "size": 31434,
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
@@ -10,6 +15,11 @@
       "path": "imagenes/Call of Duty Modern Warfare 4.webp",
       "size": 66148,
       "sha256": "e82c87c12693cb1517cc5b2db3db9c3ef82d955cd9c03135fd4906c93d5f0579"
+    },
+    {
+      "path": "imagenes/Call of Duty Modern Warfare II.webp",
+      "size": 147278,
+      "sha256": "d0620a9ebb051afdd4d76c3bd55abc34abbbe9f363d24c448ad991c1ce488071"
     },
     {
       "path": "imagenes/Call Of Duty Vanguard Full.webp",
@@ -80,6 +90,11 @@
       "path": "imagenes/Red Dead Redemption 2 Ultimate Edition.webp",
       "size": 63114,
       "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
+    },
+    {
+      "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
+      "size": 63882,
+      "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
     },
     {
       "path": "imagenes/The Genesis Order.webp",

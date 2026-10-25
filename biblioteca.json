@@ -2,6 +2,11 @@
   "schema": 1,
   "files": [
     {
+      "path": "imagenes/Armored Core VI Fires Of Rubicon Deluxe Edition.webp",
+      "size": 83546,
+      "sha256": "773130cda8596648f5513191847d33091e0934805956d001140802274d6d50bb"
+    },
+    {
       "path": "imagenes/Assassins Creed Black Flag Resynced Deluxe Edition.webp",
       "size": 70274,
       "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
@@ -77,6 +82,11 @@
       "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
     },
     {
+      "path": "imagenes/Lies Of P.webp",
+      "size": 40802,
+      "sha256": "e06d38d3f93d4e798e7f5c2fa05d6c1c23d90c6e5aa7492bac21a68982e8a0f6"
+    },
+    {
       "path": "imagenes/Marvels Spider-Man 2 Digital Deluxe Edition.webp",
       "size": 31106,
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
@@ -97,6 +107,11 @@
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
     },
     {
+      "path": "imagenes/Starfield.webp",
+      "size": 14508,
+      "sha256": "2e04a15d0fc19dbde43b5847d678d3a9754c430eee76f8f12c4177e179adf565"
+    },
+    {
       "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
       "size": 63882,
       "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
@@ -110,6 +125,36 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/1.webp",
+      "size": 16086,
+      "sha256": "07ce87744a5740c4c7b8625d3403432c26f23f653fd4d582cfa38be7bc7e878f"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/2.webp",
+      "size": 21108,
+      "sha256": "94d7313cadd632ecb423427e9443c57d7d945aedb241b2dacf4aab9826fc415e"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/3.webp",
+      "size": 21942,
+      "sha256": "d7b3f11b3f779f6830a3f89fce6dd7ac7e528e26abc1032913036b6294f7493c"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/4.webp",
+      "size": 35854,
+      "sha256": "33b2c1f68d3db055d12f1f7a8f2b7135656efedaa33584ba002166e1a7fe59b1"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/5.webp",
+      "size": 33138,
+      "sha256": "4e7d9c7fcc45679b10f28f535028b3b7bb28bd8fd7c8e2c2a92a4dd2fd5c058e"
+    },
+    {
+      "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/6.webp",
+      "size": 20886,
+      "sha256": "932a57da32cce4224d6ed0f70d1cc222a485c061a5778a2e7e9c8e2718a64ed2"
     },
     {
       "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/1.webp",
@@ -557,6 +602,36 @@
       "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
     },
     {
+      "path": "capturas/Lies Of P/1.webp",
+      "size": 13018,
+      "sha256": "e5cf1d807635b405b86909a71bccc87fdec1692cc242259771a545c36775929f"
+    },
+    {
+      "path": "capturas/Lies Of P/2.webp",
+      "size": 20840,
+      "sha256": "59f8b45ab438385f910ffb83255da8592989d3df77268ac6faa4ebce1009460b"
+    },
+    {
+      "path": "capturas/Lies Of P/3.webp",
+      "size": 15854,
+      "sha256": "3a17f517930a5226f79b59dd49c4a1ddbf15e8d1ee6f4f7502fe020f3e26a9a2"
+    },
+    {
+      "path": "capturas/Lies Of P/4.webp",
+      "size": 22736,
+      "sha256": "719c3551b08e2a15b1e2e4762b4e24b3f70959df5dc6803a84ea5b64680be8d9"
+    },
+    {
+      "path": "capturas/Lies Of P/5.webp",
+      "size": 17132,
+      "sha256": "b0941dd4a51a0a27cceb6c4499ce1b15a261fc141e1d0d4951a64b36d96b34af"
+    },
+    {
+      "path": "capturas/Lies Of P/6.webp",
+      "size": 19992,
+      "sha256": "b1b9c8eb16b0690d8102fa4184027036239f4cf5205823608de630da805788ab"
+    },
+    {
       "path": "capturas/Marvels Spider-Man 2 Digital Deluxe Edition/1.webp",
       "size": 23802,
       "sha256": "3778ccaa697422f19fe1fb1da3e7a6df22a9ca6195edc5f2f22036ebfce6f462"
@@ -660,6 +735,36 @@
       "path": "capturas/Sexnatural MILFs Must Be Filled/6.webp",
       "size": 15834,
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
+    },
+    {
+      "path": "capturas/Starfield/1.webp",
+      "size": 28506,
+      "sha256": "ad3df4fe5725320efe77c5ac2147e47349f46c76dcb0fcda01a27c5d3f86580e"
+    },
+    {
+      "path": "capturas/Starfield/2.webp",
+      "size": 16496,
+      "sha256": "5265dea27154d82cf72994194dd129107c58d7c16f9a214be77522bbd22409ba"
+    },
+    {
+      "path": "capturas/Starfield/3.webp",
+      "size": 10222,
+      "sha256": "b89523137528f886c5a9e83e1c7cdcb222ddbed650b3cb9ce653f9023a07dca7"
+    },
+    {
+      "path": "capturas/Starfield/4.webp",
+      "size": 19768,
+      "sha256": "82975e4ba3247e1630be82cad85daa1ef1a6a06278df9560ad00ec576326d17f"
+    },
+    {
+      "path": "capturas/Starfield/5.webp",
+      "size": 25640,
+      "sha256": "564651855c81bb160090dd0eb517a240f27a9c6280ade0b73911c4c846504db3"
+    },
+    {
+      "path": "capturas/Starfield/6.webp",
+      "size": 24910,
+      "sha256": "03ac8f89fdca6d966880b946ff88795fd3ec66b047ea8b906852639adac4aa51"
     },
     {
       "path": "capturas/The Blood of Dawnwalker Eclipse Edition/1.webp",

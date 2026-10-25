@@ -52,6 +52,11 @@
       "sha256": "042e1e4be417938a41bc1464dcd3072123d26c40138d36f9d9bd33a098452e27"
     },
     {
+      "path": "imagenes/God of War III Remastered.webp",
+      "size": 148420,
+      "sha256": "6d3377e94e330e62a386c6bd2fc6511dc41845bbb5b1272c57aa03c8ea049e93"
+    },
+    {
       "path": "imagenes/Grand Theft Auto V GTA.webp",
       "size": 86114,
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
@@ -440,6 +445,36 @@
       "path": "capturas/Gears Of War E-Days Online/06.webp",
       "size": 56470,
       "sha256": "c280a89da9f88dde7774d00055e787329d477ca8e6b55b6fd10e41a090024c5b"
+    },
+    {
+      "path": "capturas/God of War III Remastered/1.webp",
+      "size": 15208,
+      "sha256": "2c9b5804c481aa82ee78d72e2ac4f67af01373be9150ff246cdb6067e3b4dfae"
+    },
+    {
+      "path": "capturas/God of War III Remastered/2.webp",
+      "size": 19842,
+      "sha256": "18fd972443fcbf1a024327a9a530de616e9cb3055bf0323d871182623380a5db"
+    },
+    {
+      "path": "capturas/God of War III Remastered/3.webp",
+      "size": 28626,
+      "sha256": "7243c7905f6c339dda791c6de2594b48e0e9fc1d8410236660ca5ea8afbce688"
+    },
+    {
+      "path": "capturas/God of War III Remastered/4.webp",
+      "size": 34842,
+      "sha256": "62be3ad501e7df4bc2272cd29bdbe3bbb7d2adaf1359ae3ffd65dda8551701a2"
+    },
+    {
+      "path": "capturas/God of War III Remastered/5.webp",
+      "size": 8200,
+      "sha256": "120a7ebb45ca29c58b85e51198ded4c8b8712d0fedd322fba4dbfe2c9105089a"
+    },
+    {
+      "path": "capturas/God of War III Remastered/6.webp",
+      "size": 21560,
+      "sha256": "d2fdc1b34ac34c74df51c93fe42a43d12168705a13a5027fbfdaaa9f9e0dc263"
     },
     {
       "path": "capturas/Grand Theft Auto V GTA/01.webp",
@@ -837,6 +872,11 @@
       "sha256": "8d5cfe6c5c4ea4363c4973c3ebf3432fe35b987d951b17ab40cf0fb76470d00e"
     },
     {
+      "path": "sinopsis/God of War III Remastered.txt",
+      "size": 1093,
+      "sha256": "6347acaebfc9d6f1b68574dd96423c79ccf66cf597b7a9bdc0526e57ea9ec865"
+    },
+    {
       "path": "sinopsis/God Of War Ragnarok Deluxe Edition.txt",
       "size": 990,
       "sha256": "562b1562d0a727b4c5510a7933561609e7e69629aaa14f509e06cd97d6b2d475"
@@ -1145,6 +1185,11 @@
       "path": "datos/Ghost Of Tsushima.txt",
       "size": 102,
       "sha256": "28f23df49c488072f720858d608e8730d2603852ae5252bc3a3103bb03bf50ab"
+    },
+    {
+      "path": "datos/God of War III Remastered.txt",
+      "size": 100,
+      "sha256": "dbcf43024194024ff35d7b5c3d5befb6a51c3873f2bc6f5ab1cfb4de7ef38e8c"
     },
     {
       "path": "datos/God Of War Ragnarok Deluxe Edition.txt",

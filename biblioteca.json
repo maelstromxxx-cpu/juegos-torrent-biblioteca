@@ -137,6 +137,11 @@
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
     },
     {
+      "path": "imagenes/Spiderman Remastered.webp",
+      "size": 34594,
+      "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
+    },
+    {
       "path": "imagenes/Star Wars Jedi Survivor.webp",
       "size": 27812,
       "sha256": "f1a36c397640ae98e4c75214b39f2aee2884fe5117f7aaa5fef34eab4ab18867"
@@ -155,6 +160,11 @@
       "path": "imagenes/The Genesis Order.webp",
       "size": 16848,
       "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
+    },
+    {
+      "path": "imagenes/The Last Of Us Part 2 Remastered.webp",
+      "size": 44008,
+      "sha256": "3de16c2787345a1a22881787076c8c0ece7f27a88aa30aa1bf0c1f1a40efc7ba"
     },
     {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
@@ -952,6 +962,36 @@
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
     },
     {
+      "path": "capturas/Spiderman Remastered/1.webp",
+      "size": 17818,
+      "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
+    },
+    {
+      "path": "capturas/Spiderman Remastered/2.webp",
+      "size": 27654,
+      "sha256": "e9e6fb6c20221b21e5424bda15a7ccba3cce28cdbf2f70881d8c8f7cc9802a64"
+    },
+    {
+      "path": "capturas/Spiderman Remastered/3.webp",
+      "size": 35464,
+      "sha256": "da43eb880da7457aeef0e94b521a154e01e3d0fbfa1cb8b1393b4d63c56e2104"
+    },
+    {
+      "path": "capturas/Spiderman Remastered/4.webp",
+      "size": 20376,
+      "sha256": "ac3f2a372ba23f3e26fdb51392f3a9cf90347d36f99c8f66927c3a8804e795ea"
+    },
+    {
+      "path": "capturas/Spiderman Remastered/5.webp",
+      "size": 27766,
+      "sha256": "ba754d1411726b2894b3f18e32be5e59625f5e34852e67f997f51a335b32a393"
+    },
+    {
+      "path": "capturas/Spiderman Remastered/6.webp",
+      "size": 20740,
+      "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
+    },
+    {
       "path": "capturas/Star Wars Jedi Survivor/1.webp",
       "size": 19060,
       "sha256": "db1117dc4b2b4b0bd624c6ad351a4c122d0026a6c1cf27099d58636868fa83ca"
@@ -1070,6 +1110,36 @@
       "path": "capturas/The Genesis Order/06.webp",
       "size": 24892,
       "sha256": "943ac459d3122a53b146d333ba8ec5cb108ac66fe7006bdee991a5a3de66fe82"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/1.webp",
+      "size": 32844,
+      "sha256": "cb0e1aad4b6bdd68839347e4067274bb686d3b80720dde95247da9bf5da28ac6"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/2.webp",
+      "size": 33274,
+      "sha256": "ffa208e8321fd6098974ae6f7725755c61ba7499c80d346203ed2f00e4ea0002"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/3.webp",
+      "size": 19712,
+      "sha256": "515f0efe4a2b94f9a329a441e170b19a388ed317d2d51b73795b0e0a247768cc"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/4.webp",
+      "size": 14166,
+      "sha256": "319a48f14bc118c52392346cf86f4919843574c2dca8ebdf79b77a744c32aa7f"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/5.webp",
+      "size": 19858,
+      "sha256": "ca04a0a09acaf13f04a20af29472c930f03e657aec168b7a7f919138d4bb248b"
+    },
+    {
+      "path": "capturas/The Last Of Us Part 2 Remastered/6.webp",
+      "size": 6434,
+      "sha256": "6aa59fed9477ebb061c4fa7220678dd2931992ac53729d68cac666b5ff3896a5"
     },
     {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",

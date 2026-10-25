@@ -107,6 +107,11 @@
       "sha256": "6d3377e94e330e62a386c6bd2fc6511dc41845bbb5b1272c57aa03c8ea049e93"
     },
     {
+      "path": "imagenes/God Of War Ragnarok Deluxe Edition.webp",
+      "size": 48796,
+      "sha256": "cfed13586fab97c4931e20e38d2ef60700daf155dcf654b96d7025128b1a0714"
+    },
+    {
       "path": "imagenes/Grand Theft Auto V GTA.webp",
       "size": 86114,
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
@@ -160,6 +165,11 @@
       "path": "imagenes/Red Dead Redemption 2 Ultimate Edition.webp",
       "size": 63114,
       "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
+    },
+    {
+      "path": "imagenes/Resident Evil 4 Remake.webp",
+      "size": 16404,
+      "sha256": "bd93fcabe41389fdf3285b30f5b2e4c1b223cb86c973791a067ad995b07d1ffb"
     },
     {
       "path": "imagenes/Resident Evil 8 Village.webp",
@@ -837,6 +847,36 @@
       "sha256": "d2fdc1b34ac34c74df51c93fe42a43d12168705a13a5027fbfdaaa9f9e0dc263"
     },
     {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/1.webp",
+      "size": 24962,
+      "sha256": "ae29d6bf80731de647025a38712a877d57e5c9a470cf377876866d360bafc0dc"
+    },
+    {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/2.webp",
+      "size": 30574,
+      "sha256": "8a27af61b902c164687451a7e610061dbdde8fd8f0a3b62321fbf45a8dcd8d54"
+    },
+    {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/3.webp",
+      "size": 30316,
+      "sha256": "2f8342c2febadbbde7bb7e3b24a9468cb21047d2809f0a68b3480a307eb1f9c8"
+    },
+    {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/4.webp",
+      "size": 24686,
+      "sha256": "2cf059c0bdea3301ea900ee9c34f166159c2330b1d649cb03defff7e2ddde64a"
+    },
+    {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/5.webp",
+      "size": 21120,
+      "sha256": "aba79e385e6fb35c1c1d5fffc045a5cf3e1bdc3c2ad414a5a2e3757cfd8de1c9"
+    },
+    {
+      "path": "capturas/God Of War Ragnarok Deluxe Edition/6.webp",
+      "size": 23762,
+      "sha256": "0dc5c5eca6fcc30b1850a3b564575465b65afa5f7e3cdee516105b61312f51b7"
+    },
+    {
       "path": "capturas/Grand Theft Auto V GTA/01.webp",
       "size": 26208,
       "sha256": "fad88d5a4ae0201e9b313cd8e2151885c606ea28149789bb0cecd4cc3b5fb0b0"
@@ -1150,6 +1190,36 @@
       "path": "capturas/Red Dead Redemption 2 Ultimate Edition/6.webp",
       "size": 14604,
       "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/1.webp",
+      "size": 9258,
+      "sha256": "3649124237a8c3d5d05e7e924f31bda248de28ba5aff1df465b4fe3599490f02"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/2.webp",
+      "size": 19396,
+      "sha256": "201951667a93f551cbea0bc8c544c033aa0c3cc57a122aeab637fdb49e2b37f2"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/3.webp",
+      "size": 13522,
+      "sha256": "195a5f929273f5f90ae6ced7297a5fb97a080c11b4bce35701d30d57b4257c51"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/4.webp",
+      "size": 13196,
+      "sha256": "a60901acc9a1d52aab032d8299c344cb80a7a7adf065c59e576f069905762f32"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/5.webp",
+      "size": 23300,
+      "sha256": "29f640eed2bb36fa035df43482690b075c13cde2afe1e54ee7de8fd1eff9f999"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Remake/6.webp",
+      "size": 12064,
+      "sha256": "687e03e73c2cae04d0a1f0177fde693d1bd2d3704a7f52de35f3ab1ccd6d2570"
     },
     {
       "path": "capturas/Resident Evil 8 Village/1.webp",

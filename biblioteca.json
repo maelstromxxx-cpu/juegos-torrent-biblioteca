@@ -192,6 +192,11 @@
       "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
     },
     {
+      "path": "imagenes/Mortal Shell II Devout Edition.webp",
+      "size": 37892,
+      "sha256": "855bf1e75e33d10bf58651427753f72de97ef2aa3d42848df9d73fc1540fb5ed"
+    },
+    {
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
@@ -235,6 +240,21 @@
       "path": "imagenes/Starfield.webp",
       "size": 14508,
       "sha256": "2e04a15d0fc19dbde43b5847d678d3a9754c430eee76f8f12c4177e179adf565"
+    },
+    {
+      "path": "imagenes/Terminator 2D No Fate.webp",
+      "size": 56034,
+      "sha256": "77e252bbd64e80178301617d6e7f8435c9c83840991202e953ba8699fd82f112"
+    },
+    {
+      "path": "imagenes/Terminator Dark Fate Defiance Complete Bundle.webp",
+      "size": 29374,
+      "sha256": "6b5bf627ce3adc59f54ed96a0dec59005424f6c0fcf289b2427aa968bfe60f9f"
+    },
+    {
+      "path": "imagenes/Terminator Resistance.webp",
+      "size": 57564,
+      "sha256": "3d92fa0decb6f6d3b677fa5cf393881c1d4763ae0813bed1ad75c706a966730f"
     },
     {
       "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
@@ -1397,6 +1417,36 @@
       "sha256": "a2a1d286a686a8aba77e005e072099cd1ef642933f0f495890a8e8a176a15f3a"
     },
     {
+      "path": "capturas/Mortal Shell II Devout Edition/1.webp",
+      "size": 24998,
+      "sha256": "115f071e54a513c7af42dfe68b45790cc29d32e39e67533e3d0697f4a59c7b5d"
+    },
+    {
+      "path": "capturas/Mortal Shell II Devout Edition/2.webp",
+      "size": 12316,
+      "sha256": "a6d802801d1aa0c6f9a93b0833bebf4f184ffc066caaa77fed9968dee79427bb"
+    },
+    {
+      "path": "capturas/Mortal Shell II Devout Edition/3.webp",
+      "size": 27992,
+      "sha256": "9e25f50953d4917572c5db264b7bcf1881d1684156b8aea4c2f78992f67a1349"
+    },
+    {
+      "path": "capturas/Mortal Shell II Devout Edition/4.webp",
+      "size": 22464,
+      "sha256": "315f12212164dfd34bcd8d28392137ef51d163009102b227637195d9dd8f6077"
+    },
+    {
+      "path": "capturas/Mortal Shell II Devout Edition/5.webp",
+      "size": 12918,
+      "sha256": "7223b048c4e6ee25226d33c86c66f6f4ffb07feaef1b14ffdab37a2513ed55a4"
+    },
+    {
+      "path": "capturas/Mortal Shell II Devout Edition/6.webp",
+      "size": 32454,
+      "sha256": "460d957e6d4af73a8f1ffc8c7ff2deac5102eb0872304c14017742f1b2ce94b3"
+    },
+    {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
       "size": 40904,
       "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
@@ -1650,6 +1700,96 @@
       "path": "capturas/Starfield/6.webp",
       "size": 24910,
       "sha256": "03ac8f89fdca6d966880b946ff88795fd3ec66b047ea8b906852639adac4aa51"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/1.webp",
+      "size": 30528,
+      "sha256": "60881da646d97d0ad96f96b0191430926d9ae060b474ac8137f94ce98d10e3e5"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/2.webp",
+      "size": 23684,
+      "sha256": "6d1cd24061705e1b37535b295bc7d27fb0ac00111e0000ab05634536b0b7133e"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/3.webp",
+      "size": 24124,
+      "sha256": "d7e6ad4c355a3efdd241c2590731586dc2dcf63f5fd3ded3c712ee62edf6bdd0"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/4.webp",
+      "size": 18916,
+      "sha256": "07f65cf85c409560a09c57a8999d2197917c9b2cd184ed43abc2d9141592dfac"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/5.webp",
+      "size": 37648,
+      "sha256": "d33c17874d0974e4e8f2bad8bec9840a3e440ba8eb99e2b18634bd38fe8f60fc"
+    },
+    {
+      "path": "capturas/Terminator 2D No Fate/6.webp",
+      "size": 15778,
+      "sha256": "d0b49b19cb80a319d11e2a41077fb6cae8cd6ae84eda217bd1a5e6d3238fb624"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/1.webp",
+      "size": 24944,
+      "sha256": "cc7c9fbe733b3cbd441e68eed632b69dad8a3d83d8cea775d70242abe70594b3"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/2.webp",
+      "size": 32934,
+      "sha256": "014b194890cce10cfda1ec03451f4678d51c3923be90fe11dc202a8a218faf1c"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/3.webp",
+      "size": 31724,
+      "sha256": "02431be76d155f267db7029120bcbfdd4db836d2097661ac268e6b4cac9cd29d"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/4.webp",
+      "size": 46826,
+      "sha256": "c448aa7250b9b01dad03316a6c4bf6d6570f3f454cfe1df35380c4d8669bd191"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/5.webp",
+      "size": 28538,
+      "sha256": "9e18ccddce575b67b1a90eda490031644ec1d49a5d039aaac3241e7a1e490609"
+    },
+    {
+      "path": "capturas/Terminator Dark Fate Defiance Complete Bundle/6.webp",
+      "size": 11322,
+      "sha256": "4e158178b2eb1e789a52d2ac64411091c4ba2a1f483abb30d4ea35eb7ff45e9e"
+    },
+    {
+      "path": "capturas/Terminator Resistance/1.webp",
+      "size": 16902,
+      "sha256": "aa81d937d67be97e7cb4fadf8887c00f387df0ef0dd30eba984dda1930ab5e8e"
+    },
+    {
+      "path": "capturas/Terminator Resistance/2.webp",
+      "size": 7084,
+      "sha256": "9aee8ba942c3529cb49e5ebf862a84a7b30845ab2883558f8e84d24ed5526cb4"
+    },
+    {
+      "path": "capturas/Terminator Resistance/3.webp",
+      "size": 23376,
+      "sha256": "22f1a82c6f2a19bb70fefd62e4a3943cd8d5c37a2121e7cb5d38b5f7eaabb03e"
+    },
+    {
+      "path": "capturas/Terminator Resistance/4.webp",
+      "size": 15450,
+      "sha256": "2f6417b7fc25605296f16003c68f4827445a6ad5a41ee05b66a5325aeb922986"
+    },
+    {
+      "path": "capturas/Terminator Resistance/5.webp",
+      "size": 8402,
+      "sha256": "a5bdd01a8076bdea43c6725b2e3656448e4cda4ac6061045fb07ac13ec104678"
+    },
+    {
+      "path": "capturas/Terminator Resistance/6.webp",
+      "size": 16332,
+      "sha256": "8d72b1596c2780b938df4d8233285744fcb90ba50fed258519240ac43e3c27ee"
     },
     {
       "path": "capturas/The Blood of Dawnwalker Eclipse Edition/1.webp",
@@ -2047,6 +2187,11 @@
       "sha256": "9a4e7b5e145cadeb16dba3de462cf3d441c912b93a904ddf826f5a656d15b4a6"
     },
     {
+      "path": "sinopsis/Mortal Shell II Devout Edition.txt",
+      "size": 332,
+      "sha256": "19825594c80d05e18295b27126801d8d9f6c73223af375dc23ab6c91df06cb3c"
+    },
+    {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
       "size": 814,
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
@@ -2105,6 +2250,21 @@
       "path": "sinopsis/Starfield.txt",
       "size": 916,
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
+    },
+    {
+      "path": "sinopsis/Terminator 2D No Fate.txt",
+      "size": 285,
+      "sha256": "cef457304877d1ecbaf3ef3a025b5499a7388ae7f3b04a1d99da6f895e1f1af0"
+    },
+    {
+      "path": "sinopsis/Terminator Dark Fate Defiance Complete Bundle.txt",
+      "size": 384,
+      "sha256": "fbde505693ca7bf7a5338d7c13f466d32cc0a4507bffbc82981e1937c40397ff"
+    },
+    {
+      "path": "sinopsis/Terminator Resistance.txt",
+      "size": 381,
+      "sha256": "44f3c8b0954e15e5964fc0736126f3255114cccc3fcb8651628329404297fd74"
     },
     {
       "path": "sinopsis/The Blood of Dawnwalker Eclipse Edition.txt",
@@ -2382,6 +2542,11 @@
       "sha256": "06b8ffa88d520f7db03af1cef2be59bc4142ea13287e643fc030a9a918b5f484"
     },
     {
+      "path": "datos/Mortal Shell II Devout Edition.txt",
+      "size": 173,
+      "sha256": "241992fe76744a302a77c7a2fc9dbf4467b9b9b662a2d7e0d5f4cba50d17b3be"
+    },
+    {
       "path": "datos/Need For Speed Most Wanted HD.txt",
       "size": 164,
       "sha256": "a8e49bbc65da6939808763c1a1861f488a3249894e713cb464ef66d62397fe3e"
@@ -2440,6 +2605,21 @@
       "path": "datos/Starfield.txt",
       "size": 155,
       "sha256": "e9e025dd608d655e13f836effb38348c1d5cfa99f220694932068590af7d293e"
+    },
+    {
+      "path": "datos/Terminator 2D No Fate.txt",
+      "size": 186,
+      "sha256": "8b03bbfbf981fb11474df13302e46bf61c2fdfcbda37cd6cc49f7e77ebe4fb5e"
+    },
+    {
+      "path": "datos/Terminator Dark Fate Defiance Complete Bundle.txt",
+      "size": 198,
+      "sha256": "7fd17bdb8b0c9730ba3be2ed605c2098ca49a8835da289eb024c86b83bac6d8b"
+    },
+    {
+      "path": "datos/Terminator Resistance.txt",
+      "size": 196,
+      "sha256": "fb090d6e8753dd724b7918f475ffc2290a4d85db9eca7a60a8089befdc1c827d"
     },
     {
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",

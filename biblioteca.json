@@ -2,6 +2,11 @@
   "schema": 1,
   "files": [
     {
+      "path": "imagenes/007 First Light.webp",
+      "size": 23160,
+      "sha256": "d65254eda6368e693ee831987a9e8859cc1c9c56f241c4b4d3180fc65f3d32bc"
+    },
+    {
       "path": "imagenes/A Plague Tale Requiem.webp",
       "size": 40318,
       "sha256": "67b57714a494ac30417b5c6bfa9b3def8baaef0a03869b45cba02ce243200fc5"
@@ -290,6 +295,41 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "capturas/007 First Light/1.webp",
+      "size": 10688,
+      "sha256": "0d1d152a3a2303e2350f75f319d9e2ff5017756e05bcd3b585f29ed2c2c27a14"
+    },
+    {
+      "path": "capturas/007 First Light/2.webp",
+      "size": 18638,
+      "sha256": "3fb8fe57cb89186678c9d0ebd6e98d2799677abe87a8b19ce11cf648942da9d1"
+    },
+    {
+      "path": "capturas/007 First Light/3.webp",
+      "size": 13994,
+      "sha256": "3a81cf6fa58f1c0df8ccf6468720a82228460f3ea23bcc5f1083eab374be2571"
+    },
+    {
+      "path": "capturas/007 First Light/4.webp",
+      "size": 23676,
+      "sha256": "828f69727a72cbf637c07aa65286dadb6a34adcfb0d5ee960cda0b7e57062cda"
+    },
+    {
+      "path": "capturas/007 First Light/5.webp",
+      "size": 11120,
+      "sha256": "929bba790ee2df6de511f647a196ace3db51f7700f0668cd17b42ba8f93333ec"
+    },
+    {
+      "path": "capturas/007 First Light/6.webp",
+      "size": 15970,
+      "sha256": "24efe879767cc47c185cc475375ed5f12cbe38a8d8bb5ed9a837a54226597d5e"
+    },
+    {
+      "path": "capturas/007 First Light/7.webp",
+      "size": 7834,
+      "sha256": "e9d1ca870f30cd65da69745c8ff5820b48354758a0b6aa54b668999389f0d0c4"
     },
     {
       "path": "capturas/A Plague Tale Requiem/1.webp",
@@ -2012,6 +2052,11 @@
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
     },
     {
+      "path": "sinopsis/007 First Light.txt",
+      "size": 383,
+      "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
+    },
+    {
       "path": "sinopsis/A Plague Tale Requiem.txt",
       "size": 963,
       "sha256": "bd3855fbea41aed3ead3d2d82d3b9cca690de77528c1db2fa199f0ceb67ff80e"
@@ -2375,6 +2420,11 @@
       "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
+    },
+    {
+      "path": "datos/007 First Light.txt",
+      "size": 188,
+      "sha256": "6676e6e1071c1a6d7b3e465b5fde3edf708d5e082134dccb8daeb5bc104d91a3"
     },
     {
       "path": "datos/A Plague Tale Requiem.txt",

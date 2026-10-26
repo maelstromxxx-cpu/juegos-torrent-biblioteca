@@ -92,6 +92,11 @@
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
     {
+      "path": "imagenes/Castlevania Belmonts Curse Midnight Edition.webp",
+      "size": 167886,
+      "sha256": "7f8221708f7193e14866406f5c0eebb0bbfd6599ea21652488cac07b4b339efa"
+    },
+    {
       "path": "imagenes/Clive Barkers Hellraiser Revival Deluxe Edition.webp",
       "size": 46782,
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
@@ -840,6 +845,36 @@
       "path": "capturas/Call Of Duty WWII Full/06.webp",
       "size": 68992,
       "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/1.webp",
+      "size": 17722,
+      "sha256": "83bfa9ab7e39e24ecf6a71ad769a0661e228a14cfbadc30b71544efdeb256073"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/2.webp",
+      "size": 17812,
+      "sha256": "f10e66fa4d697b1908a9ae619382bdae6c4b6994fe0db8c02eb5d0f935e20381"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/3.webp",
+      "size": 23636,
+      "sha256": "9e2163fdeae8304c05b3b0ec619d31ff471242c64c68560cfb804436ad330073"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/4.webp",
+      "size": 10838,
+      "sha256": "285d935266cedc6328b6dd4a3f323b52da58dc72beaccd4de6f4288159206e31"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/5.webp",
+      "size": 19784,
+      "sha256": "eb5edcba8b6b73142edac19c151772d478e026e49db3e440e19e35b98529e1d1"
+    },
+    {
+      "path": "capturas/Castlevania Belmonts Curse Midnight Edition/6.webp",
+      "size": 22010,
+      "sha256": "74a4c2a392b43333dc321521e053b899d1ed6baff49ab29bdecb2cbb1310fe72"
     },
     {
       "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/1.webp",
@@ -2207,6 +2242,11 @@
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
     },
     {
+      "path": "sinopsis/Castlevania Belmonts Curse Midnight Edition.txt",
+      "size": 381,
+      "sha256": "1354253191f3562dbccbb0f90f923f25c592597c2fe22cb4fbd3a6fb4c64f1c0"
+    },
+    {
       "path": "sinopsis/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
       "size": 1272,
       "sha256": "9170a9a914321c064804f758692a39b2b4f6c8c521893a9c4736904305e44669"
@@ -2580,6 +2620,11 @@
       "path": "datos/Call Of Duty WWII.txt",
       "size": 140,
       "sha256": "a02e255d83d19df8f15487ca02d075f1c618035b0a3fe6ee88a2388111187bcf"
+    },
+    {
+      "path": "datos/Castlevania Belmonts Curse Midnight Edition.txt",
+      "size": 194,
+      "sha256": "012892e41cb68d7199ae4e30e97a3eac0129fdbd31a11fac5600db715cc8bdd8"
     },
     {
       "path": "datos/Clive Barkers Hellraiser Revival Deluxe Edition.txt",

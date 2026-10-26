@@ -252,6 +252,11 @@
       "sha256": "aa97f66e5089f508b29f5a316a8d01e8c5ba0d01cdf1b97a2bd375c21678be8f"
     },
     {
+      "path": "imagenes/Sniper Elite Resistance Deluxe Edition.webp",
+      "size": 53450,
+      "sha256": "4e351c823fb4ab0facdabb9a43515c67cfcb65ff9870fbacc14b7e370d99d4b9"
+    },
+    {
       "path": "imagenes/Spiderman Remastered.webp",
       "size": 34594,
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
@@ -1792,6 +1797,36 @@
       "sha256": "edf365ee919f804f1d5b1606ea185f11ac9a8d4dbfb4ba0186c4a66db00aa618"
     },
     {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/1.webp",
+      "size": 10402,
+      "sha256": "27b9ec79af3022c8a225dc725f710d967a4e8fa273538ebc5aa9ceda13116816"
+    },
+    {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/2.webp",
+      "size": 26576,
+      "sha256": "b90c898e4003b5c4ebeeade11809cc0ebac516d58f02fdbed04811fc19e138ce"
+    },
+    {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/3.webp",
+      "size": 30750,
+      "sha256": "a3e37b9f75632ebf1c8a5e119420a819da68de2c959cf7a2dc78aaac6fddf374"
+    },
+    {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/4.webp",
+      "size": 31306,
+      "sha256": "6211a610a67c8b686bd63f2a72b5166db00973595f171591cdef929a6bda447e"
+    },
+    {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/5.webp",
+      "size": 42498,
+      "sha256": "1d5350e877990499198c1036c3d5f90c698b10cfb2f2f970502fd0f0024eee1d"
+    },
+    {
+      "path": "capturas/Sniper Elite Resistance Deluxe Edition/6.webp",
+      "size": 18118,
+      "sha256": "087a55357e183be407ef23d28ccdf2620c91cabe117a15456faf2146c2cb9301"
+    },
+    {
       "path": "capturas/Spiderman Remastered/1.webp",
       "size": 17818,
       "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
@@ -2437,6 +2472,11 @@
       "sha256": "b86ec45fad3fb57232342e197e635f1fbb3e797b96d6037adbbce45bc3fb5c19"
     },
     {
+      "path": "sinopsis/Sniper Elite Resistance Deluxe Edition.txt",
+      "size": 472,
+      "sha256": "962f1d0ae6e75466ac088e0bb501da1099f8c4597e3a9ba8fbd62bc9600143c0"
+    },
+    {
       "path": "sinopsis/Spiderman Remastered.txt",
       "size": 955,
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
@@ -2815,6 +2855,11 @@
       "path": "datos/Sniper Elite 5 Complete Edition.txt",
       "size": 210,
       "sha256": "34c79063d6d3292693f38b6f8221f752fdbaaec20e9c5fba64ede7cbd2453380"
+    },
+    {
+      "path": "datos/Sniper Elite Resistance Deluxe Edition.txt",
+      "size": 209,
+      "sha256": "e97d2d5f384aac764a89330ede29b4cdeb05c85f364e652e6a117bd30e6957ec"
     },
     {
       "path": "datos/Spiderman Remastered.txt",

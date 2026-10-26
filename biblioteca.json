@@ -187,6 +187,11 @@
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
     },
     {
+      "path": "imagenes/Metro Redux.webp",
+      "size": 64298,
+      "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
+    },
+    {
       "path": "imagenes/Monster Hunter Wild.webp",
       "size": 55228,
       "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
@@ -1387,6 +1392,36 @@
       "sha256": "0728968eaa05677b3fb9b1104dcc8ffa63fbfef852313b22273ae976f6046769"
     },
     {
+      "path": "capturas/Metro Redux/1.webp",
+      "size": 24868,
+      "sha256": "ee3368d6c7c9fcca3f7da1f0e7bc754764a2c4a2f17c6198eb4e8ae364ef0797"
+    },
+    {
+      "path": "capturas/Metro Redux/2.webp",
+      "size": 34056,
+      "sha256": "6802edf90719371b6934d6a7f18d7cf934b2449a6070c1488d0ecfc492bf12b2"
+    },
+    {
+      "path": "capturas/Metro Redux/3.webp",
+      "size": 24802,
+      "sha256": "e5fe4ab184a344a3b4105d019634504a958c2458cc096d5e3ac70d06427f18ee"
+    },
+    {
+      "path": "capturas/Metro Redux/4.webp",
+      "size": 24432,
+      "sha256": "37408e2c3fe122f5037e8cb981f1fdf9f777ba1a980950fbbe9749740dc69851"
+    },
+    {
+      "path": "capturas/Metro Redux/5.webp",
+      "size": 13568,
+      "sha256": "726c20d3b10c0daf0eeaa61408b45447af2d6eff606e3cfa31ee30507333efd0"
+    },
+    {
+      "path": "capturas/Metro Redux/6.webp",
+      "size": 28390,
+      "sha256": "addc675f0612612eba7fd13780f11f4898a30166bc07b155965f4367275d96a5"
+    },
+    {
       "path": "capturas/Monster Hunter Wild/1.webp",
       "size": 41510,
       "sha256": "32f98083cbe8bae1d521ec9fee7f6711e51f3d8ab3fc5123a6a170315964e546"
@@ -2182,6 +2217,11 @@
       "sha256": "2748f4ee7cb2f17ddc8bc3ba7fbcaeb08b3f1ba0862371038a2028fcf3c1dbfb"
     },
     {
+      "path": "sinopsis/Metro Redux.txt",
+      "size": 471,
+      "sha256": "4ff514fd0e019266373b042d39e6d3676f918a4f76717d489870d8b0fd118443"
+    },
+    {
       "path": "sinopsis/Monster Hunter Wild.txt",
       "size": 1088,
       "sha256": "9a4e7b5e145cadeb16dba3de462cf3d441c912b93a904ddf826f5a656d15b4a6"
@@ -2535,6 +2575,11 @@
       "path": "datos/Metal Gear Solid 5 The Phantom Pain.txt",
       "size": 147,
       "sha256": "ff2fde8a411067dc01a456c551916be3609a98f114e39b538eda550a668e5e1f"
+    },
+    {
+      "path": "datos/Metro Redux.txt",
+      "size": 211,
+      "sha256": "1ccaafb52c2c622d38b149568e1b8bd9b849dc060e3468b358b00f8548e957ef"
     },
     {
       "path": "datos/Monster Hunter Wild.txt",

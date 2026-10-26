@@ -112,6 +112,11 @@
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
     },
     {
+      "path": "imagenes/EA SPORTS FIFA 23.webp",
+      "size": 69110,
+      "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
+    },
+    {
       "path": "imagenes/Elden Ring.webp",
       "size": 9244,
       "sha256": "ccdc90a5f4d5944a14e28fad5d2e016fb583e545930fec4500ae86244bc97b17"
@@ -940,6 +945,36 @@
       "path": "capturas/Dying Light 2 Stay Human/6.webp",
       "size": 11968,
       "sha256": "25f50df2fab2333efedce5d93463c9aef7d16bb03a96690ae0dcc68bcc873a37"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/1.webp",
+      "size": 33584,
+      "sha256": "8b3e23c4a8b09ca58efc888b01c1e1f2dbb9bde2ebf3b65a4dd2871ce036d36e"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/2.webp",
+      "size": 31736,
+      "sha256": "2af987412aff3bb8db0faeea8980057483fe615dd5425949e6e517a88aef1fa0"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/3.webp",
+      "size": 30722,
+      "sha256": "9d287e503a783049e5fe482eb50ba84cfe9b6264533a07be03231a8bd4a1ebb7"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/4.webp",
+      "size": 31062,
+      "sha256": "3dd3f2703c4dd54675ea95959229c268b79592a7eb29f6a24a477fab6ce9c4a4"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/5.webp",
+      "size": 21392,
+      "sha256": "27f87e2875c44783cc71dc0831b84b87141880a2b00fb7d1b242e96fe587a70f"
+    },
+    {
+      "path": "capturas/EA SPORTS FIFA 23/6.webp",
+      "size": 21184,
+      "sha256": "32523a1eef6581babf8a59fe05eae73bdb352483192555614c5dbec7dc04d9cf"
     },
     {
       "path": "capturas/Elden Ring/1.webp",
@@ -2127,6 +2162,11 @@
       "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
     },
     {
+      "path": "sinopsis/EA SPORTS FIFA 23.txt",
+      "size": 332,
+      "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
+    },
+    {
       "path": "sinopsis/Elden Ring.txt",
       "size": 927,
       "sha256": "292b1e71a61fc1543958eeb4a8a84f689fa27370150286e98ab139638122660d"
@@ -2485,6 +2525,11 @@
       "path": "datos/Dying Light 2 Stay Human.txt",
       "size": 162,
       "sha256": "995a6cd8c4968e7cf63907ecd10c848bd14602aec0fdfdfcedc8fa3f31c2b3e6"
+    },
+    {
+      "path": "datos/EA SPORTS FIFA 23.txt",
+      "size": 179,
+      "sha256": "71186e9239ad849ed2ae880c5d7a00c386f99484f95b1085e40942fbdee14fdd"
     },
     {
       "path": "datos/Elden Ring.txt",

@@ -57,6 +57,11 @@
       "sha256": "d0620a9ebb051afdd4d76c3bd55abc34abbbe9f363d24c448ad991c1ce488071"
     },
     {
+      "path": "imagenes/Call of Duty Modern Warfare III.webp",
+      "size": 61758,
+      "sha256": "ff4bfdb394721122e291f5f0821e734988bd72be7e4acdf2a6fc5dc8e244678a"
+    },
+    {
       "path": "imagenes/Call Of Duty Vanguard Full.webp",
       "size": 30410,
       "sha256": "2d755aafd5ff86eee10ab845adfbac0e053425bba86d5da1cd45d9840aed818e"
@@ -585,6 +590,36 @@
       "path": "capturas/Call of Duty Modern Warfare II/6.webp",
       "size": 22238,
       "sha256": "09d159b5ba8d1101098d03339e224cf0a0283b5dc94016e5b7496d88d141cbcd"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/1.webp",
+      "size": 21220,
+      "sha256": "1c27599a2dac3fa51f246bcf3a8acb00575b9fe3cd68b949852a646638d65c0d"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/2.webp",
+      "size": 26078,
+      "sha256": "2c5fa2c0af64986031105d753953b5b1b9814c92c07a50370db2427fa7f4ac54"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/3.webp",
+      "size": 30962,
+      "sha256": "5f449cc6a6a8e2585bd97be5fd37b5b53ab920e30bfd43b04f4159840f5d5bb6"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/4.webp",
+      "size": 32218,
+      "sha256": "554b8ba656c37f02b941e9e61f61fd49a1b033f8290975a57d4277f025c25cc5"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/5.webp",
+      "size": 26796,
+      "sha256": "32a78f0010c4898319724fd9a479707c3f7413c030383aac19e52be6e995ac0b"
+    },
+    {
+      "path": "capturas/Call of Duty Modern Warfare III/6.webp",
+      "size": 25750,
+      "sha256": "959a27d91607d2e49293d510db80407992e07479cd6d1330f93459a8b537836a"
     },
     {
       "path": "capturas/Call Of Duty Vanguard/01.webp",
@@ -1782,6 +1817,11 @@
       "sha256": "27cb5c2f905f5a270f8101fab4ec6ed01ce25d964d5676ab5e4b7b6332926b48"
     },
     {
+      "path": "sinopsis/Call of Duty Modern Warfare III.txt",
+      "size": 286,
+      "sha256": "eb7a98aabd4c69e66ad7f3457f67397d0d4dcbc2f6e4a87326d524e6771795f8"
+    },
+    {
       "path": "sinopsis/Call Of Duty Vanguard Full.txt",
       "size": 1339,
       "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
@@ -2100,6 +2140,11 @@
       "path": "datos/Call of Duty Modern Warfare II.txt",
       "size": 140,
       "sha256": "657700aea838b6bb3d8077d7b166aa009ba99c958576ad5afe33d75777c42d71"
+    },
+    {
+      "path": "datos/Call of Duty Modern Warfare III.txt",
+      "size": 149,
+      "sha256": "bc36e174cf20a990f0b0115f527c68a112d6d0d118fd6c86983225ac536ef362"
     },
     {
       "path": "datos/Call Of Duty Vanguard Full.txt",

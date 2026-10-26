@@ -217,6 +217,11 @@
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
     },
     {
+      "path": "imagenes/Sniper Elite 3.webp",
+      "size": 53366,
+      "sha256": "02cb7bacf0b422e9c8fe7ec0a61609230b560e40e6d1ef7ca0a60a60f138a5ba"
+    },
+    {
       "path": "imagenes/Spiderman Remastered.webp",
       "size": 34594,
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
@@ -1527,6 +1532,36 @@
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
     },
     {
+      "path": "capturas/Sniper Elite 3/1.webp",
+      "size": 35776,
+      "sha256": "26050971a5388241b16eb9d2bf939532f7e3951a98a5e30d958500b67ebd433e"
+    },
+    {
+      "path": "capturas/Sniper Elite 3/2.webp",
+      "size": 50264,
+      "sha256": "19039e536d1555a5129f1c4c1b10d21b6311f267862bfe536df772f0200ac84e"
+    },
+    {
+      "path": "capturas/Sniper Elite 3/3.webp",
+      "size": 35714,
+      "sha256": "fb0ee48446560a481872fde8189867f22551330a1b2a616c2b15d3b9345a3949"
+    },
+    {
+      "path": "capturas/Sniper Elite 3/4.webp",
+      "size": 26796,
+      "sha256": "3adb69e665cb99aadf86bd6f4c39db0477dcce6e9be923e4fd7f6812a33ed927"
+    },
+    {
+      "path": "capturas/Sniper Elite 3/5.webp",
+      "size": 39262,
+      "sha256": "7e6e8d852df5630567e429733b5f6e4bba6ef86aab31ebf03862ebebe0025961"
+    },
+    {
+      "path": "capturas/Sniper Elite 3/6.webp",
+      "size": 49484,
+      "sha256": "851eb6293752d34044e8fbe9e9c45c92c5131575c96cdd8385727ad67191c0ba"
+    },
+    {
       "path": "capturas/Spiderman Remastered/1.webp",
       "size": 17818,
       "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
@@ -2047,6 +2082,11 @@
       "sha256": "068c69d35acfdac520e4f545e118fd0ce70f38de1eab76578f26a5bd41930bea"
     },
     {
+      "path": "sinopsis/Sniper Elite 3.txt",
+      "size": 376,
+      "sha256": "5f666afe2015706120f484551b233cf880b676a27477718cf307d79d9c79b653"
+    },
+    {
       "path": "sinopsis/Spiderman Remastered.txt",
       "size": 955,
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
@@ -2375,6 +2415,11 @@
       "path": "datos/Silent Hill Townfall.txt",
       "size": 142,
       "sha256": "46410b03032cd41568ae4258690e5fb4fb1e16c4501b31ee209f2bc3c244934c"
+    },
+    {
+      "path": "datos/Sniper Elite 3.txt",
+      "size": 179,
+      "sha256": "1308ae7ffc2a45bab8c523f010eea4145528c53f5334a53397341e74288b7691"
     },
     {
       "path": "datos/Spiderman Remastered.txt",

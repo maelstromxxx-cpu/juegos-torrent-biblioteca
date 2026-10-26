@@ -242,6 +242,11 @@
       "sha256": "02cb7bacf0b422e9c8fe7ec0a61609230b560e40e6d1ef7ca0a60a60f138a5ba"
     },
     {
+      "path": "imagenes/Sniper Elite 5 Complete Edition.webp",
+      "size": 64242,
+      "sha256": "aa97f66e5089f508b29f5a316a8d01e8c5ba0d01cdf1b97a2bd375c21678be8f"
+    },
+    {
       "path": "imagenes/Spiderman Remastered.webp",
       "size": 34594,
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
@@ -1722,6 +1727,36 @@
       "sha256": "851eb6293752d34044e8fbe9e9c45c92c5131575c96cdd8385727ad67191c0ba"
     },
     {
+      "path": "capturas/Sniper Elite 5 Complete Edition/1.webp",
+      "size": 14068,
+      "sha256": "02db8ad5ec4385aaa614dc8cc5a0a0d9636675386b024118874564e43057e51c"
+    },
+    {
+      "path": "capturas/Sniper Elite 5 Complete Edition/2.webp",
+      "size": 16580,
+      "sha256": "e39e35bc3168ef9b82f78da0984463ab13f9aedca806e9032a4a34b06dc49f5f"
+    },
+    {
+      "path": "capturas/Sniper Elite 5 Complete Edition/3.webp",
+      "size": 37438,
+      "sha256": "e4c208c3e1eea89fd18aa5619bda24a8245d24dc5614635a30cd92183c303cf5"
+    },
+    {
+      "path": "capturas/Sniper Elite 5 Complete Edition/4.webp",
+      "size": 47002,
+      "sha256": "0fdc727be38d060da2349c7ddd773ed1235f8ba0d7022a46bb94ec49d13c80aa"
+    },
+    {
+      "path": "capturas/Sniper Elite 5 Complete Edition/5.webp",
+      "size": 21978,
+      "sha256": "9f07130bf94841761546f37859be6f043c31bc0cf806c544701eb0f80be56eb8"
+    },
+    {
+      "path": "capturas/Sniper Elite 5 Complete Edition/6.webp",
+      "size": 16546,
+      "sha256": "edf365ee919f804f1d5b1606ea185f11ac9a8d4dbfb4ba0186c4a66db00aa618"
+    },
+    {
       "path": "capturas/Spiderman Remastered/1.webp",
       "size": 17818,
       "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
@@ -2357,6 +2392,11 @@
       "sha256": "5f666afe2015706120f484551b233cf880b676a27477718cf307d79d9c79b653"
     },
     {
+      "path": "sinopsis/Sniper Elite 5 Complete Edition.txt",
+      "size": 431,
+      "sha256": "b86ec45fad3fb57232342e197e635f1fbb3e797b96d6037adbbce45bc3fb5c19"
+    },
+    {
       "path": "sinopsis/Spiderman Remastered.txt",
       "size": 955,
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
@@ -2725,6 +2765,11 @@
       "path": "datos/Sniper Elite 3.txt",
       "size": 214,
       "sha256": "8c93128b2a4d92e02f1c6bf45b6590774893feb44a0e8270f1c18a28c40991c8"
+    },
+    {
+      "path": "datos/Sniper Elite 5 Complete Edition.txt",
+      "size": 210,
+      "sha256": "34c79063d6d3292693f38b6f8221f752fdbaaec20e9c5fba64ede7cbd2453380"
     },
     {
       "path": "datos/Spiderman Remastered.txt",

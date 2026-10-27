@@ -47,6 +47,11 @@
       "sha256": "6dc4c9116e13f51c22cb1afa42d0130852e75ef3dbf6db7166c78ed63d73a116"
     },
     {
+      "path": "imagenes/Battlefield 4.webp",
+      "size": 98396,
+      "sha256": "d9725b875b13c8c3986b7fd0b33dd21bc63b406cc5782e1317a04e50f86ad52a"
+    },
+    {
       "path": "imagenes/Beast of Reincarnation Deluxe Edition.webp",
       "size": 395938,
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
@@ -620,6 +625,26 @@
       "path": "capturas/Battlefield 3/4.webp",
       "size": 34602,
       "sha256": "581bb74b9c9b2887b8b9e0c2a45eb7129af309eb728d5c71da32cfbe79a81888"
+    },
+    {
+      "path": "capturas/Battlefield 4/1.webp",
+      "size": 26334,
+      "sha256": "1284016c4ace80032759bb023aa4537a997ad677111eb8ca269096fcc5e77fd2"
+    },
+    {
+      "path": "capturas/Battlefield 4/2.webp",
+      "size": 27458,
+      "sha256": "2b0f0d9275b0ebfe7724b2e1fa8238ff3a669dc174742c9bc8d43c1dac35448a"
+    },
+    {
+      "path": "capturas/Battlefield 4/3.webp",
+      "size": 32338,
+      "sha256": "4be531e24ec3a63d720e90cdd40fa422fe873f8fc08849ff90ba1e17f00d50cd"
+    },
+    {
+      "path": "capturas/Battlefield 4/4.webp",
+      "size": 16260,
+      "sha256": "a7c2f62542cdf99a9b614a445e097bf70a0a502cf38e8c4edae5538d24165647"
     },
     {
       "path": "capturas/Beast of Reincarnation Deluxe Edition/1.webp",

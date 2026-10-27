@@ -592,6 +592,36 @@
       "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
     },
     {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/1.webp",
+      "size": 27230,
+      "sha256": "d78fa3bbb1e5f96f760466097896b5ab1b32e919062246e3c251e889418b726e"
+    },
+    {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/2.webp",
+      "size": 31648,
+      "sha256": "82e2d3fb426b8ec26a76e715063e502f7a93b1ab11f77389d23d7fe1f9f5d479"
+    },
+    {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/3.webp",
+      "size": 41410,
+      "sha256": "c72991a3290cc023bad1cb83636812c695b067a1349e8bfc7ea14ab467540a92"
+    },
+    {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/4.webp",
+      "size": 33854,
+      "sha256": "550a66fe073318d08be99a09a9008d88c3e5e31240ac2ce3a7e40667b5cd586e"
+    },
+    {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/5.webp",
+      "size": 27760,
+      "sha256": "3442169e5992251b6b3f438e3a9e46023d79f12b60948e27f1c4df792087f25d"
+    },
+    {
+      "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
+      "size": 29418,
+      "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
+    },
+    {
       "path": "capturas/Black Myth Wukong/1.webp",
       "size": 22580,
       "sha256": "4ea554c858a05ed370f13e903c7841708d3782d3a5e83c917f295f58359b7d0a"
@@ -2472,6 +2502,11 @@
       "sha256": "e03612225958e5495e0883d5a36759d8b4cf9ce7967a877c3d411943cad67553"
     },
     {
+      "path": "sinopsis/Beast of Reincarnation Deluxe Edition.txt",
+      "size": 246,
+      "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
+    },
+    {
       "path": "sinopsis/Black Myth Wukong.txt",
       "size": 833,
       "sha256": "728b262924be972a5bfcaed652f208577465727bafe467f0d9a7a8ffad1e2830"
@@ -2890,6 +2925,11 @@
       "path": "datos/Battlefield V.txt",
       "size": 175,
       "sha256": "34dda0832fb8961efc3025a3d8e490046c643a9366ce25496bdbd316bcf11344"
+    },
+    {
+      "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
+      "size": 159,
+      "sha256": "5112aa5f4b0c22109a6938f9644d0b7ad3880777d83f5efbc6de62743fcbce50"
     },
     {
       "path": "datos/Black Myth Wukong.txt",

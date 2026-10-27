@@ -147,6 +147,11 @@
       "sha256": "ccdc90a5f4d5944a14e28fad5d2e016fb583e545930fec4500ae86244bc97b17"
     },
     {
+      "path": "imagenes/Entity The Black Day.webp",
+      "size": 44308,
+      "sha256": "735603fee10715f2d1f52b1fe679984973dda5bd4ca7c3a6a8cd634a5ecff69d"
+    },
+    {
       "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
       "size": 77266,
       "sha256": "9d919821b89de27d336556b6fabf0a79effb3f7589b6f30cefb1ba6032c0bad6"
@@ -1195,6 +1200,36 @@
       "path": "capturas/Elden Ring/6.webp",
       "size": 14362,
       "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
+    },
+    {
+      "path": "capturas/Entity The Black Day/1.webp",
+      "size": 33098,
+      "sha256": "acea11a9ad9720233800c503d3477548bf95074e57b73fda489726b64382cb44"
+    },
+    {
+      "path": "capturas/Entity The Black Day/2.webp",
+      "size": 10048,
+      "sha256": "b8976bce8eba53051c866a5892c7526a054c7332f09f529ac89ab92d66010ac1"
+    },
+    {
+      "path": "capturas/Entity The Black Day/3.webp",
+      "size": 17736,
+      "sha256": "9f579add864c9efb8a933eadba5dce146d4797a2bdc4ac54b62086e37a769126"
+    },
+    {
+      "path": "capturas/Entity The Black Day/4.webp",
+      "size": 23950,
+      "sha256": "42ac93fa7b791f818becf66f3ddf52949c298e64d78892d04eed5944a67489d1"
+    },
+    {
+      "path": "capturas/Entity The Black Day/5.webp",
+      "size": 15370,
+      "sha256": "d54db9b9be596914715288edd33519041afab9ef2d67235e1a1db5a2f2fb1fd4"
+    },
+    {
+      "path": "capturas/Entity The Black Day/6.webp",
+      "size": 18056,
+      "sha256": "71fe6da15f086c443f088124711233b85be2392d51d3a3ebd446aede4b602ddb"
     },
     {
       "path": "capturas/Forza Horizon 5 Premium Edition/1.webp",
@@ -2447,6 +2482,11 @@
       "sha256": "292b1e71a61fc1543958eeb4a8a84f689fa27370150286e98ab139638122660d"
     },
     {
+      "path": "sinopsis/Entity The Black Day.txt",
+      "size": 267,
+      "sha256": "ce4e4d869674195b10ec912cca15266be9817132ed9d3a6621279475584aa0d0"
+    },
+    {
       "path": "sinopsis/Forza Horizon 3.txt",
       "size": 615,
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
@@ -2845,6 +2885,11 @@
       "path": "datos/Elden Ring.txt",
       "size": 188,
       "sha256": "3c3cda378af3d49ea19f295f1c9533d91890af2d1db1498f9b6085dc66cb1257"
+    },
+    {
+      "path": "datos/Entity The Black Day.txt",
+      "size": 168,
+      "sha256": "e452ca8e4e812c5d63b681f10f059bb80a46568e3de20c7af0e07de894e48576"
     },
     {
       "path": "datos/Forza Horizon 3.txt",

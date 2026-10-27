@@ -47,6 +47,11 @@
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
     },
     {
+      "path": "imagenes/Battlefield 1 Ultimate Edition.webp",
+      "size": 35354,
+      "sha256": "766ded7091771d9ae5eb9c5d8ca76710c828c082e8778a08f58f7f20aefdb7a7"
+    },
+    {
       "path": "imagenes/Battlefield 3.webp",
       "size": 85830,
       "sha256": "6dc4c9116e13f51c22cb1afa42d0130852e75ef3dbf6db7166c78ed63d73a116"
@@ -55,6 +60,16 @@
       "path": "imagenes/Battlefield 4.webp",
       "size": 98396,
       "sha256": "d9725b875b13c8c3986b7fd0b33dd21bc63b406cc5782e1317a04e50f86ad52a"
+    },
+    {
+      "path": "imagenes/Battlefield 6.webp",
+      "size": 38778,
+      "sha256": "8d0502b14497ea37d69915858090a1d4aabb2374b9463c1f234e0ebb1cdc19ef"
+    },
+    {
+      "path": "imagenes/Battlefield V.webp",
+      "size": 23576,
+      "sha256": "5e4749a397be9c24eabad5cf4539a9d8f824736e8e14496e82f65a3dfc1d8269"
     },
     {
       "path": "imagenes/Beast of Reincarnation Deluxe Edition.webp",
@@ -642,6 +657,36 @@
       "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
     },
     {
+      "path": "capturas/Battlefield 1 Ultimate Edition/1.webp",
+      "size": 23260,
+      "sha256": "34d116825741de3165505770a1880dd48c188675cfe5e7a49acf6f250690227c"
+    },
+    {
+      "path": "capturas/Battlefield 1 Ultimate Edition/2.webp",
+      "size": 21642,
+      "sha256": "27d32ff64d2cf547d20a459d5c51593fd82a52953ab8e015f09f55c4bc06dc75"
+    },
+    {
+      "path": "capturas/Battlefield 1 Ultimate Edition/3.webp",
+      "size": 22232,
+      "sha256": "c99d7750b1cdc1644e7c24872fdca459235aaea15c6340b73ad1e2bcfb2f6a87"
+    },
+    {
+      "path": "capturas/Battlefield 1 Ultimate Edition/4.webp",
+      "size": 16764,
+      "sha256": "33e6af3a4253d9ed1e774f03c1af3bdf9bec5d4154b7815ed7b6e6f6df6b1f2b"
+    },
+    {
+      "path": "capturas/Battlefield 1 Ultimate Edition/5.webp",
+      "size": 22820,
+      "sha256": "f6f4e5c4b9d10485bde2a63451af827d16e9d60a2840771010b098dd2a194b47"
+    },
+    {
+      "path": "capturas/Battlefield 1 Ultimate Edition/6.webp",
+      "size": 23880,
+      "sha256": "d78737974d87229c2ef46a87018487356f33a0279ba84b5da64861dbf5f04cbc"
+    },
+    {
       "path": "capturas/Battlefield 3/1.webp",
       "size": 17992,
       "sha256": "92814dd39a6edaba0f39e2febdb3f18dad49c8b09002edde5c573a8a91243d33"
@@ -680,6 +725,66 @@
       "path": "capturas/Battlefield 4/4.webp",
       "size": 16260,
       "sha256": "a7c2f62542cdf99a9b614a445e097bf70a0a502cf38e8c4edae5538d24165647"
+    },
+    {
+      "path": "capturas/Battlefield 6/1.webp",
+      "size": 20906,
+      "sha256": "45669fecb0a01b74a46570a1466bfe955f767a708e723f717a61aa2d9184a458"
+    },
+    {
+      "path": "capturas/Battlefield 6/2.webp",
+      "size": 19334,
+      "sha256": "539fd87cbbf6211e34b3428ba2598f726d67a7e0ed2063e53fdb26d340d53c45"
+    },
+    {
+      "path": "capturas/Battlefield 6/3.webp",
+      "size": 21122,
+      "sha256": "2576f26fcce8e338553989137c20248bd3135df52557bd38a244d3905bb83950"
+    },
+    {
+      "path": "capturas/Battlefield 6/4.webp",
+      "size": 43918,
+      "sha256": "8b2c4cc2911fa24f76982f4b54ec56e1df4b2f6c58ee2f81b7795e32921a3879"
+    },
+    {
+      "path": "capturas/Battlefield 6/5.webp",
+      "size": 41356,
+      "sha256": "4d17b6271f996c71ed9ee639142de7ccbe689dd1c0dad4a2f61c244ffd77ca94"
+    },
+    {
+      "path": "capturas/Battlefield 6/6.webp",
+      "size": 40016,
+      "sha256": "c2e7e3983fa6180cd2a4b3cb728d8fe86930809405988c34f1ab376d0bbf1163"
+    },
+    {
+      "path": "capturas/Battlefield V/1.webp",
+      "size": 22398,
+      "sha256": "742d7d9ddd8fd95ad703ecbb816c89b597626fe1f6a5932160b72abe5058484d"
+    },
+    {
+      "path": "capturas/Battlefield V/2.webp",
+      "size": 22690,
+      "sha256": "209fd0d114383457895305671a8052fb8a99d85f338f561b0ef35931b7e73bc8"
+    },
+    {
+      "path": "capturas/Battlefield V/3.webp",
+      "size": 9902,
+      "sha256": "1572b0395bb6dd10dc92b96a75e2c44c7ab4fe32bef96f4bbf0590ff5ec6b1dd"
+    },
+    {
+      "path": "capturas/Battlefield V/4.webp",
+      "size": 25950,
+      "sha256": "dbfc23f184f0a25ac1477577bb0e9ba771ef67fa4299ebe584930eef60a3a6b4"
+    },
+    {
+      "path": "capturas/Battlefield V/5.webp",
+      "size": 35964,
+      "sha256": "d638a277f79c491d1022ccab8bd5fe76ac3a31923eb07b2a86e87264289ba9e3"
+    },
+    {
+      "path": "capturas/Battlefield V/6.webp",
+      "size": 25294,
+      "sha256": "25cea34cc01893533414df310292511658f1e3c22893c69bf6b76d059103adfe"
     },
     {
       "path": "capturas/Beast of Reincarnation Deluxe Edition/1.webp",
@@ -2567,6 +2672,11 @@
       "sha256": "0a51b80c7124755fb609b6ac8bca9cbcc67e96b19b3a6be7b22d22de978bd230"
     },
     {
+      "path": "sinopsis/Battlefield 1 Ultimate Edition.txt",
+      "size": 751,
+      "sha256": "21eff8beec31f4892adb70420b46fa399c75c698bfbac46bb10ad1befa8f6288"
+    },
+    {
       "path": "sinopsis/Battlefield 3.txt",
       "size": 664,
       "sha256": "46ddf2ceef8c9e52dcf51efd7691f4fd1647043d97c2a94824bb6e703dd880c0"
@@ -2580,11 +2690,6 @@
       "path": "sinopsis/Battlefield 6.txt",
       "size": 761,
       "sha256": "93670823b3b01d96d10d3d3a5455f738fbb7fa8adf9ee4e00dfbef2ab5e2f837"
-    },
-    {
-      "path": "sinopsis/Battlefield I Ultimate Edition.txt",
-      "size": 751,
-      "sha256": "21eff8beec31f4892adb70420b46fa399c75c698bfbac46bb10ad1befa8f6288"
     },
     {
       "path": "sinopsis/Battlefield V.txt",
@@ -2992,6 +3097,11 @@
       "sha256": "3ad237265d4c07edc152a1a031e82df35159a32e3b9e5c1ff5ca5d2dd6e55fe2"
     },
     {
+      "path": "datos/Battlefield 1 Ultimate Edition.txt",
+      "size": 175,
+      "sha256": "c251df65800a6564a6d057fff46b5519512ca6ebf294d647071fbdf8c39c3817"
+    },
+    {
       "path": "datos/Battlefield 3.txt",
       "size": 175,
       "sha256": "f8753d3df66ed44d3aa6bfe6c07dbc431a10f6b9394e12434b550abce46ded26"
@@ -3005,11 +3115,6 @@
       "path": "datos/Battlefield 6.txt",
       "size": 175,
       "sha256": "4c06479fa8c9edb634047142dfc85dfe789d9b69ea07e5a4f4d1e4753fbe51db"
-    },
-    {
-      "path": "datos/Battlefield I Ultimate Edition.txt",
-      "size": 175,
-      "sha256": "c251df65800a6564a6d057fff46b5519512ca6ebf294d647071fbdf8c39c3817"
     },
     {
       "path": "datos/Battlefield V.txt",

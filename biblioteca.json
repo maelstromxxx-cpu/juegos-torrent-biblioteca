@@ -217,6 +217,11 @@
       "sha256": "e06d38d3f93d4e798e7f5c2fa05d6c1c23d90c6e5aa7492bac21a68982e8a0f6"
     },
     {
+      "path": "imagenes/Mafia The Old Country Definitive Edition.webp",
+      "size": 32458,
+      "sha256": "e11df64f1f917b44b824d28cb79127945e625fbf4f4567d57a3e7d7fce297ea3"
+    },
+    {
       "path": "imagenes/Marvels Spider-Man 2 Digital Deluxe Edition.webp",
       "size": 31106,
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
@@ -335,6 +340,11 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "imagenes/Wicked Seed.webp",
+      "size": 14916,
+      "sha256": "a2d87d05dbe340f1d854f13fc5d052debdefac656f4a9d89a93af7c9814755ea"
     },
     {
       "path": "capturas/007 First Light/1.webp",
@@ -1627,6 +1637,36 @@
       "sha256": "b1b9c8eb16b0690d8102fa4184027036239f4cf5205823608de630da805788ab"
     },
     {
+      "path": "capturas/Mafia The Old Country Definitive Edition/1.webp",
+      "size": 36822,
+      "sha256": "aaf41e0b66b36cbcf819bb2f35dde2810db9514e266db02b6b3d6ca1455c4137"
+    },
+    {
+      "path": "capturas/Mafia The Old Country Definitive Edition/2.webp",
+      "size": 31892,
+      "sha256": "ee1a99b2f46fd4aef678a16a732a8d078a4c21dc55ef73bbc2231ae101104368"
+    },
+    {
+      "path": "capturas/Mafia The Old Country Definitive Edition/3.webp",
+      "size": 26456,
+      "sha256": "0fba6c1281d878fe90a9d1256bff57dc4fe608252f6b6eb11d34e6f57334cd93"
+    },
+    {
+      "path": "capturas/Mafia The Old Country Definitive Edition/4.webp",
+      "size": 15820,
+      "sha256": "d34100cc6c000822ecb7d73286092f8e893771408689cf77e9c47cb8ef1926e3"
+    },
+    {
+      "path": "capturas/Mafia The Old Country Definitive Edition/5.webp",
+      "size": 33760,
+      "sha256": "d96fb149b2b3e3670224403886b96e2e75d30d9c28fdcd592471d656d1acb432"
+    },
+    {
+      "path": "capturas/Mafia The Old Country Definitive Edition/6.webp",
+      "size": 35190,
+      "sha256": "ddaeb519732e040fb78f4afe5066f22623b73631f28592e65d4a4c08834100a1"
+    },
+    {
       "path": "capturas/Marvels Spider-Man 2 Digital Deluxe Edition/1.webp",
       "size": 23802,
       "sha256": "3778ccaa697422f19fe1fb1da3e7a6df22a9ca6195edc5f2f22036ebfce6f462"
@@ -2332,6 +2372,36 @@
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
     },
     {
+      "path": "capturas/Wicked Seed/1.webp",
+      "size": 14326,
+      "sha256": "70aa960fd5a8d3af68ebee03cb92bf56c3117f3816bcb7331f785f1347b36895"
+    },
+    {
+      "path": "capturas/Wicked Seed/2.webp",
+      "size": 15904,
+      "sha256": "8d1771d87eeb12fe3a88acc73e6e094d4165e7a421baeddd909d0253e111c03e"
+    },
+    {
+      "path": "capturas/Wicked Seed/3.webp",
+      "size": 10018,
+      "sha256": "69559b20cb0a0c0c299c498751c00e9c65a83d26dfd8946bbba9fb69a2f4330e"
+    },
+    {
+      "path": "capturas/Wicked Seed/4.webp",
+      "size": 14604,
+      "sha256": "0339eab95533ec607d8a03b1a49957107a6476f536b25570c179995dca2821be"
+    },
+    {
+      "path": "capturas/Wicked Seed/5.webp",
+      "size": 9382,
+      "sha256": "c6628d63f32434fbe58b49f7c75d3111cfb74c5e6d58391a3b5d1d11da4b0a64"
+    },
+    {
+      "path": "capturas/Wicked Seed/6.webp",
+      "size": 8152,
+      "sha256": "0fcc58fc08822d41dd0fcfa6cdb43880a8cf070baa2c3aef3f328c7a1b388091"
+    },
+    {
       "path": "sinopsis/007 First Light.txt",
       "size": 383,
       "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
@@ -2597,6 +2667,11 @@
       "sha256": "75f74bcb3b42694eee2d268c152022eceb8f4186066fe9e60e2661c36c22189a"
     },
     {
+      "path": "sinopsis/Mafia The Old Country Definitive Edition.txt",
+      "size": 295,
+      "sha256": "7fc349c80aebfda4d3df5a52cfcd6e0c51d86ab624f66c098e4f6f6ce31faaf5"
+    },
+    {
       "path": "sinopsis/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 964,
       "sha256": "4849e60e5f3b20e99241203e17ce4e77920830b1142cc3f1196d6c4cf350f465"
@@ -2740,6 +2815,11 @@
       "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
+    },
+    {
+      "path": "sinopsis/Wicked Seed.txt",
+      "size": 260,
+      "sha256": "61e22a81fa8495d67bf03bae98b679071f61f1e27535180eda2516e1cd88664f"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -3007,6 +3087,11 @@
       "sha256": "31331e67cefecb4f5c1a662b5477a329da081d1ad0bee8bc1fab1fdfbea0e08b"
     },
     {
+      "path": "datos/Mafia The Old Country Definitive Edition.txt",
+      "size": 178,
+      "sha256": "799116c5baf9f7ee1dcb69d2dc2f51b0b4ae9a3c87ba80ba0ba2fad71ce60b6d"
+    },
+    {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 169,
       "sha256": "92aa04e2893243bdc523589b4d0119c7c96715a7b4d9479e839d8b9495b559ad"
@@ -3150,6 +3235,11 @@
       "path": "datos/Warhammer 40K Space Marine 2.txt",
       "size": 186,
       "sha256": "cf6e41ff496765c03c7e1b4bd2bd860dfb01888d3e3b0ea13ae4680c5c9ec461"
+    },
+    {
+      "path": "datos/Wicked Seed.txt",
+      "size": 169,
+      "sha256": "ff8d1c2a5981718e4d4011b5e7882a2d6e6f02137e3910a201581f7a8037c27e"
     }
   ]
 }

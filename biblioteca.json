@@ -37,6 +37,11 @@
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
     },
     {
+      "path": "imagenes/Atomic Heart.webp",
+      "size": 76358,
+      "sha256": "7a50d4d32944753da127023214fc82262753ba93da3f7ba45599c03562d42d62"
+    },
+    {
       "path": "imagenes/Baldurs Gate 3 Deluxe Edition.webp",
       "size": 72342,
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
@@ -575,6 +580,36 @@
       "path": "capturas/Assassins Creed Shadows Premium Edition/6.webp",
       "size": 26282,
       "sha256": "9c3a84f9c09152721b0128712d0d2cb0cb856fb123752ab97bc425dca418b0bb"
+    },
+    {
+      "path": "capturas/Atomic Heart/1.webp",
+      "size": 32964,
+      "sha256": "6a45f66898fb41381acbd70d73f8a3e79197dde1ae25f318a67ea7a3fb8c4881"
+    },
+    {
+      "path": "capturas/Atomic Heart/2.webp",
+      "size": 29852,
+      "sha256": "7c050dc64e2c8e36ace4251bd49b491338a6272238746f4b895b37c3fa1abc16"
+    },
+    {
+      "path": "capturas/Atomic Heart/3.webp",
+      "size": 20502,
+      "sha256": "6cd04d3c4f0efcbac8321ace6c746b2237068a0e4c1c0ad48cc87ba03c422fd9"
+    },
+    {
+      "path": "capturas/Atomic Heart/4.webp",
+      "size": 36540,
+      "sha256": "3b21800d7865e34254158363d6fffa7c8f2dc5fbbb52a68b7cf65fdb272cd5cc"
+    },
+    {
+      "path": "capturas/Atomic Heart/5.webp",
+      "size": 17750,
+      "sha256": "2928140d1a0bb2f360e8a930924e8d291436822b67fb221686311cc67c3bfa20"
+    },
+    {
+      "path": "capturas/Atomic Heart/6.webp",
+      "size": 24068,
+      "sha256": "1582e3f7fdc52527521cba6896d0a0dd8544b512600ba2386f11ce6bbfa86268"
     },
     {
       "path": "capturas/Baldurs Gate 3 Deluxe Edition/1.webp",

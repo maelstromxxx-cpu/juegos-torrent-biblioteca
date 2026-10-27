@@ -32,6 +32,11 @@
       "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
     },
     {
+      "path": "imagenes/Assassins Creed Shadows Premium Edition.webp",
+      "size": 44820,
+      "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
+    },
+    {
       "path": "imagenes/Baldurs Gate 3 Deluxe Edition.webp",
       "size": 72342,
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
@@ -102,6 +107,11 @@
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
     },
     {
+      "path": "imagenes/Crimson Desert Enhanced Deluxe Edition.webp",
+      "size": 48912,
+      "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
+    },
+    {
       "path": "imagenes/Cyberpunk 2077 Ultimate Edition.webp",
       "size": 25706,
       "sha256": "e5df2e454d6eab6629bce5bb7fd7de30894bfe9fc124784714ff31315f1a972c"
@@ -120,6 +130,11 @@
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
+    },
+    {
+      "path": "imagenes/EA SPORTS FC 26.webp",
+      "size": 63506,
+      "sha256": "86a370ecd9c1534da9162de1030283e0377752d15534c25602f2ff4c5952b943"
     },
     {
       "path": "imagenes/EA SPORTS FIFA 23.webp",
@@ -495,6 +510,36 @@
       "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/6.webp",
       "size": 22542,
       "sha256": "79d459e9874a69f597e5219c7d9e0c280baffbb78bdf5a16f9db1e3fe1b6ed92"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/1.webp",
+      "size": 40252,
+      "sha256": "d8071943043b0cb85b645e9c80fd712e9e78769ae57c5a1a255c2bb269e95b40"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/2.webp",
+      "size": 27270,
+      "sha256": "9e281acc66adcd75bfde7c21bf2f82cc80d9ed5141cf313c14a85742d98fc174"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/3.webp",
+      "size": 22410,
+      "sha256": "ae0967adde146e65d2820e3f35d3a47925d67d9a5fe569ea67a630059ef18107"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/4.webp",
+      "size": 37524,
+      "sha256": "cf2e63d5e39ecc239a3b4651e41b8a5f33e292affadeff48ae9cad5752508a2e"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/5.webp",
+      "size": 17600,
+      "sha256": "d98452deea56350162f8e670a976d9a3988d2047d50f5fba0f1ce0d1fb35be47"
+    },
+    {
+      "path": "capturas/Assassins Creed Shadows Premium Edition/6.webp",
+      "size": 26282,
+      "sha256": "9c3a84f9c09152721b0128712d0d2cb0cb856fb123752ab97bc425dca418b0bb"
     },
     {
       "path": "capturas/Baldurs Gate 3 Deluxe Edition/1.webp",
@@ -912,6 +957,36 @@
       "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
     },
     {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/1.webp",
+      "size": 24034,
+      "sha256": "edeaa8a4196b2a04d815c5edf4165860142fb9fc6c9ef279f4c95f12ece5a275"
+    },
+    {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/2.webp",
+      "size": 59008,
+      "sha256": "0cc441684c28c319615936f737650d2ba757a48365ace56ee3f58c388bf4ea9c"
+    },
+    {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/3.webp",
+      "size": 43840,
+      "sha256": "c84f3eed47b0774bfdaab9e6c0d58c87bf3448e9d0bf4a475e6053365f24b5d5"
+    },
+    {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/4.webp",
+      "size": 16850,
+      "sha256": "00f715e72adc626bdf08de815c28cfec1f1dcec2fe4d4ad54bb1828134df1ae3"
+    },
+    {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/5.webp",
+      "size": 40148,
+      "sha256": "d120f7849f9b075fcf99f66a584632551f14d0ec1608975a3746c648d6f01ee6"
+    },
+    {
+      "path": "capturas/Crimson Desert Enhanced Deluxe Edition/6.webp",
+      "size": 59276,
+      "sha256": "8d229b04c03982327f25d3bfcfa1562901152b7bd73361114f768c90db0cf7d3"
+    },
+    {
       "path": "capturas/Cyberpunk 2077 Ultimate Edition/1.webp",
       "size": 29398,
       "sha256": "a091a8fac320355bba40a83139e23ff0db8394f23e063e58641b7e366fb5f098"
@@ -1030,6 +1105,36 @@
       "path": "capturas/Dying Light 2 Stay Human/6.webp",
       "size": 11968,
       "sha256": "25f50df2fab2333efedce5d93463c9aef7d16bb03a96690ae0dcc68bcc873a37"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/1.webp",
+      "size": 23254,
+      "sha256": "ceb906ffc9c0ad3e2788fd2038c01c12cacfa2f27855811133942a1cf0a649c6"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/2.webp",
+      "size": 22990,
+      "sha256": "98001786bf1421efe3b7d9e8593bb786bcc6f61fd26c7d2c34943bf96bce1449"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/3.webp",
+      "size": 10192,
+      "sha256": "d2461bbd30c95dced2e9cca8881015d9853e7bc90df5c77c42877269fd78230e"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/4.webp",
+      "size": 14700,
+      "sha256": "b76d2a71add72dc60905846cda7b3dbe06fedf83098522653d9afacd8b84b68a"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/5.webp",
+      "size": 29790,
+      "sha256": "d87f5bc8d8831edd73ae3779ea97a9aa10d54717910ad8f6dc6d0bd9f5f9949d"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 26/6.webp",
+      "size": 27460,
+      "sha256": "c63b138f57dca923b18f7b8761c4ea8a6c1ba3eb9579f376538a428b4f2f04c2"
     },
     {
       "path": "capturas/EA SPORTS FIFA 23/1.webp",
@@ -2187,6 +2292,11 @@
       "sha256": "5b573ca0b3f509ac1a196479ac2e88aba11922f6ec47f72dd13a37963b4df3b3"
     },
     {
+      "path": "sinopsis/Assassins Creed Shadows Premium Edition.txt",
+      "size": 572,
+      "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
+    },
+    {
       "path": "sinopsis/Atomic Heart.txt",
       "size": 840,
       "sha256": "c7a7de17cf894abcba0e87061840431ba0a4d049aafa35700829df91628ab02c"
@@ -2292,6 +2402,11 @@
       "sha256": "f392adfd33cccaded2ef7c75a90a172d28c0f4d94593a25a8ddb2b202462b92b"
     },
     {
+      "path": "sinopsis/Crimson Desert Enhanced Deluxe Edition.txt",
+      "size": 453,
+      "sha256": "42b54a3528dac24a307e6b1ac6cea295b9155846871c278d997d0711be9588cf"
+    },
+    {
       "path": "sinopsis/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 828,
       "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
@@ -2315,6 +2430,11 @@
       "path": "sinopsis/Dying Light 2 Stay Human.txt",
       "size": 1029,
       "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
+    },
+    {
+      "path": "sinopsis/EA SPORTS FC 26.txt",
+      "size": 337,
+      "sha256": "fa2e66813fd95a80aea338716797c90b32bb24b301233e410ed0b88ca57af24f"
     },
     {
       "path": "sinopsis/EA SPORTS FIFA 23.txt",
@@ -2572,6 +2692,11 @@
       "sha256": "55f2093d3800f5752c9232c601b8a83d3dd7589c9a4702b540b8fd874f0c5fb5"
     },
     {
+      "path": "datos/Assassins Creed Shadows Premium Edition.txt",
+      "size": 178,
+      "sha256": "f138a192c24cf2df38f735791acecc19962446934f1e1b2a4e02a710719fc777"
+    },
+    {
       "path": "datos/Atomic Heart.txt",
       "size": 178,
       "sha256": "a53931a1505d49820b8e0e8c709d5126be1d31b8b8d62a7c40944c7af1e8f02f"
@@ -2677,6 +2802,11 @@
       "sha256": "b1ff867fed849e211296419970f624eaf5cd1b94faa8a042173637a7a5eb13ec"
     },
     {
+      "path": "datos/Crimson Desert Enhanced Deluxe Edition.txt",
+      "size": 193,
+      "sha256": "5bb2eb36e8b5d841b29645f88db9696be7fcd42feb0f8d23c73802fbda0eda45"
+    },
+    {
       "path": "datos/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 162,
       "sha256": "42d85556bab22e619aeaab40b236cf3e4ef45bd71a7b65db31d151b7f10f57c6"
@@ -2700,6 +2830,11 @@
       "path": "datos/Dying Light 2 Stay Human.txt",
       "size": 194,
       "sha256": "ddfa815af1f63bf914cca8bffe7657244a4ffda3c262fa8da2f2c7b0787a3ff0"
+    },
+    {
+      "path": "datos/EA SPORTS FC 26.txt",
+      "size": 195,
+      "sha256": "c9318ef274d8389f51d44ed0f3dbc841e17244c4bdad81967cc50ae3617e73ff"
     },
     {
       "path": "datos/EA SPORTS FIFA 23.txt",

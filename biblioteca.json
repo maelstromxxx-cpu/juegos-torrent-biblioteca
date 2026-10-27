@@ -202,6 +202,11 @@
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
     },
     {
+      "path": "imagenes/Marvels Spider-Man Remastered.webp",
+      "size": 34594,
+      "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
+    },
+    {
       "path": "imagenes/Metro Redux.webp",
       "size": 64298,
       "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
@@ -255,11 +260,6 @@
       "path": "imagenes/Sniper Elite Resistance Deluxe Edition.webp",
       "size": 53450,
       "sha256": "4e351c823fb4ab0facdabb9a43515c67cfcb65ff9870fbacc14b7e370d99d4b9"
-    },
-    {
-      "path": "imagenes/Spiderman Remastered.webp",
-      "size": 34594,
-      "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
     },
     {
       "path": "imagenes/Star Wars Jedi Survivor.webp",
@@ -1512,6 +1512,36 @@
       "sha256": "0728968eaa05677b3fb9b1104dcc8ffa63fbfef852313b22273ae976f6046769"
     },
     {
+      "path": "capturas/Marvels Spider-Man Remastered/1.webp",
+      "size": 17818,
+      "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Remastered/2.webp",
+      "size": 27654,
+      "sha256": "e9e6fb6c20221b21e5424bda15a7ccba3cce28cdbf2f70881d8c8f7cc9802a64"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Remastered/3.webp",
+      "size": 35464,
+      "sha256": "da43eb880da7457aeef0e94b521a154e01e3d0fbfa1cb8b1393b4d63c56e2104"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Remastered/4.webp",
+      "size": 20376,
+      "sha256": "ac3f2a372ba23f3e26fdb51392f3a9cf90347d36f99c8f66927c3a8804e795ea"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Remastered/5.webp",
+      "size": 27766,
+      "sha256": "ba754d1411726b2894b3f18e32be5e59625f5e34852e67f997f51a335b32a393"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Remastered/6.webp",
+      "size": 20740,
+      "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
+    },
+    {
       "path": "capturas/Metro Redux/1.webp",
       "size": 24868,
       "sha256": "ee3368d6c7c9fcca3f7da1f0e7bc754764a2c4a2f17c6198eb4e8ae364ef0797"
@@ -1825,36 +1855,6 @@
       "path": "capturas/Sniper Elite Resistance Deluxe Edition/6.webp",
       "size": 18118,
       "sha256": "087a55357e183be407ef23d28ccdf2620c91cabe117a15456faf2146c2cb9301"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/1.webp",
-      "size": 17818,
-      "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/2.webp",
-      "size": 27654,
-      "sha256": "e9e6fb6c20221b21e5424bda15a7ccba3cce28cdbf2f70881d8c8f7cc9802a64"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/3.webp",
-      "size": 35464,
-      "sha256": "da43eb880da7457aeef0e94b521a154e01e3d0fbfa1cb8b1393b4d63c56e2104"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/4.webp",
-      "size": 20376,
-      "sha256": "ac3f2a372ba23f3e26fdb51392f3a9cf90347d36f99c8f66927c3a8804e795ea"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/5.webp",
-      "size": 27766,
-      "sha256": "ba754d1411726b2894b3f18e32be5e59625f5e34852e67f997f51a335b32a393"
-    },
-    {
-      "path": "capturas/Spiderman Remastered/6.webp",
-      "size": 20740,
-      "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
     },
     {
       "path": "capturas/Star Wars Jedi Survivor/1.webp",
@@ -2407,6 +2407,11 @@
       "sha256": "4849e60e5f3b20e99241203e17ce4e77920830b1142cc3f1196d6c4cf350f465"
     },
     {
+      "path": "sinopsis/Marvels Spider-Man Remastered.txt",
+      "size": 955,
+      "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
+    },
+    {
       "path": "sinopsis/Metal Gear Solid 5 The Phantom Pain.txt",
       "size": 727,
       "sha256": "2748f4ee7cb2f17ddc8bc3ba7fbcaeb08b3f1ba0862371038a2028fcf3c1dbfb"
@@ -2475,11 +2480,6 @@
       "path": "sinopsis/Sniper Elite Resistance Deluxe Edition.txt",
       "size": 472,
       "sha256": "962f1d0ae6e75466ac088e0bb501da1099f8c4597e3a9ba8fbd62bc9600143c0"
-    },
-    {
-      "path": "sinopsis/Spiderman Remastered.txt",
-      "size": 955,
-      "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
     },
     {
       "path": "sinopsis/Stalker 2 Heart Of Chornobyl.txt",

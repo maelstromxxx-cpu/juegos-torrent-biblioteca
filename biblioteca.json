@@ -262,6 +262,11 @@
       "sha256": "887962f047b907e7d4b4e67b0cf62a36e06768f5853b6c8acee346b42c606bc7"
     },
     {
+      "path": "imagenes/Resident Evil Requiem Deluxe Edition.webp",
+      "size": 81472,
+      "sha256": "6b868e3247c5d9db1908ed5618e1833f9ae6d5538de25fe53852d56c5c80c8d8"
+    },
+    {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
@@ -1877,6 +1882,36 @@
       "sha256": "0981b6ea3e9a3cb9fa57d8bf92d50d7003628d58ba7334154f9fbe7465de79d4"
     },
     {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/1.webp",
+      "size": 7048,
+      "sha256": "9f8b5532f27310d83002befe782f10a06cc13b1d2db628b82d5dd0c596f3d290"
+    },
+    {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/2.webp",
+      "size": 14454,
+      "sha256": "77063229109a653c53a18927211e788d23bb05e12f6a38ace26bc6e3ef348421"
+    },
+    {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/3.webp",
+      "size": 13012,
+      "sha256": "f78afe546b09d9d1fd3203994c5c547a80191d4811b97568489b5906271795de"
+    },
+    {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/4.webp",
+      "size": 16850,
+      "sha256": "32440523db97e7291e17b95c60c471b28130c0f78c533ef7ebaeecc608289031"
+    },
+    {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/5.webp",
+      "size": 10990,
+      "sha256": "8bf1fdfbc6ad72105b9b001cce0f50f8ebddc9fe05c7eaa984c0f944ff4c7236"
+    },
+    {
+      "path": "capturas/Resident Evil Requiem Deluxe Edition/6.webp",
+      "size": 13408,
+      "sha256": "875c3affb86095f9a65acc90181dc36a27407cb94d449017afdbeff8f852baaf"
+    },
+    {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
       "size": 14458,
       "sha256": "9e9ba3aec4c26c50ea3a4af6d6fd0ead215196c9b90c6ade35a7f2e555103e4a"
@@ -2617,6 +2652,11 @@
       "sha256": "884c954721d3ec8c408c5170b61017cf59ec72cc58bad5c8271a84a1248ccc2c"
     },
     {
+      "path": "sinopsis/Resident Evil Requiem Deluxe Edition.txt",
+      "size": 335,
+      "sha256": "4b2c7682c31cd3d40320eab67f0598aeaf09a70e8b49c335ef5168e769c899f6"
+    },
+    {
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
       "size": 1896,
       "sha256": "f3ed473848931bd796acb0e6c6b286581f7806dd9146af7224a8498662eecfe4"
@@ -3020,6 +3060,11 @@
       "path": "datos/Resident Evil 8 Village.txt",
       "size": 174,
       "sha256": "9ad94d6093a9178494f4dec99a26541b5ec3280d999508feb42eab5b9e073278"
+    },
+    {
+      "path": "datos/Resident Evil Requiem Deluxe Edition.txt",
+      "size": 169,
+      "sha256": "5a56c75ca2908ae7457c3f1479028dc165115d349f05cb4039c22b00d536b21b"
     },
     {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",

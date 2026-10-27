@@ -4,3 +4,5 @@ Tamaño: 423MB
 Modo: Singleplayer
 Idioma: MULTI
 Fecha de incorporación: 26/10/2026
+Puntuación: 7,5
+Metacritic: 72

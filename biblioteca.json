@@ -42,6 +42,11 @@
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
     },
     {
+      "path": "imagenes/Battlefield 3.webp",
+      "size": 85830,
+      "sha256": "6dc4c9116e13f51c22cb1afa42d0130852e75ef3dbf6db7166c78ed63d73a116"
+    },
+    {
       "path": "imagenes/Beast of Reincarnation Deluxe Edition.webp",
       "size": 395938,
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
@@ -595,6 +600,26 @@
       "path": "capturas/Baldurs Gate 3 Deluxe Edition/6.webp",
       "size": 31778,
       "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
+    },
+    {
+      "path": "capturas/Battlefield 3/1.webp",
+      "size": 17992,
+      "sha256": "92814dd39a6edaba0f39e2febdb3f18dad49c8b09002edde5c573a8a91243d33"
+    },
+    {
+      "path": "capturas/Battlefield 3/2.webp",
+      "size": 27094,
+      "sha256": "605e04eea439c4bf1a24ef9269ccb070e19f1bbb254c5b6c7cb0cd9974fd6554"
+    },
+    {
+      "path": "capturas/Battlefield 3/3.webp",
+      "size": 22980,
+      "sha256": "85d09b217147ff31c24f8ab186732d4ea87d5262cdac6ef70ae7750c03078d61"
+    },
+    {
+      "path": "capturas/Battlefield 3/4.webp",
+      "size": 34602,
+      "sha256": "581bb74b9c9b2887b8b9e0c2a45eb7129af309eb728d5c71da32cfbe79a81888"
     },
     {
       "path": "capturas/Beast of Reincarnation Deluxe Edition/1.webp",

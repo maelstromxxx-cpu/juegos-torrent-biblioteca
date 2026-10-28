@@ -222,6 +222,11 @@
       "sha256": "735603fee10715f2d1f52b1fe679984973dda5bd4ca7c3a6a8cd634a5ecff69d"
     },
     {
+      "path": "imagenes/Far Cry 5 Gold Edition.webp",
+      "size": 85404,
+      "sha256": "c98908045fdbc5a90a58aef35a643acb48c8e9fb1a8f699321cfae2282d0b2d9"
+    },
+    {
       "path": "imagenes/Forza Horizon 3.webp",
       "size": 23274,
       "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
@@ -1750,6 +1755,36 @@
       "path": "capturas/Entity The Black Day/6.webp",
       "size": 18056,
       "sha256": "71fe6da15f086c443f088124711233b85be2392d51d3a3ebd446aede4b602ddb"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/1.webp",
+      "size": 15444,
+      "sha256": "5504baf1011b9fc754858caee44207e2ec5bee37a297de9eb04a25bac62e3747"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/2.webp",
+      "size": 35612,
+      "sha256": "ef1c20abfe7b4ed2ab2c2f1d8d8c90f092bc8411feba1f3a28b1b2fe55ce280a"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/3.webp",
+      "size": 38048,
+      "sha256": "69877565d6510d89fa6a1e492a828147e2180d9442c16594cc647b2ded1a841d"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/4.webp",
+      "size": 14808,
+      "sha256": "548025dd63e34ccf6522f8351362acbb3d4f3d04632b7ad0a1cdd499e37b6c80"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/5.webp",
+      "size": 29996,
+      "sha256": "7713e7bf97bd0f1b9dc81b9ff2f72bdd72cb23820a002f29c78edbdb9cbe1c25"
+    },
+    {
+      "path": "capturas/Far Cry 5 Gold Edition/6.webp",
+      "size": 31544,
+      "sha256": "85e5310d115685634f335f3a35050280e569e32dd2bbedf575f4826363391b6a"
     },
     {
       "path": "capturas/Forza Horizon 3/1.webp",
@@ -3367,6 +3402,11 @@
       "sha256": "ce4e4d869674195b10ec912cca15266be9817132ed9d3a6621279475584aa0d0"
     },
     {
+      "path": "sinopsis/Far Cry 5 Gold Edition.txt",
+      "size": 385,
+      "sha256": "63c5ce8bfa8e31c6e4ccefa371a10fc6e2c750969f2a730c87e3e9137dedcbe6"
+    },
+    {
       "path": "sinopsis/Forza Horizon 3.txt",
       "size": 615,
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
@@ -3820,6 +3860,11 @@
       "path": "datos/Entity The Black Day.txt",
       "size": 168,
       "sha256": "e452ca8e4e812c5d63b681f10f059bb80a46568e3de20c7af0e07de894e48576"
+    },
+    {
+      "path": "datos/Far Cry 5 Gold Edition.txt",
+      "size": 213,
+      "sha256": "e33ac26425adce58bbb1070e583aad985c2f77893e8d9f89788c3303f8a9cd3f"
     },
     {
       "path": "datos/Forza Horizon 3.txt",

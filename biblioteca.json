@@ -82,6 +82,11 @@
       "sha256": "fd49ad02170176587bde8ba20d53989ed8b72fc848dc6f73a9f06c0b7b1432cd"
     },
     {
+      "path": "imagenes/Blackwood Supporter Edition Act I.webp",
+      "size": 29260,
+      "sha256": "ca31bf0adb9141cb0746246762b40268a3f1cff048bb0720a0f0bf6facbd424e"
+    },
+    {
       "path": "imagenes/Bloodborne GOTY Edition.webp",
       "size": 31434,
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
@@ -890,6 +895,36 @@
       "path": "capturas/Black Myth Wukong/6.webp",
       "size": 21636,
       "sha256": "a8baecce1e09bad983b26b0d479c09bfe25b9f3f1eea0d1992e126baa1b66a94"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/1.webp",
+      "size": 11704,
+      "sha256": "a74858c348d5f041c3696d3d0fc831ca03032bcca7bc32781c738e62b4eed6c7"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/2.webp",
+      "size": 12862,
+      "sha256": "d6a90fb8586cd31a7ed98bbd48e4902032fa556d2b0ec6fc3a18d8e207825348"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/3.webp",
+      "size": 9502,
+      "sha256": "4766e01d9e39d6d51106067570a5235ba06af812823c02abf3ade93d2b741e5d"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/4.webp",
+      "size": 16512,
+      "sha256": "083fa36bb2175b5de48d6633927e91d0653e092590f56effaa233618beaf42e1"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/5.webp",
+      "size": 10696,
+      "sha256": "098ec8e535491336149178d4dd790501bef673fa9f990ba5eefb9c98c7d46a2c"
+    },
+    {
+      "path": "capturas/Blackwood Supporter Edition Act I/6.webp",
+      "size": 12348,
+      "sha256": "e13597cf43f2285a50ac1a912664af5deb8748bfb2b97a6680232981585917c1"
     },
     {
       "path": "capturas/Bloodborne GOTY Edition/01.webp",
@@ -3052,6 +3087,11 @@
       "sha256": "728b262924be972a5bfcaed652f208577465727bafe467f0d9a7a8ffad1e2830"
     },
     {
+      "path": "sinopsis/Blackwood Supporter Edition Act I.txt",
+      "size": 281,
+      "sha256": "44a58a4e63707d1e35e890ef4cdc556e7d9fe5a76fc04ac02bbd5da03da900de"
+    },
+    {
       "path": "sinopsis/Bloodborne GOTY Edition.txt",
       "size": 957,
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
@@ -3480,6 +3520,11 @@
       "path": "datos/Black Myth Wukong.txt",
       "size": 176,
       "sha256": "dd2210c9f107c8f4b862938e1e00f427fb6248a40f72e2089f56a4aba9880bd6"
+    },
+    {
+      "path": "datos/Blackwood Supporter Edition Act I.txt",
+      "size": 169,
+      "sha256": "2061b344ac1818124e0700a478bebc022e201889bfa00e121df23be5ab298e45"
     },
     {
       "path": "datos/Bloodborne GOTY Edition.txt",

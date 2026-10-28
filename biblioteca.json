@@ -237,6 +237,11 @@
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
     },
     {
+      "path": "imagenes/Halo Campaign Evolved.webp",
+      "size": 34462,
+      "sha256": "a379ac4af1e296784a540756fb938e2302be6f7048ba48a0206a83ef8a60c1a0"
+    },
+    {
       "path": "imagenes/Hogwarts Legacy Complete Edition.webp",
       "size": 43794,
       "sha256": "50d2f8566e0cea82bd4f32b0266ca46cfd667578f871bd697da0c9ef1fb45910"
@@ -282,6 +287,11 @@
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
     },
     {
+      "path": "imagenes/Metal Gear Solid 5 The Phantom Pain.webp",
+      "size": 29630,
+      "sha256": "8379efd2ab3bd4a5752c76bf3e1fe83851681db270e2dccb990b75ebad28d602"
+    },
+    {
       "path": "imagenes/Metro Redux.webp",
       "size": 64298,
       "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
@@ -300,6 +310,11 @@
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
+    },
+    {
+      "path": "imagenes/Ready Or Not.webp",
+      "size": 13080,
+      "sha256": "3a3cba786b78a3edf9e84a93d014d4814e6c32ff69bca85d30ce0f309b7004ae"
     },
     {
       "path": "imagenes/Red Dead Redemption 2 Ultimate Edition.webp",
@@ -327,6 +342,11 @@
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
     },
     {
+      "path": "imagenes/Silent Hill Townfall.webp",
+      "size": 25884,
+      "sha256": "94660510ac65bcc42e9836ee3ae01f610ecadbd02c091d5ad2338fbd6cdd3ea5"
+    },
+    {
       "path": "imagenes/Sniper Elite 3.webp",
       "size": 53366,
       "sha256": "02cb7bacf0b422e9c8fe7ec0a61609230b560e40e6d1ef7ca0a60a60f138a5ba"
@@ -340,6 +360,11 @@
       "path": "imagenes/Sniper Elite Resistance Deluxe Edition.webp",
       "size": 53450,
       "sha256": "4e351c823fb4ab0facdabb9a43515c67cfcb65ff9870fbacc14b7e370d99d4b9"
+    },
+    {
+      "path": "imagenes/Stalker 2 Heart Of Chornobyl.webp",
+      "size": 46886,
+      "sha256": "8d5576adfd9713074207fbea1907feb2e10e7996c19e2a9d1fb64acd5b154a4c"
     },
     {
       "path": "imagenes/Star Wars Jedi Survivor.webp",
@@ -390,6 +415,11 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
+      "size": 108972,
+      "sha256": "3b158100f9a73d86cfb2e59fd4d1868714397ad3f1a6853b7ae5634e49ef8a7f"
     },
     {
       "path": "imagenes/Wicked Seed.webp",
@@ -1782,6 +1812,36 @@
       "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
     },
     {
+      "path": "capturas/Halo Campaign Evolved/1.webp",
+      "size": 39086,
+      "sha256": "282146ffecbb72a96b695ed49100c8856d58d16ade6ddf77a8b055993e5799b3"
+    },
+    {
+      "path": "capturas/Halo Campaign Evolved/2.webp",
+      "size": 32258,
+      "sha256": "7695cee04abe172f339652275afa5e63d16858e381f90153343feb73cec96be7"
+    },
+    {
+      "path": "capturas/Halo Campaign Evolved/3.webp",
+      "size": 42636,
+      "sha256": "f9bacd20adf751885443ab499b51e4856b15036466de864c41eb88720e169a29"
+    },
+    {
+      "path": "capturas/Halo Campaign Evolved/4.webp",
+      "size": 9610,
+      "sha256": "d2888d04c1b106e82f923d55c749f54485d290cb605101499b2f665a49d4f128"
+    },
+    {
+      "path": "capturas/Halo Campaign Evolved/5.webp",
+      "size": 16316,
+      "sha256": "f40c137d937d45e19c8bfd8b133fc83bc0a4aeca927f1705a9c79dc4578869fd"
+    },
+    {
+      "path": "capturas/Halo Campaign Evolved/6.webp",
+      "size": 15946,
+      "sha256": "c70553d54b6bf8c6fb6228684c3c7e96251daed24966c963ff1047775daae9e2"
+    },
+    {
       "path": "capturas/Hogwarts Legacy Complete Edition/1.webp",
       "size": 28366,
       "sha256": "aede184cfd064869e5b5c4e7d6679212214afea022c1e888083e26141f0226e2"
@@ -2052,6 +2112,36 @@
       "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
     },
     {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/1.webp",
+      "size": 31138,
+      "sha256": "08012f4bb88aec2c1a94b7805f8d86e0a9e6de68ee3faaa46cd47142d1d87029"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/2.webp",
+      "size": 35636,
+      "sha256": "bd268371cf1d8014db76788960b8c650cbb655d49862c1fc0f4db85855db81cf"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/3.webp",
+      "size": 11650,
+      "sha256": "866b89ecf86552ffcbbb79ac117c9426f81d7324520353caddd4e081a0dc561d"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/4.webp",
+      "size": 18740,
+      "sha256": "c3583e215b05d3641ca7c766c0b5c3617d873189dcbd1702e23f69a0fe08033e"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/5.webp",
+      "size": 32226,
+      "sha256": "ae6aaf240fd5564ba3ae82a17d5431f1754f0c43dad567beaeced1e9536cbac5"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 5 The Phantom Pain/6.webp",
+      "size": 10748,
+      "sha256": "37b4d6055a90eee9c9cf2b0b58ad3037961a5bbc4af84473086c386cfc891ff5"
+    },
+    {
       "path": "capturas/Metro Redux/1.webp",
       "size": 24868,
       "sha256": "ee3368d6c7c9fcca3f7da1f0e7bc754764a2c4a2f17c6198eb4e8ae364ef0797"
@@ -2155,6 +2245,36 @@
       "path": "capturas/Need For Speed Most Wanted HD/03.webp",
       "size": 34724,
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
+    },
+    {
+      "path": "capturas/Ready Or Not/1.webp",
+      "size": 17232,
+      "sha256": "08ad30c0255c9f98999553403140208a3e0516156e5728cc47714e204eb976b5"
+    },
+    {
+      "path": "capturas/Ready Or Not/2.webp",
+      "size": 14278,
+      "sha256": "c4a994edeb3b65f5064869d218ad5e1254093aed8a35bf6b487fee7b2a15aa13"
+    },
+    {
+      "path": "capturas/Ready Or Not/3.webp",
+      "size": 12512,
+      "sha256": "6d1a1c60a256228849d1219f634129f579079ae558071d79b371b2fe2456bb66"
+    },
+    {
+      "path": "capturas/Ready Or Not/4.webp",
+      "size": 14346,
+      "sha256": "517e9b1aae00eb571ed2002d5f2e5312273bc01c3eebbe0e9903e609b09d4549"
+    },
+    {
+      "path": "capturas/Ready Or Not/5.webp",
+      "size": 21318,
+      "sha256": "969c0ab5be39e95fedcbdaf602ab5edf143a83a277706f02ebb17b30055bfe86"
+    },
+    {
+      "path": "capturas/Ready Or Not/6.webp",
+      "size": 9648,
+      "sha256": "57227f3b26fd69d241be11b45a770c4657bb7f3358862dc4d2aeffa89dd54243"
     },
     {
       "path": "capturas/Red Dead Redemption 2 Ultimate Edition/1.webp",
@@ -2307,6 +2427,36 @@
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
     },
     {
+      "path": "capturas/Silent Hill Townfall/1.webp",
+      "size": 6542,
+      "sha256": "da4a090a353b4c98716676cb72fd7e92eaa19db371ac721e46970b202951edb2"
+    },
+    {
+      "path": "capturas/Silent Hill Townfall/2.webp",
+      "size": 5310,
+      "sha256": "f7e99953802d6e4a0da317878309a9a0a3ec64d4ef2294a26a386c865a7c5607"
+    },
+    {
+      "path": "capturas/Silent Hill Townfall/3.webp",
+      "size": 7554,
+      "sha256": "9cdd4a50bdabb2cd12ddf7efc5e2c1b5c31d1f9bbcb1c53f3d3e073e1eaaf9f2"
+    },
+    {
+      "path": "capturas/Silent Hill Townfall/4.webp",
+      "size": 3268,
+      "sha256": "b722412189c70ec53bdbaa93e147b1d2a3c45e5cae1eaeb8721b111ea832e766"
+    },
+    {
+      "path": "capturas/Silent Hill Townfall/5.webp",
+      "size": 11312,
+      "sha256": "30a6c73a47e6566194c45f57a6a56df8266193c43bce4c480c552316c015cc92"
+    },
+    {
+      "path": "capturas/Silent Hill Townfall/6.webp",
+      "size": 4936,
+      "sha256": "0c6d46c7eb61dfe6586848c4cd1c24c9746bdf59b06281b15b3684b384a6c387"
+    },
+    {
       "path": "capturas/Sniper Elite 3/1.webp",
       "size": 35776,
       "sha256": "26050971a5388241b16eb9d2bf939532f7e3951a98a5e30d958500b67ebd433e"
@@ -2395,6 +2545,36 @@
       "path": "capturas/Sniper Elite Resistance Deluxe Edition/6.webp",
       "size": 18118,
       "sha256": "087a55357e183be407ef23d28ccdf2620c91cabe117a15456faf2146c2cb9301"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/1.webp",
+      "size": 46060,
+      "sha256": "c1a9554b4c67092967570c14dd6ed932b6660528316fb5433fb01babe322a5ad"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/2.webp",
+      "size": 16248,
+      "sha256": "6591d111c884f125af5c4e071d7c94a41329100e4881f932d15fbd2834b687be"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/3.webp",
+      "size": 23640,
+      "sha256": "7e1fb8e580f8dacafe37891313d25222c31f90b482f5583a332dce9b5841b41c"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/4.webp",
+      "size": 32076,
+      "sha256": "bf31132d5d46ee5a6f324162edbf40c88edaf242b9f6dfd2de4e58d4d130d33c"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/5.webp",
+      "size": 23928,
+      "sha256": "bb458913d9dc38b473737571fda2a48b18aef2b2b51579643aabd404fe358fa5"
+    },
+    {
+      "path": "capturas/Stalker 2 Heart Of Chornobyl/6.webp",
+      "size": 31590,
+      "sha256": "4cc85ef3afff2e45adc96c3b7b52d183bea3371af1ba053036f48a030feae3ee"
     },
     {
       "path": "capturas/Star Wars Jedi Survivor/1.webp",
@@ -2695,6 +2875,36 @@
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/06.webp",
       "size": 49890,
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/1.webp",
+      "size": 37438,
+      "sha256": "a51effa0cbdb42f86d6915ee37f290c2ec4d510ff8279e3024618f5abbe16fe7"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/2.webp",
+      "size": 28606,
+      "sha256": "046d493f5a2ea0418b7b41610e86be57948e8136a340df34ea284e8cc581f634"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/3.webp",
+      "size": 24736,
+      "sha256": "721dbad6218bba245650756c46d2da3e0939f76380ad3419372f7125303fe051"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/4.webp",
+      "size": 20658,
+      "sha256": "e6a1fd054c4ec9cb7e261a8f6467108842f19e164120b42582ef5f004e364680"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/5.webp",
+      "size": 29138,
+      "sha256": "e2f6beae7ba4f57ef653676a87afc850516a20dbee44ca3e67d7587222856f55"
+    },
+    {
+      "path": "capturas/Warhammer 40.000 Space Marine II/6.webp",
+      "size": 33932,
+      "sha256": "7ac3b5940547bf3dae478b06bbe11eab4590fb354bae02b71814ae4ebf40d17c"
     },
     {
       "path": "capturas/Wicked Seed/1.webp",
@@ -3142,7 +3352,7 @@
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
     },
     {
-      "path": "sinopsis/Warhammer 40K Space Marine 2.txt",
+      "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
     },
@@ -3493,8 +3703,8 @@
     },
     {
       "path": "datos/Silent Hill Townfall.txt",
-      "size": 174,
-      "sha256": "939bbba8028b86ed7ff8ab9cce8625b682a9c12eecab4c63e61f26d2f5557a77"
+      "size": 74,
+      "sha256": "d363152f0d5ff4469035ce1081adfb3022fa91008442a83a84127b12a8add73a"
     },
     {
       "path": "datos/Sniper Elite 3.txt",
@@ -3567,7 +3777,7 @@
       "sha256": "2061eacbca4a577694151f0b23a2244b25752615cc7a7c1414c0ffa65ff62b16"
     },
     {
-      "path": "datos/Warhammer 40K Space Marine 2.txt",
+      "path": "datos/Warhammer 40.000 Space Marine II.txt",
       "size": 186,
       "sha256": "cf6e41ff496765c03c7e1b4bd2bd860dfb01888d3e3b0ea13ae4680c5c9ec461"
     },

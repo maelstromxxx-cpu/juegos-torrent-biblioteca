@@ -187,6 +187,11 @@
       "sha256": "e0695451d5f1e7390fc6f9eed73f525cf65feffd5bce883c33af1b94d40cabc9"
     },
     {
+      "path": "imagenes/Dune Awakening Ultimate Edition.webp",
+      "size": 21876,
+      "sha256": "3d1f34316706dc300b7f2bb1555b49340a71fff8ed6ae4fbb9c05485d96099ba"
+    },
+    {
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
@@ -1530,6 +1535,36 @@
       "path": "capturas/Dragons Dogma 2 Deluxe Edition/6.webp",
       "size": 14248,
       "sha256": "f3e5d87efb1918d6d572976861dd8cee5146f5172516b2fac9d9132f59675cf6"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/1.webp",
+      "size": 10978,
+      "sha256": "31ae6ac76fa1298dc68842ee81fef5b856b5e0a0b5a8267536fc81b210780f93"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/2.webp",
+      "size": 19434,
+      "sha256": "06dc1827c43bb5816708495ccdfdaefc13e43c6b1436c52781768a0bc12cb031"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/3.webp",
+      "size": 21168,
+      "sha256": "0148e42e2937689d4af4c6ce9af152e0ed0dba97fc11b13ae704c043bb68c241"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/4.webp",
+      "size": 22272,
+      "sha256": "024e91a45928538e9585e5951bdbc6b70824a8137ae2f6e2cf40e44aae8076cf"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/5.webp",
+      "size": 8674,
+      "sha256": "971cf78b8739e2a56be5244b005392df2a0798aaa28b25f15a222cbbdf81bad8"
+    },
+    {
+      "path": "capturas/Dune Awakening Ultimate Edition/6.webp",
+      "size": 14790,
+      "sha256": "97f6190d650d7e7ef2cb4a04176f4368640f31cc046ee54d61695264e5e5477a"
     },
     {
       "path": "capturas/Dying Light 2 Stay Human/1.webp",
@@ -3262,6 +3297,11 @@
       "sha256": "808cbc56f74d839e82bbd20904dfe8957899f4d7664d389a34dd532e99a5dd03"
     },
     {
+      "path": "sinopsis/Dune Awakening Ultimate Edition.txt",
+      "size": 309,
+      "sha256": "48912c9de5e241260ce0d42528e2b3b91004e9a48b73cebe52d191a8803ab93f"
+    },
+    {
       "path": "sinopsis/Dying Light 2 Stay Human.txt",
       "size": 1029,
       "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
@@ -3705,6 +3745,11 @@
       "path": "datos/Dragons Dogma 2 Deluxe Edition.txt",
       "size": 175,
       "sha256": "e328999545f50499b2c86f9ff754f4f79ebc101b058a6ecb58f1e47675228592"
+    },
+    {
+      "path": "datos/Dune Awakening Ultimate Edition.txt",
+      "size": 189,
+      "sha256": "eaaaa1e840ff33e794c4fc4f496b3bfb08b5647862c34fc18b96211e5de22416"
     },
     {
       "path": "datos/Dying Light 2 Stay Human.txt",

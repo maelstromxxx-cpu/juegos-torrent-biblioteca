@@ -437,6 +437,11 @@
       "sha256": "3de16c2787345a1a22881787076c8c0ece7f27a88aa30aa1bf0c1f1a40efc7ba"
     },
     {
+      "path": "imagenes/The Relic First Guardian.webp",
+      "size": 44852,
+      "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
+    },
+    {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
@@ -3022,6 +3027,36 @@
       "sha256": "6aa59fed9477ebb061c4fa7220678dd2931992ac53729d68cac666b5ff3896a5"
     },
     {
+      "path": "capturas/The Relic First Guardian/1.webp",
+      "size": 7608,
+      "sha256": "a6df7268925942eaa2606429fecf8f760314212ae77a2202c1ff740b1250c6ac"
+    },
+    {
+      "path": "capturas/The Relic First Guardian/2.webp",
+      "size": 13976,
+      "sha256": "b9732c169367c2bf131fa50c346c4e463ab08c7fa344eb3e0c234ffaa607f5fd"
+    },
+    {
+      "path": "capturas/The Relic First Guardian/3.webp",
+      "size": 6614,
+      "sha256": "c020519f24447396e0dae66a666c832ce5ca769afff126a842b5de8e4b377aae"
+    },
+    {
+      "path": "capturas/The Relic First Guardian/4.webp",
+      "size": 17330,
+      "sha256": "9a835b6ef2ae6861bfa08cc3ce4424dc0559a6df02f6a41b8fca3447c4909e93"
+    },
+    {
+      "path": "capturas/The Relic First Guardian/5.webp",
+      "size": 13806,
+      "sha256": "58012dc6f281dd1c17425419845fc649524682b77ac426733e478e48cf79c319"
+    },
+    {
+      "path": "capturas/The Relic First Guardian/6.webp",
+      "size": 3556,
+      "sha256": "91703944f98843479e92d147486c499603940117a956a57b7a334aec19488160"
+    },
+    {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
       "size": 45572,
       "sha256": "61894db3e297ed83122567bd12fff2767b7d5d528795542a41d4380b19da0a72"
@@ -3547,6 +3582,11 @@
       "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
     },
     {
+      "path": "sinopsis/The Relic First Guardian.txt",
+      "size": 304,
+      "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
+    },
+    {
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 265,
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
@@ -3995,6 +4035,11 @@
       "path": "datos/The Last Of Us Part 2.txt",
       "size": 171,
       "sha256": "d3858e01560087bc4dc7484e36b03028c5add925c55772d61507ea842aca069b"
+    },
+    {
+      "path": "datos/The Relic First Guardian.txt",
+      "size": 172,
+      "sha256": "317142f7ec598c077d3bd05c82da1bbd739d58873923c3a2d10c2e5082189916"
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",

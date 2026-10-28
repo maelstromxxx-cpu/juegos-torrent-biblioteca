@@ -182,6 +182,11 @@
       "sha256": "57b9fc4ade46fa9bc30bbe9038657aca9c97cd2133befc0e7c1b10a537f88d40"
     },
     {
+      "path": "imagenes/Dragons Dogma 2 Deluxe Edition.webp",
+      "size": 72432,
+      "sha256": "e0695451d5f1e7390fc6f9eed73f525cf65feffd5bce883c33af1b94d40cabc9"
+    },
+    {
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
@@ -1495,6 +1500,36 @@
       "path": "capturas/Doom The Dark Ages/6.webp",
       "size": 21950,
       "sha256": "6641928982ae7acdee184184776109dce7b189e6bce52b0b60538bc1a29532d8"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/1.webp",
+      "size": 39642,
+      "sha256": "7ed031a0c59f3a5fd898217f28f8e40c3afe3ce478e081159398726e2ed46c76"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/2.webp",
+      "size": 11030,
+      "sha256": "fbf8cdd728cd507bced4d70a00f2fdecac961a24b197009536a1791648c49747"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/3.webp",
+      "size": 17034,
+      "sha256": "41a849037e93b99a8d714f4e32bb1561f0522aca1defd7fca92a56393cae8025"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/4.webp",
+      "size": 12430,
+      "sha256": "76b2061fd85d89c958b6e7221b58f4b230b4e2763800b89d08a53f38eb4f1351"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/5.webp",
+      "size": 26464,
+      "sha256": "370b664c448949e4b2e987e0f296416f9ba3cb0a3112e3237d1550123415af20"
+    },
+    {
+      "path": "capturas/Dragons Dogma 2 Deluxe Edition/6.webp",
+      "size": 14248,
+      "sha256": "f3e5d87efb1918d6d572976861dd8cee5146f5172516b2fac9d9132f59675cf6"
     },
     {
       "path": "capturas/Dying Light 2 Stay Human/1.webp",
@@ -3222,6 +3257,11 @@
       "sha256": "bc0de59fb05d8b3fbef1b89ab2d1d0bcf3a9b119a86e79f8d770887cc18b7447"
     },
     {
+      "path": "sinopsis/Dragons Dogma 2 Deluxe Edition.txt",
+      "size": 287,
+      "sha256": "808cbc56f74d839e82bbd20904dfe8957899f4d7664d389a34dd532e99a5dd03"
+    },
+    {
       "path": "sinopsis/Dying Light 2 Stay Human.txt",
       "size": 1029,
       "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
@@ -3660,6 +3700,11 @@
       "path": "datos/Doom The Dark Ages.txt",
       "size": 161,
       "sha256": "ac8b27f266f7609c6c5908aadb3de55b0145e7e10a1354c7d634aff76a12b775"
+    },
+    {
+      "path": "datos/Dragons Dogma 2 Deluxe Edition.txt",
+      "size": 175,
+      "sha256": "e328999545f50499b2c86f9ff754f4f79ebc101b058a6ecb58f1e47675228592"
     },
     {
       "path": "datos/Dying Light 2 Stay Human.txt",

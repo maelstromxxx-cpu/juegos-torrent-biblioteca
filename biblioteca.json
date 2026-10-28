@@ -142,6 +142,11 @@
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
     },
     {
+      "path": "imagenes/Control Resonant.webp",
+      "size": 42414,
+      "sha256": "2ce5200aa3c6c0048348a6db2bf1c42cf0dc89d5bb90bed8755a92fa0100e630"
+    },
+    {
       "path": "imagenes/Crimson Desert Enhanced Deluxe Edition.webp",
       "size": 48912,
       "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
@@ -155,6 +160,11 @@
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
       "size": 42484,
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
+    },
+    {
+      "path": "imagenes/Doom Eternal Deluxe Edition.webp",
+      "size": 86716,
+      "sha256": "9699c075f0dbc6847554a0db323328a68ab1dced4c99023cfc6157ac01714dcd"
     },
     {
       "path": "imagenes/Doom The Dark Ages.webp",
@@ -185,6 +195,11 @@
       "path": "imagenes/Entity The Black Day.webp",
       "size": 44308,
       "sha256": "735603fee10715f2d1f52b1fe679984973dda5bd4ca7c3a6a8cd634a5ecff69d"
+    },
+    {
+      "path": "imagenes/Forza Horizon 3.webp",
+      "size": 23274,
+      "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
     },
     {
       "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
@@ -1197,6 +1212,36 @@
       "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
     },
     {
+      "path": "capturas/Control Resonant/1.webp",
+      "size": 13692,
+      "sha256": "9a92fbd96038425449b81aac697ca78cc783fcd3778679ed17e3c794f51980e0"
+    },
+    {
+      "path": "capturas/Control Resonant/2.webp",
+      "size": 8742,
+      "sha256": "72b3d7cd5e4126de7941f4f622fc5b1a85f5217e02920ccadbbb1accd9cf3d37"
+    },
+    {
+      "path": "capturas/Control Resonant/3.webp",
+      "size": 14058,
+      "sha256": "fee609f3e7be3722a6c9e387b33ee9058a31b3e5bbe00bab66ef519690894a07"
+    },
+    {
+      "path": "capturas/Control Resonant/4.webp",
+      "size": 10384,
+      "sha256": "a19f2bf818034733b392dc700313fb7cd6df5a6d2363a714666f5fc21a7ab963"
+    },
+    {
+      "path": "capturas/Control Resonant/5.webp",
+      "size": 19634,
+      "sha256": "e17b982ad93e105a59b7e2852b6ae1074e2e441e40c2327feaa0fc0ff581a469"
+    },
+    {
+      "path": "capturas/Control Resonant/6.webp",
+      "size": 12494,
+      "sha256": "bd42871a2126a26f37f9fc03b26c971eaaf27dec885a7b11e3564796872fcbf9"
+    },
+    {
       "path": "capturas/Crimson Desert Enhanced Deluxe Edition/1.webp",
       "size": 24034,
       "sha256": "edeaa8a4196b2a04d815c5edf4165860142fb9fc6c9ef279f4c95f12ece5a275"
@@ -1285,6 +1330,36 @@
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/06.webp",
       "size": 15284,
       "sha256": "84ca74c76648cc9ff8f7dc53a5041d41842e47d3e721f79b1799b3cbd67a3c11"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/1.webp",
+      "size": 26230,
+      "sha256": "8b05ea3cdc843c0bed719159e27bbcac85fefcf9417b4c6e04f9f84b48ba5bf2"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/2.webp",
+      "size": 20584,
+      "sha256": "c1cc72e28c52a14349107c5ee641f03f6c0671ce7312b8f72c80b26e4304d3c6"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/3.webp",
+      "size": 24998,
+      "sha256": "db25b88a3f8affc72d0e6e1fff1916b0e41ac72238a579bb5bc7ea8119e44d16"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/4.webp",
+      "size": 26878,
+      "sha256": "b8174459522a3248c52a35267883db4399b0b3a76acb593390138db783f472f0"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/5.webp",
+      "size": 26556,
+      "sha256": "2cd8decea52053b3de633ef85b3fd2a42936dbe49d4f8665eb86e1aa88e2daae"
+    },
+    {
+      "path": "capturas/Doom Eternal Deluxe Edition/6.webp",
+      "size": 21784,
+      "sha256": "44d38abaaaa4fed154cefdf643ee5173ece98440173d3e3df9b8e8c923edfa1d"
     },
     {
       "path": "capturas/Doom The Dark Ages/1.webp",
@@ -1465,6 +1540,36 @@
       "path": "capturas/Entity The Black Day/6.webp",
       "size": 18056,
       "sha256": "71fe6da15f086c443f088124711233b85be2392d51d3a3ebd446aede4b602ddb"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/1.webp",
+      "size": 14944,
+      "sha256": "703f0d19f1cbbc1669b320ec421ccef2530d4776d8f45232e92b4146228624c4"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/2.webp",
+      "size": 18288,
+      "sha256": "cb1a0cc5d3dd374cbc499b5e07afc2e5b605c069c3df97c38f40ba36bbc5fcb8"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/3.webp",
+      "size": 34978,
+      "sha256": "597232309f4c6a51d2148ac9639857fcbed3ecf93c4eab4c7eb871d4ce98a992"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/4.webp",
+      "size": 17010,
+      "sha256": "4a2dddce5404d1fc1a744d1d4c193e6529b038deff7de65839a2f52adfa71cd5"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/5.webp",
+      "size": 18472,
+      "sha256": "21c5e7810e268820e41ac3ac6e95211ab840bea000cf59b4cb4ac7919576f67c"
+    },
+    {
+      "path": "capturas/Forza Horizon 3/6.webp",
+      "size": 22648,
+      "sha256": "3001442d5a2bbd828731bcd08102a59f786a135456d00659502fff402e68415b"
     },
     {
       "path": "capturas/Forza Horizon 5 Premium Edition/1.webp",

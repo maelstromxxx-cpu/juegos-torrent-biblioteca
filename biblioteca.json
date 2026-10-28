@@ -182,6 +182,11 @@
       "sha256": "86a370ecd9c1534da9162de1030283e0377752d15534c25602f2ff4c5952b943"
     },
     {
+      "path": "imagenes/EA SPORTS FC 27.webp",
+      "size": 79406,
+      "sha256": "0deb2ccaf4e2daeb7c50ecc429e11b37cc429129ca1c94f840d6889091d51d45"
+    },
+    {
       "path": "imagenes/EA SPORTS FIFA 23.webp",
       "size": 69110,
       "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
@@ -1480,6 +1485,36 @@
       "path": "capturas/EA SPORTS FC 26/6.webp",
       "size": 27460,
       "sha256": "c63b138f57dca923b18f7b8761c4ea8a6c1ba3eb9579f376538a428b4f2f04c2"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/1.webp",
+      "size": 27882,
+      "sha256": "c6d1b47f9a3509066d1379fae952dc11a2e4d5dcea33b3565b7e23bfe39e59be"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/2.webp",
+      "size": 16412,
+      "sha256": "4e13094b7d520f64bbd7096e5183dea4e7c2c5663a67fd638192c32bbe2172b1"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/3.webp",
+      "size": 22386,
+      "sha256": "40011fe1d09aa8245c898ed680e50ebf8e6a69ea6e9d5e6c1dc4c39f35ae19aa"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/4.webp",
+      "size": 21256,
+      "sha256": "7b54a48ac693e5c4f77903ba9fe11c6cc1fd0709010122d8ad6fa5f39ba85c32"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/5.webp",
+      "size": 26478,
+      "sha256": "a0ecd203c8533cbd1ff015d5bf5457e56a490613cb32759e159863d8dc9b3277"
+    },
+    {
+      "path": "capturas/EA SPORTS FC 27/6.webp",
+      "size": 26164,
+      "sha256": "f6e2fa0be4911cfce941c0828d54a9c554c01a8905031e18a1fff3d24b564621"
     },
     {
       "path": "capturas/EA SPORTS FIFA 23/1.webp",
@@ -3117,6 +3152,11 @@
       "sha256": "fa2e66813fd95a80aea338716797c90b32bb24b301233e410ed0b88ca57af24f"
     },
     {
+      "path": "sinopsis/EA SPORTS FC 27.txt",
+      "size": 301,
+      "sha256": "9e1bccfe8b542a3c15d6088fed3dc7c4a36103183d8ec9aed92f117f8d06956b"
+    },
+    {
       "path": "sinopsis/EA SPORTS FIFA 23.txt",
       "size": 332,
       "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
@@ -3542,6 +3582,11 @@
       "sha256": "c9318ef274d8389f51d44ed0f3dbc841e17244c4bdad81967cc50ae3617e73ff"
     },
     {
+      "path": "datos/EA SPORTS FC 27.txt",
+      "size": 196,
+      "sha256": "0f69b03a9d5bbd42b909ec7a6671ff559af497f0237bb22af97cc115a0217a6d"
+    },
+    {
       "path": "datos/EA SPORTS FIFA 23.txt",
       "size": 210,
       "sha256": "abec741c45de1f73944d1021b4a353fe73b6a9c2bac3b35fdfd790052f488147"
@@ -3703,8 +3748,8 @@
     },
     {
       "path": "datos/Silent Hill Townfall.txt",
-      "size": 74,
-      "sha256": "d363152f0d5ff4469035ce1081adfb3022fa91008442a83a84127b12a8add73a"
+      "size": 183,
+      "sha256": "290cf76d721ed04fb8102989ef02c25f98dbf546009d156125c1cc902f588d62"
     },
     {
       "path": "datos/Sniper Elite 3.txt",

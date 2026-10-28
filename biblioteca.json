@@ -12,6 +12,11 @@
       "sha256": "67b57714a494ac30417b5c6bfa9b3def8baaef0a03869b45cba02ce243200fc5"
     },
     {
+      "path": "imagenes/Ace Combat 8 Wings Of Theve.webp",
+      "size": 27594,
+      "sha256": "c980702bac78bb01b25a7c40bcdce136f5151c28e4d01c1f34a3c265003705f5"
+    },
+    {
       "path": "imagenes/Alan Wake 2.webp",
       "size": 46236,
       "sha256": "878c49b7d8f442c39856aab500dd2e428e609231fbfaf285b088b763f326672c"
@@ -495,6 +500,36 @@
       "path": "capturas/A Plague Tale Requiem/6.webp",
       "size": 43788,
       "sha256": "35b533280cd4f1ad25745a637c55fbebdf78f650387daafc23d9c42997639dce"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/1.webp",
+      "size": 14940,
+      "sha256": "fd4bae2a968943f9588da5b9cbac1ebe9e139a421c2c69ebba92158a7b9b574c"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/2.webp",
+      "size": 11802,
+      "sha256": "c6f82258817f5d0b9fe3c5d326100c5b65c1a643844a56e5fb6c58f80b680c97"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/3.webp",
+      "size": 25570,
+      "sha256": "467730987804b47e41ac090cead74938d44a9350cdd73193bdf7a3c32bd72a2e"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/4.webp",
+      "size": 18058,
+      "sha256": "0f0a84dc4af7d9a6476286582db3fc21dbf0d83790c0975806d5f5569d73784e"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/5.webp",
+      "size": 39554,
+      "sha256": "e9277f2b3869aa5f8b16618bf63026560c1713f5b5dff5d28228d8d5c388d013"
+    },
+    {
+      "path": "capturas/Ace Combat 8 Wings Of Theve/6.webp",
+      "size": 17982,
+      "sha256": "04692a4e9c291deff4925c9a17524ec30e645255a232f98e779f1b6be942e1c7"
     },
     {
       "path": "capturas/Alan Wake 2/1.webp",
@@ -3017,6 +3052,11 @@
       "sha256": "bd3855fbea41aed3ead3d2d82d3b9cca690de77528c1db2fa199f0ceb67ff80e"
     },
     {
+      "path": "sinopsis/Ace Combat 8 Wings Of Theve.txt",
+      "size": 335,
+      "sha256": "ea9570a959cae9bf1de05bb9b6101cc21a05bf2a76b4f46230d959948ed71f8d"
+    },
+    {
       "path": "sinopsis/Alan Wake 2.txt",
       "size": 950,
       "sha256": "1856c4219d6277feadb011934bafc640c652eb5883c121e5ec7e6c7c21c7ad38"
@@ -3450,6 +3490,11 @@
       "path": "datos/A Plague Tale Requiem.txt",
       "size": 167,
       "sha256": "78d8f124df49645432e52cedf3fffc8388c3383c3bb0db5c39c996e2165d4b1b"
+    },
+    {
+      "path": "datos/Ace Combat 8 Wings Of Theve.txt",
+      "size": 188,
+      "sha256": "faa5e64cf2f5caa8efb4620ee70b045f0c8021056e8785970c705ba6e34ce644"
     },
     {
       "path": "datos/Alan Wake 2.txt",

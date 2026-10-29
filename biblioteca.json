@@ -97,6 +97,11 @@
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
     },
     {
+      "path": "imagenes/Bravely Default Flying Fairy HD Remaster.webp",
+      "size": 79658,
+      "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
+    },
+    {
       "path": "imagenes/Call Of Duty Black Ops 6.webp",
       "size": 53860,
       "sha256": "f788b8a2bac39046f31b00b7c16fa0e3da3103a46e2a625788a6a7fddeb2c678"
@@ -212,6 +217,11 @@
       "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
     },
     {
+      "path": "imagenes/Elden Ring Shadow of the Erdtree Deluxe Edition.webp",
+      "size": 63178,
+      "sha256": "20da155ca364c88e203e124340a74dc0f69de346af23ea9e00d7607abe3f617b"
+    },
+    {
       "path": "imagenes/Elden Ring.webp",
       "size": 9244,
       "sha256": "ccdc90a5f4d5944a14e28fad5d2e016fb583e545930fec4500ae86244bc97b17"
@@ -235,6 +245,11 @@
       "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
       "size": 77266,
       "sha256": "9d919821b89de27d336556b6fabf0a79effb3f7589b6f30cefb1ba6032c0bad6"
+    },
+    {
+      "path": "imagenes/Forza Motorsport 7 Ultimate Edition.webp",
+      "size": 51384,
+      "sha256": "10191149f70fc1d0e07975b77a11497bc7417e2c73ddfea98c9f9ae17fc89c96"
     },
     {
       "path": "imagenes/Gears Of War E-Days Online.webp",
@@ -447,9 +462,19 @@
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
     },
     {
+      "path": "imagenes/The Sinking City 2 Premium Edition.webp",
+      "size": 63980,
+      "sha256": "cf2b1d28ea4af30a3ab37394adde14384d29d3af6b9632631f8934f77b247d0b"
+    },
+    {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "imagenes/Uncharted Legacy of Thieves Collection.webp",
+      "size": 64756,
+      "sha256": "b51a103d842dc55808805e534c6bbfc1120d73f8e7bdffa7549405680aae7081"
     },
     {
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
@@ -1020,6 +1045,36 @@
       "path": "capturas/Bloodborne GOTY Edition/08.webp",
       "size": 106268,
       "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/1.webp",
+      "size": 9926,
+      "sha256": "57aa80e44e59ce49e31de9ac74678230a25fc168b4c2fe0841ccad63d7bee27c"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/2.webp",
+      "size": 30430,
+      "sha256": "ead447493841d33187cb2348f58815374249148fa870a091510f17cda6871217"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/3.webp",
+      "size": 23508,
+      "sha256": "a2699394e6b3ea727b672b1753dd01b2e74800dc368096f2271f35c55992ece1"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/4.webp",
+      "size": 26940,
+      "sha256": "a295cbd0edddadd9caff9bbcdc4d4068928f06d57c16baf2ae44839dad407b5c"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/5.webp",
+      "size": 15460,
+      "sha256": "8dbb03fc67f847f3fd524be6e4a50f066587efaad93938270b1ea3db38a1e816"
+    },
+    {
+      "path": "capturas/Bravely Default Flying Fairy HD Remaster/6.webp",
+      "size": 23408,
+      "sha256": "c5cd0dbe9217d63477e895d082f298b624692d46186b3b854b0a6b4d8f4bff94"
     },
     {
       "path": "capturas/Call Of Duty Black Ops 6/1.webp",
@@ -1727,6 +1782,36 @@
       "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
     },
     {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/1.webp",
+      "size": 16520,
+      "sha256": "5fbfc18f66c292e1cdab6e4e7ef5fc2332c149c10a84edfbe68b945d073e1a28"
+    },
+    {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/2.webp",
+      "size": 29760,
+      "sha256": "6c3d45884d994e2d649f28bd577952bdcf7749447f122d8761c410b8d14f0ba9"
+    },
+    {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/3.webp",
+      "size": 37070,
+      "sha256": "e5e7c7891b59ce6a3c4f7280493997f6daab781babd9c309e27f937a99d2b2ef"
+    },
+    {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/4.webp",
+      "size": 19514,
+      "sha256": "52401f8fb96a0536758b994c2cbe0c063704c8532b0e49f6379154f132149dcb"
+    },
+    {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/5.webp",
+      "size": 19466,
+      "sha256": "af30e1b782d388f299feaee06bf310320eae24e46fcc2868d9474d3be48ee79f"
+    },
+    {
+      "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/6.webp",
+      "size": 14362,
+      "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
+    },
+    {
       "path": "capturas/Entity The Black Day/1.webp",
       "size": 33098,
       "sha256": "acea11a9ad9720233800c503d3477548bf95074e57b73fda489726b64382cb44"
@@ -1845,6 +1930,36 @@
       "path": "capturas/Forza Horizon 5 Premium Edition/6.webp",
       "size": 18282,
       "sha256": "90b4dba0067b790c1be7fefbd93bbf46ea969a3646893d167f34c9ea3b0e06fd"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/1.webp",
+      "size": 27302,
+      "sha256": "1be1173852228c14c70ebad1290eb9be40f7e68e3296150f6a845b923a0df4f9"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/2.webp",
+      "size": 21056,
+      "sha256": "b70e7851fc5c549ee8f7eefdb56c2369a513a46244265f0ef203dd7484a510f2"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/3.webp",
+      "size": 30036,
+      "sha256": "4e767167548c443a9704afc401a669e47f5986dc1d2b91ef097dbe4d0b97a36b"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/4.webp",
+      "size": 21860,
+      "sha256": "3fd668be7d0366d462ef480bd07076f05eeab09a4f311de8a234cdf4a3e15cd0"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/5.webp",
+      "size": 16798,
+      "sha256": "553859a1e37a1e114525f1e753a0bf4864dcdcf8acd096f01248d89558cbcbbb"
+    },
+    {
+      "path": "capturas/Forza Motorsport 7 Ultimate Edition/6.webp",
+      "size": 21234,
+      "sha256": "800d0d05947cbb16753e80246a37fddfa826d27b0053f721294c27714cac986c"
     },
     {
       "path": "capturas/Gears Of War E-Days/01.webp",
@@ -3092,6 +3207,36 @@
       "sha256": "91703944f98843479e92d147486c499603940117a956a57b7a334aec19488160"
     },
     {
+      "path": "capturas/The Sinking City 2 Premium Edition/1.webp",
+      "size": 11992,
+      "sha256": "bb70d2380beec8c0da87aa194ae3f0d87223140adfb6095ea7c5fe1d2e4c8f34"
+    },
+    {
+      "path": "capturas/The Sinking City 2 Premium Edition/2.webp",
+      "size": 15890,
+      "sha256": "7cd728c016709df0052630e53ae51d008dfde9c75dd12d27414813aacd1ed4e0"
+    },
+    {
+      "path": "capturas/The Sinking City 2 Premium Edition/3.webp",
+      "size": 16608,
+      "sha256": "b2fafa35e3897d5ed274b7adb1a7e48b644101e4c460fbd018b5d82337b94223"
+    },
+    {
+      "path": "capturas/The Sinking City 2 Premium Edition/4.webp",
+      "size": 6388,
+      "sha256": "b4b2ec141194829cddc741fef9f45d696006f7dafa843e65184498b3fa321ea6"
+    },
+    {
+      "path": "capturas/The Sinking City 2 Premium Edition/5.webp",
+      "size": 6934,
+      "sha256": "444c79889b0e24d413a515fd97280bc7b63c56216ec2d24c790b7e76a6f428c9"
+    },
+    {
+      "path": "capturas/The Sinking City 2 Premium Edition/6.webp",
+      "size": 10478,
+      "sha256": "ca6606ea6c6d53f7ba1c22e52b992a27df8949c223093e4eeb9693ab1c4b62a3"
+    },
+    {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
       "size": 45572,
       "sha256": "61894db3e297ed83122567bd12fff2767b7d5d528795542a41d4380b19da0a72"
@@ -3120,6 +3265,36 @@
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/06.webp",
       "size": 49890,
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/1.webp",
+      "size": 11008,
+      "sha256": "5dc751c494b8502dbb88f3ea5fb82627d083a4ce0e0624a2a0eff036d0f97099"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/2.webp",
+      "size": 14054,
+      "sha256": "93f98cccee0e85ead5af77a7bcf92fa4274b37bdf47acc146adf7341dd1b3f96"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/3.webp",
+      "size": 14562,
+      "sha256": "200fb8f34aabab3c62336ca7a1062077394507c7ebe879da91665d861de07ff6"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/4.webp",
+      "size": 25368,
+      "sha256": "2d89884a19e3d621ecc35ff7cecf0037463dfb275818ae0ff270812953e5ebee"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/5.webp",
+      "size": 15644,
+      "sha256": "5e91b34914d9cd94a341f2d24d3b5c12bab7500f3a8e77f7d38a18b67b6a9911"
+    },
+    {
+      "path": "capturas/Uncharted Legacy of Thieves Collection/6.webp",
+      "size": 20864,
+      "sha256": "00503d81b8a9fa83c43b14331e64f6494b0441ad6079e46ffc49206fef655b9c"
     },
     {
       "path": "capturas/Warhammer 40.000 Space Marine II/1.webp",
@@ -3277,6 +3452,11 @@
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
     },
     {
+      "path": "sinopsis/Bravely Default Flying Fairy HD Remaster.txt",
+      "size": 328,
+      "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
+    },
+    {
       "path": "sinopsis/Call Of Duty Black Ops 6.txt",
       "size": 894,
       "sha256": "bbba340ebae725c67d4c322f3611b93ee3252b792d75280ca189da3a33a02623"
@@ -3392,6 +3572,11 @@
       "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
     },
     {
+      "path": "sinopsis/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
+      "size": 382,
+      "sha256": "47e6e2662d2dc77e052146f601517b09ee42630a4a86edcb36be4a870465f087"
+    },
+    {
       "path": "sinopsis/Elden Ring.txt",
       "size": 927,
       "sha256": "292b1e71a61fc1543958eeb4a8a84f689fa27370150286e98ab139638122660d"
@@ -3415,6 +3600,11 @@
       "path": "sinopsis/Forza Horizon 5 Premium Edition.txt",
       "size": 922,
       "sha256": "56cea7f3fdec8b123e21a795bd6bf7caabb730110ae19eef73412f33728f622d"
+    },
+    {
+      "path": "sinopsis/Forza Motorsport 7 Ultimate Edition.txt",
+      "size": 377,
+      "sha256": "670ec9275196e20fcaf6ef518c2ef69ac38350a370d4d1c3dbad06b737c4b324"
     },
     {
       "path": "sinopsis/Gears Of War E-Days Online.txt",
@@ -3627,9 +3817,19 @@
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
     },
     {
+      "path": "sinopsis/The Sinking City 2 Premium Edition.txt",
+      "size": 347,
+      "sha256": "574662752878e67f9939645d97533b7490b7426b5cd65ced39fd6842eef54b85"
+    },
+    {
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 265,
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
+    },
+    {
+      "path": "sinopsis/Uncharted Legacy of Thieves Collection.txt",
+      "size": 303,
+      "sha256": "5cb8f1f26af7e14bcc7894b46ce3c93ad02cac2b2191e7f0c86a8ba7f887914e"
     },
     {
       "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
@@ -3735,6 +3935,11 @@
       "path": "datos/Bloodborne GOTY Edition.txt",
       "size": 194,
       "sha256": "d04b82d71a3355c26dac19b5681a01747a176ec13a52f5fa9d2ac008b55c07d0"
+    },
+    {
+      "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",
+      "size": 171,
+      "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
     },
     {
       "path": "datos/Call Of Duty Black Ops 6.txt",
@@ -3852,6 +4057,11 @@
       "sha256": "abec741c45de1f73944d1021b4a353fe73b6a9c2bac3b35fdfd790052f488147"
     },
     {
+      "path": "datos/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
+      "size": 191,
+      "sha256": "5a9789f9f435baaaebfae59ab04dfd6d3dacbadbbda5eb0ccfc42d3cf661554f"
+    },
+    {
       "path": "datos/Elden Ring.txt",
       "size": 188,
       "sha256": "3c3cda378af3d49ea19f295f1c9533d91890af2d1db1498f9b6085dc66cb1257"
@@ -3875,6 +4085,11 @@
       "path": "datos/Forza Horizon 5 Premium Edition.txt",
       "size": 191,
       "sha256": "513b6fd9784a6d955a0a4767ca3209363077a935a2347c005586a31fa1caf821"
+    },
+    {
+      "path": "datos/Forza Motorsport 7 Ultimate Edition.txt",
+      "size": 182,
+      "sha256": "d9567837f9d8579f1847a371bc2da0a8799a440126e8ffe95dfa8d2c2c4c3858"
     },
     {
       "path": "datos/Gears Of War E-Days Online.txt",
@@ -4087,9 +4302,19 @@
       "sha256": "317142f7ec598c077d3bd05c82da1bbd739d58873923c3a2d10c2e5082189916"
     },
     {
+      "path": "datos/The Sinking City 2 Premium Edition.txt",
+      "size": 179,
+      "sha256": "48a7f0b2b5eda45f222242fd040d3584c53ff52d2af95d246778b7b960bf58c8"
+    },
+    {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 187,
       "sha256": "2061eacbca4a577694151f0b23a2244b25752615cc7a7c1414c0ffa65ff62b16"
+    },
+    {
+      "path": "datos/Uncharted Legacy of Thieves Collection.txt",
+      "size": 169,
+      "sha256": "6753e54d43e1dff66475d1425313c9a85f0f86d8feacdf7448b817c4b30d6345"
     },
     {
       "path": "datos/Warhammer 40.000 Space Marine II.txt",

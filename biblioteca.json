@@ -262,6 +262,11 @@
       "sha256": "c98908045fdbc5a90a58aef35a643acb48c8e9fb1a8f699321cfae2282d0b2d9"
     },
     {
+      "path": "imagenes/Farming Simulator 25 Year 1 Bundle.webp",
+      "size": 78776,
+      "sha256": "f1e2ecaedbe99f6302f5f4f1b6eaf2a549aac0a004343a8fa09b2be48f7c185e"
+    },
+    {
       "path": "imagenes/Forza Horizon 3.webp",
       "size": 23274,
       "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
@@ -300,6 +305,11 @@
       "path": "imagenes/God Of War Ragnarok Deluxe Edition.webp",
       "size": 48796,
       "sha256": "cfed13586fab97c4931e20e38d2ef60700daf155dcf654b96d7025128b1a0714"
+    },
+    {
+      "path": "imagenes/God of War.webp",
+      "size": 39228,
+      "sha256": "9632152fd61c787641a229e38da101fb3c680d766edbfb005bdddf0a006dc6ca"
     },
     {
       "path": "imagenes/Grand Theft Auto V GTA.webp",
@@ -402,6 +412,11 @@
       "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
     },
     {
+      "path": "imagenes/Remothered Red Nuns Legacy.webp",
+      "size": 19106,
+      "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
+    },
+    {
       "path": "imagenes/Resident Evil 4 Remake.webp",
       "size": 16404,
       "sha256": "bd93fcabe41389fdf3285b30f5b2e4c1b223cb86c973791a067ad995b07d1ffb"
@@ -445,6 +460,11 @@
       "path": "imagenes/Stalker 2 Heart Of Chornobyl.webp",
       "size": 46886,
       "sha256": "8d5576adfd9713074207fbea1907feb2e10e7996c19e2a9d1fb64acd5b154a4c"
+    },
+    {
+      "path": "imagenes/Star Wars Galactic Racer Deluxe Edition.webp",
+      "size": 42682,
+      "sha256": "188765c3c4ee3125c70b12962783afccc40514b73a4f1d70831764b17c5bf205"
     },
     {
       "path": "imagenes/Star Wars Jedi Survivor.webp",
@@ -2057,6 +2077,31 @@
       "sha256": "85e5310d115685634f335f3a35050280e569e32dd2bbedf575f4826363391b6a"
     },
     {
+      "path": "capturas/Farming Simulator 25 Year 1 Bundle/1.webp",
+      "size": 42446,
+      "sha256": "6eba38c4f1d28edcfaca5816d166cdb600cd8c4ff18f29b7784fc6779b22d0dc"
+    },
+    {
+      "path": "capturas/Farming Simulator 25 Year 1 Bundle/2.webp",
+      "size": 55324,
+      "sha256": "6ade93146b8f9f1f67af1b039a6888cb899f8abe69d4e0321d14caad13335c56"
+    },
+    {
+      "path": "capturas/Farming Simulator 25 Year 1 Bundle/3.webp",
+      "size": 36008,
+      "sha256": "ce587894cf78d2190477dc83ea12eacf6c9e085f433ae604eaae675b9c9ff930"
+    },
+    {
+      "path": "capturas/Farming Simulator 25 Year 1 Bundle/4.webp",
+      "size": 24960,
+      "sha256": "92017b7cc9aff539592bd7b69cf853f5ff31a4448da86669cb97857fc3b6ff8e"
+    },
+    {
+      "path": "capturas/Farming Simulator 25 Year 1 Bundle/5.webp",
+      "size": 32248,
+      "sha256": "60402172ac5930cf91b1b63b5ad05ec3872122a11c46b9ced03f0702de26570f"
+    },
+    {
       "path": "capturas/Forza Horizon 3/1.webp",
       "size": 14944,
       "sha256": "703f0d19f1cbbc1669b320ec421ccef2530d4776d8f45232e92b4146228624c4"
@@ -2235,6 +2280,36 @@
       "path": "capturas/Ghost Of Tsushima/6.webp",
       "size": 15462,
       "sha256": "d5f32726019756f943797b65511c12217640773232548a4e883c8e93e70f61f7"
+    },
+    {
+      "path": "capturas/God of War/1.webp",
+      "size": 31386,
+      "sha256": "e6724d9fd0c024c9810f4fe13bb749466497523074ce2cf6ee843a8be120e5c5"
+    },
+    {
+      "path": "capturas/God of War/2.webp",
+      "size": 21770,
+      "sha256": "f46a6a77a396e4466f0f5a72994ef054fb356419ceeafd635b6246133a516ebb"
+    },
+    {
+      "path": "capturas/God of War/3.webp",
+      "size": 35172,
+      "sha256": "65ff16e91b69761e1f2919a269707bf3d936ee920c6132159f80bc00ec780ed3"
+    },
+    {
+      "path": "capturas/God of War/4.webp",
+      "size": 22164,
+      "sha256": "23b09f988d5c08150cef7e4ab9f96a180fbb03dabba6856691d2ef3ec1926eed"
+    },
+    {
+      "path": "capturas/God of War/5.webp",
+      "size": 28324,
+      "sha256": "1179f067e33d85970f43eb227ee645e51092d3977dbaff77dd23ed35a469de90"
+    },
+    {
+      "path": "capturas/God of War/6.webp",
+      "size": 36182,
+      "sha256": "0198daf229571d92d9ca8c12716ffe20a38b255923b2198ca188e2fe2fd7b405"
     },
     {
       "path": "capturas/God of War III Remastered/1.webp",
@@ -2882,6 +2957,36 @@
       "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
     },
     {
+      "path": "capturas/Remothered Red Nuns Legacy/1.webp",
+      "size": 12788,
+      "sha256": "5519802e54a1621802f936ca6ad4514b1f283d965fe4d368d0cceef923e00962"
+    },
+    {
+      "path": "capturas/Remothered Red Nuns Legacy/2.webp",
+      "size": 9842,
+      "sha256": "b151e761f50913c14efba1bb6c66f5a3c10375970e433fee88048767206dd211"
+    },
+    {
+      "path": "capturas/Remothered Red Nuns Legacy/3.webp",
+      "size": 10100,
+      "sha256": "fcf5fd2c144bb49cd15881a1c5aa74a407229e43924274f98ffd2ba9ff395396"
+    },
+    {
+      "path": "capturas/Remothered Red Nuns Legacy/4.webp",
+      "size": 13354,
+      "sha256": "83c4df29e31dc8d091f0d8167c8a124def7d2447ac580cb7a3a353a7405a9407"
+    },
+    {
+      "path": "capturas/Remothered Red Nuns Legacy/5.webp",
+      "size": 11110,
+      "sha256": "1ca3a64d5b49d690b6c3b93772e2180258403d15a5f7462e54c3110929fba39d"
+    },
+    {
+      "path": "capturas/Remothered Red Nuns Legacy/6.webp",
+      "size": 8334,
+      "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
+    },
+    {
       "path": "capturas/Resident Evil 4 Remake/1.webp",
       "size": 9258,
       "sha256": "3649124237a8c3d5d05e7e924f31bda248de28ba5aff1df465b4fe3599490f02"
@@ -3150,6 +3255,36 @@
       "path": "capturas/Stalker 2 Heart Of Chornobyl/6.webp",
       "size": 31590,
       "sha256": "4cc85ef3afff2e45adc96c3b7b52d183bea3371af1ba053036f48a030feae3ee"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/1.webp",
+      "size": 17850,
+      "sha256": "7ff5efe2b5d2bbc9e784947cb45fd9a6247c584662931cc457ee2ab2aab62897"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/2.webp",
+      "size": 28708,
+      "sha256": "a4ec787fda3d1454a57914da2bb712a609837f9764e6ad3a66a7bb611b72f8eb"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/3.webp",
+      "size": 8854,
+      "sha256": "ef50b1fc7f808036f0bc3e71eee1e72104cdec1b36b0d08ac4e9fcf42e3f9258"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/4.webp",
+      "size": 17848,
+      "sha256": "5ed3c25f358e55202de6ec62e3283841d9d2ddec2ed8f2ee91aa88da93b1a952"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/5.webp",
+      "size": 17898,
+      "sha256": "58b930a86611beeed07aa5d8a5ac758ef9ba7453a66f0cb129fbd86712a54427"
+    },
+    {
+      "path": "capturas/Star Wars Galactic Racer Deluxe Edition/6.webp",
+      "size": 26906,
+      "sha256": "148e78a7bba9c24cb309631e17bee5d310358d3da139351c3d361676d6493831"
     },
     {
       "path": "capturas/Star Wars Jedi Survivor/1.webp",
@@ -3862,6 +3997,11 @@
       "sha256": "63c5ce8bfa8e31c6e4ccefa371a10fc6e2c750969f2a730c87e3e9137dedcbe6"
     },
     {
+      "path": "sinopsis/Farming Simulator 25 Year 1 Bundle.txt",
+      "size": 494,
+      "sha256": "94d46bdfe03c00d0da05cff7ffe18bce131af18a03661cea92055e83e5e02a4e"
+    },
+    {
       "path": "sinopsis/Forza Horizon 3.txt",
       "size": 615,
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
@@ -3900,6 +4040,11 @@
       "path": "sinopsis/God Of War Ragnarok Deluxe Edition.txt",
       "size": 990,
       "sha256": "562b1562d0a727b4c5510a7933561609e7e69629aaa14f509e06cd97d6b2d475"
+    },
+    {
+      "path": "sinopsis/God of War.txt",
+      "size": 449,
+      "sha256": "75a89b27b2d0d05ad9caa551c43bce339ecc20b1db13c3222ab024c6b6de6bbb"
     },
     {
       "path": "sinopsis/Grand Theft Auto V GTA.txt",
@@ -4002,6 +4147,11 @@
       "sha256": "0224e780d1d81c55fbabc007db90fffe1c71130fc7bd607d74b6a86863fa45fd"
     },
     {
+      "path": "sinopsis/Remothered Red Nuns Legacy.txt",
+      "size": 263,
+      "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
+    },
+    {
       "path": "sinopsis/Resident Evil 4 Remake.txt",
       "size": 910,
       "sha256": "51ab375a9045ab1b0dae07ab5b3141e7889608125b42e84837624b3013e0c9e6"
@@ -4045,6 +4195,11 @@
       "path": "sinopsis/Stalker 2 Heart Of Chornobyl.txt",
       "size": 706,
       "sha256": "a59f0c379679dc14e6d62786c20f0f3165c4dbdf73801684085059ee508494b5"
+    },
+    {
+      "path": "sinopsis/Star Wars Galactic Racer Deluxe Edition.txt",
+      "size": 370,
+      "sha256": "27cb6e8b674b63dcbcc0ca8256b4b846027d4fb38776a3b003170b781c1835a6"
     },
     {
       "path": "sinopsis/Star Wars Jedi Survivor.txt",
@@ -4382,6 +4537,11 @@
       "sha256": "e33ac26425adce58bbb1070e583aad985c2f77893e8d9f89788c3303f8a9cd3f"
     },
     {
+      "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
+      "size": 184,
+      "sha256": "96de5f15e453b7e697cfda093e52b28581a191da3222adf99705452d3180cfa4"
+    },
+    {
       "path": "datos/Forza Horizon 3.txt",
       "size": 190,
       "sha256": "1330d27f8a6fe665a4e1a9152a6bd76f459e1d66797fd9189fc73b5b5a3ab4da"
@@ -4420,6 +4580,11 @@
       "path": "datos/God Of War Ragnarok Deluxe Edition.txt",
       "size": 173,
       "sha256": "736cedd31512d9e7dc1bc94d62e2d260e8dad90f0ae6eca4901b91986c10c23a"
+    },
+    {
+      "path": "datos/God of War.txt",
+      "size": 170,
+      "sha256": "7d707f17d3bbc047b0189546fe83c706cfc8fc71557c9f39c3b11ca375419426"
     },
     {
       "path": "datos/Grand Theft Auto V GTA.txt",
@@ -4522,6 +4687,11 @@
       "sha256": "d2c4accd62f76c55b9ebda4a8708f67fa34697880e7ed5952c1cfaceddfb775f"
     },
     {
+      "path": "datos/Remothered Red Nuns Legacy.txt",
+      "size": 183,
+      "sha256": "7dd676d474bda521bc38e8d8db37ef8f7fddc59b906523acebb08a77a2fb5d75"
+    },
+    {
       "path": "datos/Resident Evil 4 Remake.txt",
       "size": 174,
       "sha256": "9c58e69e1602d7658d1f14f33c9ee5929b752135a179a1c510f1647448ef8461"
@@ -4565,6 +4735,11 @@
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
       "size": 174,
       "sha256": "48925c7f6e5bc727acf4ab89ccc5794723dabd9caf806681dbac805dc54a5636"
+    },
+    {
+      "path": "datos/Star Wars Galactic Racer Deluxe Edition.txt",
+      "size": 174,
+      "sha256": "bb3cb27f7410ba538d64d0fbd7ee0288bfb16cf67b7e183fa2b38e7195848f45"
     },
     {
       "path": "datos/Star Wars Jedi Survivor.txt",

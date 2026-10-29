@@ -537,6 +537,11 @@
       "sha256": "b51a103d842dc55808805e534c6bbfc1120d73f8e7bdffa7549405680aae7081"
     },
     {
+      "path": "imagenes/Uncharted The Nathan Drake Collection.webp",
+      "size": 57180,
+      "sha256": "93acbec514b478f682849f97b9de0015be70278f2d0bdef696445ce0ecafb2dd"
+    },
+    {
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
       "size": 108972,
       "sha256": "3b158100f9a73d86cfb2e59fd4d1868714397ad3f1a6853b7ae5634e49ef8a7f"
@@ -3712,6 +3717,36 @@
       "sha256": "00503d81b8a9fa83c43b14331e64f6494b0441ad6079e46ffc49206fef655b9c"
     },
     {
+      "path": "capturas/Uncharted The Nathan Drake Collection/1.webp",
+      "size": 37140,
+      "sha256": "42e5203bd143f740df999b673a3e88af5bb2aa646a5dc2e1665d88a29888b0a3"
+    },
+    {
+      "path": "capturas/Uncharted The Nathan Drake Collection/2.webp",
+      "size": 23258,
+      "sha256": "2cef7c6b024c0c06f4f41aa50f95749ed95414106f6c04f016506050e8a9f818"
+    },
+    {
+      "path": "capturas/Uncharted The Nathan Drake Collection/3.webp",
+      "size": 25882,
+      "sha256": "2c0b4ca081e47c1bd625d148f4cee055ebdf86e5b23dd10a1047c941a4ddf1fe"
+    },
+    {
+      "path": "capturas/Uncharted The Nathan Drake Collection/4.webp",
+      "size": 23732,
+      "sha256": "8bdab97f043b182bdd7d4d2235da147624985114d97ef7d76553f435092fc8d9"
+    },
+    {
+      "path": "capturas/Uncharted The Nathan Drake Collection/5.webp",
+      "size": 17262,
+      "sha256": "d4d588511b0fb102ad18fd23dc979004f9ddf96b85869b3d071da4cf6cc8fbbd"
+    },
+    {
+      "path": "capturas/Uncharted The Nathan Drake Collection/6.webp",
+      "size": 24090,
+      "sha256": "37be151215e4d0b829c3c60d9ae7f128f463a7e1677366731ec420d595ca709f"
+    },
+    {
       "path": "capturas/Warhammer 40.000 Space Marine II/1.webp",
       "size": 37438,
       "sha256": "a51effa0cbdb42f86d6915ee37f290c2ec4d510ff8279e3024618f5abbe16fe7"
@@ -4307,6 +4342,11 @@
       "sha256": "5cb8f1f26af7e14bcc7894b46ce3c93ad02cac2b2191e7f0c86a8ba7f887914e"
     },
     {
+      "path": "sinopsis/Uncharted The Nathan Drake Collection.txt",
+      "size": 445,
+      "sha256": "b0c013f33235ef60f6122816510757d9b0668622a40f8e408988d68da4b6171f"
+    },
+    {
       "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
@@ -4850,6 +4890,11 @@
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",
       "size": 169,
       "sha256": "6753e54d43e1dff66475d1425313c9a85f0f86d8feacdf7448b817c4b30d6345"
+    },
+    {
+      "path": "datos/Uncharted The Nathan Drake Collection.txt",
+      "size": 199,
+      "sha256": "209c6fb1ee50f5929b23a3ddd7daafb35334fada858f8f089f74b8c61e3575d9"
     },
     {
       "path": "datos/Warhammer 40.000 Space Marine II.txt",

@@ -6,4 +6,4 @@ Idioma: MULTI
 Fecha de incorporación: 29/10/2026
 Puntuación: 8,7
 Metacritic: 86
-Repackers: Dodi
+Repackers: DODI

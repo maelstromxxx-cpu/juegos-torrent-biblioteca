@@ -167,6 +167,31 @@
       "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
     },
     {
+      "path": "imagenes/Crysis 2 Remastered.webp",
+      "size": 43106,
+      "sha256": "49fb6b0530be189b919bf2944891c32c2c775b5bf6abf7afb3fe03c96ef3e452"
+    },
+    {
+      "path": "imagenes/Crysis 3 Remastered.webp",
+      "size": 57272,
+      "sha256": "6cbc80a9567445e510ca344296b27e5baa94e84775dd212677dd60cf438f3783"
+    },
+    {
+      "path": "imagenes/Crysis Remastered.webp",
+      "size": 53280,
+      "sha256": "d1774bb0db88dc5af1fa791b5862243b4f3a4abc58e2ebeb791c5295e451586d"
+    },
+    {
+      "path": "imagenes/Crysis Warhead.webp",
+      "size": 29016,
+      "sha256": "b7a9eda4df4992c6481f2958f60b72645dda041a34be171e755341bc809516d4"
+    },
+    {
+      "path": "imagenes/Crysis.webp",
+      "size": 21898,
+      "sha256": "b6b0324fd5fe3ec49b579574aef034f99c4fd2c09e86580438769386930d2c55"
+    },
+    {
       "path": "imagenes/Cyberpunk 2077 Ultimate Edition.webp",
       "size": 25706,
       "sha256": "e5df2e454d6eab6629bce5bb7fd7de30894bfe9fc124784714ff31315f1a972c"
@@ -285,6 +310,11 @@
       "path": "imagenes/GTA 4 Grand Theft Auto IV The Complete Edition.webp",
       "size": 22878,
       "sha256": "251e58b7c64f7e42837f8948cd4e141092ee10bd5a03bb1f2d6cbadcc2b32ed6"
+    },
+    {
+      "path": "imagenes/GTA V Grand Theft Auto V Enhanced.webp",
+      "size": 86644,
+      "sha256": "38a652f9e57f3ed17b2c80fd3fdd12cc9481f8a351ffd54cc7b44c530d25e124"
     },
     {
       "path": "imagenes/Halo Campaign Evolved.webp",
@@ -1457,6 +1487,156 @@
       "sha256": "8d229b04c03982327f25d3bfcfa1562901152b7bd73361114f768c90db0cf7d3"
     },
     {
+      "path": "capturas/Crysis/1.webp",
+      "size": 21172,
+      "sha256": "331c78edcbf72b7a2937d0c76076f2f7faadc6eed8f0b4d9b36153017817600c"
+    },
+    {
+      "path": "capturas/Crysis/2.webp",
+      "size": 26944,
+      "sha256": "8587751d0e67a2a03e2367755d7193219a2553c387bce85ddfef91ba2611aff3"
+    },
+    {
+      "path": "capturas/Crysis/3.webp",
+      "size": 33062,
+      "sha256": "cb39d82de82f14be9a4d6f6db0f64d30c528e809be024e6fbb92b7219e182054"
+    },
+    {
+      "path": "capturas/Crysis/4.webp",
+      "size": 14180,
+      "sha256": "20920c0ca5e5e246ccb38b569ee21e1c22d6eb0ae5cb997aa2dea8337f2a2086"
+    },
+    {
+      "path": "capturas/Crysis/5.webp",
+      "size": 20672,
+      "sha256": "62a6c10511cea337e787855f67138958a10a9e9c49307f6daa3dc98bd769a12e"
+    },
+    {
+      "path": "capturas/Crysis/6.webp",
+      "size": 29614,
+      "sha256": "886750c8655a38868b6e0f04f81e2cc743ee0616326a35e21c85400056b9e0f1"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/1.webp",
+      "size": 19496,
+      "sha256": "d45a6a1efa6f210df2a85a0deda159afbc5eeeabfc9563e00333ab2294d289e0"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/2.webp",
+      "size": 32128,
+      "sha256": "4f22042a4ebecba4ba1d993d58c259da3f01949371bf1411024b0ebe5cc347fe"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/3.webp",
+      "size": 27078,
+      "sha256": "4c61ec1015790a8f1beced9f7b8c98675f3890fa1a9eab5d959ff6d7b42d26f5"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/4.webp",
+      "size": 19744,
+      "sha256": "368a71037fa720973c58fd1e49c73b7bcf8f6f4774a617bb40c616ca3fbee05e"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/5.webp",
+      "size": 32628,
+      "sha256": "9c266485844c44a6b24397d7c603fc3f10abfb6ad9692baa3181863b775fc707"
+    },
+    {
+      "path": "capturas/Crysis 2 Remastered/6.webp",
+      "size": 27992,
+      "sha256": "078211216ee045a080de8ee779d26f1cb18491460d2e4bf8648bd23604b57b7f"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/1.webp",
+      "size": 38932,
+      "sha256": "033b4addc5a4b8a671adb821c0873a19d62cea40d8d59cb62fe0f1c2e8dde717"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/2.webp",
+      "size": 27122,
+      "sha256": "0d5b051b1212683eab178a9daaa6975cc890a268f22b60013258946c42369f09"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/3.webp",
+      "size": 27714,
+      "sha256": "4621cc49dbc026cfac41beb822adc918e04b6d9e778c70bc4b07552c13f49650"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/4.webp",
+      "size": 23980,
+      "sha256": "dbb8cdaef0ebab0bac14f1d2fd6d1c5aee9cfe7f68aad08a30c9678e78259c15"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/5.webp",
+      "size": 19608,
+      "sha256": "51833489d7a250171bc89108fb6a3b418dcf9a510434d26f608d3f0619a44fa4"
+    },
+    {
+      "path": "capturas/Crysis 3 Remastered/6.webp",
+      "size": 33668,
+      "sha256": "4e60adeb3edb5f33801287da5c079ba0436cec15d0bc9b8e7e78268e45643821"
+    },
+    {
+      "path": "capturas/Crysis Remastered/1.webp",
+      "size": 11434,
+      "sha256": "afede4c10be730a4dcb8dc168dc65cb5d25a7716f011c902926dd6995c9640e9"
+    },
+    {
+      "path": "capturas/Crysis Remastered/2.webp",
+      "size": 23956,
+      "sha256": "3dce1346cdf52da3984daa91a57b47c2084f3f76c357ad1752585f53ebc8afeb"
+    },
+    {
+      "path": "capturas/Crysis Remastered/3.webp",
+      "size": 30030,
+      "sha256": "11153f887eb92bd6ea7c50024afba79ffadf9760f26c000a0c3d0205fcdb64f6"
+    },
+    {
+      "path": "capturas/Crysis Remastered/4.webp",
+      "size": 11750,
+      "sha256": "b566e0aeca3126dfd1da43bc41675af8ba6f47457ea980f3823bd1a6b61e7672"
+    },
+    {
+      "path": "capturas/Crysis Remastered/5.webp",
+      "size": 26438,
+      "sha256": "ad30a778d0c75fd8c7bf74cf461f2a6f303e889bd1543aa153b28a6cae5935f4"
+    },
+    {
+      "path": "capturas/Crysis Remastered/6.webp",
+      "size": 33784,
+      "sha256": "d23eb000284edbfe04fdab46fe0ae94b63fc28a449f76933a34f60c901521754"
+    },
+    {
+      "path": "capturas/Crysis Warhead/1.webp",
+      "size": 33144,
+      "sha256": "3cfc2b5fe77c27bc0e62968613bdcfe0d934a3760297327c677f9260a702d2ae"
+    },
+    {
+      "path": "capturas/Crysis Warhead/2.webp",
+      "size": 36618,
+      "sha256": "64c642e57bb60e914df40aa723f1522bb399dba74fdb81093615bb1c76e6c363"
+    },
+    {
+      "path": "capturas/Crysis Warhead/3.webp",
+      "size": 17878,
+      "sha256": "e1d526ee59c8bd614b90566edbbf9d7accbc376767e1fc23b7bb404e7ef2ab44"
+    },
+    {
+      "path": "capturas/Crysis Warhead/4.webp",
+      "size": 48196,
+      "sha256": "1f7d65b6e7fb28a332e32d4d40d6a1708b15d59e491529d48d8cb44a86ea9a06"
+    },
+    {
+      "path": "capturas/Crysis Warhead/5.webp",
+      "size": 34092,
+      "sha256": "6f3cc5c81a4dac5d65d46cc718eae5a56c5a89932d8f41b5c40dad597f04052c"
+    },
+    {
+      "path": "capturas/Crysis Warhead/6.webp",
+      "size": 38608,
+      "sha256": "54a186dfb300bacb56664bfffce89f5e13005278a5f765803153024f331a80e0"
+    },
+    {
       "path": "capturas/Cyberpunk 2077 Ultimate Edition/1.webp",
       "size": 29398,
       "sha256": "a091a8fac320355bba40a83139e23ff0db8394f23e063e58641b7e366fb5f098"
@@ -2175,6 +2355,36 @@
       "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/6.webp",
       "size": 8688,
       "sha256": "6ca2e756d248ff6510f6111147fbf189ab08b9b8186ca74590a803bfe900c751"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/1.webp",
+      "size": 15894,
+      "sha256": "d5ba9666eef59ad20aeb637b8c2595ad50d2ef6d8351b88cfeb9e3549534e2ba"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/2.webp",
+      "size": 23626,
+      "sha256": "db903ed66add2f358e59a9cf5e5de004a308d2b7e3533a7e26a1257af89eb68b"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/3.webp",
+      "size": 45088,
+      "sha256": "833073dc7c16f3c62ca0d4a852edfe9e47f717871cf26d092121fe6a1e4d89f4"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/4.webp",
+      "size": 42274,
+      "sha256": "af42b92796175acda2e2f5361e36f5e946666a35cd88bff33f073a4885059585"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/5.webp",
+      "size": 34822,
+      "sha256": "f9aa223e477ce5cf9494dbc085aee2b2d8e7110e2ddff01127b2f287e622e380"
+    },
+    {
+      "path": "capturas/GTA V Grand Theft Auto V Enhanced/6.webp",
+      "size": 28310,
+      "sha256": "96d1c954fe7d80f87a2057d6ba710e520f9666bc0af00b5e93da9837f2256200"
     },
     {
       "path": "capturas/Halo Campaign Evolved/1.webp",
@@ -3557,6 +3767,31 @@
       "sha256": "42b54a3528dac24a307e6b1ac6cea295b9155846871c278d997d0711be9588cf"
     },
     {
+      "path": "sinopsis/Crysis 2 Remastered.txt",
+      "size": 386,
+      "sha256": "c0f15e7e9a9361e702d3faad1c9b95150ae448a0c5b55b1463dddcec32183aa8"
+    },
+    {
+      "path": "sinopsis/Crysis 3 Remastered.txt",
+      "size": 411,
+      "sha256": "47c05d217b5f5a3c3ef6877005dfe04f8d2eb9a176d3f6e7192cec268f257f1c"
+    },
+    {
+      "path": "sinopsis/Crysis Remastered.txt",
+      "size": 431,
+      "sha256": "08bb8c9d02018b4e2319a8df90d088ebe5004a845a6eb9aa9e150021d86f4672"
+    },
+    {
+      "path": "sinopsis/Crysis Warhead.txt",
+      "size": 371,
+      "sha256": "5334bd28d4d99a4c4ab111c63ed73eb3b335b35135024219ba602770f92d4022"
+    },
+    {
+      "path": "sinopsis/Crysis.txt",
+      "size": 510,
+      "sha256": "eee5b7fe4ced089cfed131efc06db99e479abfb727125649fa4ae29743eae243"
+    },
+    {
       "path": "sinopsis/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 828,
       "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
@@ -3675,6 +3910,11 @@
       "path": "sinopsis/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
       "size": 404,
       "sha256": "94a58410dd26e47bd72bd136975dea45c9d3076dcf2d65fe2d2c0cba5eb5efb0"
+    },
+    {
+      "path": "sinopsis/GTA V Grand Theft Auto V Enhanced.txt",
+      "size": 386,
+      "sha256": "a8078271e6794bb5d834bc0c677bd5b0af558e2bccff34e0d41bc01c764d0aaf"
     },
     {
       "path": "sinopsis/Halo Campaign Evolved.txt",
@@ -4047,6 +4287,31 @@
       "sha256": "5bb2eb36e8b5d841b29645f88db9696be7fcd42feb0f8d23c73802fbda0eda45"
     },
     {
+      "path": "datos/Crysis 2 Remastered.txt",
+      "size": 192,
+      "sha256": "3e5f265a2a4a21450575a73788cd64c79469b942c49727449afb74ed959b1d41"
+    },
+    {
+      "path": "datos/Crysis 3 Remastered.txt",
+      "size": 191,
+      "sha256": "6a9b4800519db7edd67ecd27b3bd979d1c3937388d9bc5b8f1405398ec125475"
+    },
+    {
+      "path": "datos/Crysis Remastered.txt",
+      "size": 192,
+      "sha256": "868bf773c1fc55d2b210bddf5670b55f74fd1871558620ec429aaeacbceee183"
+    },
+    {
+      "path": "datos/Crysis Warhead.txt",
+      "size": 206,
+      "sha256": "92ddede3f1e253c1d279a41ea1a59958745343f5891e94e03501e2af30b8a5f3"
+    },
+    {
+      "path": "datos/Crysis.txt",
+      "size": 206,
+      "sha256": "952ca80cdaaeafb31530118878a0f23534c1140910d16c442d961a39353b3bc4"
+    },
+    {
       "path": "datos/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 162,
       "sha256": "42d85556bab22e619aeaab40b236cf3e4ef45bd71a7b65db31d151b7f10f57c6"
@@ -4165,6 +4430,11 @@
       "path": "datos/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
       "size": 194,
       "sha256": "53d3203a61d81c1857ce1b1d14d883fdb9fc7b7d6daf52941b4c9b05ba1cb6bf"
+    },
+    {
+      "path": "datos/GTA V Grand Theft Auto V Enhanced.txt",
+      "size": 195,
+      "sha256": "ed9ac91dafc5001d476087b49905cf9e9bb745216f063a107d7ea601c25a1f5f"
     },
     {
       "path": "datos/Halo Campaign Evolved.txt",

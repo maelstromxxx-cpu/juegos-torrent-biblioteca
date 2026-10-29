@@ -352,6 +352,11 @@
       "sha256": "021900d89b6ee922c542622074d0266f9899d131aee1b930f8760daefee25375"
     },
     {
+      "path": "imagenes/Jurassic World Evolution 3 Premium Edition.webp",
+      "size": 53740,
+      "sha256": "8bf81212a319a9a1cfb9aaf9afccbd0ca60949a4e196329c0fb06f7a9028d745"
+    },
+    {
       "path": "imagenes/Kingdom Come Deliverance 2.webp",
       "size": 51288,
       "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
@@ -2612,6 +2617,36 @@
       "sha256": "c946da04994b60c25c88c04652dd5e8f78a3ac9e0abd6fc5ca1381d80594b5eb"
     },
     {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/1.webp",
+      "size": 26096,
+      "sha256": "d55bd5154654669f3303cb14185702692c868146dfc6d3df78caeefc786b63ef"
+    },
+    {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/2.webp",
+      "size": 20700,
+      "sha256": "31833998f2f2a4d4ef804266388d9c8dfd1d3dec5a0e904162267559951bf1ee"
+    },
+    {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/3.webp",
+      "size": 31788,
+      "sha256": "78fe1b9d0f351b2fd0460f54d7ba14ffced211e6552e2810e608771cf819f0eb"
+    },
+    {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/4.webp",
+      "size": 29212,
+      "sha256": "6c07ecd1f4c9bf87908e0e6d448831acd2577200daced0b5813109ad18b58137"
+    },
+    {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/5.webp",
+      "size": 36614,
+      "sha256": "dd3ae0b5f818d71078d8ea9d238463044f80ccfc7bb7e8fa55489d14c61bc818"
+    },
+    {
+      "path": "capturas/Jurassic World Evolution 3 Premium Edition/6.webp",
+      "size": 20344,
+      "sha256": "fd819c3a92c0424e8c8e6bdc180b7c2adbb994ae782acd827b0a12b9cbd09b2f"
+    },
+    {
       "path": "capturas/Kingdom Come Deliverance 2/1.webp",
       "size": 16454,
       "sha256": "afc736f9ebefd5da0eadfb157a9e5612dbf04c13fc42ecf35d3145bcaf9212a4"
@@ -4087,6 +4122,11 @@
       "sha256": "989f5b6086dcc3cb99d42e302ee49525ddf658a852365badc1136078a81e4eed"
     },
     {
+      "path": "sinopsis/Jurassic World Evolution 3 Premium Edition.txt",
+      "size": 579,
+      "sha256": "86d9c88ad95138b7ef38ef254a510984698af964bec0ccd319be5263c7e81dec"
+    },
+    {
       "path": "sinopsis/Kingdom Come Deliverance 2.txt",
       "size": 1040,
       "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
@@ -4625,6 +4665,11 @@
       "path": "datos/Indiana Jones And The Great Circle.txt",
       "size": 157,
       "sha256": "6079f99cccb3f3d40b44f861931551c6a8f074b496d50b2fbc3728cd8c15a102"
+    },
+    {
+      "path": "datos/Jurassic World Evolution 3 Premium Edition.txt",
+      "size": 187,
+      "sha256": "e9da24392c5ba44d9657cc9f1d765f9cf4c584c5992084d03614e2a3db065b82"
     },
     {
       "path": "datos/Kingdom Come Deliverance 2.txt",

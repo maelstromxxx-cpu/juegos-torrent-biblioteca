@@ -282,6 +282,11 @@
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
     },
     {
+      "path": "imagenes/GTA 4 Grand Theft Auto IV The Complete Edition.webp",
+      "size": 22878,
+      "sha256": "251e58b7c64f7e42837f8948cd4e141092ee10bd5a03bb1f2d6cbadcc2b32ed6"
+    },
+    {
       "path": "imagenes/Halo Campaign Evolved.webp",
       "size": 34462,
       "sha256": "a379ac4af1e296784a540756fb938e2302be6f7048ba48a0206a83ef8a60c1a0"
@@ -2142,6 +2147,36 @@
       "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
     },
     {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/1.webp",
+      "size": 13676,
+      "sha256": "3195438cdadddd8019a32eb7d40b0d4fa92d285789d2dd0bec491177681c991e"
+    },
+    {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/2.webp",
+      "size": 6538,
+      "sha256": "dd4dc9b3d8ed3e1d81e22d8f207a5c1c9822b29d4e51c2844bcc315fb61b7c97"
+    },
+    {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/3.webp",
+      "size": 23590,
+      "sha256": "a8eb1be14519f5df9a27d7133617136b98bc0a7e815feedadc44169d526e5e79"
+    },
+    {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/4.webp",
+      "size": 16724,
+      "sha256": "a473520186bb8dd708fda798efcedf537e5adfa9394fee9ca8af6ac490796377"
+    },
+    {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/5.webp",
+      "size": 24198,
+      "sha256": "fa4222db10d4f5941ba159f34e5cccad5474ae0fdc34126242bc94c79775bef6"
+    },
+    {
+      "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/6.webp",
+      "size": 8688,
+      "sha256": "6ca2e756d248ff6510f6111147fbf189ab08b9b8186ca74590a803bfe900c751"
+    },
+    {
       "path": "capturas/Halo Campaign Evolved/1.webp",
       "size": 39086,
       "sha256": "282146ffecbb72a96b695ed49100c8856d58d16ade6ddf77a8b055993e5799b3"
@@ -3637,6 +3672,11 @@
       "sha256": "f6b14d786eee7e06fdd8b4c56161eb22dbcc01329daaf30eaabd3a1cff2998f3"
     },
     {
+      "path": "sinopsis/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
+      "size": 404,
+      "sha256": "94a58410dd26e47bd72bd136975dea45c9d3076dcf2d65fe2d2c0cba5eb5efb0"
+    },
+    {
       "path": "sinopsis/Halo Campaign Evolved.txt",
       "size": 928,
       "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
@@ -4120,6 +4160,11 @@
       "path": "datos/Grand Theft Auto V GTA.txt",
       "size": 183,
       "sha256": "6217c5ad79c03f50110d6e8e3e8b1c064fe1d68b8607cf23237111cb01fafdf3"
+    },
+    {
+      "path": "datos/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
+      "size": 194,
+      "sha256": "53d3203a61d81c1857ce1b1d14d883fdb9fc7b7d6daf52941b4c9b05ba1cb6bf"
     },
     {
       "path": "datos/Halo Campaign Evolved.txt",

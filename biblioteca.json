@@ -507,12 +507,12 @@
       "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
     },
     {
-      "path": "imagenes/The Last Of Us Part 1.webp",
+      "path": "imagenes/The Last Of Us Part I.webp",
       "size": 34872,
       "sha256": "3b3863a109ffa9a8857723084d15c5f0b780dfd351b62a38dce13a66c41e1c88"
     },
     {
-      "path": "imagenes/The Last Of Us Part 2 Remastered.webp",
+      "path": "imagenes/The Last Of Us Part II Remastered.webp",
       "size": 44008,
       "sha256": "3de16c2787345a1a22881787076c8c0ece7f27a88aa30aa1bf0c1f1a40efc7ba"
     },
@@ -3537,62 +3537,62 @@
       "sha256": "943ac459d3122a53b146d333ba8ec5cb108ac66fe7006bdee991a5a3de66fe82"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/1.webp",
+      "path": "capturas/The Last Of Us Part I/1.webp",
       "size": 8494,
       "sha256": "3c831b9247d994e6d52c5d39e1e44a3d3e7a4bc32239c24cbc438ecb6dff9d2f"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/2.webp",
+      "path": "capturas/The Last Of Us Part I/2.webp",
       "size": 14268,
       "sha256": "171962c41e7cafdc74a20e9da37fd8aad4a016f05b9e7ac044e361318a3850b4"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/3.webp",
+      "path": "capturas/The Last Of Us Part I/3.webp",
       "size": 19370,
       "sha256": "373b2a6fa7aa97e09040fb7c67df502a6413cf428f75f98819bfaa6750e9ff87"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/4.webp",
+      "path": "capturas/The Last Of Us Part I/4.webp",
       "size": 20214,
       "sha256": "7f33974d2853e225861e6cc73ec313ee1f950bb9381b868d4f85b65ebab1976f"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/5.webp",
+      "path": "capturas/The Last Of Us Part I/5.webp",
       "size": 7326,
       "sha256": "3cbd70db7eba496f56bbe038fa94b81bde37601496cfacb0c9dfa74ca25be300"
     },
     {
-      "path": "capturas/The Last Of Us Part 1/6.webp",
+      "path": "capturas/The Last Of Us Part I/6.webp",
       "size": 7482,
       "sha256": "ff79ee89f413466acc56df22b4fac840d49eb2b2f8277012d35ff38946b88d34"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/1.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/1.webp",
       "size": 32844,
       "sha256": "cb0e1aad4b6bdd68839347e4067274bb686d3b80720dde95247da9bf5da28ac6"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/2.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/2.webp",
       "size": 33274,
       "sha256": "ffa208e8321fd6098974ae6f7725755c61ba7499c80d346203ed2f00e4ea0002"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/3.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/3.webp",
       "size": 19712,
       "sha256": "515f0efe4a2b94f9a329a441e170b19a388ed317d2d51b73795b0e0a247768cc"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/4.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/4.webp",
       "size": 14166,
       "sha256": "319a48f14bc118c52392346cf86f4919843574c2dca8ebdf79b77a744c32aa7f"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/5.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/5.webp",
       "size": 19858,
       "sha256": "ca04a0a09acaf13f04a20af29472c930f03e657aec168b7a7f919138d4bb248b"
     },
     {
-      "path": "capturas/The Last Of Us Part 2 Remastered/6.webp",
+      "path": "capturas/The Last Of Us Part II Remastered/6.webp",
       "size": 6434,
       "sha256": "6aa59fed9477ebb061c4fa7220678dd2931992ac53729d68cac666b5ff3896a5"
     },
@@ -4312,12 +4312,12 @@
       "sha256": "bb3ed0df3a8ae21725474c0ded0eaf75b7abcba63f2a7ee5689c15db3bcc11cb"
     },
     {
-      "path": "sinopsis/The Last Of Us Part 1.txt",
+      "path": "sinopsis/The Last Of Us Part I.txt",
       "size": 844,
       "sha256": "44b9e6350dd3b757d91a8cf8e9253e70b0da9f535f30f2b955148b3737359c27"
     },
     {
-      "path": "sinopsis/The Last Of Us Part 2 Remastered.txt",
+      "path": "sinopsis/The Last Of Us Part II Remastered.txt",
       "size": 846,
       "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
     },
@@ -4598,8 +4598,8 @@
     },
     {
       "path": "datos/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
-      "size": 191,
-      "sha256": "5a9789f9f435baaaebfae59ab04dfd6d3dacbadbbda5eb0ccfc42d3cf661554f"
+      "size": 209,
+      "sha256": "dd9ff97d046c9db154031de4342582b5fc597340cf099cffdac1ecfe8f49e7cc"
     },
     {
       "path": "datos/Elden Ring.txt",
@@ -4608,23 +4608,23 @@
     },
     {
       "path": "datos/Entity The Black Day.txt",
-      "size": 168,
-      "sha256": "e452ca8e4e812c5d63b681f10f059bb80a46568e3de20c7af0e07de894e48576"
+      "size": 186,
+      "sha256": "7697ee96c2f1e196a361bd55cef9976946ec54272389c7fb45aad4f632cf7509"
     },
     {
       "path": "datos/Far Cry 5 Gold Edition.txt",
-      "size": 213,
-      "sha256": "e33ac26425adce58bbb1070e583aad985c2f77893e8d9f89788c3303f8a9cd3f"
+      "size": 231,
+      "sha256": "e91614087da58e21eb2cc1234b6171ef5c32e92d59dfea9cfdd104f2c0a7fd28"
     },
     {
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
-      "size": 184,
-      "sha256": "96de5f15e453b7e697cfda093e52b28581a191da3222adf99705452d3180cfa4"
+      "size": 202,
+      "sha256": "9066577474a45914d1f9630f80694fbb56d7089ab075494397e8de1ec2b0cc89"
     },
     {
       "path": "datos/Forza Horizon 3.txt",
-      "size": 190,
-      "sha256": "1330d27f8a6fe665a4e1a9152a6bd76f459e1d66797fd9189fc73b5b5a3ab4da"
+      "size": 209,
+      "sha256": "37b68358dd47a7518f128ccd140c27e13f85e3624f05991f2d112ffee8db56e9"
     },
     {
       "path": "datos/Forza Horizon 5 Premium Edition.txt",
@@ -4713,13 +4713,13 @@
     },
     {
       "path": "datos/Kingdom Come Deliverance 2.txt",
-      "size": 162,
-      "sha256": "d8f06638a2658fc04cf5bd0706ec0164f735839c26ad029c38b922c020341064"
+      "size": 181,
+      "sha256": "7074f0b54fb99bcb4772f4c70eb1cc3ba3911ad1587ed28b4b35922d4148a9e1"
     },
     {
       "path": "datos/Lies Of P.txt",
-      "size": 174,
-      "sha256": "31331e67cefecb4f5c1a662b5477a329da081d1ad0bee8bc1fab1fdfbea0e08b"
+      "size": 193,
+      "sha256": "7384eb57a14cb5c49f1a149b73a235086dc4523defceb52bdefa3df3e3e2b345"
     },
     {
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
@@ -4862,12 +4862,12 @@
       "sha256": "dd91d751be5c60664d5e490f4a620ae02b60f7d6b7983690266e0c421b5c7797"
     },
     {
-      "path": "datos/The Last Of Us Part 1.txt",
+      "path": "datos/The Last Of Us Part I.txt",
       "size": 193,
       "sha256": "26af8d2b1da84d729d0f388fbf0b6b0695a91cb97ada934d37406854d1eaafe6"
     },
     {
-      "path": "datos/The Last Of Us Part 2.txt",
+      "path": "datos/The Last Of Us Part II Remastered.txt",
       "size": 190,
       "sha256": "461216114f13f009ce207de5f83ee679315b6be7368a1a0cd8afdc0df0e8b6ac"
     },
@@ -4883,8 +4883,8 @@
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
-      "size": 187,
-      "sha256": "2061eacbca4a577694151f0b23a2244b25752615cc7a7c1414c0ffa65ff62b16"
+      "size": 205,
+      "sha256": "122c6b546038c2c2c0b77bc260f50a337395518f2ea3a0b736f3fba48bb8b469"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",

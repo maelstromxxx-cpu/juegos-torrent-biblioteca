@@ -412,9 +412,19 @@
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
     },
     {
+      "path": "imagenes/Nymphomaniac Sex Addict.webp",
+      "size": 7686,
+      "sha256": "b3ee14a752d8d247e3c09d285882cfcad45be7fc841f545be23f892dd616138f"
+    },
+    {
       "path": "imagenes/Onimusha Way of the Sword Premium Deluxe Edition.webp",
       "size": 81516,
       "sha256": "8f623411a549b71b49a9cff39800c857204d92cca560db4b920b4e502af710cd"
+    },
+    {
+      "path": "imagenes/Pragmata Deluxe Edition.webp",
+      "size": 26900,
+      "sha256": "030902fc18c9bb5888e4e08aed85a8ba372de38b7b41adecf1f651e47a681275"
     },
     {
       "path": "imagenes/Ready Or Not.webp",
@@ -507,6 +517,11 @@
       "sha256": "2e04a15d0fc19dbde43b5847d678d3a9754c430eee76f8f12c4177e179adf565"
     },
     {
+      "path": "imagenes/Stellar Blade Complete Edition.webp",
+      "size": 28932,
+      "sha256": "e8aeeebd64cf32b63b774a4c22643b71230bd7b75dda4deb2b4a91311710f68b"
+    },
+    {
       "path": "imagenes/Terminator 2D No Fate.webp",
       "size": 56034,
       "sha256": "77e252bbd64e80178301617d6e7f8435c9c83840991202e953ba8699fd82f112"
@@ -525,6 +540,11 @@
       "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
       "size": 63882,
       "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
+    },
+    {
+      "path": "imagenes/The First Berserker Khazan Deluxe Edition.webp",
+      "size": 47810,
+      "sha256": "7d50f57ab3c0df730549ff04f69482e9fadf342877ea98f36babb74e7e095510"
     },
     {
       "path": "imagenes/The Genesis Order.webp",
@@ -2997,6 +3017,36 @@
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
     },
     {
+      "path": "capturas/Nymphomaniac Sex Addict/1.webp",
+      "size": 5146,
+      "sha256": "1d82b2e5f30eac3b8841e37990cc360e7981d6563528f32fcea737a9dd772ea7"
+    },
+    {
+      "path": "capturas/Nymphomaniac Sex Addict/2.webp",
+      "size": 7138,
+      "sha256": "a1712fe62736bf62aecf1c8d3b410234d574a0d37a0c06bbc7aaf1f025d51a56"
+    },
+    {
+      "path": "capturas/Nymphomaniac Sex Addict/3.webp",
+      "size": 8490,
+      "sha256": "cfbf88ada646bfa73526a4d1079b175bbb92424d2c5c25ec92b9353ef5266042"
+    },
+    {
+      "path": "capturas/Nymphomaniac Sex Addict/4.webp",
+      "size": 11740,
+      "sha256": "bac68a62b7a9960349995aaed556f461a2fa7453269284090547f88694d69fca"
+    },
+    {
+      "path": "capturas/Nymphomaniac Sex Addict/5.webp",
+      "size": 11234,
+      "sha256": "7a05d26ddcc308e4241992c89f39667e7bc20dcf3e6ddeb7da9e0f3b717dae30"
+    },
+    {
+      "path": "capturas/Nymphomaniac Sex Addict/6.webp",
+      "size": 17650,
+      "sha256": "6fbc7a49f58edf11f1a956c88b9e8b5495f1aa2951bc51c3eb9b5de593f35659"
+    },
+    {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/1.webp",
       "size": 26172,
       "sha256": "f34a1806172e1d3798651b5a8f3f29577edb341cec250d5ba7d154918c656681"
@@ -3025,6 +3075,36 @@
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/6.webp",
       "size": 13266,
       "sha256": "183033aa5b37f774657ac0f4823c3de18571f436384ed0f9351d979b336cef09"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/1.webp",
+      "size": 22312,
+      "sha256": "fadb39c0c640d9ebd93f35fa7cfb43afbf85b569181add44b1ec2c4e232df424"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/2.webp",
+      "size": 30652,
+      "sha256": "e1938cb70eb7ba5fce66179e2ad38c9c92ae15d02d7a70ad24b0f0614d90418e"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/3.webp",
+      "size": 15202,
+      "sha256": "d2c683d4d2ec62f89f8b4d2c95a33d6045bce3c3a700972dd00d5cf368f92662"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/4.webp",
+      "size": 24780,
+      "sha256": "49bb1a00c41b1e4d4135efdb76567071ef3ada3a0a76dd62bbd5ab4614a96b6e"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/5.webp",
+      "size": 24362,
+      "sha256": "c26422a1c1a91d6ba024872638dbb1c42641ea0abfc0cd3ae08b82e4e048dd7a"
+    },
+    {
+      "path": "capturas/Pragmata Deluxe Edition/6.webp",
+      "size": 29206,
+      "sha256": "a21d8bdf9a3f27b113bdfb8a9dbd2c7e2d65ca52881833f2068abd0f6701d214"
     },
     {
       "path": "capturas/Ready Or Not/1.webp",
@@ -3567,6 +3647,36 @@
       "sha256": "03ac8f89fdca6d966880b946ff88795fd3ec66b047ea8b906852639adac4aa51"
     },
     {
+      "path": "capturas/Stellar Blade Complete Edition/1.webp",
+      "size": 22190,
+      "sha256": "0c9d2d605a2f322e2f824369393fc8d63f7b935e507e1eb11bc11744cc91522e"
+    },
+    {
+      "path": "capturas/Stellar Blade Complete Edition/2.webp",
+      "size": 13178,
+      "sha256": "ea567d25f46535fbda8b678c3c1feeb26e8fc9d6c935bdc1b325bfadd6b735b2"
+    },
+    {
+      "path": "capturas/Stellar Blade Complete Edition/3.webp",
+      "size": 36652,
+      "sha256": "ac080bdb58cb54e501c2530f3c53e7371c93e604110da8439d6136e6e929907c"
+    },
+    {
+      "path": "capturas/Stellar Blade Complete Edition/4.webp",
+      "size": 7832,
+      "sha256": "0acf0c1a58bcfef0e7a6182f26299ebd10e626fd6fc9d9027ae7263f6985ccff"
+    },
+    {
+      "path": "capturas/Stellar Blade Complete Edition/5.webp",
+      "size": 21798,
+      "sha256": "cd34be5bfc5ece85ebde8d0b8668bc40b6461877811bf671bc1bd89f99e5396e"
+    },
+    {
+      "path": "capturas/Stellar Blade Complete Edition/6.webp",
+      "size": 29624,
+      "sha256": "88af68cb135ec54fda5617ee9c8d13072bbf1aefebd2148f16f45465935167a7"
+    },
+    {
       "path": "capturas/Terminator 2D No Fate/1.webp",
       "size": 30528,
       "sha256": "60881da646d97d0ad96f96b0191430926d9ae060b474ac8137f94ce98d10e3e5"
@@ -3685,6 +3795,36 @@
       "path": "capturas/The Blood of Dawnwalker Eclipse Edition/6.webp",
       "size": 5848,
       "sha256": "8d5a085f60cb83ce59a877a0c8520bdca0631e37cb0273d9ad7011a5f722a1a1"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/1.webp",
+      "size": 23738,
+      "sha256": "1678b3bba0de62eb076ccbf058bab5f9170d6ccbf8d07e71cf9f14101c241b33"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/2.webp",
+      "size": 22454,
+      "sha256": "6914b3f17772d42ed832343dfa24b96f16e42168132372d741dd06d3530f1f28"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/3.webp",
+      "size": 38384,
+      "sha256": "5078724cc6b06e8d6ec281e4b42fffc8888e97e1ed2f1480c08dfcbd8737d45b"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/4.webp",
+      "size": 24164,
+      "sha256": "f06158592bd7cb845b9a0bdab2ea42019fee6cd4ab6671c93abfc026f9377d2b"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/5.webp",
+      "size": 27696,
+      "sha256": "92ac2d17d1de8ee9576a831909201b62a305e18a82136014b1697a6bfe941796"
+    },
+    {
+      "path": "capturas/The First Berserker Khazan Deluxe Edition/6.webp",
+      "size": 14740,
+      "sha256": "08096924951d4e601bf61431292e9b8fd3e861562a9e2fb8d480bd4681273c5e"
     },
     {
       "path": "capturas/The Genesis Order/01.webp",
@@ -4427,9 +4567,19 @@
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
     },
     {
+      "path": "sinopsis/Nymphomaniac Sex Addict.txt",
+      "size": 418,
+      "sha256": "7902b5b91b7e0d9469860eaf0734d8495fbb4c9999abfcf971577bf7d3fe0181"
+    },
+    {
       "path": "sinopsis/Onimusha Way of the Sword Premium Deluxe Edition.txt",
       "size": 539,
       "sha256": "23ba4029b5bd158d21ca06141901c9c6ee9e92c2350c23009504bc66d289fa46"
+    },
+    {
+      "path": "sinopsis/Pragmata Deluxe Edition.txt",
+      "size": 530,
+      "sha256": "b3c81ca02e0e238961bb892cd635bc87e8aeb70d7bd6386a0fe6fe201753aeef"
     },
     {
       "path": "sinopsis/Ready Or Not.txt",
@@ -4522,6 +4672,11 @@
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
     },
     {
+      "path": "sinopsis/Stellar Blade Complete Edition.txt",
+      "size": 588,
+      "sha256": "415bf5aadc7349778744ec2c0b25b92bcf15579841e2d77437cb1d72832ca25a"
+    },
+    {
       "path": "sinopsis/Terminator 2D No Fate.txt",
       "size": 285,
       "sha256": "cef457304877d1ecbaf3ef3a025b5499a7388ae7f3b04a1d99da6f895e1f1af0"
@@ -4540,6 +4695,11 @@
       "path": "sinopsis/The Blood of Dawnwalker Eclipse Edition.txt",
       "size": 409,
       "sha256": "58de70b68252693fbba03096705a9ebd51e8a0df810592b3568465d4c25cf011"
+    },
+    {
+      "path": "sinopsis/The First Berserker Khazan Deluxe Edition.txt",
+      "size": 481,
+      "sha256": "7cba120f61c9d089b48546c4624a412ed7ae08fde3a93a046387f48129badc55"
     },
     {
       "path": "sinopsis/The Genesis Order.txt",
@@ -5007,9 +5167,19 @@
       "sha256": "78c6d8b419e254a75c0bedfedb4ad3491622f3180f3119610088db7dab074f16"
     },
     {
+      "path": "datos/Nymphomaniac Sex Addict.txt",
+      "size": 185,
+      "sha256": "a2ff797a0d9fba0ddc620685ac21bc99a3e2fbc6b1d6e6c2a9d7a2e5e29f4014"
+    },
+    {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
       "size": 206,
       "sha256": "a5ad20504051a71af95de685dda12961e22a149898a046e32ef5129dcdf3928d"
+    },
+    {
+      "path": "datos/Pragmata Deluxe Edition.txt",
+      "size": 190,
+      "sha256": "6bfb1d7260745118202706e88f90122b6af6a09fae40b87f5303c3d8b5545931"
     },
     {
       "path": "datos/Ready Or Not.txt",
@@ -5102,6 +5272,11 @@
       "sha256": "022349a416ac80abf4edfdc7014d8e19ced2974bf475ff5507c15f7710e1e36a"
     },
     {
+      "path": "datos/Stellar Blade Complete Edition.txt",
+      "size": 188,
+      "sha256": "7dac65936a15d0abac3020108c8446660965fc6f17d89be8e913ea20f35c691e"
+    },
+    {
       "path": "datos/Terminator 2D No Fate.txt",
       "size": 235,
       "sha256": "58301fc927c7b64983caec0e0ed6750ee2d1966e0717888316f6e9ad91dfb97d"
@@ -5120,6 +5295,11 @@
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",
       "size": 195,
       "sha256": "9724a27442cf8fffc097e6af1cd4ab4a81d9848d3f888b41522650e7cdc56649"
+    },
+    {
+      "path": "datos/The First Berserker Khazan Deluxe Edition.txt",
+      "size": 179,
+      "sha256": "e0a827357ae88c4089dec2117f976157f0628c3bf537599b9bd5a063694e5618"
     },
     {
       "path": "datos/The Genesis Order.txt",

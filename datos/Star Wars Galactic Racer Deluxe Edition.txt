@@ -1,6 +1,9 @@
-Año: 2026Género: Carreras / Acción / Arcade
+Año: 2026
+Género: Carreras / Acción / Arcade
 Tamaño: 27GB
-Modo: Singleplayer / MultiplayerIdioma: MULTI
+Modo: Singleplayer / Multiplayer
+Idioma: MULTI
 Fecha de incorporación: 29/10/2026
 Puntuación: 8,8
 Metacritic: 86
+Repacker: FitGirl

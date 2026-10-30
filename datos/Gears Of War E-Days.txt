@@ -6,3 +6,4 @@ Idioma: Español
 Fecha de incorporación: 25/10/2026
 Puntuación: 8,8
 Metacritic: 87
+Repacker: ElAmigos

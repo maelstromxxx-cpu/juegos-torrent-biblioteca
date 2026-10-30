@@ -6,3 +6,4 @@ Idioma: MULTI
 Fecha de incorporación: 27/10/2026
 Puntuación: 9,0
 Metacritic: 88
+Repacker: FitGirl

@@ -1,9 +1,9 @@
 Año: 2023
-Género: Acción / Aventura / Survival Horror
+Género: Acción / Aventura / Survival Horror / TPS / Shooter / Terror
 Tamaño: 68GB
 Modo: Singleplayer
 Idioma: Español
-Fecha de incorporación: 25/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 9,2
 Metacritic: 88
 Repacker: ElAmigos

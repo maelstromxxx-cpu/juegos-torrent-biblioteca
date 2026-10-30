@@ -1,9 +1,9 @@
 Año: 2024
-Género: Acción / Shooter / Hack and Slash
+Género: Acción / Shooter / Hack and Slash / TPS / FPS / Ciencia ficción / Militar
 Tamaño: 54GB
 Modo: Singleplayer / Multiplayer
 Idioma: Español
-Fecha de incorporación: 25/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 8,5
 Metacritic: 82
 Repacker: ElAmigos

@@ -1,9 +1,9 @@
 Año: 2025
-Género: Acción / Aventura / Rol
+Género: Acción / Aventura / Rol / RPG / Hack and Slash / Mundo abierto / Cooperativo / TPS
 Tamaño: 83GB
 Modo: Singleplayer / Multiplayer
 Idioma: Español
-Fecha de incorporación: 25/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 8,9
 Metacritic: 88
 Repacker: ElAmigos

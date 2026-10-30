@@ -1,9 +1,9 @@
 Año: 2026
-Género: Acción / Survival Horror / Terror psicológico
+Género: Acción / Survival Horror / Terror psicológico / TPS / Terror
 Tamaño: 46GB
 Modo: Singleplayer
 Idioma: MULTI
-Fecha de incorporación: 26/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 8,4
 Metacritic: 82
 Repacker: ElAmigos

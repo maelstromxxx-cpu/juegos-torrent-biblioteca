@@ -1,9 +1,8 @@
 Año: 2026
-Género: Acción / Aventura / Terror psicológico
+Género: Acción / Aventura / Terror psicológico / Ciencia ficción / Sobrenatural / Misterio / TPS / Disparos en tercera persona / Tercera Persona
 Tamaño: 75GB
 Modo: Singleplayer
 Idioma: Español
-Fecha de incorporación: 25/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 8,2
 Metacritic: 81
-Repacker: ElAmigos

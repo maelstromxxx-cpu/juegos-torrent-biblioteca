@@ -1,9 +1,9 @@
-Año: 2015
-Género: Acción / Aventura / Disparos en tercera persona
-Tamaño: 30GB
+Año: 2022
+Género: Acción / Aventura / Exploración / TPS / Shooter / Plataformas
+Tamaño: 20GB
 Modo: Singleplayer
 Idioma: MULTI
-Fecha de incorporación: 29/10/2026
-Puntuación: 8,7
-Metacritic: 86
-Repacker: DODI
+Fecha de incorporación: 30/10/2026
+Puntuación: 9,1
+Metacritic: 87
+Repacker: FitGirl

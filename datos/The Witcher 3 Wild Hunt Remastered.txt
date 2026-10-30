@@ -1,9 +1,9 @@
 Año: 2022
-Género: Acción / Aventura / Rol / Mundo abierto / Fantasía
+Género: Acción / Aventura / Rol / RPG / Mundo abierto / Fantasía / TPS / FPS
 Tamaño: 38GB
 Modo: Singleplayer
 Idioma: MULTI
-Fecha de incorporación: 25/10/2026
+Fecha de incorporación: 30/10/2026
 Puntuación: 9,5
 Metacritic: 94
 Repacker: FitGirl

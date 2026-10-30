@@ -4758,13 +4758,13 @@
     },
     {
       "path": "datos/007 First Light.txt",
-      "size": 237,
-      "sha256": "57b64b96e442cb5a73268d6a538bb47c08f49190515ad7a98fae666ecc6ccd6f"
+      "size": 219,
+      "sha256": "8d5a63c3cb8d121b05329973f3f3b4f450ed1ac4d2fc608ae7a5af07a00a024b"
     },
     {
       "path": "datos/A Plague Tale Requiem.txt",
-      "size": 186,
-      "sha256": "1755be241289f373eb73e7fdfea740c127ddb1b5f210621793f1975dfdefb4a2"
+      "size": 244,
+      "sha256": "4ec89dc0a4b90cd3fe0af6b71f0fee6fddb92ca335cdc9f5f39af6b352053d2b"
     },
     {
       "path": "datos/Ace Combat 8 Wings Of Theve.txt",
@@ -4783,18 +4783,18 @@
     },
     {
       "path": "datos/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",
-      "size": 206,
-      "sha256": "e561492d2b4fb25479242c66cf4be952cc60739f5067d73ae5f1ec2ca31ede1f"
+      "size": 247,
+      "sha256": "a954531f0db25d4c2dd8715efdecc99ad337ba62aabc10c0825bbdb67482b7e4"
     },
     {
       "path": "datos/Assassins Creed Black Flag Resynced Deluxe Edition.txt",
-      "size": 210,
-      "sha256": "cea3913fad6fd4716f78752504ee16eb6af0ca528c5d41879ce7bce8bc1a74fe"
+      "size": 230,
+      "sha256": "fcfd266e7e155b2581e9df6e2ed1cc68b08bffe3d91c523275d38f9b9e8d49b7"
     },
     {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
-      "size": 196,
-      "sha256": "306934030b77ee8f6321d015f3c2d338a5cdbff2de6c1858863da76a1351c8d7"
+      "size": 221,
+      "sha256": "8578d4df2bf15547963e7c0b3a9459f09b2453baf0c83333d694d574c8f37b6d"
     },
     {
       "path": "datos/Atomic Heart.txt",
@@ -4803,38 +4803,38 @@
     },
     {
       "path": "datos/Baldurs Gate 3 Deluxe Edition.txt",
-      "size": 210,
-      "sha256": "572de8b9c3ce321039abbaa89e7457d639ef6360d02fdad9536fe74bbfeeed2c"
+      "size": 234,
+      "sha256": "b0063f6435ad0a376a3d37445016a660abda6400d8aef9f9c6e3aacccad20bda"
     },
     {
       "path": "datos/Battlefield 1 Ultimate Edition.txt",
-      "size": 194,
-      "sha256": "cb976d944b774e9564f450429c745bdb47492b8cb19012f2cf9c65208c9a9c57"
+      "size": 214,
+      "sha256": "7650a0e3336d46814c963c51f53add7c948b285cc02fe442c6a4f27b7291efbd"
     },
     {
       "path": "datos/Battlefield 3.txt",
-      "size": 194,
-      "sha256": "fbe39409f0da7745c24db826b3ac1ba4ae19953749a715719cd341c942d85d6d"
+      "size": 203,
+      "sha256": "13740a618b8611868c528ae2c272a3357e2d5964d63b5190474252c419430450"
     },
     {
       "path": "datos/Battlefield 4.txt",
-      "size": 194,
-      "sha256": "1f1b33c5c467712b5c25ce5bf642f14f4a6be474ddcfc47e93733a48b114fcab"
+      "size": 214,
+      "sha256": "e72aa70c4d5296f979b7ad1ba9a92da4c7eec00e38d4e1165a0b9c9dfcb34dcc"
     },
     {
       "path": "datos/Battlefield 6.txt",
-      "size": 194,
-      "sha256": "1ba07740ff937f237ab59deb3a859067a440ed5da340f9335db8a62f9782c0b2"
+      "size": 214,
+      "sha256": "40caba81e41f9aafea78ff3ad5e6d4cf48c8025d64160f6501538abaecfc4260"
     },
     {
       "path": "datos/Battlefield V.txt",
-      "size": 194,
-      "sha256": "88f1fe77589de40cf64511a929a99796a1cc3bacfc8c3a1f6a28ff6288616708"
+      "size": 214,
+      "sha256": "019ec8d2e4ce66344ab251264b6e9ea0a6999ab9e7f9ff6d69a9112223d88787"
     },
     {
       "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
-      "size": 177,
-      "sha256": "32a5e500e2549a9d554b779681f7d66d3809805581228adc869d698834f85ff8"
+      "size": 264,
+      "sha256": "a8fa659ccda0938873f4a702d3510e9c89932315eae2a7beee1389e622800606"
     },
     {
       "path": "datos/Black Myth Wukong.txt",
@@ -4858,48 +4858,48 @@
     },
     {
       "path": "datos/Call Of Duty Black Ops 6.txt",
-      "size": 194,
-      "sha256": "f71566d81c57b3124fbd46752b0cc8fdd4485d6afe13d9957fdf39f05145264d"
+      "size": 203,
+      "sha256": "81f207ab4fd8d6cc03aa21442ddf26588cac32b2ba2eb4d0ad584af35cd82cad"
     },
     {
       "path": "datos/Call Of Duty Modern Warfare 4.txt",
-      "size": 190,
-      "sha256": "a02f29626d199d2d59955b1b875bbf0c45a82bf33bacaceb4f6a3a65e5db7174"
+      "size": 199,
+      "sha256": "25bebc9fbaffaeaccdae74aa04e92fb97fad74ebccb414ed2abb074f68798b5f"
     },
     {
       "path": "datos/Call of Duty Modern Warfare II.txt",
-      "size": 190,
-      "sha256": "eb4f9b85deb81afed22eef2ec569c516e7bce8e205c56d5ea64919fb7e3de605"
+      "size": 199,
+      "sha256": "d225db55659b37847eb9825633ae3a2eba5d6d2b5f11a2a00c1a6d261697435c"
     },
     {
       "path": "datos/Call of Duty Modern Warfare III.txt",
       "size": 199,
-      "sha256": "e9bcc0f582f37d204de41ca657056d22c9a562ee957d9deeed658fdef140b041"
+      "sha256": "3fa985118630adbdcfe86ef4c53ec6b759c44762e60e8cc0193947a31167c0de"
     },
     {
       "path": "datos/Call of Duty Modern Warfare.txt",
-      "size": 227,
-      "sha256": "dc467e985d89a3d69b4a06ca241f8df44fd13b3fb83940a83bb3d5c7cbf74541"
+      "size": 203,
+      "sha256": "dd830e0c1fba45550a1149dcd1bdfa46868f9393f664ffba491efb7fcecbc360"
     },
     {
       "path": "datos/Call Of Duty Vanguard Full.txt",
-      "size": 190,
-      "sha256": "353f654ed5e162bc40e1eca8834d8d72c18c37aa2ce776afc2229e73d4874406"
+      "size": 199,
+      "sha256": "28da1e2f7086113ef4d72714737309e254241114e4a3cf3abe8955e5289eff7f"
     },
     {
       "path": "datos/Call Of Duty Vanguard.txt",
-      "size": 191,
-      "sha256": "1e08790620226762967d13aef4cf5f83bbf522d3f64735b85bce1703eb5e3898"
+      "size": 200,
+      "sha256": "6437b0fd357a083211175ae379503a1725a613976d5033366412b7b56b4c2ceb"
     },
     {
       "path": "datos/Call Of Duty WWII Full.txt",
-      "size": 190,
-      "sha256": "f61893b12a4719c0d2224031621c2d9583c73cbca2ff91118e34c24fb1b9c16a"
+      "size": 199,
+      "sha256": "5a596d5ff78760d836ead7ac1087ef53534b0fc8d5725617b85cea93b65d8cb0"
     },
     {
       "path": "datos/Call Of Duty WWII.txt",
-      "size": 191,
-      "sha256": "75a85b8f52ba7f016d5be13dded01630e32b74c3467111fba4fbab407d751027"
+      "size": 200,
+      "sha256": "e3ff75cc663f83194e976305e7d2c379d815de270ae66340269240d3727c74aa"
     },
     {
       "path": "datos/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -4913,8 +4913,8 @@
     },
     {
       "path": "datos/Control Resonant.txt",
-      "size": 197,
-      "sha256": "067ff5ed6908841a1ac455ed306ae746f27766dbefe8490eb1a4698f7d1c749f"
+      "size": 277,
+      "sha256": "2c899adc92501e062d316f6325879b9dca692e0491c3e3fab33f44067d9f4c37"
     },
     {
       "path": "datos/Crimson Desert Enhanced Deluxe Edition.txt",
@@ -4923,13 +4923,13 @@
     },
     {
       "path": "datos/Crysis 2 Remastered.txt",
-      "size": 209,
-      "sha256": "4588122e72c1d3203bbd8930033c3dd86175e58972acefa6e4a19878a968ec9b"
+      "size": 185,
+      "sha256": "8a2ff28a323171f3e6223cd5c0d9d6887d2e03dfb2f1712913d9b551eed4791a"
     },
     {
       "path": "datos/Crysis 3 Remastered.txt",
-      "size": 209,
-      "sha256": "bbc39371eef609de3f6fbf8503563309e686dc4b2f87e3230030b3d4cc0767ec"
+      "size": 185,
+      "sha256": "f4c1c03e829dadd387b5df60d61e714eea6ea95a62e5cf5ce30c778cc3e1fe00"
     },
     {
       "path": "datos/Crysis Remastered.txt",
@@ -4938,18 +4938,18 @@
     },
     {
       "path": "datos/Crysis Warhead.txt",
-      "size": 224,
-      "sha256": "bf234a143f92fd7eb92a00539a1520d2bfad88a7b3f9a773512db8ab1ee94a68"
+      "size": 250,
+      "sha256": "36829ed87079c2252ec20c290e7c571c22643f28c246e076933b847bb07c160e"
     },
     {
       "path": "datos/Crysis.txt",
-      "size": 224,
-      "sha256": "fff36fa2ca88f818d0cbe48bc6760d775252222263f67ea78eba3c93b019f7da"
+      "size": 182,
+      "sha256": "15dbd9f75a5902b6b2b9bf1f4a1e015b34868def53d1e4570be84c156f697287"
     },
     {
       "path": "datos/Cyberpunk 2077 Ultimate Edition.txt",
-      "size": 181,
-      "sha256": "49902a9255cfda063d7604246383aa1aa19ed044e325247a0abbd1da1aed2fd4"
+      "size": 246,
+      "sha256": "e42432350ff43b147361e47fad2a97b12b606600797e7af9d531b6f08a99eb89"
     },
     {
       "path": "datos/Disney Pixar Toy Story 3 Complete Edition.txt",
@@ -5003,23 +5003,23 @@
     },
     {
       "path": "datos/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
-      "size": 209,
-      "sha256": "dd9ff97d046c9db154031de4342582b5fc597340cf099cffdac1ecfe8f49e7cc"
+      "size": 220,
+      "sha256": "021576a3e1ea48da13a3ce6851ebef2abce22f3f3e6a0be171243d72407fc598"
     },
     {
       "path": "datos/Elden Ring.txt",
-      "size": 207,
-      "sha256": "c0cd5ef04cb8a9d2f8ef64cf180821f962578fcf773732c5057837a36cd59b6a"
+      "size": 223,
+      "sha256": "5be8cd7d298a5cced2656dcbe705af14902a4ab9000addd4d29be5e1a1dbfb17"
     },
     {
       "path": "datos/Entity The Black Day.txt",
-      "size": 186,
-      "sha256": "7697ee96c2f1e196a361bd55cef9976946ec54272389c7fb45aad4f632cf7509"
+      "size": 195,
+      "sha256": "e54d52f53c7e77fca3cbdad55d089bc38246477a03171e7f7040f0dec1a2666b"
     },
     {
       "path": "datos/Far Cry 5 Gold Edition.txt",
-      "size": 231,
-      "sha256": "e91614087da58e21eb2cc1234b6171ef5c32e92d59dfea9cfdd104f2c0a7fd28"
+      "size": 207,
+      "sha256": "af5065ba85aa9ff33fa084b64d322d833a9917c6247c52f16f494fdfdb3cc06d"
     },
     {
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
@@ -5053,8 +5053,8 @@
     },
     {
       "path": "datos/Ghost Of Tsushima.txt",
-      "size": 191,
-      "sha256": "445e07f9f4579b6a6ab15f299b58fc25aef64d114f4da749ebe60fea58b91149"
+      "size": 236,
+      "sha256": "726a164c6fdb10bf49e62bdce0ef97cc50f825df0b36faa34d7c071ca7beb439"
     },
     {
       "path": "datos/God of War III Remastered.txt",
@@ -5073,18 +5073,18 @@
     },
     {
       "path": "datos/Grand Theft Auto V GTA.txt",
-      "size": 201,
-      "sha256": "ceb080e6ab19610185889b94a8029574745814191ac8406b99b6c3374279099f"
+      "size": 211,
+      "sha256": "887413025e455e19d92130c183870ffd0e29260378585a2cc4bc57c62e113e43"
     },
     {
       "path": "datos/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
-      "size": 212,
-      "sha256": "cc6f953a5dd09fc4211d0f76f418c926c6f8adc113b35dbcfd47c90a96d4f038"
+      "size": 211,
+      "sha256": "68ab556bb56a61f119c73e4de181b35332634fa175cad60ffe8d3234641e7a3e"
     },
     {
       "path": "datos/GTA V Grand Theft Auto V Enhanced.txt",
-      "size": 213,
-      "sha256": "ad0fad169fd377655d87ba5c93740c8cf16ff5de38ae975d74ca711d75c19148"
+      "size": 223,
+      "sha256": "eccf5499bf9ff36679f68f3e5eb12964c34346f5361f9cecdec5ee40f1767fb5"
     },
     {
       "path": "datos/Halo Campaign Evolved.txt",
@@ -5093,13 +5093,13 @@
     },
     {
       "path": "datos/Hogwarts Legacy Complete Edition.txt",
-      "size": 181,
-      "sha256": "b32d10617e80213c9d930d0baae22ec379546fdd8b9eacae08f757af78f0079e"
+      "size": 221,
+      "sha256": "becbfe0f2ac0409a65a9238d48d69beb9a14b4b34059603408cedd3ae7e97411"
     },
     {
       "path": "datos/Horizon Forbidden West Complete Edition.txt",
-      "size": 181,
-      "sha256": "96524fa3dd5c8c2ff812255c1e1affb0990ecc35356b2342358f941b84bc687d"
+      "size": 247,
+      "sha256": "125d2a736d4afe7bcd5722a30f1d5ec0391cf768830a0727db0a5ea7e3656231"
     },
     {
       "path": "datos/Hot Wheels Infinite Rush.txt",
@@ -5108,18 +5108,18 @@
     },
     {
       "path": "datos/Indiana Jones And The Great Circle.txt",
-      "size": 176,
-      "sha256": "29811f6761041f09eaa9cf75af1c1cd8239ec0e277b1f57f17579527d27180cb"
+      "size": 213,
+      "sha256": "ba7a1d193b13451d9e87380df8dc8d6c93744531997ce634af64643ddb630f7f"
     },
     {
       "path": "datos/Jurassic World Evolution 3 Premium Edition.txt",
-      "size": 187,
-      "sha256": "e9da24392c5ba44d9657cc9f1d765f9cf4c584c5992084d03614e2a3db065b82"
+      "size": 236,
+      "sha256": "32a53abfe2b269e05f9d8b54545432e03a62d781ce67460a7045d7df39f02e5f"
     },
     {
       "path": "datos/Kingdom Come Deliverance 2.txt",
-      "size": 181,
-      "sha256": "7074f0b54fb99bcb4772f4c70eb1cc3ba3911ad1587ed28b4b35922d4148a9e1"
+      "size": 238,
+      "sha256": "12064c314cec7f95e22561129187e3e81b09f35fb27fa1dbfd39c2ab6b18ff32"
     },
     {
       "path": "datos/Lies Of P.txt",
@@ -5128,23 +5128,23 @@
     },
     {
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
-      "size": 196,
-      "sha256": "c0228ad20b08670209681b3eb3de3a50b9710e4506c9be58cfa87148de6d873a"
+      "size": 234,
+      "sha256": "9f5922fc9129926042716f9208f3549c161183e0225f0635679c52e2ed86ed3c"
     },
     {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
-      "size": 187,
-      "sha256": "5e86832e936b32d34045c91906e55f0f8d91bd45ec87f8f7f9acc409ed13798f"
+      "size": 227,
+      "sha256": "e9c4eb660080829831758ba130c640e5c1becd5cc51823fcb48fe5280b5a4544"
     },
     {
       "path": "datos/Marvels Spider-Man Remastered.txt",
-      "size": 191,
-      "sha256": "36280db603cc0ef22455e9a9444a92ebd6c8e4dfabaaf4209fcd2f8b6b4e2e3f"
+      "size": 212,
+      "sha256": "e559083c0b7dd74935666b76af639ecccc5f5ca60149fc7a5f1a5dc0ddc78985"
     },
     {
       "path": "datos/Metal Gear Solid 5 The Phantom Pain.txt",
-      "size": 198,
-      "sha256": "f2dcd9698941ec1659d82096ab67df9a62cee9d234638a8f22121fa6483911fa"
+      "size": 249,
+      "sha256": "daae67a4d4bbaec218b2b99ada869b2c94871c27fae0342ad6bd08e3aa61918b"
     },
     {
       "path": "datos/Metro Redux.txt",
@@ -5153,8 +5153,8 @@
     },
     {
       "path": "datos/Monster Hunter Wild.txt",
-      "size": 195,
-      "sha256": "2fb10161393c8bab60e4574fad2a6438dbad0d9feba9f6517a9f58e6d2ee2371"
+      "size": 254,
+      "sha256": "7d97ba150fbf164b69872e44f282f3c8a104b9734bea2bdd939cfe0fa4008d72"
     },
     {
       "path": "datos/Mortal Shell II Devout Edition.txt",
@@ -5168,8 +5168,8 @@
     },
     {
       "path": "datos/Nymphomaniac Sex Addict.txt",
-      "size": 194,
-      "sha256": "acccd05680090293167bf1aee3d3bfb2ef967829a23dfd2b0491bc0b83c3ad5f"
+      "size": 178,
+      "sha256": "b929f5f3af0779a0ea1407eff0d44c867b75759ddd644070f0d5c5d56f77c432"
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
@@ -5178,18 +5178,18 @@
     },
     {
       "path": "datos/Pragmata Deluxe Edition.txt",
-      "size": 190,
-      "sha256": "6bfb1d7260745118202706e88f90122b6af6a09fae40b87f5303c3d8b5545931"
+      "size": 228,
+      "sha256": "132c7e10fd3be54636dc27a6ca557d7c019d1338c0720f865b899f2879e941bf"
     },
     {
       "path": "datos/Ready Or Not.txt",
-      "size": 199,
-      "sha256": "f88d89924a894710a1c49c17d015125e6eeb768fe81e8c61b5bca590a5359fc6"
+      "size": 230,
+      "sha256": "90ddcdee1c5fabe0a561deaf2528557664b2cdd468c86ee28c06cefe49d86a7c"
     },
     {
       "path": "datos/Red Dead Redemption 2 Ultimate Edition.txt",
-      "size": 201,
-      "sha256": "e700a25159281858e6a92fed59999582acef1d41f7bd31d335da4838e1655401"
+      "size": 255,
+      "sha256": "dbd755285aa667ef95e57e1a580a726a32e7f6ce6b533cb7e8687b6e1fc284f8"
     },
     {
       "path": "datos/Remothered Red Nuns Legacy.txt",
@@ -5198,23 +5198,23 @@
     },
     {
       "path": "datos/Resident Evil 4 Gold Edition.txt",
-      "size": 189,
-      "sha256": "c40549b33f08891193ab4fbb9c31e2cc493648bed490c3038c4fee27f8c28852"
+      "size": 214,
+      "sha256": "e95cb3c69de4ed1e1b93f15b2d9b2e39215b4172537a5ff50f993b7fe2182cc4"
     },
     {
       "path": "datos/Resident Evil 4 Remake.txt",
-      "size": 193,
-      "sha256": "df2b94fecdccf2d143f57a8fac22df053015a2c31d83d5c6adb3c9a8079e304d"
+      "size": 218,
+      "sha256": "55a8facc4c7fd915e69a2b70c47b519cc26bffa8ac783662741b728ca2785ab8"
     },
     {
       "path": "datos/Resident Evil 8 Village.txt",
-      "size": 193,
-      "sha256": "0508a70bd4199f48f1fa779087bc244b542487d063031b7b703f819753c1625d"
+      "size": 218,
+      "sha256": "de8825b7b0e39d6f4d7d207e537e1e32c15d5e6d39a1211c9bd028d58cb002a2"
     },
     {
       "path": "datos/Resident Evil Requiem Deluxe Edition.txt",
-      "size": 187,
-      "sha256": "417ba43d780b37fcfddd1dda7c4f6eac59bbeda44b2a5c847d63cc49e8afca33"
+      "size": 214,
+      "sha256": "cc465339bdb04e5d24afb959e7eef335380d0fac68330682dd734de9d377b8b5"
     },
     {
       "path": "datos/Returning to Mia.txt",
@@ -5223,18 +5223,18 @@
     },
     {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
-      "size": 180,
-      "sha256": "ba2cf8665facddc2c3ad0866406c41b5ccacd32156b4207dda6960f1036708b1"
+      "size": 192,
+      "sha256": "f8155fedac4853d9e3e54feda2be0b6643c54f83d61b6ffbcddb55a038794c52"
     },
     {
       "path": "datos/Silent Hill Townfall.txt",
-      "size": 201,
-      "sha256": "3c5867aaf9dca4f3cf83120c003f07500593a84f9cdb70fff7685af9b7a6ea75"
+      "size": 216,
+      "sha256": "f8f9353b6dccec45e83142f629510f474ab5e87731b5d2c5564de7d84cf2c054"
     },
     {
       "path": "datos/Sniper Elite 3.txt",
-      "size": 264,
-      "sha256": "f99819b584b5bb35ed07d951c50e0670800c65adf2697100bfba04ab10333e97"
+      "size": 258,
+      "sha256": "413aa5c2bd5aa294dcb0f11f207ad8e8b8e9bbc9d96f26651850f6ccca45806e"
     },
     {
       "path": "datos/Sniper Elite 5 Complete Edition.txt",
@@ -5253,18 +5253,18 @@
     },
     {
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
-      "size": 193,
-      "sha256": "0e59ceddc3980dc9df3e2fbddf4def4ed94dfc6474b5215fb9edcaf47f0f88c4"
+      "size": 240,
+      "sha256": "c381d1e1588d494356121e9e162c211bd9f20941f23b360b0873c3e2570c4216"
     },
     {
       "path": "datos/Star Wars Galactic Racer Deluxe Edition.txt",
-      "size": 194,
-      "sha256": "c315c97692d1d43d833a405866eadc98a3993305499f115ce83b776630bd88a6"
+      "size": 228,
+      "sha256": "1f39326767ead59b6f55e03f9aa3473d533a3bb18a32f013a9be28c11ab8b067"
     },
     {
       "path": "datos/Star Wars Jedi Survivor.txt",
-      "size": 176,
-      "sha256": "a9464b15be8376205e997b827a333919c7f163789007ca4aa8581cec16b6af41"
+      "size": 213,
+      "sha256": "bbc220d92df1335a3d060769335613893ed8fdc45f961f2d127b61ede0756a7a"
     },
     {
       "path": "datos/Starfield.txt",
@@ -5273,8 +5273,8 @@
     },
     {
       "path": "datos/Stellar Blade Complete Edition.txt",
-      "size": 188,
-      "sha256": "7dac65936a15d0abac3020108c8446660965fc6f17d89be8e913ea20f35c691e"
+      "size": 222,
+      "sha256": "b5b1a060c7c5dac73bb8082e2b7c7583e44024db8f6417c2387dc332aaabda34"
     },
     {
       "path": "datos/Terminator 2D No Fate.txt",
@@ -5293,13 +5293,13 @@
     },
     {
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",
-      "size": 195,
-      "sha256": "9724a27442cf8fffc097e6af1cd4ab4a81d9848d3f888b41522650e7cdc56649"
+      "size": 216,
+      "sha256": "64fdf47ab8ce28a11b16ee5bce7d6b09233434fb917d4899f4cd0a1fc95c84c6"
     },
     {
       "path": "datos/The First Berserker Khazan Deluxe Edition.txt",
-      "size": 179,
-      "sha256": "e0a827357ae88c4089dec2117f976157f0628c3bf537599b9bd5a063694e5618"
+      "size": 220,
+      "sha256": "c261700f07153f8c8214d30c0bfb78c550507a6f137fe695a799013364e4da42"
     },
     {
       "path": "datos/The Genesis Order.txt",
@@ -5308,13 +5308,13 @@
     },
     {
       "path": "datos/The Last Of Us Part I.txt",
-      "size": 193,
-      "sha256": "26af8d2b1da84d729d0f388fbf0b6b0695a91cb97ada934d37406854d1eaafe6"
+      "size": 218,
+      "sha256": "669ac8a0b5fc6c30c70cde2a7cac2de9a0776ff8a8b06390ee4cf8df5cde8f8c"
     },
     {
       "path": "datos/The Last Of Us Part II Remastered.txt",
-      "size": 190,
-      "sha256": "461216114f13f009ce207de5f83ee679315b6be7368a1a0cd8afdc0df0e8b6ac"
+      "size": 215,
+      "sha256": "8473c4a55abe7032e3bcc5f84e455535bfd09d6adbd8a37f2942b859eccf5c2c"
     },
     {
       "path": "datos/The Relic First Guardian.txt",
@@ -5328,28 +5328,28 @@
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
-      "size": 205,
-      "sha256": "122c6b546038c2c2c0b77bc260f50a337395518f2ea3a0b736f3fba48bb8b469"
+      "size": 223,
+      "sha256": "d5dfdda6ba203da67672308e30e2fff5eab10ebdbc21c30ea4a097380f22eb72"
     },
     {
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
-      "size": 244,
-      "sha256": "99a39047aae63cbc9c4ee0e81e231c1e94b7fefa5e0eee5133260ea0440fccc2"
+      "size": 241,
+      "sha256": "7ad97e0953709a2a7ef8d2aaf6da62c66eaa28f498a03ee37faf5085042472d4"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",
-      "size": 186,
-      "sha256": "5b0c4eded89cd523cff3a9868bcf1c2bb668cac987733a5f27e0ccbb089b87ac"
+      "size": 216,
+      "sha256": "b5bac65afeff609440ffaf73a40db4e4dd4abea369271534fd54141acb7022cf"
     },
     {
       "path": "datos/Uncharted The Nathan Drake Collection.txt",
-      "size": 198,
-      "sha256": "2af2462b31ce0435a2aadcdf0d34468dedbe698132f160e4dcbfc57cc4c128fc"
+      "size": 216,
+      "sha256": "b5bac65afeff609440ffaf73a40db4e4dd4abea369271534fd54141acb7022cf"
     },
     {
       "path": "datos/Warhammer 40.000 Space Marine II.txt",
-      "size": 205,
-      "sha256": "e14555e76d2adcadeea86d25af3a6153aee6026d81038c49faee7a4b60000091"
+      "size": 246,
+      "sha256": "1006c67c5e44c8a7541ee0da124d1f3ea48400986456364ea02a16101ead0df3"
     },
     {
       "path": "datos/Wicked Seed.txt",

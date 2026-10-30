@@ -432,6 +432,11 @@
       "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
     },
     {
+      "path": "imagenes/Resident Evil 4 Gold Edition.webp",
+      "size": 15878,
+      "sha256": "458080b7add56dd75d93ceddb9010def373c17e2ca40a6c5ab61facd73e582bb"
+    },
+    {
       "path": "imagenes/Resident Evil 4 Remake.webp",
       "size": 16404,
       "sha256": "bd93fcabe41389fdf3285b30f5b2e4c1b223cb86c973791a067ad995b07d1ffb"
@@ -550,6 +555,11 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "imagenes/Tom Clancys Ghost Recon Wildlands Definitive Edition.webp",
+      "size": 70388,
+      "sha256": "ab78169cd5715962eaa9cdde78571455f895413bbfb978a63e4ad6cd11c207d8"
     },
     {
       "path": "imagenes/Uncharted Legacy of Thieves Collection.webp",
@@ -3107,6 +3117,36 @@
       "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
     },
     {
+      "path": "capturas/Resident Evil 4 Gold Edition/1.webp",
+      "size": 10100,
+      "sha256": "3153e1b011de16b5459ba94c6a356c066e5deb403bbc951ea3b57fefbd35ef40"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Gold Edition/2.webp",
+      "size": 16972,
+      "sha256": "1b4793611200c2cba0a141c0c421372d0167e80def1c2f940579fa441150d24f"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Gold Edition/3.webp",
+      "size": 16270,
+      "sha256": "7b0a462465894c53b7269730adcd0b7cefc76262dc840ccc9e65ee1fae78bbf5"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Gold Edition/4.webp",
+      "size": 23300,
+      "sha256": "29f640eed2bb36fa035df43482690b075c13cde2afe1e54ee7de8fd1eff9f999"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Gold Edition/5.webp",
+      "size": 12064,
+      "sha256": "687e03e73c2cae04d0a1f0177fde693d1bd2d3704a7f52de35f3ab1ccd6d2570"
+    },
+    {
+      "path": "capturas/Resident Evil 4 Gold Edition/6.webp",
+      "size": 16176,
+      "sha256": "b48ea5ade3900cd7aa014bea6d8d19115633f0a8d6d8e7b818a000f57efa2651"
+    },
+    {
       "path": "capturas/Resident Evil 4 Remake/1.webp",
       "size": 9258,
       "sha256": "3649124237a8c3d5d05e7e924f31bda248de28ba5aff1df465b4fe3599490f02"
@@ -3827,6 +3867,36 @@
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
     },
     {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/1.webp",
+      "size": 12218,
+      "sha256": "b125acb8b48a22f833465d450eac249f2944125c402181bcc2758cc7baa28c05"
+    },
+    {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/2.webp",
+      "size": 29130,
+      "sha256": "96104f4ae31bd5d9d9fe6d08075992a9bd8ccb32a80303a6e3a35af17fec1814"
+    },
+    {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/3.webp",
+      "size": 21760,
+      "sha256": "19a862b523c08a776fe894cca2ea18b0e556bbdc4656f722bb8ba1bd7a9880dd"
+    },
+    {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/4.webp",
+      "size": 13512,
+      "sha256": "c10cb1a07c7c8b5140aaed225cf55467e9e441142f63c5f5f5411f3095b8153b"
+    },
+    {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/5.webp",
+      "size": 26226,
+      "sha256": "22f18d3a1500804399a1223de2c826a3e4d65c16d2382db7a8200107453006f8"
+    },
+    {
+      "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/6.webp",
+      "size": 24030,
+      "sha256": "e6a32b9f061d58af472afeb351679cafb56052d452c68f3d35e0903f1fc57e27"
+    },
+    {
       "path": "capturas/Uncharted Legacy of Thieves Collection/1.webp",
       "size": 11008,
       "sha256": "5dc751c494b8502dbb88f3ea5fb82627d083a4ce0e0624a2a0eff036d0f97099"
@@ -4377,6 +4447,11 @@
       "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
     },
     {
+      "path": "sinopsis/Resident Evil 4 Gold Edition.txt",
+      "size": 545,
+      "sha256": "31681d57424d891a192f626d0e2f0631efb65ce985b26ca8f465c2166da699ad"
+    },
+    {
       "path": "sinopsis/Resident Evil 4 Remake.txt",
       "size": 910,
       "sha256": "51ab375a9045ab1b0dae07ab5b3141e7889608125b42e84837624b3013e0c9e6"
@@ -4495,6 +4570,11 @@
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 265,
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
+    },
+    {
+      "path": "sinopsis/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
+      "size": 505,
+      "sha256": "f292f7023d49cf6d6c7f050ebf3d1289fa097bb5ea776cae2b67968e2bd3b9d4"
     },
     {
       "path": "sinopsis/Uncharted Legacy of Thieves Collection.txt",
@@ -4947,6 +5027,11 @@
       "sha256": "95d0afe06ffc6f95dd00dc67f14210600cc8b4e4adf2f50d84c3a6589a8f4f14"
     },
     {
+      "path": "datos/Resident Evil 4 Gold Edition.txt",
+      "size": 189,
+      "sha256": "8b7bed5020378c6187b37e2173e0c4043a4c76914f7d575e2844bbf8222d55f7"
+    },
+    {
       "path": "datos/Resident Evil 4 Remake.txt",
       "size": 193,
       "sha256": "df2b94fecdccf2d143f57a8fac22df053015a2c31d83d5c6adb3c9a8079e304d"
@@ -5065,6 +5150,11 @@
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 205,
       "sha256": "122c6b546038c2c2c0b77bc260f50a337395518f2ea3a0b736f3fba48bb8b469"
+    },
+    {
+      "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
+      "size": 244,
+      "sha256": "62c666e75c301220ba9e40b4cfa917f0fe13378bd1d9c8d3637181d637b958bc"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",

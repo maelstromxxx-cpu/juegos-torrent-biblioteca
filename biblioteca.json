@@ -367,6 +367,11 @@
       "sha256": "cfb1bd5c41f321072550580861a36f0d80bd0f71222ae80b8b900a103e25c7ef"
     },
     {
+      "path": "imagenes/Killzone Shadow Fall.webp",
+      "size": 22130,
+      "sha256": "8880b20493421eef908eba3f0fc4c1fca66b7468447478f6950c26a6eb447c61"
+    },
+    {
       "path": "imagenes/Kingdom Come Deliverance 2.webp",
       "size": 51288,
       "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
@@ -415,6 +420,11 @@
       "path": "imagenes/My Little Puppy.webp",
       "size": 24204,
       "sha256": "950ed76604299605833bdd3b4039373543d51c5057948779b8a41f688e112622"
+    },
+    {
+      "path": "imagenes/NBA 2K27.webp",
+      "size": 40854,
+      "sha256": "dc2a36730f82727b041b926a9cef209bae5f90f13b51d5a199e1dcc505fefa19"
     },
     {
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
@@ -2797,6 +2807,36 @@
       "sha256": "b3027b0ced339a1987f62467724f2bcf00311f065afab1cbcd70bf46fc9bf05a"
     },
     {
+      "path": "capturas/Killzone Shadow Fall/1.webp",
+      "size": 32080,
+      "sha256": "7473ccb718141e83bc69fbdb324e8e02d67886d483eb95083b7f542ecbd6feb7"
+    },
+    {
+      "path": "capturas/Killzone Shadow Fall/2.webp",
+      "size": 43522,
+      "sha256": "ac65957135c40530f74e2f0d3b4fdf8fa38fdd0fad39868daef74fdfc81dfc21"
+    },
+    {
+      "path": "capturas/Killzone Shadow Fall/3.webp",
+      "size": 31376,
+      "sha256": "3f9f9ddb3ce84cbfaacd4b05dcc0f3bd7b4ff7e9b938c5dfcb38d90a590ee3b1"
+    },
+    {
+      "path": "capturas/Killzone Shadow Fall/4.webp",
+      "size": 30428,
+      "sha256": "1b01d582ae34e0ab2fdf8e9680771e81ede02ac297876e74602e30a61ac6c020"
+    },
+    {
+      "path": "capturas/Killzone Shadow Fall/5.webp",
+      "size": 23990,
+      "sha256": "7cebfcf2ea795cc65d6593c321f1eb7b374d8f8d88ea04554f6630497de9ef56"
+    },
+    {
+      "path": "capturas/Killzone Shadow Fall/6.webp",
+      "size": 16450,
+      "sha256": "9fe4c44aaf09e520802af3c74d478bbf520f5a8c031ffce67a099c70da2a36dd"
+    },
+    {
       "path": "capturas/Kingdom Come Deliverance 2/1.webp",
       "size": 16454,
       "sha256": "afc736f9ebefd5da0eadfb157a9e5612dbf04c13fc42ecf35d3145bcaf9212a4"
@@ -3095,6 +3135,36 @@
       "path": "capturas/My Little Puppy/6.webp",
       "size": 26114,
       "sha256": "82e2ef57fe7837360481be29407f4965634e04e3345627c45e988c4e0e3a0cc4"
+    },
+    {
+      "path": "capturas/NBA 2K27/1.webp",
+      "size": 10074,
+      "sha256": "60cfaee501be1b164b83d93550fdb9b099edddd2d8043910c00918b42a399e78"
+    },
+    {
+      "path": "capturas/NBA 2K27/2.webp",
+      "size": 12668,
+      "sha256": "d16114dd108e987e8e01678c0ef23d2a5a54dd5aba1d0866e27bf301f0faed42"
+    },
+    {
+      "path": "capturas/NBA 2K27/3.webp",
+      "size": 15414,
+      "sha256": "9545a6f36fff73e567345188dd955b32f9d0336ba2a6c7a78bab9304a7e4f71e"
+    },
+    {
+      "path": "capturas/NBA 2K27/4.webp",
+      "size": 18018,
+      "sha256": "caa3fef2f42d26e8cdf9338bc46f64b8ed90d48fdd4138f7267a11e9080f734b"
+    },
+    {
+      "path": "capturas/NBA 2K27/5.webp",
+      "size": 8560,
+      "sha256": "5f268c98ea6d69e051674c15fc9bd5bd8b8f451818be66729c4aed67ba53547b"
+    },
+    {
+      "path": "capturas/NBA 2K27/6.webp",
+      "size": 12922,
+      "sha256": "3228d7f6d2ff412522e72028f78f417f866649d26d567b9faa56324a72db1d9d"
     },
     {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
@@ -4767,6 +4837,11 @@
       "sha256": "86c4e9221ce9014a76d5a571290b95dd6526866c62b706bb9676f30632264673"
     },
     {
+      "path": "sinopsis/Killzone Shadow Fall.txt",
+      "size": 640,
+      "sha256": "195521a1a269716f67d5abe041e0fe0f5384645e8cac78db24b97bd522abf6eb"
+    },
+    {
       "path": "sinopsis/Kingdom Come Deliverance 2.txt",
       "size": 1040,
       "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
@@ -4815,6 +4890,11 @@
       "path": "sinopsis/My Little Puppy.txt",
       "size": 476,
       "sha256": "8608461ea41445b6c75dd742aea391e0e9f5143253f327a1753f1cc3ec09d49a"
+    },
+    {
+      "path": "sinopsis/NBA 2K27.txt",
+      "size": 530,
+      "sha256": "e678a09dabd58e072022357d979f518280c607f1c5f1352fa28479aa8fcf99c4"
     },
     {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
@@ -5407,6 +5487,11 @@
       "sha256": "7f6b7a11c8f4b4114f7d6ba68929d5c5e20682016deecf3b7551b7440134ef00"
     },
     {
+      "path": "datos/Killzone Shadow Fall.txt",
+      "size": 209,
+      "sha256": "338823fd02731c07ffa61a7695f2298af42fd1d4a3c0d4bc2feeed6b6207a9c4"
+    },
+    {
       "path": "datos/Kingdom Come Deliverance 2.txt",
       "size": 238,
       "sha256": "21c053df736c4e5250dc70fc19c5fd99b196d1460e853ae63645dc47918e3b6d"
@@ -5455,6 +5540,11 @@
       "path": "datos/My Little Puppy.txt",
       "size": 193,
       "sha256": "88112f3db13c110de1fd14b703e7ceacead5684e6ba32565d31db8a0f0acef16"
+    },
+    {
+      "path": "datos/NBA 2K27.txt",
+      "size": 202,
+      "sha256": "7ac5b8ed97e5b16f0bd67b6aaa5f949711e299b976f1789180a8e6a6271c1690"
     },
     {
       "path": "datos/Need For Speed Most Wanted HD.txt",

@@ -317,6 +317,11 @@
       "sha256": "9632152fd61c787641a229e38da101fb3c680d766edbfb005bdddf0a006dc6ca"
     },
     {
+      "path": "imagenes/Gothic 1 Remake.webp",
+      "size": 21472,
+      "sha256": "abc5795a189e1ac949dcdf808a72d8e36b2bae7108f98ff7a6b957f432348366"
+    },
+    {
       "path": "imagenes/Grand Theft Auto V GTA.webp",
       "size": 86114,
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
@@ -335,6 +340,11 @@
       "path": "imagenes/Halo Campaign Evolved.webp",
       "size": 34462,
       "sha256": "a379ac4af1e296784a540756fb938e2302be6f7048ba48a0206a83ef8a60c1a0"
+    },
+    {
+      "path": "imagenes/Hitman World of Assassination.webp",
+      "size": 10338,
+      "sha256": "97010317d7381ca8f9a4560fa802be4c849bf83466119e5097718b3df87195c9"
     },
     {
       "path": "imagenes/Hogwarts Legacy Complete Edition.webp",
@@ -410,6 +420,11 @@
       "path": "imagenes/Monster Hunter Wild.webp",
       "size": 55228,
       "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
+    },
+    {
+      "path": "imagenes/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.webp",
+      "size": 31936,
+      "sha256": "2d1be4ec396139fc4fc6a0f6234b49d3d4dc69d2c72c3e4b0331e54fcca33eb4"
     },
     {
       "path": "imagenes/Mortal Shell II Devout Edition.webp",
@@ -2507,6 +2522,36 @@
       "sha256": "0dc5c5eca6fcc30b1850a3b564575465b65afa5f7e3cdee516105b61312f51b7"
     },
     {
+      "path": "capturas/Gothic 1 Remake/1.webp",
+      "size": 34648,
+      "sha256": "94dd6e8451821383fe22423f6212f6aa8040cce0aeb3f86b5a20b70e4bc24fbe"
+    },
+    {
+      "path": "capturas/Gothic 1 Remake/2.webp",
+      "size": 13742,
+      "sha256": "de0882c31a6a3741c9e098d59a7398e878b451074e6022f8f08a818e91068ab3"
+    },
+    {
+      "path": "capturas/Gothic 1 Remake/3.webp",
+      "size": 27304,
+      "sha256": "73c75348f04bb9627b703777a5409ab63ee590115266696ec741e4d8b7eab579"
+    },
+    {
+      "path": "capturas/Gothic 1 Remake/4.webp",
+      "size": 34648,
+      "sha256": "19047490b416c1d114220c0143842a64a56e85cde716e664f3e2677c99dc380d"
+    },
+    {
+      "path": "capturas/Gothic 1 Remake/5.webp",
+      "size": 40540,
+      "sha256": "2fbbc8cab37ed9c273bc3488eea3bf4e16a408a338c80b39abc3c60fa54cda2c"
+    },
+    {
+      "path": "capturas/Gothic 1 Remake/6.webp",
+      "size": 15208,
+      "sha256": "4465763ac24626abdb98f04d289b382bf0b618b67b00e47e9f96e61b0fa81394"
+    },
+    {
       "path": "capturas/Grand Theft Auto V GTA/01.webp",
       "size": 26208,
       "sha256": "fad88d5a4ae0201e9b313cd8e2151885c606ea28149789bb0cecd4cc3b5fb0b0"
@@ -2625,6 +2670,36 @@
       "path": "capturas/Halo Campaign Evolved/6.webp",
       "size": 15946,
       "sha256": "c70553d54b6bf8c6fb6228684c3c7e96251daed24966c963ff1047775daae9e2"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/1.webp",
+      "size": 7732,
+      "sha256": "689c50223e0b1eb00fd488780a2bd9a516696157bd2361ec2e3c0caa61487ce5"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/2.webp",
+      "size": 17044,
+      "sha256": "295ee87693784a68fc0b9b85ea84be8b4c04fec3073f08624143904aee145c93"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/3.webp",
+      "size": 17944,
+      "sha256": "c7a0724458aceab7b9c7c805b1d8b37ebc214cf123a87c7997844dc8954cd774"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/4.webp",
+      "size": 37738,
+      "sha256": "cbec1f6806076a2de3d992097e4e47b37e01da0a2694b7bb6cbefdf0eca0fa61"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/5.webp",
+      "size": 9688,
+      "sha256": "72795cad97970e16e06b0e0016d826174156469e0450ad91489d66b23608cdc0"
+    },
+    {
+      "path": "capturas/Hitman World of Assassination/6.webp",
+      "size": 12726,
+      "sha256": "e1c0b238b7a8bac9d8f2e14991efbbc3a034b4c912855daa73a7378dd8e69b85"
     },
     {
       "path": "capturas/Hogwarts Legacy Complete Edition/1.webp",
@@ -3075,6 +3150,36 @@
       "path": "capturas/Monster Hunter Wild/6.webp",
       "size": 10222,
       "sha256": "a2a1d286a686a8aba77e005e072099cd1ef642933f0f495890a8e8a176a15f3a"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/1.webp",
+      "size": 37672,
+      "sha256": "37e8eae24efeb5694337a27618fe1986bfc940d34a52ed358cbb31436b450e14"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/2.webp",
+      "size": 27014,
+      "sha256": "e7fb7b02fdba80f6d40243f0c0127288fdccc967e61c528af89218c35f1efcb5"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/3.webp",
+      "size": 33312,
+      "sha256": "80cb228f18a87dae546686bf5aeb358cd91eaba42b78d7855edc7866921e0e85"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/4.webp",
+      "size": 23984,
+      "sha256": "918e8148ce1c390c5bdf5a44965d427e4915fdeb3f8997086f6f14c742299cba"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/5.webp",
+      "size": 22292,
+      "sha256": "53aec3ef932935c8d3cbc0eb129f7840602ba8339c8303c7f6f006f3a2c391ed"
+    },
+    {
+      "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/6.webp",
+      "size": 20316,
+      "sha256": "f91cd2d786ed22b171af98008a4e6af1340bb5c4301fa99112527f75def3d617"
     },
     {
       "path": "capturas/Mortal Shell II Devout Edition/1.webp",
@@ -4787,6 +4892,11 @@
       "sha256": "75a89b27b2d0d05ad9caa551c43bce339ecc20b1db13c3222ab024c6b6de6bbb"
     },
     {
+      "path": "sinopsis/Gothic 1 Remake.txt",
+      "size": 765,
+      "sha256": "0f12f3c8a14067e1126424fe03922e92613dd4343b64633a58ea7966bcf07d9b"
+    },
+    {
       "path": "sinopsis/Grand Theft Auto V GTA.txt",
       "size": 300,
       "sha256": "f6b14d786eee7e06fdd8b4c56161eb22dbcc01329daaf30eaabd3a1cff2998f3"
@@ -4805,6 +4915,11 @@
       "path": "sinopsis/Halo Campaign Evolved.txt",
       "size": 928,
       "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
+    },
+    {
+      "path": "sinopsis/Hitman World of Assassination.txt",
+      "size": 644,
+      "sha256": "2dde71cfa16266a2348c8ef4c6e09b9a05444a49406f75bf0afb217eac5b506c"
     },
     {
       "path": "sinopsis/Hogwarts Legacy Complete Edition.txt",
@@ -4880,6 +4995,11 @@
       "path": "sinopsis/Monster Hunter Wild.txt",
       "size": 1088,
       "sha256": "9a4e7b5e145cadeb16dba3de462cf3d441c912b93a904ddf826f5a656d15b4a6"
+    },
+    {
+      "path": "sinopsis/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.txt",
+      "size": 651,
+      "sha256": "4eacbc05078782fb4d25ca573dedbc6af89474f968d70ae7937f660599e94127"
     },
     {
       "path": "sinopsis/Mortal Shell II Devout Edition.txt",
@@ -5437,6 +5557,11 @@
       "sha256": "6005fb64ae446574c37c402060b20fb9ff8c3e33e5ce18c8cde1f3450e8fa763"
     },
     {
+      "path": "datos/Gothic 1 Remake.txt",
+      "size": 190,
+      "sha256": "3ef9e409580bd3ad9361232339f9d88f9ba673c79fc552f6e84327cfc48aa2b4"
+    },
+    {
       "path": "datos/Grand Theft Auto V GTA.txt",
       "size": 211,
       "sha256": "887413025e455e19d92130c183870ffd0e29260378585a2cc4bc57c62e113e43"
@@ -5455,6 +5580,11 @@
       "path": "datos/Halo Campaign Evolved.txt",
       "size": 194,
       "sha256": "7d06cefe49ee916c9f9f0758c95d0501eb067e9f50dea6cd5330efec89e50836"
+    },
+    {
+      "path": "datos/Hitman World of Assassination.txt",
+      "size": 186,
+      "sha256": "91d470733ac5f8e496afb41f7e4e6e20612a7b1834a9046af0b02155a7513785"
     },
     {
       "path": "datos/Hogwarts Legacy Complete Edition.txt",
@@ -5530,6 +5660,11 @@
       "path": "datos/Monster Hunter Wild.txt",
       "size": 254,
       "sha256": "6ecbe3f3fb9011ba40acc7b67d42f1f038c1861ee1c04a006f72d218fa2facd1"
+    },
+    {
+      "path": "datos/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.txt",
+      "size": 189,
+      "sha256": "3b2da3c8ecae75147854c6ca87ce20a5405783706331f1a26136c3cdc926e28c"
     },
     {
       "path": "datos/Mortal Shell II Devout Edition.txt",

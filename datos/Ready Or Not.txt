@@ -3,7 +3,7 @@ Género: Acción / Shooter / Táctico / FPS / Policial / Cooperativo
 Tamaño: 34GB
 Modo: Singleplayer / Multiplayer
 Idioma: Español
-Fecha de incorporación: 30/10/2026
+Fecha de incorporación: 29/10/2026
 Puntuación: 8,8
 Metacritic: 80
 Repacker: ElAmigos

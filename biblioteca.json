@@ -412,6 +412,11 @@
       "sha256": "855bf1e75e33d10bf58651427753f72de97ef2aa3d42848df9d73fc1540fb5ed"
     },
     {
+      "path": "imagenes/My Little Puppy.webp",
+      "size": 24204,
+      "sha256": "950ed76604299605833bdd3b4039373543d51c5057948779b8a41f688e112622"
+    },
+    {
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
@@ -430,6 +435,16 @@
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
       "size": 33536,
       "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
+    },
+    {
+      "path": "imagenes/Planet of Lana II Children Of The Lead.webp",
+      "size": 30068,
+      "sha256": "e082abab504a0ea1e3398d66916e6170026feba4bb01cdd151d667bd63a77dc7"
+    },
+    {
+      "path": "imagenes/Planet of Lana.webp",
+      "size": 25172,
+      "sha256": "71e4754e51e5fe0ca421c84a8464451cec576b05eec9963cc2fcb4470b170b07"
     },
     {
       "path": "imagenes/Pragmata Deluxe Edition.webp",
@@ -3052,6 +3067,36 @@
       "sha256": "460d957e6d4af73a8f1ffc8c7ff2deac5102eb0872304c14017742f1b2ce94b3"
     },
     {
+      "path": "capturas/My Little Puppy/1.webp",
+      "size": 17680,
+      "sha256": "49fbe8908e01f4260048bb3730227d014beb8a0c73ed649f6a3b6c79dbd34d3b"
+    },
+    {
+      "path": "capturas/My Little Puppy/2.webp",
+      "size": 17516,
+      "sha256": "cc64b9073374e129ed6b553ed8b7455131f73b63779fde9cde6582cc30a140ed"
+    },
+    {
+      "path": "capturas/My Little Puppy/3.webp",
+      "size": 15178,
+      "sha256": "51ac1b14f8cbe65158a9de2fc67ac9602fbd2f4b51388f94c4acfda45bbfcf1c"
+    },
+    {
+      "path": "capturas/My Little Puppy/4.webp",
+      "size": 17712,
+      "sha256": "d2790a6a4b459d89cf8ad8e3533562ba7291d74f1c31477efbbb6b08593e818f"
+    },
+    {
+      "path": "capturas/My Little Puppy/5.webp",
+      "size": 11290,
+      "sha256": "fec785bfa4588b0825bbdfa56cd992ef03aba9c63a66d62e87efc7d74136e94a"
+    },
+    {
+      "path": "capturas/My Little Puppy/6.webp",
+      "size": 26114,
+      "sha256": "82e2ef57fe7837360481be29407f4965634e04e3345627c45e988c4e0e3a0cc4"
+    },
+    {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
       "size": 40904,
       "sha256": "61f66e996afbefd42d47b0e13c2d0784b7a2edbe96f5006b03675e961d6bcdb3"
@@ -3155,6 +3200,66 @@
       "path": "capturas/Phantom Blade Zero Deluxe Edition/6.webp",
       "size": 23156,
       "sha256": "db116b5fd7a576650b3964c719ceceb08a378cd1e14d29f5c7ca402e602329dc"
+    },
+    {
+      "path": "capturas/Planet of Lana/1.webp",
+      "size": 15904,
+      "sha256": "d27d97f44f0132f2f1a0c0e75e51f30ee86e9bae458dc6c228c46c4bba872856"
+    },
+    {
+      "path": "capturas/Planet of Lana/2.webp",
+      "size": 25480,
+      "sha256": "ea50045bb362e515cc2759023b838d233712f9237e79d5cdc7fb560ea7a97fda"
+    },
+    {
+      "path": "capturas/Planet of Lana/3.webp",
+      "size": 26366,
+      "sha256": "680e9fad39f351d028b59d1c8a5ec8d29505fef8304d0c5afa100233d22a7850"
+    },
+    {
+      "path": "capturas/Planet of Lana/4.webp",
+      "size": 10694,
+      "sha256": "b13c4851fee1012ef9f0acd75c9119ea5aac1cf0851c61ecef3f0a4b7e3068d2"
+    },
+    {
+      "path": "capturas/Planet of Lana/5.webp",
+      "size": 20864,
+      "sha256": "dd5410c157c05953b164f7a9fe1781d79f24a39c8facd7f23729f2344e6595d9"
+    },
+    {
+      "path": "capturas/Planet of Lana/6.webp",
+      "size": 28162,
+      "sha256": "26ae8527565e6791fb3780022057287b4de8a44cfa9966ec5804b35fbb15b8bd"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/1.webp",
+      "size": 19882,
+      "sha256": "90c64d2959fadd7403bd5ad2147165a15df651704c9ee9aa91a90c6f7f43d70f"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/2.webp",
+      "size": 20458,
+      "sha256": "055eba4898aadc0aea7017a40af7d8742a96072290a6cfad7dbe7307af95bfdf"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/3.webp",
+      "size": 14528,
+      "sha256": "a0f05a7f6b65d4bcb96f4e50805f322fbc66a4637ee92796105b87402c89c489"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/4.webp",
+      "size": 10700,
+      "sha256": "8a81a2fe37fa993d98baaa9207fcd92063809abf8637c1970dbffe06a6495e02"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/5.webp",
+      "size": 22936,
+      "sha256": "032655607ab5d32500d532767ef2c78339d64bdc3134728a3d67d26aca6a7a84"
+    },
+    {
+      "path": "capturas/Planet of Lana II Children Of The Lead/6.webp",
+      "size": 11288,
+      "sha256": "b389643a3b1083276309c93a34fd069347cd2172329eefd9244ec879ca6605e7"
     },
     {
       "path": "capturas/Pragmata Deluxe Edition/1.webp",
@@ -4707,6 +4812,11 @@
       "sha256": "19825594c80d05e18295b27126801d8d9f6c73223af375dc23ab6c91df06cb3c"
     },
     {
+      "path": "sinopsis/My Little Puppy.txt",
+      "size": 476,
+      "sha256": "8608461ea41445b6c75dd742aea391e0e9f5143253f327a1753f1cc3ec09d49a"
+    },
+    {
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
       "size": 814,
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
@@ -4725,6 +4835,16 @@
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
       "size": 834,
       "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
+    },
+    {
+      "path": "sinopsis/Planet of Lana II Children Of The Lead.txt",
+      "size": 455,
+      "sha256": "3d1c42104b7fbc059df2486756ccf9eb44623f3a5b94a2beaeedbc9d04efef59"
+    },
+    {
+      "path": "sinopsis/Planet of Lana.txt",
+      "size": 485,
+      "sha256": "5965c77f29de6bbfe9c4f509ebfd6f0741f0c2684f4aeb1e099d6351caf2023c"
     },
     {
       "path": "sinopsis/Pragmata Deluxe Edition.txt",
@@ -5332,6 +5452,11 @@
       "sha256": "12b0e48df311db2ddeb5dd841bcfee650c470c3ad97f5b0de1199d1cceb6649c"
     },
     {
+      "path": "datos/My Little Puppy.txt",
+      "size": 193,
+      "sha256": "88112f3db13c110de1fd14b703e7ceacead5684e6ba32565d31db8a0f0acef16"
+    },
+    {
       "path": "datos/Need For Speed Most Wanted HD.txt",
       "size": 215,
       "sha256": "78c6d8b419e254a75c0bedfedb4ad3491622f3180f3119610088db7dab074f16"
@@ -5350,6 +5475,16 @@
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
       "size": 250,
       "sha256": "6945c1a7ae00dccc7b403ab3d6106cbd85ad89f1f79b0b2c8e20e62c0b5100ed"
+    },
+    {
+      "path": "datos/Planet of Lana II Children Of The Lead.txt",
+      "size": 209,
+      "sha256": "b0073e1ec972e119919074f0b7c7507d58b9f05e5c8a72eb42c48a725b6f04a4"
+    },
+    {
+      "path": "datos/Planet of Lana.txt",
+      "size": 210,
+      "sha256": "07e83cd07760427a1c615ac2ba6ff50fb68a25c805521aea3743c655fcb3183d"
     },
     {
       "path": "datos/Pragmata Deluxe Edition.txt",

@@ -362,6 +362,11 @@
       "sha256": "8bf81212a319a9a1cfb9aaf9afccbd0ca60949a4e196329c0fb06f7a9028d745"
     },
     {
+      "path": "imagenes/Keep Driving.webp",
+      "size": 75852,
+      "sha256": "cfb1bd5c41f321072550580861a36f0d80bd0f71222ae80b8b900a103e25c7ef"
+    },
+    {
       "path": "imagenes/Kingdom Come Deliverance 2.webp",
       "size": 51288,
       "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
@@ -422,9 +427,19 @@
       "sha256": "8f623411a549b71b49a9cff39800c857204d92cca560db4b920b4e502af710cd"
     },
     {
+      "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
+      "size": 33536,
+      "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
+    },
+    {
       "path": "imagenes/Pragmata Deluxe Edition.webp",
       "size": 26900,
       "sha256": "030902fc18c9bb5888e4e08aed85a8ba372de38b7b41adecf1f651e47a681275"
+    },
+    {
+      "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
+      "size": 14344,
+      "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
     },
     {
       "path": "imagenes/Ready Or Not.webp",
@@ -520,6 +535,11 @@
       "path": "imagenes/Stellar Blade Complete Edition.webp",
       "size": 28932,
       "sha256": "e8aeeebd64cf32b63b774a4c22643b71230bd7b75dda4deb2b4a91311710f68b"
+    },
+    {
+      "path": "imagenes/Stygian Outer Gods.webp",
+      "size": 17074,
+      "sha256": "1d03a0480c8925ba4881d9ae2ad5ef3d2e666d3b84342452b0d7442f9dcab34c"
     },
     {
       "path": "imagenes/Terminator 2D No Fate.webp",
@@ -2732,6 +2752,36 @@
       "sha256": "fd819c3a92c0424e8c8e6bdc180b7c2adbb994ae782acd827b0a12b9cbd09b2f"
     },
     {
+      "path": "capturas/Keep Driving/1.webp",
+      "size": 17940,
+      "sha256": "791cc421934aa6e0c5e744a57fb2a3a662b1b67c9f99d1dcd461e7a3dfd4b2dd"
+    },
+    {
+      "path": "capturas/Keep Driving/2.webp",
+      "size": 18542,
+      "sha256": "f3aa2b156ddfc6bc40327b358297f9bd1bbb3f82bdb6e0790f997cfe2473dd49"
+    },
+    {
+      "path": "capturas/Keep Driving/3.webp",
+      "size": 22430,
+      "sha256": "422273ce1f49644e59a3e4f8ebbc74301926fcfdc11cacedcc8a0ea9e27d69d3"
+    },
+    {
+      "path": "capturas/Keep Driving/4.webp",
+      "size": 21996,
+      "sha256": "bbf6f3842ad8888f559a037fe6489fac830486d22380f569e1ec433e2370a5a5"
+    },
+    {
+      "path": "capturas/Keep Driving/5.webp",
+      "size": 29376,
+      "sha256": "dc79e039dddca61b49d055da4ec301c00829c2b3912f0b0148f82ce862ededec"
+    },
+    {
+      "path": "capturas/Keep Driving/6.webp",
+      "size": 16282,
+      "sha256": "b3027b0ced339a1987f62467724f2bcf00311f065afab1cbcd70bf46fc9bf05a"
+    },
+    {
       "path": "capturas/Kingdom Come Deliverance 2/1.webp",
       "size": 16454,
       "sha256": "afc736f9ebefd5da0eadfb157a9e5612dbf04c13fc42ecf35d3145bcaf9212a4"
@@ -3077,6 +3127,36 @@
       "sha256": "183033aa5b37f774657ac0f4823c3de18571f436384ed0f9351d979b336cef09"
     },
     {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
+      "size": 21054,
+      "sha256": "5d552eda4733cfa6eb6833890f5eb36a5811208ccd6c3f4d21536494137828fb"
+    },
+    {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/2.webp",
+      "size": 23978,
+      "sha256": "636754043370e63fa148fad7019566986e25b29e1abffd75ccd10bb8d3381be9"
+    },
+    {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/3.webp",
+      "size": 24558,
+      "sha256": "c78a4962c819f75dc200dbe65273edd4ea9afd3872f4c5f313bd03653a913417"
+    },
+    {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/4.webp",
+      "size": 31032,
+      "sha256": "753f6eb536d8afbc65a0738750091f60b42f3bd913a31a3a50a9760cc8bde8f6"
+    },
+    {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/5.webp",
+      "size": 35098,
+      "sha256": "5aaba5d4c0da97ac9619dc046960fb057b8b5aaa00c35ade3f13eb54a67429e4"
+    },
+    {
+      "path": "capturas/Phantom Blade Zero Deluxe Edition/6.webp",
+      "size": 23156,
+      "sha256": "db116b5fd7a576650b3964c719ceceb08a378cd1e14d29f5c7ca402e602329dc"
+    },
+    {
       "path": "capturas/Pragmata Deluxe Edition/1.webp",
       "size": 22312,
       "sha256": "fadb39c0c640d9ebd93f35fa7cfb43afbf85b569181add44b1ec2c4e232df424"
@@ -3105,6 +3185,36 @@
       "path": "capturas/Pragmata Deluxe Edition/6.webp",
       "size": 29206,
       "sha256": "a21d8bdf9a3f27b113bdfb8a9dbd2c7e2d65ca52881833f2068abd0f6701d214"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/1.webp",
+      "size": 15134,
+      "sha256": "f2a1465ffd5d3a55efd366090069746054fb4cbf3a16bbc49f072d4f2906c9ec"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/2.webp",
+      "size": 47222,
+      "sha256": "503bd709eb447eac2a5a151294d480e9f125e7bb58f4ae968675811d12979250"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/3.webp",
+      "size": 27876,
+      "sha256": "bb6539e4c6d2cf65af1b0b743585437174ada654be46213ba658c0ef595c7993"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/4.webp",
+      "size": 45768,
+      "sha256": "30d5234a51899ba067869c48201f303bd1b2c3d2715ce1976b51c861da4afb35"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/5.webp",
+      "size": 29610,
+      "sha256": "4cb63f54cda2e7743d9d404890b9006c0fe2595a2d1ebd45c6a4b78377ddb010"
+    },
+    {
+      "path": "capturas/Project Hunt Maps & Weapons Bundle/6.webp",
+      "size": 26486,
+      "sha256": "043b0d5b021c1cfd1570c0e06899f59008abaa78a255340f8b2078efaca16dc6"
     },
     {
       "path": "capturas/Ready Or Not/1.webp",
@@ -3675,6 +3785,36 @@
       "path": "capturas/Stellar Blade Complete Edition/6.webp",
       "size": 29624,
       "sha256": "88af68cb135ec54fda5617ee9c8d13072bbf1aefebd2148f16f45465935167a7"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/1.webp",
+      "size": 11304,
+      "sha256": "a3923a056d4696631b6134de0bc01688c0f5eaf05b5d5ed3cf14560203a0adbb"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/2.webp",
+      "size": 37816,
+      "sha256": "3e974497faa91729aa996365de9874343d36a7c74e9da794bdc894b1199b5dd5"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/3.webp",
+      "size": 24564,
+      "sha256": "028c354bfa07e7024f1d45de8443ca3fa1a77e1a3067fa98df9778ed20143e5e"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/4.webp",
+      "size": 22998,
+      "sha256": "e50c653d7a91a436793ef4819f376bf250bba9c6b2dab7c03353ee29432a1844"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/5.webp",
+      "size": 28040,
+      "sha256": "1a1a34f9db4d43bf6f5cceac0f7b96c356c314ce6701d399dd8392f57004e0f0"
+    },
+    {
+      "path": "capturas/Stygian Outer Gods/6.webp",
+      "size": 31374,
+      "sha256": "794b8781ebb3d495f73c27c430eef42a489ff6663f244034136fdba0f190eae8"
     },
     {
       "path": "capturas/Terminator 2D No Fate/1.webp",
@@ -4517,6 +4657,11 @@
       "sha256": "86d9c88ad95138b7ef38ef254a510984698af964bec0ccd319be5263c7e81dec"
     },
     {
+      "path": "sinopsis/Keep Driving.txt",
+      "size": 609,
+      "sha256": "86c4e9221ce9014a76d5a571290b95dd6526866c62b706bb9676f30632264673"
+    },
+    {
       "path": "sinopsis/Kingdom Come Deliverance 2.txt",
       "size": 1040,
       "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
@@ -4577,9 +4722,19 @@
       "sha256": "23ba4029b5bd158d21ca06141901c9c6ee9e92c2350c23009504bc66d289fa46"
     },
     {
+      "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
+      "size": 834,
+      "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
+    },
+    {
       "path": "sinopsis/Pragmata Deluxe Edition.txt",
       "size": 530,
       "sha256": "b3c81ca02e0e238961bb892cd635bc87e8aeb70d7bd6386a0fe6fe201753aeef"
+    },
+    {
+      "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
+      "size": 760,
+      "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
     },
     {
       "path": "sinopsis/Ready Or Not.txt",
@@ -4675,6 +4830,11 @@
       "path": "sinopsis/Stellar Blade Complete Edition.txt",
       "size": 588,
       "sha256": "415bf5aadc7349778744ec2c0b25b92bcf15579841e2d77437cb1d72832ca25a"
+    },
+    {
+      "path": "sinopsis/Stygian Outer Gods.txt",
+      "size": 642,
+      "sha256": "da5de943906c0f0bdfa7a25d2e9fc27a86dade48eded7cde0b36308fae990179"
     },
     {
       "path": "sinopsis/Terminator 2D No Fate.txt",
@@ -5117,6 +5277,11 @@
       "sha256": "32a53abfe2b269e05f9d8b54545432e03a62d781ce67460a7045d7df39f02e5f"
     },
     {
+      "path": "datos/Keep Driving.txt",
+      "size": 208,
+      "sha256": "7f6b7a11c8f4b4114f7d6ba68929d5c5e20682016deecf3b7551b7440134ef00"
+    },
+    {
       "path": "datos/Kingdom Come Deliverance 2.txt",
       "size": 238,
       "sha256": "12064c314cec7f95e22561129187e3e81b09f35fb27fa1dbfd39c2ab6b18ff32"
@@ -5177,9 +5342,19 @@
       "sha256": "a5ad20504051a71af95de685dda12961e22a149898a046e32ef5129dcdf3928d"
     },
     {
+      "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
+      "size": 250,
+      "sha256": "6945c1a7ae00dccc7b403ab3d6106cbd85ad89f1f79b0b2c8e20e62c0b5100ed"
+    },
+    {
       "path": "datos/Pragmata Deluxe Edition.txt",
       "size": 228,
       "sha256": "132c7e10fd3be54636dc27a6ca557d7c019d1338c0720f865b899f2879e941bf"
+    },
+    {
+      "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
+      "size": 213,
+      "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
     },
     {
       "path": "datos/Ready Or Not.txt",
@@ -5275,6 +5450,11 @@
       "path": "datos/Stellar Blade Complete Edition.txt",
       "size": 222,
       "sha256": "b5b1a060c7c5dac73bb8082e2b7c7583e44024db8f6417c2387dc332aaabda34"
+    },
+    {
+      "path": "datos/Stygian Outer Gods.txt",
+      "size": 205,
+      "sha256": "b7451f1a1885f55825ad0ab789c5bdf2145ae6f04e139a8bd534207b4f2f8333"
     },
     {
       "path": "datos/Terminator 2D No Fate.txt",

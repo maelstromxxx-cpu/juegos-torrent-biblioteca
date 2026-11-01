@@ -462,6 +462,11 @@
       "sha256": "8f623411a549b71b49a9cff39800c857204d92cca560db4b920b4e502af710cd"
     },
     {
+      "path": "imagenes/Palworld.webp",
+      "size": 43834,
+      "sha256": "a6e0d449e5b2c82a70a23e81b144638e8b4e34dbaf8180d07f5716f8c23097f2"
+    },
+    {
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
       "size": 33536,
       "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
@@ -3382,6 +3387,36 @@
       "sha256": "183033aa5b37f774657ac0f4823c3de18571f436384ed0f9351d979b336cef09"
     },
     {
+      "path": "capturas/Palworld/1.webp",
+      "size": 18378,
+      "sha256": "6e849d7f7aae2d3757422f2e2a79b914227c90a49e60e010d2aee36aef8f9d54"
+    },
+    {
+      "path": "capturas/Palworld/2.webp",
+      "size": 33930,
+      "sha256": "e07c9459b56051abf8059bb2cad24e74edeeb120ca798caac231bac22ba58165"
+    },
+    {
+      "path": "capturas/Palworld/3.webp",
+      "size": 31040,
+      "sha256": "17168b642a9b238e7d6f2cfc47b04abaf43a964373bfbcce2008108a5104ea97"
+    },
+    {
+      "path": "capturas/Palworld/4.webp",
+      "size": 22350,
+      "sha256": "92b35d628c9c7cb460100c25169d3ccbc25aa59fe2a9c29ac82a29b6f8186009"
+    },
+    {
+      "path": "capturas/Palworld/5.webp",
+      "size": 12904,
+      "sha256": "8e234a8f1973d7b337de010231dfc7ae8a5405dbb7caa8d26993fa7fa2053215"
+    },
+    {
+      "path": "capturas/Palworld/6.webp",
+      "size": 31428,
+      "sha256": "6edbe37a7d2bbd915d6a3559722d3060f78669eb8bdb92cf44da01b8d14ac2f8"
+    },
+    {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
       "size": 21054,
       "sha256": "5d552eda4733cfa6eb6833890f5eb36a5811208ccd6c3f4d21536494137828fb"
@@ -5072,6 +5107,11 @@
       "sha256": "23ba4029b5bd158d21ca06141901c9c6ee9e92c2350c23009504bc66d289fa46"
     },
     {
+      "path": "sinopsis/Palworld.txt",
+      "size": 572,
+      "sha256": "2da64d5d2033c4684e2f7c0c815216f465c741b27c30114224b09ec934d3c993"
+    },
+    {
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
       "size": 834,
       "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
@@ -5740,6 +5780,11 @@
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
       "size": 206,
       "sha256": "a5ad20504051a71af95de685dda12961e22a149898a046e32ef5129dcdf3928d"
+    },
+    {
+      "path": "datos/Palworld.txt",
+      "size": 229,
+      "sha256": "b3e91473e18ac006aec6b56a82da0c7a473661e7629fd4337263991c4faeae35"
     },
     {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",

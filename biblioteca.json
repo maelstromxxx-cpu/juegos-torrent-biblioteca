@@ -392,6 +392,11 @@
       "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
     },
     {
+      "path": "imagenes/Lego Batman Legacy of the Dark Knight.webp",
+      "size": 22944,
+      "sha256": "b09ed752e43f28b93753f6ebf7efa586f9db928075c58791e2eb90684948af47"
+    },
+    {
       "path": "imagenes/Lies Of P.webp",
       "size": 40802,
       "sha256": "e06d38d3f93d4e798e7f5c2fa05d6c1c23d90c6e5aa7492bac21a68982e8a0f6"
@@ -2982,6 +2987,31 @@
       "sha256": "cd93a16f6b45304b9eb2fe4d66084e9ae4a11a788d35d6cd5cfb6ef02035ea9b"
     },
     {
+      "path": "capturas/Lego Batman Legacy of the Dark Knight/1.webp",
+      "size": 21252,
+      "sha256": "6db269f7ae8a4473167483603ed2fbaca24f65d6137b9e4d3d5d874ae9ba39ea"
+    },
+    {
+      "path": "capturas/Lego Batman Legacy of the Dark Knight/2.webp",
+      "size": 13762,
+      "sha256": "c233b6a0865044eeee172bce09301b5be82b7276e56b76c815ddc1d0ec3a91cf"
+    },
+    {
+      "path": "capturas/Lego Batman Legacy of the Dark Knight/3.webp",
+      "size": 16566,
+      "sha256": "aa14688992d32f89470c66cc30055c6a82c2c10187ceb15fb100b5ddd7ebe004"
+    },
+    {
+      "path": "capturas/Lego Batman Legacy of the Dark Knight/4.webp",
+      "size": 19938,
+      "sha256": "fc9de2833e5dcba7d732807383f3e98daa42efbbf33827efc203e0c1c0f01557"
+    },
+    {
+      "path": "capturas/Lego Batman Legacy of the Dark Knight/5.webp",
+      "size": 19738,
+      "sha256": "d72174fed8124314e92a117090c6e6998f921844eef1e761789d99298dc957c7"
+    },
+    {
       "path": "capturas/Lies Of P/1.webp",
       "size": 13018,
       "sha256": "e5cf1d807635b405b86909a71bccc87fdec1692cc242259771a545c36775929f"
@@ -5037,6 +5067,11 @@
       "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
     },
     {
+      "path": "sinopsis/Lego Batman Legacy of the Dark Knight.txt",
+      "size": 501,
+      "sha256": "c064e2c27f90fdf44f39e7c9ed1cd57712e2fb78c487e4f947baf83a138b0509"
+    },
+    {
       "path": "sinopsis/Lies Of P.txt",
       "size": 1014,
       "sha256": "75f74bcb3b42694eee2d268c152022eceb8f4186066fe9e60e2661c36c22189a"
@@ -5710,6 +5745,11 @@
       "path": "datos/Kingdom Come Deliverance 2.txt",
       "size": 238,
       "sha256": "21c053df736c4e5250dc70fc19c5fd99b196d1460e853ae63645dc47918e3b6d"
+    },
+    {
+      "path": "datos/Lego Batman Legacy of the Dark Knight.txt",
+      "size": 231,
+      "sha256": "06e1000c393be1c5d09df5f1cc79b5be067ab80cc4d1eb8992b204456609ed6d"
     },
     {
       "path": "datos/Lies Of P.txt",

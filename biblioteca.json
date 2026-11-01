@@ -622,6 +622,11 @@
       "sha256": "1d03a0480c8925ba4881d9ae2ad5ef3d2e666d3b84342452b0d7442f9dcab34c"
     },
     {
+      "path": "imagenes/Tekken 8 Ultimate Edition.webp",
+      "size": 59854,
+      "sha256": "489bbc38b983af7c0959b598dedd9d5a151e6c040dcae8853537ccb7047b5601"
+    },
+    {
       "path": "imagenes/Terminator 2D No Fate.webp",
       "size": 56034,
       "sha256": "77e252bbd64e80178301617d6e7f8435c9c83840991202e953ba8699fd82f112"
@@ -4382,6 +4387,36 @@
       "sha256": "794b8781ebb3d495f73c27c430eef42a489ff6663f244034136fdba0f190eae8"
     },
     {
+      "path": "capturas/Tekken 8 Ultimate Edition/1.webp",
+      "size": 44128,
+      "sha256": "06424004c4d6959b96ca5b59575f26a56df520492020a8276e976f87948bbb8b"
+    },
+    {
+      "path": "capturas/Tekken 8 Ultimate Edition/2.webp",
+      "size": 31724,
+      "sha256": "8e574e503c9ac21d6cf1fe68aaa6a2f8994893fc011db8f8a88acb1511a7c2e2"
+    },
+    {
+      "path": "capturas/Tekken 8 Ultimate Edition/3.webp",
+      "size": 27340,
+      "sha256": "d37d249d870088fe8e608ff940cc52cb9969dd28d144b8fae828fd8e2f0017e1"
+    },
+    {
+      "path": "capturas/Tekken 8 Ultimate Edition/4.webp",
+      "size": 45394,
+      "sha256": "5b07bf3ced9033fc6af95b9fa784b679c71d23641270c60eed454467b06553b4"
+    },
+    {
+      "path": "capturas/Tekken 8 Ultimate Edition/5.webp",
+      "size": 27274,
+      "sha256": "cabcaf004f04f3ecc1191ef12d1c5704a0eeff8ca87312817fb812dd389a89f2"
+    },
+    {
+      "path": "capturas/Tekken 8 Ultimate Edition/6.webp",
+      "size": 28528,
+      "sha256": "1163b1095e94fd0926160d232559f25c8f3c751a0caf0a5a505cd3d5a6f82059"
+    },
+    {
       "path": "capturas/Terminator 2D No Fate/1.webp",
       "size": 30528,
       "sha256": "60881da646d97d0ad96f96b0191430926d9ae060b474ac8137f94ce98d10e3e5"
@@ -5537,6 +5572,11 @@
       "sha256": "da5de943906c0f0bdfa7a25d2e9fc27a86dade48eded7cde0b36308fae990179"
     },
     {
+      "path": "sinopsis/Tekken 8 Ultimate Edition.txt",
+      "size": 665,
+      "sha256": "1373c4fcd8ae62590b5d2dcb114c493ac255c49582a84e7cc1641c2cf8aa4b20"
+    },
+    {
       "path": "sinopsis/Terminator 2D No Fate.txt",
       "size": 285,
       "sha256": "cef457304877d1ecbaf3ef3a025b5499a7388ae7f3b04a1d99da6f895e1f1af0"
@@ -6250,6 +6290,11 @@
       "path": "datos/Stygian Outer Gods.txt",
       "size": 205,
       "sha256": "b7451f1a1885f55825ad0ab789c5bdf2145ae6f04e139a8bd534207b4f2f8333"
+    },
+    {
+      "path": "datos/Tekken 8 Ultimate Edition.txt",
+      "size": 159,
+      "sha256": "982ffa4cc10a2278f0d0f846ff38a1bf487e3280957b9c6a4e8a88e3f2cbbbe2"
     },
     {
       "path": "datos/Terminator 2D No Fate.txt",

@@ -697,6 +697,11 @@
       "sha256": "a2d87d05dbe340f1d854f13fc5d052debdefac656f4a9d89a93af7c9814755ea"
     },
     {
+      "path": "imagenes/WWE 2K26.webp",
+      "size": 78690,
+      "sha256": "5619d401406d6fda2bb9e77cd99b95fd961e60e7d3e767a3f3ba210be92eb77e"
+    },
+    {
       "path": "capturas/007 First Light/1.webp",
       "size": 10688,
       "sha256": "0d1d152a3a2303e2350f75f319d9e2ff5017756e05bcd3b585f29ed2c2c27a14"
@@ -4817,6 +4822,36 @@
       "sha256": "0fcc58fc08822d41dd0fcfa6cdb43880a8cf070baa2c3aef3f328c7a1b388091"
     },
     {
+      "path": "capturas/WWE 2K26/1.webp",
+      "size": 16426,
+      "sha256": "502692dadc41430cbe84522f82c1c50449a3775ea8732317de3baf7b3eba07c6"
+    },
+    {
+      "path": "capturas/WWE 2K26/2.webp",
+      "size": 18474,
+      "sha256": "360328f87b8fb7be81b2622ff5d5b39431a39cce05b85faacb004d90f1b3aa47"
+    },
+    {
+      "path": "capturas/WWE 2K26/3.webp",
+      "size": 28938,
+      "sha256": "051f6d6ab98ab373c7bdb0051d653d26928047d64b714a97a12c2767f692dcdc"
+    },
+    {
+      "path": "capturas/WWE 2K26/4.webp",
+      "size": 23746,
+      "sha256": "d85d62fe845f23dc57d70cc8f3683e45d0a74917aa35b615d7dbb6c1807834af"
+    },
+    {
+      "path": "capturas/WWE 2K26/5.webp",
+      "size": 20628,
+      "sha256": "d3344b762e6018017655fcd98134f06ddef660ec21c3da7bfe544b0841a93bce"
+    },
+    {
+      "path": "capturas/WWE 2K26/6.webp",
+      "size": 23398,
+      "sha256": "ffa7b2c43d41c6c39a39576d0936c6e2bf6bfcb4a5d87d2ae5015f535be2d040"
+    },
+    {
       "path": "sinopsis/007 First Light.txt",
       "size": 383,
       "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
@@ -5510,6 +5545,11 @@
       "path": "sinopsis/Wicked Seed.txt",
       "size": 260,
       "sha256": "61e22a81fa8495d67bf03bae98b679071f61f1e27535180eda2516e1cd88664f"
+    },
+    {
+      "path": "sinopsis/WWE 2K26.txt",
+      "size": 7786,
+      "sha256": "10e5c91592d29143d9636acf88386e3589e2b2b3c0972acc685765a17853387b"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -6210,6 +6250,11 @@
       "path": "datos/Wicked Seed.txt",
       "size": 187,
       "sha256": "bef2dbca5b9f8724e85606481579b2c2cf56c8311d53e9c0921bae57f1536211"
+    },
+    {
+      "path": "datos/WWE 2K26.txt",
+      "size": 190,
+      "sha256": "21f3209db95e743f274c45f6d7879bfc548be667bc50c8607bd674e3f98ca4ad"
     }
   ]
 }

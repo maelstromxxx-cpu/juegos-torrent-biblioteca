@@ -92,7 +92,7 @@
       "sha256": "ca31bf0adb9141cb0746246762b40268a3f1cff048bb0720a0f0bf6facbd424e"
     },
     {
-      "path": "imagenes/Bloodborne GOTY Edition.webp",
+      "path": "imagenes/Bloodborne Game Of The Year Edition.webp",
       "size": 31434,
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
     },
@@ -1182,42 +1182,42 @@
       "sha256": "e13597cf43f2285a50ac1a912664af5deb8748bfb2b97a6680232981585917c1"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/01.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/02.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/02.webp",
       "size": 107334,
       "sha256": "6c0e69186f19f305c7cbce3920e46c8d5d8a990bd7f626324bb524503d9c13e9"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/03.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/03.webp",
       "size": 196596,
       "sha256": "d92a54dab02896759843dd5d09f215bbcdbb9e7c6fa19f340d4d7f32fea1cd60"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/04.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/04.webp",
       "size": 207398,
       "sha256": "606903fb96e5da05c32040cb519e9ac44070f97e5bd4ef91725f9841c4a10749"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/05.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/05.webp",
       "size": 161920,
       "sha256": "0ca6d6ff0f96c27a29911bf21ebc7cc50529d18c300354468fbe1a36ec7ce2a1"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/06.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/06.webp",
       "size": 133052,
       "sha256": "4477ffdfea904527b4ca1ad50fea070b28f20c1c4de72bb35fca172fad9b753c"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/07.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/07.webp",
       "size": 149112,
       "sha256": "cebbead48a772fff14a3ed5d3080730751d0656b6f17f9a69bd9d4d723133ae3"
     },
     {
-      "path": "capturas/Bloodborne GOTY Edition/08.webp",
+      "path": "capturas/Bloodborne Game Of The Year Edition/08.webp",
       "size": 106268,
       "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
     },
@@ -4667,7 +4667,7 @@
       "sha256": "44a58a4e63707d1e35e890ef4cdc556e7d9fe5a76fc04ac02bbd5da03da900de"
     },
     {
-      "path": "sinopsis/Bloodborne GOTY Edition.txt",
+      "path": "sinopsis/Bloodborne Game Of The Year Edition.txt",
       "size": 957,
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
     },
@@ -5332,9 +5332,9 @@
       "sha256": "ebba26b780aaf2a173260bf84c43fcddefe88af64e6f15b4625f9bad4594c2a5"
     },
     {
-      "path": "datos/Bloodborne GOTY Edition.txt",
-      "size": 212,
-      "sha256": "d7ceb44c533df4ef633dd8b270e5c77d9a513272b31d09df2c3fd7762d33350e"
+      "path": "datos/Bloodborne Game Of The Year Edition.txt",
+      "size": 222,
+      "sha256": "d02c295030f5b35438bf7c6d14062ade791f400be58a3be3133de3fa2b8df881"
     },
     {
       "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",

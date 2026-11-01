@@ -422,6 +422,11 @@
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
     },
     {
+      "path": "imagenes/Marvels Spider-Man Miles Morales.webp",
+      "size": 13724,
+      "sha256": "40972080d7fc7029d519927661ef3735981741ca747a467cc7a6bdf4965b91dc"
+    },
+    {
       "path": "imagenes/Marvels Spider-Man Remastered.webp",
       "size": 34594,
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
@@ -3177,6 +3182,36 @@
       "sha256": "0728968eaa05677b3fb9b1104dcc8ffa63fbfef852313b22273ae976f6046769"
     },
     {
+      "path": "capturas/Marvels Spider-Man Miles Morales/1.webp",
+      "size": 34494,
+      "sha256": "69ad3ee4b2e0bf4fed7d25166d08fcd76be794992f71d1a85b63158b80950c89"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Miles Morales/2.webp",
+      "size": 31912,
+      "sha256": "9c2ee6aab90d06a9e6d54f826a3fc5aafc399d1b60609aec7c1888f9a91734d3"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Miles Morales/3.webp",
+      "size": 25090,
+      "sha256": "1c3957f768c2ecc62ccafd41947b0fbf7993d064b10e614b89f88d890dbf549d"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Miles Morales/4.webp",
+      "size": 31558,
+      "sha256": "7bd3833e4745a62522c62fd8543be3e31ddc5737d3df525e43a6956e1cf988f6"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Miles Morales/5.webp",
+      "size": 25302,
+      "sha256": "413eaae925a26e80c9276893d5af882a78d38f0cfba74a83ec7390e6686afe2f"
+    },
+    {
+      "path": "capturas/Marvels Spider-Man Miles Morales/6.webp",
+      "size": 26680,
+      "sha256": "d0753b92ded23e4006b9ea639f798952dfd53f4011f4a53cbe7513df007e4c02"
+    },
+    {
       "path": "capturas/Marvels Spider-Man Remastered/1.webp",
       "size": 17818,
       "sha256": "68816589ff410312ade7b4e7c6f8ccb7804acca3294e2e4827f7d6edf4b389c2"
@@ -5202,6 +5237,11 @@
       "sha256": "4849e60e5f3b20e99241203e17ce4e77920830b1142cc3f1196d6c4cf350f465"
     },
     {
+      "path": "sinopsis/Marvels Spider-Man Miles Morales.txt",
+      "size": 3288,
+      "sha256": "bc48d15efc4c09f7f5e63491457f79daa54fc1fc61acf1a561d235361d2f6579"
+    },
+    {
       "path": "sinopsis/Marvels Spider-Man Remastered.txt",
       "size": 955,
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
@@ -5895,6 +5935,11 @@
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 227,
       "sha256": "df14abd5dcdef949697785998cd5658ba74ef40f075f69c93648906358516ee6"
+    },
+    {
+      "path": "datos/Marvels Spider-Man Miles Morales.txt",
+      "size": 171,
+      "sha256": "fb9a1bb914f83155f0a134ae068ed3e2b3684554d1ae4f5222a0744eaf91cde7"
     },
     {
       "path": "datos/Marvels Spider-Man Remastered.txt",

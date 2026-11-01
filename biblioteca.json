@@ -37,6 +37,11 @@
       "sha256": "8eb67e65a9c255c525bc28c9152d7aafa4872ebe3ae774c297db9dc068d743cc"
     },
     {
+      "path": "imagenes/Assassins Creed IV Black Flag Jackdaw Edition.webp",
+      "size": 55768,
+      "sha256": "c5c54114afdc293e4a9cded6a1e5efdedfceafa7f277086df0ffb5fbcb689721"
+    },
+    {
       "path": "imagenes/Assassins Creed Shadows Premium Edition.webp",
       "size": 44820,
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
@@ -915,6 +920,36 @@
       "path": "capturas/Assassins Creed Black Flag Resynced Deluxe Edition/6.webp",
       "size": 22542,
       "sha256": "79d459e9874a69f597e5219c7d9e0c280baffbb78bdf5a16f9db1e3fe1b6ed92"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/1.webp",
+      "size": 29168,
+      "sha256": "406ae98a8bb5c988d92fa59078573e3dc8ff82b1c1aac284cdbc8c8d55e55c20"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/2.webp",
+      "size": 26768,
+      "sha256": "0f0c5e253fbfa7f525bf376a0271ace92006e63a8d857ce35613b9e9d4701991"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/3.webp",
+      "size": 36682,
+      "sha256": "01b4c07536826fcc0847d609c2b0be81c9a972881600e27dae8f518f559c99d4"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/4.webp",
+      "size": 27120,
+      "sha256": "c7cb35c076184130b07e4bc5310e8c8c77a7a24d6c9e5d78bc5fa81211074894"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/5.webp",
+      "size": 25640,
+      "sha256": "f458214c30f9b24b87a473d212a2554389e5a12af0999ad5b7bd46b2f3e525a4"
+    },
+    {
+      "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/6.webp",
+      "size": 31334,
+      "sha256": "d573ad71cc43b28d8dc9975ffa4435162bdf337b68ac4214ed5d8b7e6e03c15a"
     },
     {
       "path": "capturas/Assassins Creed Shadows Premium Edition/1.webp",
@@ -4917,6 +4952,11 @@
       "sha256": "5b573ca0b3f509ac1a196479ac2e88aba11922f6ec47f72dd13a37963b4df3b3"
     },
     {
+      "path": "sinopsis/Assassins Creed IV Black Flag Jackdaw Edition.txt",
+      "size": 1398,
+      "sha256": "2bf1f836e6a3e1c16e7781d57e2a241d0f4c7358b57750ead82435790da7a03c"
+    },
+    {
       "path": "sinopsis/Assassins Creed Shadows Premium Edition.txt",
       "size": 572,
       "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
@@ -5620,6 +5660,11 @@
       "path": "datos/Assassins Creed Black Flag Resynced Deluxe Edition.txt",
       "size": 230,
       "sha256": "5401101274190d9f4c4f653b134f6cd41843d114993402ed721db00f7a0cbb7b"
+    },
+    {
+      "path": "datos/Assassins Creed IV Black Flag Jackdaw Edition.txt",
+      "size": 184,
+      "sha256": "524559640d7eeafb1ed45329c121cd2a5c313f60c94a895096b8ab50b2618f9b"
     },
     {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",

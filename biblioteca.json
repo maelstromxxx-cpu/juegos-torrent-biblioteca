@@ -212,6 +212,11 @@
       "sha256": "e5df2e454d6eab6629bce5bb7fd7de30894bfe9fc124784714ff31315f1a972c"
     },
     {
+      "path": "imagenes/Days Gone.webp",
+      "size": 22240,
+      "sha256": "6e69165670c2f1e8af03f06b0f16c6a96b4eb72818344da29a21bfeb10e7a787"
+    },
+    {
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
       "size": 42484,
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
@@ -1950,6 +1955,36 @@
       "path": "capturas/Cyberpunk 2077 Ultimate Edition/6.webp",
       "size": 21228,
       "sha256": "b3ae4c75963f77bd3086841c77318a3f685af848cd623b3dc13e71898bc418da"
+    },
+    {
+      "path": "capturas/Days Gone/1.webp",
+      "size": 18984,
+      "sha256": "bd2cccda455388a2fb42d319c79d2550fa126702ecd276a0757092d468a54fbe"
+    },
+    {
+      "path": "capturas/Days Gone/2.webp",
+      "size": 26444,
+      "sha256": "db74ed3271dc295686b78ec060448dc3921c058dff73fd4a2771d5dd2b828970"
+    },
+    {
+      "path": "capturas/Days Gone/3.webp",
+      "size": 11472,
+      "sha256": "ffe0c63014df21dfb1c6cfb6f604afb6ea5cd8ddd93e3bc445fdaa0659cfc3f5"
+    },
+    {
+      "path": "capturas/Days Gone/4.webp",
+      "size": 21938,
+      "sha256": "11a4b821fb5817507c30149b7b5b8d8b4ccd5507bf8ae76321359002a8db3ff8"
+    },
+    {
+      "path": "capturas/Days Gone/5.webp",
+      "size": 11236,
+      "sha256": "450018e11a4739e1b782ad42d048b0b1f1a3090d5fa13a2547e485b24300243f"
+    },
+    {
+      "path": "capturas/Days Gone/6.webp",
+      "size": 15876,
+      "sha256": "12018cc3eef754f91fa818e52f4157ffff62677dcd571d3f048283d803ea173a"
     },
     {
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/01.webp",
@@ -5162,6 +5197,11 @@
       "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
     },
     {
+      "path": "sinopsis/Days Gone.txt",
+      "size": 589,
+      "sha256": "7542bd6b4bdd1b60d81befaac8c2354fcd00062d0e3f488f77b0a19cf2602b59"
+    },
+    {
       "path": "sinopsis/Disney Pixar Toy Story 3 Complete Edition.txt",
       "size": 468,
       "sha256": "2202660e30fe15926e0870e26361e2b40f3fab11fe98b7059030490d7966760c"
@@ -5880,6 +5920,11 @@
       "path": "datos/Cyberpunk 2077 Ultimate Edition.txt",
       "size": 246,
       "sha256": "168862368270ce88ac7abae99577071f10d37c0c57700be376f3d39385fba5fe"
+    },
+    {
+      "path": "datos/Days Gone.txt",
+      "size": 173,
+      "sha256": "67448b1bd57c4e32c6e85d47813b15188b7febeecd5da77a77e191259eb6df89"
     },
     {
       "path": "datos/Disney Pixar Toy Story 3 Complete Edition.txt",

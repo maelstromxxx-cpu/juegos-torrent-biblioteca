@@ -662,6 +662,11 @@
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
     },
     {
+      "path": "imagenes/The Sims™ 4.webp",
+      "size": 72952,
+      "sha256": "2e2ab58f8453261d14b4b715cb6ac43426ff8d2b469f1ca6de5e7817b663ecde"
+    },
+    {
       "path": "imagenes/The Sinking City 2 Premium Edition.webp",
       "size": 63980,
       "sha256": "cf2b1d28ea4af30a3ab37394adde14384d29d3af6b9632631f8934f77b247d0b"
@@ -4612,6 +4617,31 @@
       "sha256": "91703944f98843479e92d147486c499603940117a956a57b7a334aec19488160"
     },
     {
+      "path": "capturas/The Sims™ 4/1.webp",
+      "size": 26680,
+      "sha256": "93abd6801b05414f5a890cefa9c8453348fbd1112ea57748afe936116057255c"
+    },
+    {
+      "path": "capturas/The Sims™ 4/2.webp",
+      "size": 37524,
+      "sha256": "fcbe2feca9914679421e449c602c24524d0474a08c92cfe49b830df51f28c0d9"
+    },
+    {
+      "path": "capturas/The Sims™ 4/3.webp",
+      "size": 18156,
+      "sha256": "90c49517eab85684200f4a01ec823d01b85569f5128c0caea8fc39e1e173825b"
+    },
+    {
+      "path": "capturas/The Sims™ 4/4.webp",
+      "size": 33904,
+      "sha256": "1bf5bd9676d635405400492bea45ee1d32967e7b5108ba9b61755475c50a7855"
+    },
+    {
+      "path": "capturas/The Sims™ 4/5.webp",
+      "size": 35126,
+      "sha256": "671f73c1a5fce03176b0ed2c4db537ed9c3c3454642c7dfb1a508a475c065a32"
+    },
+    {
       "path": "capturas/The Sinking City 2 Premium Edition/1.webp",
       "size": 11992,
       "sha256": "bb70d2380beec8c0da87aa194ae3f0d87223140adfb6095ea7c5fe1d2e4c8f34"
@@ -5512,6 +5542,11 @@
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
     },
     {
+      "path": "sinopsis/The Sims™ 4.txt",
+      "size": 904,
+      "sha256": "6f9c6aec6279130862ca19d7a299282e4588251cb14e4aff8b01b41e81549eb6"
+    },
+    {
       "path": "sinopsis/The Sinking City 2 Premium Edition.txt",
       "size": 347,
       "sha256": "574662752878e67f9939645d97533b7490b7426b5cd65ced39fd6842eef54b85"
@@ -6215,6 +6250,11 @@
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
+    },
+    {
+      "path": "datos/The Sims™ 4.txt",
+      "size": 199,
+      "sha256": "956994600abe34479f727ffd4a3f0b7d0d14568aa0d0cea8c912316dc68c30c9"
     },
     {
       "path": "datos/The Sinking City 2 Premium Edition.txt",

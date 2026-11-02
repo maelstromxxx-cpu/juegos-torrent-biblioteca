@@ -302,6 +302,11 @@
       "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
     },
     {
+      "path": "imagenes/Ecstatica Remastered.webp",
+      "size": 67144,
+      "sha256": "3572e72d0610286a9dbb1d8a0133fb62a7d04be3ec17f489bb9971ce08d8cd80"
+    },
+    {
       "path": "imagenes/Elden Ring Shadow of the Erdtree Deluxe Edition.webp",
       "size": 63178,
       "sha256": "20da155ca364c88e203e124340a74dc0f69de346af23ea9e00d7607abe3f617b"
@@ -2615,6 +2620,11 @@
       "path": "capturas/EA SPORTS FIFA 23/6.webp",
       "size": 21184,
       "sha256": "32523a1eef6581babf8a59fe05eae73bdb352483192555614c5dbec7dc04d9cf"
+    },
+    {
+      "path": "capturas/Ecstatica Remastered/1.webp",
+      "size": 50638,
+      "sha256": "a4fce6ba95f26cc92f31743bd74327a638beffbabd531179f11587301506f803"
     },
     {
       "path": "capturas/Elden Ring/1.webp",
@@ -6117,6 +6127,11 @@
       "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
     },
     {
+      "path": "sinopsis/Ecstatica Remastered.txt",
+      "size": 511,
+      "sha256": "d08fdae5229b59532bc2198c04f579c20b4806763a4e97b54689d3b275c191e4"
+    },
+    {
       "path": "sinopsis/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
       "size": 382,
       "sha256": "47e6e2662d2dc77e052146f601517b09ee42630a4a86edcb36be4a870465f087"
@@ -6960,6 +6975,11 @@
       "path": "datos/EA SPORTS FIFA 23.txt",
       "size": 228,
       "sha256": "f80d067cc158aa13a83f15381839be78d00965eee364b786f4bf0434a96ba5a6"
+    },
+    {
+      "path": "datos/Ecstatica Remastered.txt",
+      "size": 196,
+      "sha256": "62e9c6568128a460378fef5c1f2a24f04ab024a4fa8020446996fc2bb041f225"
     },
     {
       "path": "datos/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",

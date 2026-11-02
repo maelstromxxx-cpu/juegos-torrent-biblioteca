@@ -47,6 +47,11 @@
       "sha256": "4ff7057d2fcdd31245e016358cd78472fa2870e63360651f96fe0e796fd3da33"
     },
     {
+      "path": "imagenes/Assassins Creed Origins Gold Edition.webp",
+      "size": 49118,
+      "sha256": "0e2fd12626f56b9a5610753ee04068f04bb29454a3cc73b3fda76961e700674e"
+    },
+    {
       "path": "imagenes/Assassins Creed Shadows Premium Edition.webp",
       "size": 44820,
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
@@ -65,6 +70,11 @@
       "path": "imagenes/Baldurs Gate 3 Deluxe Edition.webp",
       "size": 72342,
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
+    },
+    {
+      "path": "imagenes/Batman Arkham Knight Premium Edition.webp",
+      "size": 67854,
+      "sha256": "fd226b7525e9d4273ed7eb3c41d32292f3013d701ac743018b4c5e6780e04f19"
     },
     {
       "path": "imagenes/Battlefield 1 Ultimate Edition.webp",
@@ -115,6 +125,11 @@
       "path": "imagenes/Bravely Default Flying Fairy HD Remaster.webp",
       "size": 79658,
       "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
+    },
+    {
+      "path": "imagenes/Call of Duty Black Ops 2.webp",
+      "size": 16960,
+      "sha256": "1451a1471eea73e3dede725e84f2f0ccd7b18b16f965a1c4bae8b47e8ff01686"
     },
     {
       "path": "imagenes/Call Of Duty Black Ops 6.webp",
@@ -467,6 +482,11 @@
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
     },
     {
+      "path": "imagenes/Metal Gear Solid 4 Guns of the Patriots Master Collection.webp",
+      "size": 23068,
+      "sha256": "3a9c148c7ca691300dc6c4fb50246d4bd040acff9e7af944f9d15d45eb7a7aaf"
+    },
+    {
       "path": "imagenes/Metal Gear Solid 5 The Phantom Pain.webp",
       "size": 29630,
       "sha256": "8379efd2ab3bd4a5752c76bf3e1fe83851681db270e2dccb990b75ebad28d602"
@@ -560,6 +580,11 @@
       "path": "imagenes/Red Dead Redemption 2 Ultimate Edition.webp",
       "size": 63114,
       "sha256": "71d02cf6a5d217df21ae8db91a2103ceb3e3bec9989983eb4ea3d561c25796d2"
+    },
+    {
+      "path": "imagenes/Red Dead Redemption.webp",
+      "size": 64474,
+      "sha256": "3b17a89fe6e5349b2ee676a910e369edb7ae7e6637ad50af51508f1718a98e7c"
     },
     {
       "path": "imagenes/Remothered Red Nuns Legacy.webp",
@@ -1027,6 +1052,36 @@
       "sha256": "7c2d06556f56c5cf735ec127e7af9a184243e6f442b9827ba64c5f66fda12f4f"
     },
     {
+      "path": "capturas/Assassins Creed Origins Gold Edition/1.webp",
+      "size": 13760,
+      "sha256": "0db519dafd364064a6a6378d214f52aba0d640892473e0b293ace24fc81cfad7"
+    },
+    {
+      "path": "capturas/Assassins Creed Origins Gold Edition/2.webp",
+      "size": 13330,
+      "sha256": "f4b8e26d5bd172d6acd55c6539e3d613ea43e942c08182a68117711a4d4307ac"
+    },
+    {
+      "path": "capturas/Assassins Creed Origins Gold Edition/3.webp",
+      "size": 14294,
+      "sha256": "c325ee354086c683503800efe47073eb7df43fdc0572a53502e4bc215d8ffd51"
+    },
+    {
+      "path": "capturas/Assassins Creed Origins Gold Edition/4.webp",
+      "size": 37728,
+      "sha256": "aea2d58a4fde241e0efc13edc9445eb5ef30ff6074cd86ac29d34435d597ac73"
+    },
+    {
+      "path": "capturas/Assassins Creed Origins Gold Edition/5.webp",
+      "size": 25750,
+      "sha256": "f87a5dd769b627e2d49ab2bff03359d14e43b44c9c67482676160390d852727c"
+    },
+    {
+      "path": "capturas/Assassins Creed Origins Gold Edition/6.webp",
+      "size": 29004,
+      "sha256": "324e680026c629a81eb46feb0355547ee02b834a3f7b543a54461f6fbf5f25a2"
+    },
+    {
       "path": "capturas/Assassins Creed Shadows Premium Edition/1.webp",
       "size": 40252,
       "sha256": "d8071943043b0cb85b645e9c80fd712e9e78769ae57c5a1a255c2bb269e95b40"
@@ -1145,6 +1200,36 @@
       "path": "capturas/Baldurs Gate 3 Deluxe Edition/6.webp",
       "size": 31778,
       "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/1.webp",
+      "size": 24518,
+      "sha256": "9fdc0177fd41795e84a0209955f71a82b117dffa54459d081ee89076cbb28762"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/2.webp",
+      "size": 24726,
+      "sha256": "de86744fcbe9b85ffe716da5cd57785204ba15d9d9bc58b4a1b2a5c16915439d"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/3.webp",
+      "size": 24388,
+      "sha256": "5bcd3416760bef51db476abbc1d19ff976a34d89f271c68a2c30da12fbb08397"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/4.webp",
+      "size": 27896,
+      "sha256": "e7f5ca6c6b567b5b0ccb72005c294491395647217f084688e9bcfaa446c60695"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/5.webp",
+      "size": 23004,
+      "sha256": "8251d3f5762c196d11f8f90694c83b4b73072130b13fb54b0d3c9d06d9854d8e"
+    },
+    {
+      "path": "capturas/Batman Arkham Knight Premium Edition/6.webp",
+      "size": 29770,
+      "sha256": "dfa9f9efd4fb851fea8b994ddf2c4d0327345f216704df8f508ba0f39649904a"
     },
     {
       "path": "capturas/Battlefield 1 Ultimate Edition/1.webp",
@@ -1435,6 +1520,36 @@
       "path": "capturas/Bravely Default Flying Fairy HD Remaster/6.webp",
       "size": 23408,
       "sha256": "c5cd0dbe9217d63477e895d082f298b624692d46186b3b854b0a6b4d8f4bff94"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/1.webp",
+      "size": 34476,
+      "sha256": "467467dee9ef373913a66e34e2f124e8e336440403eed61f40801c690d34af85"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/2.webp",
+      "size": 40138,
+      "sha256": "18958734a405226ed9159f3b68b31a0e5bbcc21145db52e363394f9f7a83489b"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/3.webp",
+      "size": 24814,
+      "sha256": "a3445c979db55db913124002d360bf9f365ecdc29c2e3b85e1cfe0215e73c573"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/4.webp",
+      "size": 25274,
+      "sha256": "706840ca327bff92b7a4ee001237430bcabda6ce142071ee5de562fffe0a654e"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/5.webp",
+      "size": 18870,
+      "sha256": "2e6ab5f365585b7743bf79212f155c25e3fde70934d68bc0cd4f7a9584fc7545"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 2/6.webp",
+      "size": 43996,
+      "sha256": "6b7fecd202c11a81123e6c3ba9533d8a634f9efcf814fbf4abc9b44788d5156a"
     },
     {
       "path": "capturas/Call Of Duty Black Ops 6/1.webp",
@@ -3512,6 +3627,36 @@
       "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
     },
     {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/1.webp",
+      "size": 15196,
+      "sha256": "341f3c9936a5889ac83c71df6788fa039601b76583bf6f09afaeb08711edfaff"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/2.webp",
+      "size": 16720,
+      "sha256": "eb7d362321f8a9749f82f1a789c2a9c166d4f1f2c994e0427dbb9d95997e2dfe"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/3.webp",
+      "size": 34134,
+      "sha256": "d3ccdd0eb433386e250c7b40b5495c5bc580e70effaac09bfb5208a7d91a8cc0"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/4.webp",
+      "size": 24690,
+      "sha256": "ef49a171908482d5d31c39d7e5caab9f3901c0d8584834ff636c2a1b5e0a04cd"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/5.webp",
+      "size": 16610,
+      "sha256": "c135d031d0c2e2bc2c2201de85314c68a2609cf050cd90453bb06dce35432e48"
+    },
+    {
+      "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/6.webp",
+      "size": 14600,
+      "sha256": "f29b2bca9773c7fab06764ce2b234b994916e8a7061592f88c54d1b2ab8a099f"
+    },
+    {
       "path": "capturas/Metal Gear Solid 5 The Phantom Pain/1.webp",
       "size": 31138,
       "sha256": "08012f4bb88aec2c1a94b7805f8d86e0a9e6de68ee3faaa46cd47142d1d87029"
@@ -4035,6 +4180,36 @@
       "path": "capturas/Ready Or Not/6.webp",
       "size": 9648,
       "sha256": "57227f3b26fd69d241be11b45a770c4657bb7f3358862dc4d2aeffa89dd54243"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/1.webp",
+      "size": 36374,
+      "sha256": "158cd56e0ba956fdb3d831a938a11af4cfbdd0f7b4e654605fd7c8cc12ce625c"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/2.webp",
+      "size": 21346,
+      "sha256": "40ff07b912e3c23f7e4813528d4a6af1948e3861bea09b7bf89db8ebbbbb81c0"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/3.webp",
+      "size": 34304,
+      "sha256": "acb949a9a4427945c0a7b846425f2f75aa65e0b6ebfef77d98f22d8e9f9819c2"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/4.webp",
+      "size": 21124,
+      "sha256": "b8b51534f2162218ca7d1978ea6e955cb6198073626063039039684830a4632f"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/5.webp",
+      "size": 31222,
+      "sha256": "ba8afabfe21e204ae507fbc8baad9ac27f9746854caced4792cca8da33cf65c6"
+    },
+    {
+      "path": "capturas/Red Dead Redemption/6.webp",
+      "size": 16238,
+      "sha256": "7f103a7ee8234af872f8c2f63fa9307d6fba8b47c5fc5040530a101e7970cfd9"
     },
     {
       "path": "capturas/Red Dead Redemption 2 Ultimate Edition/1.webp",
@@ -5272,6 +5447,11 @@
       "sha256": "de47ab495c6e9b3dd694e79ec5aa0533a33b61d0d5b9eb257eb35280a60892d9"
     },
     {
+      "path": "sinopsis/Assassins Creed Origins Gold Edition.txt",
+      "size": 725,
+      "sha256": "212f523b0ab0cc3abc076ab6bbf58523385b0475f139243d0aaeb79e3c4040a9"
+    },
+    {
       "path": "sinopsis/Assassins Creed Shadows Premium Edition.txt",
       "size": 572,
       "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
@@ -5290,6 +5470,11 @@
       "path": "sinopsis/Baldurs Gate 3 Deluxe Edition.txt",
       "size": 1047,
       "sha256": "0a51b80c7124755fb609b6ac8bca9cbcc67e96b19b3a6be7b22d22de978bd230"
+    },
+    {
+      "path": "sinopsis/Batman Arkham Knight Premium Edition.txt",
+      "size": 782,
+      "sha256": "b7d40d0f91b21e310a05f88e1cfa1970718548fe0b765299556142df9c33f36d"
     },
     {
       "path": "sinopsis/Battlefield 1 Ultimate Edition.txt",
@@ -5340,6 +5525,11 @@
       "path": "sinopsis/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 328,
       "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
+    },
+    {
+      "path": "sinopsis/Call of Duty Black Ops 2.txt",
+      "size": 284,
+      "sha256": "bc743eaddef1b23445e639028e5a1d7dc87bc46d4946f227b39efdd9b3035548"
     },
     {
       "path": "sinopsis/Call Of Duty Black Ops 6.txt",
@@ -5692,6 +5882,11 @@
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
     },
     {
+      "path": "sinopsis/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
+      "size": 640,
+      "sha256": "b86de7d6f8833f0d23c78e5cb52d853ac446d1fe3074a559f4e6aab1011d4c41"
+    },
+    {
       "path": "sinopsis/Metal Gear Solid 5 The Phantom Pain.txt",
       "size": 727,
       "sha256": "2748f4ee7cb2f17ddc8bc3ba7fbcaeb08b3f1ba0862371038a2028fcf3c1dbfb"
@@ -5785,6 +5980,11 @@
       "path": "sinopsis/Red Dead Redemption 2 Ultimate Edition.txt",
       "size": 871,
       "sha256": "0224e780d1d81c55fbabc007db90fffe1c71130fc7bd607d74b6a86863fa45fd"
+    },
+    {
+      "path": "sinopsis/Red Dead Redemption.txt",
+      "size": 747,
+      "sha256": "a6d3346394b583530424a7271da32adddfad1eb4900cee06e40d33c7f21e5e8d"
     },
     {
       "path": "sinopsis/Remothered Red Nuns Legacy.txt",
@@ -6027,6 +6227,11 @@
       "sha256": "3190aa36ae968c98e96a693d4bc96a36b4da5903bb88b6136995bd9dcacb064f"
     },
     {
+      "path": "datos/Assassins Creed Origins Gold Edition.txt",
+      "size": 177,
+      "sha256": "b46041a75ef265d4f204185a2203d0cb54c7d3e6d91e3d05588a4aaa4eeafe9d"
+    },
+    {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
       "size": 221,
       "sha256": "c1052597e3ad7b61d1ec5211e5cd571dafbaf1cec61724b0e0d77278580f0857"
@@ -6045,6 +6250,11 @@
       "path": "datos/Baldurs Gate 3 Deluxe Edition.txt",
       "size": 234,
       "sha256": "01406bc289a528124063446e76f9a5f74fb46a18978e52404196b78d68a7f682"
+    },
+    {
+      "path": "datos/Batman Arkham Knight Premium Edition.txt",
+      "size": 171,
+      "sha256": "8bd6aeebe61538d6b1ee1740a4208552bdc221cafc43fff2b671dda6af99499a"
     },
     {
       "path": "datos/Battlefield 1 Ultimate Edition.txt",
@@ -6100,6 +6310,11 @@
       "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 171,
       "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
+    },
+    {
+      "path": "datos/Call of Duty Black Ops 2.txt",
+      "size": 177,
+      "sha256": "6cce7039ddde6fd482eb49a9bcb3fb27c9500e714ac3f5cf746753e573d46507"
     },
     {
       "path": "datos/Call Of Duty Black Ops 6.txt",
@@ -6452,6 +6667,11 @@
       "sha256": "3df2e4af9507713d7ee459ab86fd3ccee23136c4d8759efe86d8780a7211ccee"
     },
     {
+      "path": "datos/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
+      "size": 171,
+      "sha256": "2fc533c44a9ea5c95abaa6b10b48359508009285853c813a568d56037055818f"
+    },
+    {
       "path": "datos/Metal Gear Solid 5 The Phantom Pain.txt",
       "size": 249,
       "sha256": "75bacfe9163a466417c74163a73a4a91ca45c8c7d364c1006e3acbfdcee22431"
@@ -6545,6 +6765,11 @@
       "path": "datos/Red Dead Redemption 2 Ultimate Edition.txt",
       "size": 255,
       "sha256": "e39b44c49e6e74e8565bb41ae45ad691e6be6b7a8fcc5b7bb0d79f2673fd17f3"
+    },
+    {
+      "path": "datos/Red Dead Redemption.txt",
+      "size": 159,
+      "sha256": "968cccbae8f7fe2bc91a2a4c98afa30e7c7010e0430a425446217b15aa3b4a29"
     },
     {
       "path": "datos/Remothered Red Nuns Legacy.txt",

@@ -642,6 +642,11 @@
       "sha256": "3d1ab81ab9074bd5e09e4e18da95ec3eebd69aa08f62a6b4597bc6503610da47"
     },
     {
+      "path": "imagenes/Rise of the Tomb Raider 20 Year Celebration.webp",
+      "size": 30316,
+      "sha256": "a8ddd2f92ff74214ff232ceffab257fcc8c5198e0bdccc0771c4f3b607f9e386"
+    },
+    {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
@@ -792,9 +797,19 @@
       "sha256": "ab78169cd5715962eaa9cdde78571455f895413bbfb978a63e4ad6cd11c207d8"
     },
     {
+      "path": "imagenes/Tomb Raider Definitive Edition.webp",
+      "size": 66374,
+      "sha256": "9979d6c0dc04213a770737bc1074907b80abad2b5216f6b9d5eba6d277f000bb"
+    },
+    {
       "path": "imagenes/Tomb Raider I-III Remastered Starring Lara Croft.webp",
       "size": 93182,
       "sha256": "9b169ed6e5a1dfa98c93d9753f16c91baa78ca14be20bddb8146aab117471407"
+    },
+    {
+      "path": "imagenes/Tomb Raider IV-VI Remastered.webp",
+      "size": 63316,
+      "sha256": "72b1ed22c1227daf2ee14d277ca426d54fa0b2c795373f45b54453d3ee7880e2"
     },
     {
       "path": "imagenes/Uncharted Legacy of Thieves Collection.webp",
@@ -4617,6 +4632,36 @@
       "sha256": "464e780fdd044caae79c621402e252225610deda5aa178e2064bb6acc0b705c4"
     },
     {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/1.webp",
+      "size": 24042,
+      "sha256": "1c2442c5c5b568fc579141bdfc877fd6131789dc5b0174b680fbc88facc7df7b"
+    },
+    {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/2.webp",
+      "size": 5854,
+      "sha256": "570f6117b12340111d7cd022fa6ecef84cd5735974ac3e736ff17cbaf0a021fd"
+    },
+    {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/3.webp",
+      "size": 16642,
+      "sha256": "9ccae43de7b8bd09fcdf611166b56bf5e9d34ae5ed3d5f563777a7aa90161b5a"
+    },
+    {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/4.webp",
+      "size": 18374,
+      "sha256": "479ffe03140554525a12922a9a6edf1d3a7598105a62d1d64847cf86fc6c2f09"
+    },
+    {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/5.webp",
+      "size": 36716,
+      "sha256": "56a7793c80cb5722ec98233bc23603313b3feab15c151ff409904c097e021ca0"
+    },
+    {
+      "path": "capturas/Rise of the Tomb Raider 20 Year Celebration/6.webp",
+      "size": 30450,
+      "sha256": "b937a504ca195a5596f49f675d0a98d0fdbc0d842de0b68076f55d5b35c11a4e"
+    },
+    {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
       "size": 14458,
       "sha256": "9e9ba3aec4c26c50ea3a4af6d6fd0ead215196c9b90c6ade35a7f2e555103e4a"
@@ -5507,6 +5552,36 @@
       "sha256": "e6a32b9f061d58af472afeb351679cafb56052d452c68f3d35e0903f1fc57e27"
     },
     {
+      "path": "capturas/Tomb Raider Definitive Edition/1.webp",
+      "size": 14202,
+      "sha256": "6393c76f4ccb18075beb99c0386b2bb69a8b7e37a94f98167d3d76016ca91897"
+    },
+    {
+      "path": "capturas/Tomb Raider Definitive Edition/2.webp",
+      "size": 32658,
+      "sha256": "d2b9aaa825c4dbc99c2e619cce4966ee654b6c5003675c4cc4c6519687c42791"
+    },
+    {
+      "path": "capturas/Tomb Raider Definitive Edition/3.webp",
+      "size": 34468,
+      "sha256": "e83334244dacf41645dc744af31180eec648da649bb25dc2a560e249c4845096"
+    },
+    {
+      "path": "capturas/Tomb Raider Definitive Edition/4.webp",
+      "size": 25850,
+      "sha256": "a220a701eb6c47e748808ff4e5dca58b7383c49bd8c684acef65084255d059f8"
+    },
+    {
+      "path": "capturas/Tomb Raider Definitive Edition/5.webp",
+      "size": 19238,
+      "sha256": "d2360708482603afcc26ff3170d99a24602330f30f0e09d23b174b863d67be75"
+    },
+    {
+      "path": "capturas/Tomb Raider Definitive Edition/6.webp",
+      "size": 26208,
+      "sha256": "4830744d5644493c9d1b5730b1dfa33ba2f8b62f3fec68e2d2d3a09da1c5a5d7"
+    },
+    {
       "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/1.webp",
       "size": 29642,
       "sha256": "6bfb525788af3b98fc7bb67de89ffa844c03b1364489f6c32756b7b16b30b189"
@@ -5535,6 +5610,36 @@
       "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/6.webp",
       "size": 39684,
       "sha256": "19c1c03c72b1407bf34e88501f8bb5065e9d1ef4b09c831c09ceace52771d6cd"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/1.webp",
+      "size": 24162,
+      "sha256": "0103e711c736298d9be4e15475b8f7430eb72045039bfc0c11624fa37c45b099"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/2.webp",
+      "size": 19082,
+      "sha256": "f01f1631268ef944a173346a8aa4c0f1a2520e78a59c802dc2a62ef2eb6b3d1d"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/3.webp",
+      "size": 14390,
+      "sha256": "a483f4c161f6d550361a6b14b8d0b84c8bac8828a36c40ba8c4deefa1766551c"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/4.webp",
+      "size": 16850,
+      "sha256": "5982926851e8a3d07b9506fe9249cc9ce0e03e17785207eb50c2f531739bd67c"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/5.webp",
+      "size": 25662,
+      "sha256": "d5f4cb97d1e8be2ff69e6970a35879f710867c8f285000b9eb9f787e62ccb155"
+    },
+    {
+      "path": "capturas/Tomb Raider IV-VI Remastered/6.webp",
+      "size": 24222,
+      "sha256": "58c7b53718abf5765031139fe6b87825f74d6605b7cdba07f30e467a90b2bef8"
     },
     {
       "path": "capturas/Uncharted Legacy of Thieves Collection/1.webp",
@@ -6352,6 +6457,11 @@
       "sha256": "356a550c89eb3195ba976a35725077827901e09f1177c4b7a5b35faa26136f81"
     },
     {
+      "path": "sinopsis/Rise of the Tomb Raider 20 Year Celebration.txt",
+      "size": 735,
+      "sha256": "ad3ce422d298026c2f893e44608347b400340d39243abe82ede29d6fb3fa6891"
+    },
+    {
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
       "size": 1896,
       "sha256": "f3ed473848931bd796acb0e6c6b286581f7806dd9146af7224a8498662eecfe4"
@@ -6502,9 +6612,19 @@
       "sha256": "f292f7023d49cf6d6c7f050ebf3d1289fa097bb5ea776cae2b67968e2bd3b9d4"
     },
     {
+      "path": "sinopsis/Tomb Raider Definitive Edition.txt",
+      "size": 337,
+      "sha256": "ac244a351e179ecb3a6ed0267a6f72cc51ddc71f63e14a7319ae5fb12b91c2b6"
+    },
+    {
       "path": "sinopsis/Tomb Raider I-III Remastered Starring Lara Croft.txt",
       "size": 632,
       "sha256": "64232549c1a341ca97abb4ad648e29064b7a27769cae6c27cbcdd2373070e701"
+    },
+    {
+      "path": "sinopsis/Tomb Raider IV-VI Remastered.txt",
+      "size": 675,
+      "sha256": "4a685e6cc4390c1e0c512225d3f18d05ebaf7133e2262339bf0c052243f667fc"
     },
     {
       "path": "sinopsis/Uncharted Legacy of Thieves Collection.txt",
@@ -7182,6 +7302,11 @@
       "sha256": "57a4b17724720752281e1c6ec08a72ee4021a7d8d9330a50cc0aceb05ead993a"
     },
     {
+      "path": "datos/Rise of the Tomb Raider 20 Year Celebration.txt",
+      "size": 173,
+      "sha256": "eb7cbded6dca5e9164ab108e90dfc5554c45552c45ad9fe173960ddb1ea113ee"
+    },
+    {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
       "size": 192,
       "sha256": "f8155fedac4853d9e3e54feda2be0b6643c54f83d61b6ffbcddb55a038794c52"
@@ -7332,9 +7457,19 @@
       "sha256": "7ad97e0953709a2a7ef8d2aaf6da62c66eaa28f498a03ee37faf5085042472d4"
     },
     {
+      "path": "datos/Tomb Raider Definitive Edition.txt",
+      "size": 172,
+      "sha256": "a973dcec801cc92bb3b8e76547ed3652359f7c78a12a90693524dc67db0cdde2"
+    },
+    {
       "path": "datos/Tomb Raider I-III Remastered Starring Lara Croft.txt",
       "size": 170,
       "sha256": "be54141e29654b3c5b6eb526792ad755f82b8558cf961b7c6e22762a5d27b921"
+    },
+    {
+      "path": "datos/Tomb Raider IV-VI Remastered.txt",
+      "size": 170,
+      "sha256": "28b9824a3e560633ff817685f902c72afbfef25f71bf689cca22d685356b404c"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",

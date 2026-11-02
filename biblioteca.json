@@ -677,6 +677,11 @@
       "sha256": "f1a36c397640ae98e4c75214b39f2aee2884fe5117f7aaa5fef34eab4ab18867"
     },
     {
+      "path": "imagenes/Star Wars Outlaws Ultimate Edition.webp",
+      "size": 80656,
+      "sha256": "63ab290e8a6f46c8153eddafce5236e5d1b5ce4a153b9bda00d233eaf9a1cc20"
+    },
+    {
       "path": "imagenes/Starfield.webp",
       "size": 14508,
       "sha256": "2e04a15d0fc19dbde43b5847d678d3a9754c430eee76f8f12c4177e179adf565"
@@ -780,6 +785,11 @@
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
       "size": 108972,
       "sha256": "3b158100f9a73d86cfb2e59fd4d1868714397ad3f1a6853b7ae5634e49ef8a7f"
+    },
+    {
+      "path": "imagenes/Watch Dogs 2 Gold Edition.webp",
+      "size": 40588,
+      "sha256": "0837a9db93208196883d7ae8b7fd27379dbe18f0457c5ab866519fa8c967541b"
     },
     {
       "path": "imagenes/Wicked Seed.webp",
@@ -4792,6 +4802,36 @@
       "sha256": "0c70cf9dfd28d51dfbd702b00a7760d17061f43b8ab053902e5cfac14def7970"
     },
     {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/1.webp",
+      "size": 12032,
+      "sha256": "49c3c3abb63587b4c7a29e941ca5cdd5de91bb5066223a664b36275d4247f1dc"
+    },
+    {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/2.webp",
+      "size": 18634,
+      "sha256": "e793de7284dbd99d46231ffb9de7fab557d94fbd8f024c5971e069da8886af53"
+    },
+    {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/3.webp",
+      "size": 13600,
+      "sha256": "0297597e1756753a7de2ad82ba446bb6a89b82c5b62e8c5a536470835c4c5c89"
+    },
+    {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/4.webp",
+      "size": 19782,
+      "sha256": "af41194e669de1116249b391c0eac407875833f4973d68867f04dc074989f2c8"
+    },
+    {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/5.webp",
+      "size": 23332,
+      "sha256": "5ee3f8544021580e3590f88ca2674f7322b349d5f1a0d3a27a276af473a32630"
+    },
+    {
+      "path": "capturas/Star Wars Outlaws Ultimate Edition/6.webp",
+      "size": 37872,
+      "sha256": "b73618765bedc1f7191256b4ec374017d43fecf621ca1928d2b3a91008c4001b"
+    },
+    {
       "path": "capturas/Starfield/1.webp",
       "size": 28506,
       "sha256": "ad3df4fe5725320efe77c5ac2147e47349f46c76dcb0fcda01a27c5d3f86580e"
@@ -5410,6 +5450,31 @@
       "path": "capturas/Warhammer 40.000 Space Marine II/6.webp",
       "size": 33932,
       "sha256": "7ac3b5940547bf3dae478b06bbe11eab4590fb354bae02b71814ae4ebf40d17c"
+    },
+    {
+      "path": "capturas/Watch Dogs 2 Gold Edition/1.webp",
+      "size": 17346,
+      "sha256": "4451bc681407dc0faef21b5199a402f08cf129bc2e5ec6fb5f5daa8018740438"
+    },
+    {
+      "path": "capturas/Watch Dogs 2 Gold Edition/2.webp",
+      "size": 23226,
+      "sha256": "0630d5341207d5fab88c96fe5b1b5f08ab676aa5519f8e4ec1e28d0e218e211c"
+    },
+    {
+      "path": "capturas/Watch Dogs 2 Gold Edition/3.webp",
+      "size": 30004,
+      "sha256": "58fbf0bcaabe2cb0b52fda0d47c67ea590a6f5f04f4748bcefb325425493046c"
+    },
+    {
+      "path": "capturas/Watch Dogs 2 Gold Edition/4.webp",
+      "size": 38802,
+      "sha256": "ab59cbb00cf4e6108a6317e2616a1496f387d87bb83f8a47e96ec4b3539ea1cc"
+    },
+    {
+      "path": "capturas/Watch Dogs 2 Gold Edition/5.webp",
+      "size": 48142,
+      "sha256": "08c3a8043eebdc9396b9f0bb675ae762d872f6080a151f4da53887f6aebc871b"
     },
     {
       "path": "capturas/Wicked Seed/1.webp",
@@ -6147,6 +6212,11 @@
       "sha256": "7ad18bf2ee5251da82364343db209f299418ae3ea59e18410e017e1d5c7cf570"
     },
     {
+      "path": "sinopsis/Star Wars Outlaws Ultimate Edition.txt",
+      "size": 483,
+      "sha256": "cf86ace57c044bd3113f986134e4ae88a384c76017f642479a835b2c38fd437d"
+    },
+    {
       "path": "sinopsis/Starfield.txt",
       "size": 916,
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
@@ -6250,6 +6320,11 @@
       "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
       "size": 645,
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
+    },
+    {
+      "path": "sinopsis/Watch Dogs 2 Gold Edition.txt",
+      "size": 764,
+      "sha256": "53767bb3ef0856048a77fdb0085f6bf6af94856672ed705ba488f329dfa222d9"
     },
     {
       "path": "sinopsis/Wicked Seed.txt",
@@ -6942,6 +7017,11 @@
       "sha256": "2395a8747e68ede566cd59fc61dbebf2542bfd21f67938c09340b00ad5436802"
     },
     {
+      "path": "datos/Star Wars Outlaws Ultimate Edition.txt",
+      "size": 195,
+      "sha256": "b9f8221df64352f63a5d4a0d2a77db52b46969bb2e237b8d06e7f1356879f5a2"
+    },
+    {
       "path": "datos/Starfield.txt",
       "size": 206,
       "sha256": "022349a416ac80abf4edfdc7014d8e19ced2974bf475ff5507c15f7710e1e36a"
@@ -7045,6 +7125,11 @@
       "path": "datos/Warhammer 40.000 Space Marine II.txt",
       "size": 246,
       "sha256": "1006c67c5e44c8a7541ee0da124d1f3ea48400986456364ea02a16101ead0df3"
+    },
+    {
+      "path": "datos/Watch Dogs 2 Gold Edition.txt",
+      "size": 207,
+      "sha256": "a9504b863c88f947c8a1bc8e1aec13b2645d4fb4f0fb1a6712969ec2266801ed"
     },
     {
       "path": "datos/Wicked Seed.txt",

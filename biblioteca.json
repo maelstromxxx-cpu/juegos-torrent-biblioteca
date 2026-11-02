@@ -42,6 +42,11 @@
       "sha256": "c5c54114afdc293e4a9cded6a1e5efdedfceafa7f277086df0ffb5fbcb689721"
     },
     {
+      "path": "imagenes/Assassins Creed Odyssey.webp",
+      "size": 61794,
+      "sha256": "4ff7057d2fcdd31245e016358cd78472fa2870e63360651f96fe0e796fd3da33"
+    },
+    {
       "path": "imagenes/Assassins Creed Shadows Premium Edition.webp",
       "size": 44820,
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
@@ -215,6 +220,11 @@
       "path": "imagenes/Days Gone.webp",
       "size": 22240,
       "sha256": "6e69165670c2f1e8af03f06b0f16c6a96b4eb72818344da29a21bfeb10e7a787"
+    },
+    {
+      "path": "imagenes/Directive 8020 Deluxe Edition.webp",
+      "size": 42204,
+      "sha256": "5158c5b938a454d88015e0c299b245b7907ab281ce38e4775a02443c0686923a"
     },
     {
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
@@ -400,6 +410,11 @@
       "path": "imagenes/Indiana Jones And The Great Circle.webp",
       "size": 80318,
       "sha256": "021900d89b6ee922c542622074d0266f9899d131aee1b930f8760daefee25375"
+    },
+    {
+      "path": "imagenes/Invincible VS.webp",
+      "size": 51496,
+      "sha256": "ba7b90fa71526e8cde729f626f8249699fbe44a20fcf5051c5e0bcfe31bb6007"
     },
     {
       "path": "imagenes/Jurassic World Evolution 3 Premium Edition.webp",
@@ -980,6 +995,36 @@
       "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/6.webp",
       "size": 31334,
       "sha256": "d573ad71cc43b28d8dc9975ffa4435162bdf337b68ac4214ed5d8b7e6e03c15a"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/1.webp",
+      "size": 29314,
+      "sha256": "53221f6d897d8e4aa857ac85b31cd44c426498b1f5d58cc400b184a63d5e96d5"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/2.webp",
+      "size": 43308,
+      "sha256": "6a9baba87124f340f801eca66edec16e43d8ce600255e0a95fba276200637f92"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/3.webp",
+      "size": 35130,
+      "sha256": "a7e9e6419f85c317363ded0d8513f62316c7e040af59baafafafcf2c512bb63a"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/4.webp",
+      "size": 20432,
+      "sha256": "1a7f0f9fa6f800ded4037c38f3555a30983d91c9af6e40ef37a4a13bdcb5c279"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/5.webp",
+      "size": 42276,
+      "sha256": "4947123b0169d9d95ce781e65fe33ca892d64202be7f574154d2b382547db591"
+    },
+    {
+      "path": "capturas/Assassins Creed Odyssey/6.webp",
+      "size": 22340,
+      "sha256": "7c2d06556f56c5cf735ec127e7af9a184243e6f442b9827ba64c5f66fda12f4f"
     },
     {
       "path": "capturas/Assassins Creed Shadows Premium Edition/1.webp",
@@ -2005,6 +2050,36 @@
       "path": "capturas/Days Gone/6.webp",
       "size": 15876,
       "sha256": "12018cc3eef754f91fa818e52f4157ffff62677dcd571d3f048283d803ea173a"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/1.webp",
+      "size": 7762,
+      "sha256": "d862ecafc6b82b6e696a324eafaba8c3eea2e8a6533482ff2a23e3af429a8303"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/2.webp",
+      "size": 15906,
+      "sha256": "a71b65316aabe9dae8ec3a44c2ed609fca3c66699caab9f6e550f4c897a50089"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/3.webp",
+      "size": 11626,
+      "sha256": "3e8c86764a2c9e395596080e654d8e1f7d0857aa979e55389f635e3fa59249c4"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/4.webp",
+      "size": 12144,
+      "sha256": "1f09a25c78bbe0da8751edb8d289804ce9d13cc24d344fc76d0b393c2a455fa7"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/5.webp",
+      "size": 9408,
+      "sha256": "6af5df863397f8c768324335c17bde12354e2fef8a9b4462078aa95bb90b13ac"
+    },
+    {
+      "path": "capturas/Directive 8020 Deluxe Edition/6.webp",
+      "size": 11826,
+      "sha256": "4dc1eb2b6ac96a5075d56424977801ef1f931a24b3639f0f5e70ed0a10930966"
     },
     {
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/01.webp",
@@ -3110,6 +3185,36 @@
       "path": "capturas/Indiana Jones And The Great Circle/6.webp",
       "size": 34540,
       "sha256": "c946da04994b60c25c88c04652dd5e8f78a3ac9e0abd6fc5ca1381d80594b5eb"
+    },
+    {
+      "path": "capturas/Invincible VS/1.webp",
+      "size": 29758,
+      "sha256": "d3dde6cf910197666dd967b4c133dece2fe838f756960f7d05c2578eb5399b0b"
+    },
+    {
+      "path": "capturas/Invincible VS/2.webp",
+      "size": 29422,
+      "sha256": "8e431b2662da81501966141280a6f5f904a112aed2a70393691554b61cfc8a80"
+    },
+    {
+      "path": "capturas/Invincible VS/3.webp",
+      "size": 34494,
+      "sha256": "5ea4f1f1f979c25ce22a40ce0a2e839a28545827286337f4d51041f803f1e0fc"
+    },
+    {
+      "path": "capturas/Invincible VS/4.webp",
+      "size": 32026,
+      "sha256": "ff92814c52dbd95168bd54f65084c2e39b87888480bcb94caf53a2254099474e"
+    },
+    {
+      "path": "capturas/Invincible VS/5.webp",
+      "size": 19860,
+      "sha256": "1245eb93a4e80a56f50c8791ae8d848f1f22390a5aa458585a02e5d3cba70a9b"
+    },
+    {
+      "path": "capturas/Invincible VS/6.webp",
+      "size": 27716,
+      "sha256": "bd12257d8a0ac20bc660788f21c204c32ed10fcac84824110f4ae9a034242b9d"
     },
     {
       "path": "capturas/Jurassic World Evolution 3 Premium Edition/1.webp",
@@ -5162,6 +5267,11 @@
       "sha256": "2bf1f836e6a3e1c16e7781d57e2a241d0f4c7358b57750ead82435790da7a03c"
     },
     {
+      "path": "sinopsis/Assassins Creed Odyssey.txt",
+      "size": 1012,
+      "sha256": "de47ab495c6e9b3dd694e79ec5aa0533a33b61d0d5b9eb257eb35280a60892d9"
+    },
+    {
       "path": "sinopsis/Assassins Creed Shadows Premium Edition.txt",
       "size": 572,
       "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
@@ -5335,6 +5445,11 @@
       "path": "sinopsis/Days Gone.txt",
       "size": 587,
       "sha256": "9f5422b905f328c892c2a8bd79db5c4ee9ecf6ca7550b9788aee8b22deb52dce"
+    },
+    {
+      "path": "sinopsis/Directive 8020 Deluxe Edition.txt",
+      "size": 1789,
+      "sha256": "214588aaa3e2790ce5ffeb8bec657e73b085f1841c16badc911665ab9eb8595b"
     },
     {
       "path": "sinopsis/Disney Pixar Toy Story 3 Complete Edition.txt",
@@ -5520,6 +5635,11 @@
       "path": "sinopsis/Indiana Jones And The Great Circle.txt",
       "size": 1007,
       "sha256": "989f5b6086dcc3cb99d42e302ee49525ddf658a852365badc1136078a81e4eed"
+    },
+    {
+      "path": "sinopsis/Invincible VS.txt",
+      "size": 1067,
+      "sha256": "ab21083eaad479a85150be857e1bb84d84c3b92625def49fdc677685ba5832e7"
     },
     {
       "path": "sinopsis/Jurassic World Evolution 3 Premium Edition.txt",
@@ -5902,6 +6022,11 @@
       "sha256": "524559640d7eeafb1ed45329c121cd2a5c313f60c94a895096b8ab50b2618f9b"
     },
     {
+      "path": "datos/Assassins Creed Odyssey.txt",
+      "size": 177,
+      "sha256": "3190aa36ae968c98e96a693d4bc96a36b4da5903bb88b6136995bd9dcacb064f"
+    },
+    {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
       "size": 221,
       "sha256": "c1052597e3ad7b61d1ec5211e5cd571dafbaf1cec61724b0e0d77278580f0857"
@@ -6080,6 +6205,11 @@
       "path": "datos/Days Gone.txt",
       "size": 173,
       "sha256": "67448b1bd57c4e32c6e85d47813b15188b7febeecd5da77a77e191259eb6df89"
+    },
+    {
+      "path": "datos/Directive 8020 Deluxe Edition.txt",
+      "size": 187,
+      "sha256": "3705d536c7b5001f0c2f10feb0ea1660e100aae179ef37ca5ec9026dc9a2b2ee"
     },
     {
       "path": "datos/Disney Pixar Toy Story 3 Complete Edition.txt",
@@ -6265,6 +6395,11 @@
       "path": "datos/Indiana Jones And The Great Circle.txt",
       "size": 213,
       "sha256": "d64c67f3e378b624d7f38331ae625a36b5a1b16b47891e6fd6a57a6f012ed0d6"
+    },
+    {
+      "path": "datos/Invincible VS.txt",
+      "size": 186,
+      "sha256": "236754a2693ff413615064236cca31e25025f635c41ebbcdd4d0f06a0556700f"
     },
     {
       "path": "datos/Jurassic World Evolution 3 Premium Edition.txt",

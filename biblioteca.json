@@ -792,6 +792,11 @@
       "sha256": "ab78169cd5715962eaa9cdde78571455f895413bbfb978a63e4ad6cd11c207d8"
     },
     {
+      "path": "imagenes/Tomb Raider I-III Remastered Starring Lara Croft.webp",
+      "size": 93182,
+      "sha256": "9b169ed6e5a1dfa98c93d9753f16c91baa78ca14be20bddb8146aab117471407"
+    },
+    {
       "path": "imagenes/Uncharted Legacy of Thieves Collection.webp",
       "size": 64756,
       "sha256": "b51a103d842dc55808805e534c6bbfc1120d73f8e7bdffa7549405680aae7081"
@@ -5502,6 +5507,36 @@
       "sha256": "e6a32b9f061d58af472afeb351679cafb56052d452c68f3d35e0903f1fc57e27"
     },
     {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/1.webp",
+      "size": 29642,
+      "sha256": "6bfb525788af3b98fc7bb67de89ffa844c03b1364489f6c32756b7b16b30b189"
+    },
+    {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/2.webp",
+      "size": 24194,
+      "sha256": "a8ceb997df2861ce23d2a7d6ab7f32e663b2ced415c3772425895382eb0b77a0"
+    },
+    {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/3.webp",
+      "size": 10454,
+      "sha256": "64148822725b2f5d85288039b5af815162d40bada52e76318fe21490108aeab2"
+    },
+    {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/4.webp",
+      "size": 38556,
+      "sha256": "63f9cdd365aebc2cdb0a3dc706084b39e7133e46f3e2f695c2ddf32f2dc9c3bd"
+    },
+    {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/5.webp",
+      "size": 24774,
+      "sha256": "dd3702d7a91c1cadb7a7e34a2db811609fadcb3b473784a174acfe1c127cb864"
+    },
+    {
+      "path": "capturas/Tomb Raider I-III Remastered Starring Lara Croft/6.webp",
+      "size": 39684,
+      "sha256": "19c1c03c72b1407bf34e88501f8bb5065e9d1ef4b09c831c09ceace52771d6cd"
+    },
+    {
       "path": "capturas/Uncharted Legacy of Thieves Collection/1.webp",
       "size": 11008,
       "sha256": "5dc751c494b8502dbb88f3ea5fb82627d083a4ce0e0624a2a0eff036d0f97099"
@@ -6467,6 +6502,11 @@
       "sha256": "f292f7023d49cf6d6c7f050ebf3d1289fa097bb5ea776cae2b67968e2bd3b9d4"
     },
     {
+      "path": "sinopsis/Tomb Raider I-III Remastered Starring Lara Croft.txt",
+      "size": 632,
+      "sha256": "64232549c1a341ca97abb4ad648e29064b7a27769cae6c27cbcdd2373070e701"
+    },
+    {
       "path": "sinopsis/Uncharted Legacy of Thieves Collection.txt",
       "size": 303,
       "sha256": "5cb8f1f26af7e14bcc7894b46ce3c93ad02cac2b2191e7f0c86a8ba7f887914e"
@@ -7290,6 +7330,11 @@
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
       "size": 241,
       "sha256": "7ad97e0953709a2a7ef8d2aaf6da62c66eaa28f498a03ee37faf5085042472d4"
+    },
+    {
+      "path": "datos/Tomb Raider I-III Remastered Starring Lara Croft.txt",
+      "size": 170,
+      "sha256": "be54141e29654b3c5b6eb526792ad755f82b8558cf961b7c6e22762a5d27b921"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",

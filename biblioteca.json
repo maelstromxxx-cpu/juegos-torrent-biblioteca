@@ -282,6 +282,11 @@
       "sha256": "735603fee10715f2d1f52b1fe679984973dda5bd4ca7c3a6a8cd634a5ecff69d"
     },
     {
+      "path": "imagenes/Euro Truck Simulator 2.webp",
+      "size": 52488,
+      "sha256": "c172a9fa10c097637fb1d2666963fb5b065d168e6137a8c2f496a0a6938b50be"
+    },
+    {
       "path": "imagenes/Far Cry 5 Gold Edition.webp",
       "size": 85404,
       "sha256": "c98908045fdbc5a90a58aef35a643acb48c8e9fb1a8f699321cfae2282d0b2d9"
@@ -382,6 +387,11 @@
       "sha256": "509dcdad81a729c607fe8c7f7760fea9a1bd58d1441e05846308cbdc467fe31c"
     },
     {
+      "path": "imagenes/House Party Total Indulgence Bundle.webp",
+      "size": 36626,
+      "sha256": "a33d544c0cb039d1e5174068cfbdf71ce396162b5c8d2646d0132546da42706a"
+    },
+    {
       "path": "imagenes/I Am Jesus Christ.webp",
       "size": 20594,
       "sha256": "ca8e0e1fffcfc5cf6e5a2ba1eeb89bc2bd0e03023589f1c2006797abb82969f7"
@@ -480,6 +490,11 @@
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
+    },
+    {
+      "path": "imagenes/Need for Speed Unbound Ultimate Collection.webp",
+      "size": 87314,
+      "sha256": "c339365c1b63db6b0c3ae4b87765b1b8927409b92d65f1d6b1b9246f9309d982"
     },
     {
       "path": "imagenes/Nymphomaniac Sex Addict.webp",
@@ -670,6 +685,11 @@
       "path": "imagenes/The Last Of Us Part II Remastered.webp",
       "size": 44008,
       "sha256": "3de16c2787345a1a22881787076c8c0ece7f27a88aa30aa1bf0c1f1a40efc7ba"
+    },
+    {
+      "path": "imagenes/The Lord of the Rings War in the North Legacy Edition.webp",
+      "size": 36430,
+      "sha256": "d28760c70637d54baab3ffd7c0d4075dd9a171935bcc3e76b29672b6ebfcc170"
     },
     {
       "path": "imagenes/The Relic First Guardian.webp",
@@ -2377,6 +2397,36 @@
       "sha256": "71fe6da15f086c443f088124711233b85be2392d51d3a3ebd446aede4b602ddb"
     },
     {
+      "path": "capturas/Euro Truck Simulator 2/1.webp",
+      "size": 21580,
+      "sha256": "e86627a9f3f0154f943ad6dc7cc7e591bb1867d13f9127b2545e457a27a85097"
+    },
+    {
+      "path": "capturas/Euro Truck Simulator 2/2.webp",
+      "size": 27176,
+      "sha256": "075fb6f1d133b6d6945b82451b975359f52eb06ea79a966bf3a0729b2c788900"
+    },
+    {
+      "path": "capturas/Euro Truck Simulator 2/3.webp",
+      "size": 26982,
+      "sha256": "5dfb829524dd709ebb23ed56e824bb9c00036687a736d789126ca906b6e75c12"
+    },
+    {
+      "path": "capturas/Euro Truck Simulator 2/4.webp",
+      "size": 16380,
+      "sha256": "7fdcaf78dc0b4b0e7546ff62ba6d3716a95ad6c6c1e2f5aca55cf42ce89a7d6f"
+    },
+    {
+      "path": "capturas/Euro Truck Simulator 2/5.webp",
+      "size": 24440,
+      "sha256": "67dc31653f3e0131f490cf1c247fdf3332e8b3f6340a49c435ed3bd62e15ff9b"
+    },
+    {
+      "path": "capturas/Euro Truck Simulator 2/6.webp",
+      "size": 12456,
+      "sha256": "176b1ba46e6440efb8360c29d2d18b95292ea0c17aa4b263f4f207a14c2ee722"
+    },
+    {
       "path": "capturas/Far Cry 5 Gold Edition/1.webp",
       "size": 15444,
       "sha256": "5504baf1011b9fc754858caee44207e2ec5bee37a297de9eb04a25bac62e3747"
@@ -2972,6 +3022,36 @@
       "sha256": "df3485c32a29fe3a703c4c7fc5c7035931024dbec02873c6df389bae37ab7379"
     },
     {
+      "path": "capturas/House Party Total Indulgence Bundle/1.webp",
+      "size": 20578,
+      "sha256": "1c9f86504c6a19b94bc86fc2fa9b871c3ce9c2019943ae56b5d859cb07a62b09"
+    },
+    {
+      "path": "capturas/House Party Total Indulgence Bundle/2.webp",
+      "size": 18542,
+      "sha256": "b2a683e7df84867c2ab4105a87e831a0771a7213eaca17124bc3456ff5f3430f"
+    },
+    {
+      "path": "capturas/House Party Total Indulgence Bundle/3.webp",
+      "size": 13200,
+      "sha256": "6ce66743c4e0086ddcbc91610c7783f69094f498fadd5613987da3bd0d7805f9"
+    },
+    {
+      "path": "capturas/House Party Total Indulgence Bundle/4.webp",
+      "size": 17394,
+      "sha256": "4e2dce582031102fac3c42da57973dae1707f25439309361c576c38783f4cb50"
+    },
+    {
+      "path": "capturas/House Party Total Indulgence Bundle/5.webp",
+      "size": 32378,
+      "sha256": "690284836ad66844660a23b141708216676b976d4f046a145c32ddaaccc2a2fb"
+    },
+    {
+      "path": "capturas/House Party Total Indulgence Bundle/6.webp",
+      "size": 17548,
+      "sha256": "f76c151e8937a30827246bd1bce03ca7fbbc809566845f4399e3d90d2bca8a6a"
+    },
+    {
       "path": "capturas/I Am Jesus Christ/1.webp",
       "size": 51892,
       "sha256": "23497a72bbb4b97d26c8275e0d75dfd849b07410aed20644a1899f070069feec"
@@ -3550,6 +3630,36 @@
       "path": "capturas/Need For Speed Most Wanted HD/03.webp",
       "size": 34724,
       "sha256": "4300e610c8929b3826cf7459a70bab82acf0ce1e950a095cb2e01d112a4b8091"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/1.webp",
+      "size": 22900,
+      "sha256": "55da668d3ae6ec9579880f9e7947522135d0b422cb9599a2ec0723b5c82a8a31"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/2.webp",
+      "size": 8254,
+      "sha256": "2c3ddfa77d8c1e24832980563d632eaf6a3ebc5cdb0ca400ca45a2aa67acb7f9"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/3.webp",
+      "size": 27782,
+      "sha256": "4f3e5d25064bec04ac80e86c5b58958d05b5452552572bf731a9f6f2ffda9595"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/4.webp",
+      "size": 21378,
+      "sha256": "dab5540fc78a4181fbbe8e2b81825101cbe8fcb4c387c677b7746ce7339481eb"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/5.webp",
+      "size": 25548,
+      "sha256": "089ee4942ad68fe75363c6948040d3322fe69911c396bf11f4f46319cfecccd9"
+    },
+    {
+      "path": "capturas/Need for Speed Unbound Ultimate Collection/6.webp",
+      "size": 39488,
+      "sha256": "9d42816f46d549963de37eea714c239851826ebb04097dd056a3202c1437ce89"
     },
     {
       "path": "capturas/Nymphomaniac Sex Addict/1.webp",
@@ -4692,6 +4802,31 @@
       "sha256": "6aa59fed9477ebb061c4fa7220678dd2931992ac53729d68cac666b5ff3896a5"
     },
     {
+      "path": "capturas/The Lord of the Rings War in the North Legacy Edition/1.webp",
+      "size": 22954,
+      "sha256": "6f254d5fd35a02fc1c89ac422173f07794b607caf5538e3c1eba9a1ce11371e4"
+    },
+    {
+      "path": "capturas/The Lord of the Rings War in the North Legacy Edition/2.webp",
+      "size": 28404,
+      "sha256": "59d1dda67ec19952b30fa22754b9de6c6bd413c9eed722f1d9972bc37d513fbf"
+    },
+    {
+      "path": "capturas/The Lord of the Rings War in the North Legacy Edition/3.webp",
+      "size": 17964,
+      "sha256": "9fd5c7dde6d2b5b5f5853be527a3d350470bfb0c7c7f93aac0c73d5e33c54610"
+    },
+    {
+      "path": "capturas/The Lord of the Rings War in the North Legacy Edition/4.webp",
+      "size": 15736,
+      "sha256": "0baab35a2523725c75feda2128cf0e36a8e2728f0327196afbd8e4116ed35ddb"
+    },
+    {
+      "path": "capturas/The Lord of the Rings War in the North Legacy Edition/5.webp",
+      "size": 42976,
+      "sha256": "95a24d8ee4c0ab9d04defd719c67e52f71238451c0a361b8a224b2af2ed7642e"
+    },
+    {
       "path": "capturas/The Relic First Guardian/1.webp",
       "size": 7608,
       "sha256": "a6df7268925942eaa2606429fecf8f760314212ae77a2202c1ff740b1250c6ac"
@@ -5198,8 +5333,8 @@
     },
     {
       "path": "sinopsis/Days Gone.txt",
-      "size": 589,
-      "sha256": "7542bd6b4bdd1b60d81befaac8c2354fcd00062d0e3f488f77b0a19cf2602b59"
+      "size": 588,
+      "sha256": "a295f43c3667b6a7153e910876ad5514936291322e93bb7951aa52f551918627"
     },
     {
       "path": "sinopsis/Disney Pixar Toy Story 3 Complete Edition.txt",
@@ -5265,6 +5400,11 @@
       "path": "sinopsis/Entity The Black Day.txt",
       "size": 267,
       "sha256": "ce4e4d869674195b10ec912cca15266be9817132ed9d3a6621279475584aa0d0"
+    },
+    {
+      "path": "sinopsis/Euro Truck Simulator 2.txt",
+      "size": 439,
+      "sha256": "236409cf8157aba9dbe850277bbed585c1b1937d92fea5a3445de5e1695f91ef"
     },
     {
       "path": "sinopsis/Far Cry 5 Gold Edition.txt",
@@ -5367,6 +5507,11 @@
       "sha256": "9bd17d723643c56ccb1c5a5e1f15c9d907076e819c312d2b071ad95ab129410c"
     },
     {
+      "path": "sinopsis/House Party Total Indulgence Bundle.txt",
+      "size": 691,
+      "sha256": "c32410e921e8abd48e3277f7f48f0b7fb750b056cd67edb13ebe00289731c99e"
+    },
+    {
       "path": "sinopsis/I Am Jesus Christ.txt",
       "size": 2092,
       "sha256": "1ab24730e6c659e5dfb4bf136a1aea943f970be1d7171823f1e7584698a1bb49"
@@ -5465,6 +5610,11 @@
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
       "size": 814,
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
+    },
+    {
+      "path": "sinopsis/Need for Speed Unbound Ultimate Collection.txt",
+      "size": 377,
+      "sha256": "ff8a2f020138511ce1b5eedb9883b9949ef13f0e41ac002127440bc8e6c4e6bb"
     },
     {
       "path": "sinopsis/Nymphomaniac Sex Addict.txt",
@@ -5655,6 +5805,11 @@
       "path": "sinopsis/The Last Of Us Part II Remastered.txt",
       "size": 846,
       "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
+    },
+    {
+      "path": "sinopsis/The Lord of the Rings War in the North Legacy Edition.txt",
+      "size": 707,
+      "sha256": "7d70615f2167272a92d7c8ce4b343cf9de1ff976523d3dc83ff78bca4c8e1673"
     },
     {
       "path": "sinopsis/The Relic First Guardian.txt",
@@ -5992,6 +6147,11 @@
       "sha256": "e54d52f53c7e77fca3cbdad55d089bc38246477a03171e7f7040f0dec1a2666b"
     },
     {
+      "path": "datos/Euro Truck Simulator 2.txt",
+      "size": 188,
+      "sha256": "5a6376e6d8f50a14ab359ae6bf8a282e02383297ed4bc66a34a7645ba927b19f"
+    },
+    {
       "path": "datos/Far Cry 5 Gold Edition.txt",
       "size": 207,
       "sha256": "af5065ba85aa9ff33fa084b64d322d833a9917c6247c52f16f494fdfdb3cc06d"
@@ -6092,6 +6252,11 @@
       "sha256": "068d52d7cbd6f4d4e1592725d360e68194618f1378669a62a72397030cd5d445"
     },
     {
+      "path": "datos/House Party Total Indulgence Bundle.txt",
+      "size": 199,
+      "sha256": "4e1461615c3fdef3e3f1f86ab66039da50aa401525681759a761d0d5e8c94f4e"
+    },
+    {
       "path": "datos/I Am Jesus Christ.txt",
       "size": 198,
       "sha256": "d98c2811f4c28c9cac0e5ce1102661d16f9e8fdc2a8b417ec6bfd0edd67a696a"
@@ -6190,6 +6355,11 @@
       "path": "datos/Need For Speed Most Wanted HD.txt",
       "size": 215,
       "sha256": "78c6d8b419e254a75c0bedfedb4ad3491622f3180f3119610088db7dab074f16"
+    },
+    {
+      "path": "datos/Need for Speed Unbound Ultimate Collection.txt",
+      "size": 185,
+      "sha256": "b8764692d5a3dd3c29c899daf4216927ec76ad3f45b85a93b77cbb24c07d46c8"
     },
     {
       "path": "datos/Nymphomaniac Sex Addict.txt",
@@ -6380,6 +6550,11 @@
       "path": "datos/The Last Of Us Part II Remastered.txt",
       "size": 215,
       "sha256": "8473c4a55abe7032e3bcc5f84e455535bfd09d6adbd8a37f2942b859eccf5c2c"
+    },
+    {
+      "path": "datos/The Lord of the Rings War in the North Legacy Edition.txt",
+      "size": 181,
+      "sha256": "5851e6ff9114583cc43434f440ff87baca52deb0d95114161a7eeaaf38da2b22"
     },
     {
       "path": "datos/The Relic First Guardian.txt",

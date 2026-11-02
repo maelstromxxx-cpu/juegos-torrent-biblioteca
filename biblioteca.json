@@ -592,6 +592,11 @@
       "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
     },
     {
+      "path": "imagenes/Resident Evil 2 Deluxe Edition.webp",
+      "size": 43304,
+      "sha256": "5c523cdc6c0ef88ed684ec04773eed74565a721d5732dd5e24c36e3d5cda418e"
+    },
+    {
       "path": "imagenes/Resident Evil 4 Gold Edition.webp",
       "size": 15878,
       "sha256": "458080b7add56dd75d93ceddb9010def373c17e2ca40a6c5ab61facd73e582bb"
@@ -630,6 +635,11 @@
       "path": "imagenes/Silent Hill Townfall.webp",
       "size": 25884,
       "sha256": "94660510ac65bcc42e9836ee3ae01f610ecadbd02c091d5ad2338fbd6cdd3ea5"
+    },
+    {
+      "path": "imagenes/Sleeping Dogs Definitive Limited Editions Pack.webp",
+      "size": 56354,
+      "sha256": "6eb4a0db3d501ccfbb7b1f33dac0c6acfa4cdf9f5415a6f3c083e30ccfa01076"
     },
     {
       "path": "imagenes/Sniper Elite 3.webp",
@@ -4272,6 +4282,36 @@
       "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
     },
     {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/1.webp",
+      "size": 9474,
+      "sha256": "16d1ec40b59aa6aa43f375a6a2256203b665e445f3ee22857a899415886ab752"
+    },
+    {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/2.webp",
+      "size": 11722,
+      "sha256": "a9a62bb984d556ca8cc8898c1313ba69ab9cf0762832f2757a357bb7ab293aee"
+    },
+    {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/3.webp",
+      "size": 8150,
+      "sha256": "8ea0a35f5afeab74f94f30d42bb5c54a5828d029d9916907d0c06525e62941de"
+    },
+    {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/4.webp",
+      "size": 4558,
+      "sha256": "fb9bb24ed4fc9a5de20a46fdbe3437aba56a7ceeed918d2e6ba2c23d0880c826"
+    },
+    {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/5.webp",
+      "size": 7570,
+      "sha256": "46b221d0c42eb8f9ef38ad44b329803a62e8577d0f1df32b8a4a85f988ad4e8e"
+    },
+    {
+      "path": "capturas/Resident Evil 2 Deluxe Edition/6.webp",
+      "size": 10036,
+      "sha256": "13e31aae10fd966c491a6ef94985dac5fd22106c1166feb2ca69dfab4249887a"
+    },
+    {
       "path": "capturas/Resident Evil 4 Gold Edition/1.webp",
       "size": 10100,
       "sha256": "3153e1b011de16b5459ba94c6a356c066e5deb403bbc951ea3b57fefbd35ef40"
@@ -4510,6 +4550,36 @@
       "path": "capturas/Silent Hill Townfall/6.webp",
       "size": 4936,
       "sha256": "0c6d46c7eb61dfe6586848c4cd1c24c9746bdf59b06281b15b3684b384a6c387"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/1.webp",
+      "size": 29974,
+      "sha256": "69aa1b8132421d0e1c35e7f0b9936284dfbdc3a7e0c3b249ec6e2bad104eb0b2"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/2.webp",
+      "size": 26420,
+      "sha256": "940df7ada7a87d484986dc9c949df88ecd2e94095879a7e0ece345f5853a0409"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/3.webp",
+      "size": 11048,
+      "sha256": "d03a0f7cc8246f0d8717910179e465a4768d3fe5e71023f8e66e0d311c24e090"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/4.webp",
+      "size": 31784,
+      "sha256": "f27fdb46b2b162abb326ce03463d139be1512cc64250f008f5dcad201612374f"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/5.webp",
+      "size": 21978,
+      "sha256": "d8349942c85623bf1d42c97de9ef137589f6a92a4b0784657869eb132f54b5ac"
+    },
+    {
+      "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/6.webp",
+      "size": 21724,
+      "sha256": "cdb4aad17a176d412aa1da73a8e16b2d3e1035b0092914ca8b80aca15beed494"
     },
     {
       "path": "capturas/Sniper Elite 3/1.webp",
@@ -5992,6 +6062,11 @@
       "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
     },
     {
+      "path": "sinopsis/Resident Evil 2 Deluxe Edition.txt",
+      "size": 1202,
+      "sha256": "358f4d277eaa72f3f18c7b2adec29a231847a7422addb517e5b29a3cdf57e81a"
+    },
+    {
       "path": "sinopsis/Resident Evil 4 Gold Edition.txt",
       "size": 545,
       "sha256": "31681d57424d891a192f626d0e2f0631efb65ce985b26ca8f465c2166da699ad"
@@ -6030,6 +6105,11 @@
       "path": "sinopsis/Silent Hill Townfall.txt",
       "size": 723,
       "sha256": "068c69d35acfdac520e4f545e118fd0ce70f38de1eab76578f26a5bd41930bea"
+    },
+    {
+      "path": "sinopsis/Sleeping Dogs Definitive Limited Editions Pack.txt",
+      "size": 946,
+      "sha256": "0029bf917fbd9f5cec6cbffb454bc73ebda64dbe8a1a12898bc8fadf3cd25783"
     },
     {
       "path": "sinopsis/Sniper Elite 3.txt",
@@ -6777,6 +6857,11 @@
       "sha256": "95d0afe06ffc6f95dd00dc67f14210600cc8b4e4adf2f50d84c3a6589a8f4f14"
     },
     {
+      "path": "datos/Resident Evil 2 Deluxe Edition.txt",
+      "size": 188,
+      "sha256": "fd91fb0f4b23c31690569dab6ce1c9e059df73636f8493c3eff4e537de0a438e"
+    },
+    {
       "path": "datos/Resident Evil 4 Gold Edition.txt",
       "size": 214,
       "sha256": "e95cb3c69de4ed1e1b93f15b2d9b2e39215b4172537a5ff50f993b7fe2182cc4"
@@ -6815,6 +6900,11 @@
       "path": "datos/Silent Hill Townfall.txt",
       "size": 216,
       "sha256": "3e14cd42a25ccce5584593ddecfb3e3c388018fa39e17a3e11f71349160f9d0c"
+    },
+    {
+      "path": "datos/Sleeping Dogs Definitive Limited Editions Pack.txt",
+      "size": 183,
+      "sha256": "ba4d5db9d25688face797e8148ad006855a8fdc9093fe8d0e88119356adbb2d6"
     },
     {
       "path": "datos/Sniper Elite 3.txt",

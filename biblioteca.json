@@ -512,6 +512,11 @@
       "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
     },
     {
+      "path": "imagenes/Mixtape.webp",
+      "size": 37880,
+      "sha256": "23541338d35b70b66b9c7f1b31ab92e32eb0e76c845fbbe88fe36cc7bfbad93f"
+    },
+    {
       "path": "imagenes/Monster Hunter Wild.webp",
       "size": 55228,
       "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
@@ -710,6 +715,11 @@
       "path": "imagenes/Starfield.webp",
       "size": 14508,
       "sha256": "2e04a15d0fc19dbde43b5847d678d3a9754c430eee76f8f12c4177e179adf565"
+    },
+    {
+      "path": "imagenes/Static Dread The Submarine Deluxe Edition.webp",
+      "size": 111068,
+      "sha256": "072bab5fe71fcd97cf937d344c140d0fa5c4e89bd9f88f22b46a08fbad60a848"
     },
     {
       "path": "imagenes/Stellar Blade Complete Edition.webp",
@@ -3222,6 +3232,36 @@
       "sha256": "c70553d54b6bf8c6fb6228684c3c7e96251daed24966c963ff1047775daae9e2"
     },
     {
+      "path": "capturas/Harvest Moon Echoes of Teradea/1.webp",
+      "size": 17842,
+      "sha256": "4bdd37508cd7b5d5a0e625e40d7af75022be5d72037587b27a40b92b51d7aae1"
+    },
+    {
+      "path": "capturas/Harvest Moon Echoes of Teradea/2.webp",
+      "size": 18474,
+      "sha256": "4b053328c92aef2ec927dcf5279b3ed5680e41f90f08d1f7109fe41f97d65722"
+    },
+    {
+      "path": "capturas/Harvest Moon Echoes of Teradea/3.webp",
+      "size": 21472,
+      "sha256": "00e064a8e8ecf3ae9c54fd2ab673fb42f6a5adcc46b1008a8b61f035973a68c1"
+    },
+    {
+      "path": "capturas/Harvest Moon Echoes of Teradea/4.webp",
+      "size": 21706,
+      "sha256": "dcbe66568c184d6bd41a68bae5ea6fc0dd1a58a445b87b0a768af674103b7ef6"
+    },
+    {
+      "path": "capturas/Harvest Moon Echoes of Teradea/5.webp",
+      "size": 22272,
+      "sha256": "fa7a0cc8e2d7d6953b640a1e3f57869426003b6e4ddac6817f95b24a8bbf158d"
+    },
+    {
+      "path": "capturas/Harvest Moon Echoes of Teradea/6.webp",
+      "size": 29728,
+      "sha256": "33d38996fb8eeaab16599c838b20d54b5a9b30915b21d6b65e1bafebfa9b37a7"
+    },
+    {
       "path": "capturas/Hitman World of Assassination/1.webp",
       "size": 7732,
       "sha256": "689c50223e0b1eb00fd488780a2bd9a516696157bd2361ec2e3c0caa61487ce5"
@@ -3845,6 +3885,36 @@
       "path": "capturas/Metro Redux/6.webp",
       "size": 28390,
       "sha256": "addc675f0612612eba7fd13780f11f4898a30166bc07b155965f4367275d96a5"
+    },
+    {
+      "path": "capturas/Mixtape/1.webp",
+      "size": 35850,
+      "sha256": "c61c22f05bb0c4cc188b1e93bc8fb064690cf907fbfa0b4ef3b66f59aae4ef3e"
+    },
+    {
+      "path": "capturas/Mixtape/2.webp",
+      "size": 11244,
+      "sha256": "ccdeee2adc54ae28163ac0fcbbd23b8a3f7e248a7badc2256789285758b7d965"
+    },
+    {
+      "path": "capturas/Mixtape/3.webp",
+      "size": 12536,
+      "sha256": "7bad22a7a98141719747588ef2c64e40dad7dc6b3757fdb023559461711339aa"
+    },
+    {
+      "path": "capturas/Mixtape/4.webp",
+      "size": 19902,
+      "sha256": "c600b484b48d9dfff6df5be5b9ee7cedb50904f2108dce96d9f0ed838af209f0"
+    },
+    {
+      "path": "capturas/Mixtape/5.webp",
+      "size": 31240,
+      "sha256": "bee7338494faf210fd0e48a11e7cec00ba26938c89827b0d3ce4f08d683921ad"
+    },
+    {
+      "path": "capturas/Mixtape/6.webp",
+      "size": 13192,
+      "sha256": "7170bbd22e64eadd4a4e89dda91a420685f4315e2adc4b97780de461a01c43c9"
     },
     {
       "path": "capturas/Monster Hunter Wild/1.webp",
@@ -5030,6 +5100,36 @@
       "path": "capturas/Starfield/6.webp",
       "size": 24910,
       "sha256": "03ac8f89fdca6d966880b946ff88795fd3ec66b047ea8b906852639adac4aa51"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/1.webp",
+      "size": 17590,
+      "sha256": "03ef1acfb4a9c2175d00f90a4af519b9cb8fcfa32f11e931df83c1f7ff9cd3d9"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/2.webp",
+      "size": 19516,
+      "sha256": "230684968778b4d27ebbe1fa613749491571b30ba2018a4100e085e658e198d7"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/3.webp",
+      "size": 7432,
+      "sha256": "cb30100316f3b62704918fd45ba192c1fa1d6e9c8b9e307807d4fc0267886cbd"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/4.webp",
+      "size": 8062,
+      "sha256": "46bf384c28122b67dd9460da98c8ab539dc318b2f30d8b0a9fd6354ecdedbd89"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/5.webp",
+      "size": 6866,
+      "sha256": "91faa04342af0fb46bf8bb8d6e9997ac01451028a5394dda1f16db7dfdc0f56e"
+    },
+    {
+      "path": "capturas/Static Dread The Submarine Deluxe Edition/6.webp",
+      "size": 8116,
+      "sha256": "31d5a3eb1b3d48d2b97099dc2c60f54c5c1a9b3bfd492d0475dc902531573f5b"
     },
     {
       "path": "capturas/Stellar Blade Complete Edition/1.webp",
@@ -6232,6 +6332,11 @@
       "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
     },
     {
+      "path": "sinopsis/Harvest Moon Echoes of Teradea.txt",
+      "size": 907,
+      "sha256": "32911f961521d9d01f4a7e9593020dec393966effff9e10033787e55b79ef176"
+    },
+    {
       "path": "sinopsis/Hitman World of Assassination.txt",
       "size": 644,
       "sha256": "2dde71cfa16266a2348c8ef4c6e09b9a05444a49406f75bf0afb217eac5b506c"
@@ -6335,6 +6440,11 @@
       "path": "sinopsis/Metro Redux.txt",
       "size": 471,
       "sha256": "4ff514fd0e019266373b042d39e6d3676f918a4f76717d489870d8b0fd118443"
+    },
+    {
+      "path": "sinopsis/Mixtape.txt",
+      "size": 794,
+      "sha256": "f6736c286fd2d17131707fb4592233493f99da40391c7ed4a961ef91964401e8"
     },
     {
       "path": "sinopsis/Monster Hunter Wild.txt",
@@ -6535,6 +6645,11 @@
       "path": "sinopsis/Starfield.txt",
       "size": 916,
       "sha256": "b6ce686a2cdb4a256e767af610a9e95b33c84eedebbb3b02408d10d22b33fc7d"
+    },
+    {
+      "path": "sinopsis/Static Dread The Submarine Deluxe Edition.txt",
+      "size": 296,
+      "sha256": "99590bf6954cd06f784bf7f2fee563cdab37427d6f182ecd7eede2f2f4be3818"
     },
     {
       "path": "sinopsis/Stellar Blade Complete Edition.txt",
@@ -7082,6 +7197,11 @@
       "sha256": "7d06cefe49ee916c9f9f0758c95d0501eb067e9f50dea6cd5330efec89e50836"
     },
     {
+      "path": "datos/Harvest Moon Echoes of Teradea.txt",
+      "size": 176,
+      "sha256": "e1de278e9602d2764f78a4547aa823771e2ecc4bbd830f2e1106ff5f29dac724"
+    },
+    {
       "path": "datos/Hitman World of Assassination.txt",
       "size": 186,
       "sha256": "91d470733ac5f8e496afb41f7e4e6e20612a7b1834a9046af0b02155a7513785"
@@ -7185,6 +7305,11 @@
       "path": "datos/Metro Redux.txt",
       "size": 260,
       "sha256": "c76472bacd2f32adfb08b94913b8cdd98941b0b402329467e236cc3c4c251bbd"
+    },
+    {
+      "path": "datos/Mixtape.txt",
+      "size": 172,
+      "sha256": "5f61ed7277d1fafa3fcc015c9c2cdc02bec4ae9546b6288bba6ff4dd051c9e43"
     },
     {
       "path": "datos/Monster Hunter Wild.txt",
@@ -7385,6 +7510,11 @@
       "path": "datos/Starfield.txt",
       "size": 206,
       "sha256": "022349a416ac80abf4edfdc7014d8e19ced2974bf475ff5507c15f7710e1e36a"
+    },
+    {
+      "path": "datos/Static Dread The Submarine Deluxe Edition.txt",
+      "size": 190,
+      "sha256": "e82afbbc8cdd8eab9c0af4a59d8bf2cd6438538603faf1fe82ac70b446858cbf"
     },
     {
       "path": "datos/Stellar Blade Complete Edition.txt",

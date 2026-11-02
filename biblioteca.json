@@ -202,6 +202,11 @@
       "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
     },
     {
+      "path": "imagenes/Croc 2 Kingdom of the Gobbos.webp",
+      "size": 35642,
+      "sha256": "a2960707b9b4607d4dcc38e82967d77c28a05ed1622846baaac7f2c75952ff43"
+    },
+    {
       "path": "imagenes/Crysis 2 Remastered.webp",
       "size": 43106,
       "sha256": "49fb6b0530be189b919bf2944891c32c2c775b5bf6abf7afb3fe03c96ef3e452"
@@ -235,6 +240,11 @@
       "path": "imagenes/Days Gone.webp",
       "size": 22240,
       "sha256": "6e69165670c2f1e8af03f06b0f16c6a96b4eb72818344da29a21bfeb10e7a787"
+    },
+    {
+      "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
+      "size": 54612,
+      "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
     },
     {
       "path": "imagenes/Directive 8020 Deluxe Edition.webp",
@@ -572,6 +582,11 @@
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
     },
     {
+      "path": "imagenes/Ravenswatch Year One Edition.webp",
+      "size": 63460,
+      "sha256": "267e28aeeb94de245397e09a19d27ed081a295382d3ac371453139e72cb9449c"
+    },
+    {
       "path": "imagenes/Ready Or Not.webp",
       "size": 13080,
       "sha256": "3a3cba786b78a3edf9e84a93d014d4814e6c32ff69bca85d30ce0f309b7004ae"
@@ -765,6 +780,11 @@
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
+    },
+    {
+      "path": "imagenes/The Wolf Among Us Remastered.webp",
+      "size": 23594,
+      "sha256": "ea0756581122def8376086648cb3bc534a529227cdad781a5bfb3a2f9f6ce8e9"
     },
     {
       "path": "imagenes/Tom Clancys Ghost Recon Wildlands Definitive Edition.webp",
@@ -1977,6 +1997,36 @@
       "sha256": "8d229b04c03982327f25d3bfcfa1562901152b7bd73361114f768c90db0cf7d3"
     },
     {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/1.webp",
+      "size": 22772,
+      "sha256": "4861713ff7bb0c17ffa96a8486e140eff43343b90437273fe0f756bd0c8737e5"
+    },
+    {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/2.webp",
+      "size": 16070,
+      "sha256": "5a85de987edb9329a159a4a6993c54a57bf2361bd085279cff4301e19fa84ff9"
+    },
+    {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/3.webp",
+      "size": 31204,
+      "sha256": "25455e7d69bea9f205c4dfa4580d0927a0c9e89057134f316dd3b7ba6ba5b2f5"
+    },
+    {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/4.webp",
+      "size": 34464,
+      "sha256": "a63ef253e2fd58dfd9680e82a6b83b08b709df0a4bd34e622120f547c5fd5d9e"
+    },
+    {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/5.webp",
+      "size": 33534,
+      "sha256": "24ddba2ae4d447ccc2a1ba29563abe71d267544b373e90446083cc6dcedc9f64"
+    },
+    {
+      "path": "capturas/Croc 2 Kingdom of the Gobbos/6.webp",
+      "size": 13102,
+      "sha256": "e120d244f51c9bd47795eff197d76a67d2022dba7202ae84e21555cc212afa76"
+    },
+    {
       "path": "capturas/Crysis/1.webp",
       "size": 21172,
       "sha256": "331c78edcbf72b7a2937d0c76076f2f7faadc6eed8f0b4d9b36153017817600c"
@@ -2185,6 +2235,36 @@
       "path": "capturas/Days Gone/6.webp",
       "size": 15876,
       "sha256": "12018cc3eef754f91fa818e52f4157ffff62677dcd571d3f048283d803ea173a"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/1.webp",
+      "size": 19300,
+      "sha256": "fca9a07389e746d11c1d944a1c22453ec7c901040fa562c6bdbbc2480869b491"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/2.webp",
+      "size": 25668,
+      "sha256": "500db50dd17bbff31e2ce143438204f4b75a772cbc5abd37070fe97183441918"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/3.webp",
+      "size": 26956,
+      "sha256": "d2784255e069ceb299091ba03af92bf3f988e7c181e933ddf699b8b94abcaee5"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/4.webp",
+      "size": 18622,
+      "sha256": "6bb2fc1b936aeb90f72e8c7de3d2b8f6d3c0f312ed267a6522ff204373abb402"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/5.webp",
+      "size": 24848,
+      "sha256": "eeb1f4049765b16494af3ef71f69be56bbed68c58fe3a1347aec58bae50109ca"
+    },
+    {
+      "path": "capturas/Deep Rock Galactic Deluxe Edition/6.webp",
+      "size": 22000,
+      "sha256": "bdc92f689f985e8fa43e7bbb7f2bbacb69ade7c3d6695ab9186c62a1ed2062ca"
     },
     {
       "path": "capturas/Directive 8020 Deluxe Edition/1.webp",
@@ -4172,6 +4252,36 @@
       "sha256": "043b0d5b021c1cfd1570c0e06899f59008abaa78a255340f8b2078efaca16dc6"
     },
     {
+      "path": "capturas/Ravenswatch Year One Edition/1.webp",
+      "size": 19000,
+      "sha256": "240fa2557ed9bee661ad9d3435759e9509b8de6372ae719283d63711ad749ea8"
+    },
+    {
+      "path": "capturas/Ravenswatch Year One Edition/2.webp",
+      "size": 19800,
+      "sha256": "2ae8f165c48cb7a1af558910500eb28a04c30e18665f070832ee78c415e385e1"
+    },
+    {
+      "path": "capturas/Ravenswatch Year One Edition/3.webp",
+      "size": 14966,
+      "sha256": "7d042b968c9fc6d977e2d4ca6036496070099afa99ddff1d86339c24c4f3ea8b"
+    },
+    {
+      "path": "capturas/Ravenswatch Year One Edition/4.webp",
+      "size": 22420,
+      "sha256": "d6eef60a765f01acfa2c3d461ab72513f5b1ff48928570b9d412e192d110c082"
+    },
+    {
+      "path": "capturas/Ravenswatch Year One Edition/5.webp",
+      "size": 15076,
+      "sha256": "396fae14e3cbd476975eda8dac137dc8b2262bdcf8edb2a5a3021e0638a44b97"
+    },
+    {
+      "path": "capturas/Ravenswatch Year One Edition/6.webp",
+      "size": 17508,
+      "sha256": "219c93c8f646dee9d2696a58a4dd9c69a8d73bdecff288aea9e13d72044d50fe"
+    },
+    {
       "path": "capturas/Ready Or Not/1.webp",
       "size": 17232,
       "sha256": "08ad30c0255c9f98999553403140208a3e0516156e5728cc47714e204eb976b5"
@@ -5332,6 +5442,36 @@
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
     },
     {
+      "path": "capturas/The Wolf Among Us Remastered/1.webp",
+      "size": 16424,
+      "sha256": "e00fc353adabc94722a736d1d0be43a9b2ee8f7f85df3642afd3bd7dae871b95"
+    },
+    {
+      "path": "capturas/The Wolf Among Us Remastered/2.webp",
+      "size": 23578,
+      "sha256": "1b8c2b74b7628f0c1f81284aac6d89c7633dfdf63b902be1215e10741eb574bf"
+    },
+    {
+      "path": "capturas/The Wolf Among Us Remastered/3.webp",
+      "size": 22348,
+      "sha256": "43a2e022912d744d0e09fa17c895944a5e4fcd932044edd613bc035c368c58e6"
+    },
+    {
+      "path": "capturas/The Wolf Among Us Remastered/4.webp",
+      "size": 28742,
+      "sha256": "9dba159a3c0e4e78a3e02c3b9617a0f1cbc6ceda5590bfd09b3c335ec1173411"
+    },
+    {
+      "path": "capturas/The Wolf Among Us Remastered/5.webp",
+      "size": 21038,
+      "sha256": "ca2967d780c8b368100158b549a3234dfa1762bdc813c81c55c6ab79f51ef773"
+    },
+    {
+      "path": "capturas/The Wolf Among Us Remastered/6.webp",
+      "size": 30244,
+      "sha256": "366199031fb63082b668e404deaf1efdc6c82b404703964867adb13794b23cfb"
+    },
+    {
       "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/1.webp",
       "size": 12218,
       "sha256": "b125acb8b48a22f833465d450eac249f2944125c402181bcc2758cc7baa28c05"
@@ -5737,6 +5877,11 @@
       "sha256": "42b54a3528dac24a307e6b1ac6cea295b9155846871c278d997d0711be9588cf"
     },
     {
+      "path": "sinopsis/Croc 2 Kingdom of the Gobbos.txt",
+      "size": 717,
+      "sha256": "3df4d85835ae23ecde330a9f26de59c044437d719bdde410215771f6f5a552f4"
+    },
+    {
       "path": "sinopsis/Crysis 2 Remastered.txt",
       "size": 386,
       "sha256": "c0f15e7e9a9361e702d3faad1c9b95150ae448a0c5b55b1463dddcec32183aa8"
@@ -5770,6 +5915,11 @@
       "path": "sinopsis/Days Gone.txt",
       "size": 587,
       "sha256": "9f5422b905f328c892c2a8bd79db5c4ee9ecf6ca7550b9788aee8b22deb52dce"
+    },
+    {
+      "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
+      "size": 529,
+      "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
     },
     {
       "path": "sinopsis/Directive 8020 Deluxe Edition.txt",
@@ -6107,6 +6257,11 @@
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
     },
     {
+      "path": "sinopsis/Ravenswatch Year One Edition.txt",
+      "size": 420,
+      "sha256": "733de9c8fc2c35e18adac6436b7aa6505acc0ecbafe095758574842e2f2f8db4"
+    },
+    {
       "path": "sinopsis/Ready Or Not.txt",
       "size": 767,
       "sha256": "fefe1efa38a35449f1cc4c6477735128752ec5c7468393185a398acb964d40f9"
@@ -6300,6 +6455,11 @@
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 265,
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
+    },
+    {
+      "path": "sinopsis/The Wolf Among Us Remastered.txt",
+      "size": 738,
+      "sha256": "1e1cebfa7d2b9c68a53405b0186d5e527c6bcf7fc89de1751df4790e9f5be982"
     },
     {
       "path": "sinopsis/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
@@ -6542,6 +6702,11 @@
       "sha256": "462e41653be9bd4ba752de62c60463ea7394bc77ffea1f266a8328e3433e14b6"
     },
     {
+      "path": "datos/Croc 2 Kingdom of the Gobbos.txt",
+      "size": 172,
+      "sha256": "cfc8b31ffe0fa4825d9b2014b969a28253015d99975a61987dc7ef612946eae2"
+    },
+    {
       "path": "datos/Crysis 2 Remastered.txt",
       "size": 185,
       "sha256": "8a2ff28a323171f3e6223cd5c0d9d6887d2e03dfb2f1712913d9b551eed4791a"
@@ -6575,6 +6740,11 @@
       "path": "datos/Days Gone.txt",
       "size": 173,
       "sha256": "67448b1bd57c4e32c6e85d47813b15188b7febeecd5da77a77e191259eb6df89"
+    },
+    {
+      "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
+      "size": 193,
+      "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
     },
     {
       "path": "datos/Directive 8020 Deluxe Edition.txt",
@@ -6912,6 +7082,11 @@
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
     },
     {
+      "path": "datos/Ravenswatch Year One Edition.txt",
+      "size": 209,
+      "sha256": "e62468cbedce55dffcca712856ce5e3da4f0944066091835a7d8fb8784e125f5"
+    },
+    {
       "path": "datos/Ready Or Not.txt",
       "size": 230,
       "sha256": "eeb8e669adcf6a922c7d0c2a0fbdfcc6d72caccc8f3640ca2fccb97303eb37b6"
@@ -7105,6 +7280,11 @@
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 223,
       "sha256": "d5dfdda6ba203da67672308e30e2fff5eab10ebdbc21c30ea4a097380f22eb72"
+    },
+    {
+      "path": "datos/The Wolf Among Us Remastered.txt",
+      "size": 201,
+      "sha256": "27319eb850fda700d674cd49f33e053377a567073cc1e82003de624af6f8d221"
     },
     {
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",

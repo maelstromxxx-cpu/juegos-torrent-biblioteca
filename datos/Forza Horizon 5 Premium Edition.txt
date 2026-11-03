@@ -1,8 +1,9 @@
 Año: 2021
-Género: Carreras / Conducción / Mundo abierto
-Tamaño: 134GB
+Género: Acción / Aventura / Carreras / Simuladores / Deportes
+Tamaño: 74 GB
 Modo: Singleplayer / Multiplayer
-Idioma: Español
-Fecha de incorporación: 25/10/2026
-Puntuación: 9,2
-Metacritic: 92
+Idioma: MULTI
+Fecha de incorporación: 03/11/2026
+Puntuación: 8,9
+Metacritic: 
+Repacker: FitGirl

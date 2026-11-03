@@ -362,6 +362,11 @@
       "sha256": "8fe71f60295609156038c808be92b77d4179e1278d6ae0723005998313a1c36f"
     },
     {
+      "path": "imagenes/Forza Horizon 6.webp",
+      "size": 67036,
+      "sha256": "1cedf99ae1b491154105e7b20208525dc357eb289262e1ceb0768293d9699257"
+    },
+    {
       "path": "imagenes/Forza Motorsport 7 Ultimate Edition.webp",
       "size": 51384,
       "sha256": "10191149f70fc1d0e07975b77a11497bc7417e2c73ddfea98c9f9ae17fc89c96"
@@ -740,6 +745,11 @@
       "path": "imagenes/Star Wars Outlaws Ultimate Edition.webp",
       "size": 80656,
       "sha256": "63ab290e8a6f46c8153eddafce5236e5d1b5ce4a153b9bda00d233eaf9a1cc20"
+    },
+    {
+      "path": "imagenes/Star Wars Zero Company Deluxe Edition.webp",
+      "size": 47388,
+      "sha256": "d9ed5ef182cc7708af0a8de7e12deee14f5dfa0faa3ac77145460f6454875904"
     },
     {
       "path": "imagenes/Starfield.webp",
@@ -2990,6 +3000,36 @@
       "path": "capturas/Forza Horizon 5 Premium Edition/6.webp",
       "size": 22054,
       "sha256": "db3201d6c40e19fd882f5548fe1081601b7e98c183d1eba872905a35394b8223"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/1.webp",
+      "size": 27062,
+      "sha256": "651902dcbff87d4365e90b36e9a7503a81a0e277c3837711751e44978777bb99"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/2.webp",
+      "size": 27588,
+      "sha256": "a1726a32ba167687e07c66041b2d2b7f2d5fe97601efe37566e449bafb0167aa"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/3.webp",
+      "size": 31778,
+      "sha256": "7d3e32eafa63885db5fcc210507bec70319f8765a37dc32d18ce28b212bdd005"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/4.webp",
+      "size": 18960,
+      "sha256": "c1793a79cbb1f03eb183252c5780dacb7e830c91fa5b90b8c5017d060fc9a7ed"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/5.webp",
+      "size": 26908,
+      "sha256": "30478647e7d59277cafab4d346606eb6c036915dc0f996427810e1bc71a04fc3"
+    },
+    {
+      "path": "capturas/Forza Horizon 6/6.webp",
+      "size": 18318,
+      "sha256": "1f01349aa1f6ccb63bd0dd096559c79476d259c85fce74505479d3965ae51fea"
     },
     {
       "path": "capturas/Forza Motorsport 7 Ultimate Edition/1.webp",
@@ -5252,6 +5292,36 @@
       "sha256": "b73618765bedc1f7191256b4ec374017d43fecf621ca1928d2b3a91008c4001b"
     },
     {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/1.webp",
+      "size": 33672,
+      "sha256": "7f71f3ba2644267c13e144a5308e261a56d537040b152ba320760fbe2d3160a4"
+    },
+    {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/2.webp",
+      "size": 21092,
+      "sha256": "519c9bff36f6190f7662608c95fd76f25a94f37c8637de353db5b217e2a6a4b8"
+    },
+    {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/3.webp",
+      "size": 34536,
+      "sha256": "fa2f1a286ee146da63a595223b0e3f8e2ba58ecda21510ef7958d853d5bf75f4"
+    },
+    {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/4.webp",
+      "size": 36260,
+      "sha256": "d2b32ae00160cecb6ecae3f5e34bf871aa82175a9ea036b6829fcd7015025b05"
+    },
+    {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/5.webp",
+      "size": 26550,
+      "sha256": "173831be0e5250e93a845f36b8e61f9952f235d564a1d0d463acefecb7f8ba61"
+    },
+    {
+      "path": "capturas/Star Wars Zero Company Deluxe Edition/6.webp",
+      "size": 20068,
+      "sha256": "073094ae9f0211fdf1a409e9bca23d6d9a9bd0e6bd996f25369e80e2b03215dd"
+    },
+    {
       "path": "capturas/Starfield/1.webp",
       "size": 28506,
       "sha256": "ad3df4fe5725320efe77c5ac2147e47349f46c76dcb0fcda01a27c5d3f86580e"
@@ -6467,6 +6537,11 @@
       "sha256": "cb260331eb791162ea713fbc98ebc7d73a0ea0c25f40b773a9e3a958177f5068"
     },
     {
+      "path": "sinopsis/Forza Horizon 6.txt",
+      "size": 548,
+      "sha256": "352ed3521bb52fe718a65fa69a9edca5627289b80426a309106a032e588fe1c4"
+    },
+    {
       "path": "sinopsis/Forza Motorsport 7 Ultimate Edition.txt",
       "size": 377,
       "sha256": "670ec9275196e20fcaf6ef518c2ef69ac38350a370d4d1c3dbad06b737c4b324"
@@ -6845,6 +6920,11 @@
       "path": "sinopsis/Star Wars Outlaws Ultimate Edition.txt",
       "size": 483,
       "sha256": "cf86ace57c044bd3113f986134e4ae88a384c76017f642479a835b2c38fd437d"
+    },
+    {
+      "path": "sinopsis/Star Wars Zero Company Deluxe Edition.txt",
+      "size": 462,
+      "sha256": "05a3f0a2cde84506419870ca03dd295ac0c797c49d53dba30bbff8cdedce7d41"
     },
     {
       "path": "sinopsis/Starfield.txt",
@@ -7357,6 +7437,11 @@
       "sha256": "b969b9c7ea7eb5e663f3ed6b9d89880c9e10c3b80f57ec51a05ae80cdb3c75ad"
     },
     {
+      "path": "datos/Forza Horizon 6.txt",
+      "size": 200,
+      "sha256": "babdebe82270e569090ae51e52085c650d96a5914b1fc5179c0e59aaf4d64486"
+    },
+    {
       "path": "datos/Forza Motorsport 7 Ultimate Edition.txt",
       "size": 200,
       "sha256": "bc5bd7babe5f64e23f78999bdb14a514ac571eb5084671608f485a83e1bd8cd0"
@@ -7735,6 +7820,11 @@
       "path": "datos/Star Wars Outlaws Ultimate Edition.txt",
       "size": 195,
       "sha256": "b9f8221df64352f63a5d4a0d2a77db52b46969bb2e237b8d06e7f1356879f5a2"
+    },
+    {
+      "path": "datos/Star Wars Zero Company Deluxe Edition.txt",
+      "size": 205,
+      "sha256": "3f0394b0b6dab506ad67d82a44a295220248f4ac2a514132933ad5c6e4396955"
     },
     {
       "path": "datos/Starfield.txt",

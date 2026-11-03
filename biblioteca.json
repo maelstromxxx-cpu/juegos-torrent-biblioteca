@@ -347,6 +347,11 @@
       "sha256": "9e0f646d867716501e297d78a08f3e4fce18bedf22720ff03a547b94a7b3a974"
     },
     {
+      "path": "imagenes/Forza Horizon 3 Ultimate Edition.webp",
+      "size": 47878,
+      "sha256": "5ae2a3f538e4b359222c393e7b768e27dd9321c6f777324bd432e715bb3ef483"
+    },
+    {
       "path": "imagenes/Forza Horizon 3.webp",
       "size": 23274,
       "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
@@ -2923,6 +2928,36 @@
     },
     {
       "path": "capturas/Forza Horizon 3/6.webp",
+      "size": 22648,
+      "sha256": "3001442d5a2bbd828731bcd08102a59f786a135456d00659502fff402e68415b"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/1.webp",
+      "size": 20696,
+      "sha256": "95d2804dc5515291a8618f7372a5c17810ae68b8f65531ba4b1170b693ac9514"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/2.webp",
+      "size": 27622,
+      "sha256": "c68ee09502166af52f9b97bb7cdb9d548598643ecdfb9df93ee40f09af799a32"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/3.webp",
+      "size": 18472,
+      "sha256": "21c5e7810e268820e41ac3ac6e95211ab840bea000cf59b4cb4ac7919576f67c"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/4.webp",
+      "size": 20550,
+      "sha256": "58eef27cd402555e55e58819f25b6208394dca13c65b1f07b3c87535dfd72533"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/5.webp",
+      "size": 32526,
+      "sha256": "48fd0f7cd397dbbf5b05d40981581227e3c7c72db0bb730a74d66550ced81b3b"
+    },
+    {
+      "path": "capturas/Forza Horizon 3 Ultimate Edition/6.webp",
       "size": 22648,
       "sha256": "3001442d5a2bbd828731bcd08102a59f786a135456d00659502fff402e68415b"
     },
@@ -6417,6 +6452,11 @@
       "sha256": "cc905a120ea55cf8358d2800b89aff87fba572cee34d2dc342cd97df9d73f6fa"
     },
     {
+      "path": "sinopsis/Forza Horizon 3 Ultimate Edition.txt",
+      "size": 468,
+      "sha256": "c85f39c13cf9688ea60146e54da90f5e689da923ef211b7727af9c6321f68f83"
+    },
+    {
       "path": "sinopsis/Forza Horizon 3.txt",
       "size": 615,
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
@@ -7300,6 +7340,11 @@
       "path": "datos/Forza Horizon 2 Ultimate Edition.txt",
       "size": 231,
       "sha256": "7f6976205ce5e2ebf8d8cba3dcde1bef07ce1f546f13b66e6215d2e1bd5a1dc9"
+    },
+    {
+      "path": "datos/Forza Horizon 3 Ultimate Edition.txt",
+      "size": 239,
+      "sha256": "b22ce3168ece31be04391910a8ded8e94fcf26ad071c7389d1a98be3c7d08840"
     },
     {
       "path": "datos/Forza Horizon 3.txt",

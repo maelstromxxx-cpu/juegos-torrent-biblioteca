@@ -442,6 +442,11 @@
       "sha256": "a33d544c0cb039d1e5174068cfbdf71ce396162b5c8d2646d0132546da42706a"
     },
     {
+      "path": "imagenes/Hunting Simulator 3 Apex Predator Edition.jpg",
+      "size": 43218,
+      "sha256": "760e6b63f7067aa8e7a35ee231870d6bd384d56d3f8d8193590f3c852e71e0fd"
+    },
+    {
       "path": "imagenes/I Am Jesus Christ.webp",
       "size": 20594,
       "sha256": "ca8e0e1fffcfc5cf6e5a2ba1eeb89bc2bd0e03023589f1c2006797abb82969f7"
@@ -6473,8 +6478,8 @@
     },
     {
       "path": "sinopsis/Hunting Simulator 3 Apex Predator Edition.txt",
-      "size": 870,
-      "sha256": "db65c775eec71a8c2f3727ac98ff86fcc254bf519ec2ef366d3409a791a5a17d"
+      "size": 857,
+      "sha256": "486d151bea55902a49a5010176e212b19607a25ad4601bcf8a429fa4622f8ffc"
     },
     {
       "path": "sinopsis/I Am Jesus Christ.txt",

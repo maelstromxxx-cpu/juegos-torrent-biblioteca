@@ -1,0 +1,9 @@
+Año: 2026
+Género: Simuladores / FP / Mundo Abierto / Deportes
+Tamaño: 15 GB
+Modo: Singleplayer
+Idioma: MULTI
+Fecha de incorporación: 02/11/2026
+Puntuación: 
+Metacritic: 7.5
+Repacker: FitGirl

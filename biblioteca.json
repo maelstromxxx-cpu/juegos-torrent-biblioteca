@@ -197,6 +197,11 @@
       "sha256": "2ce5200aa3c6c0048348a6db2bf1c42cf0dc89d5bb90bed8755a92fa0100e630"
     },
     {
+      "path": "imagenes/Crackdown 3 Ultimate Edition.webp",
+      "size": 75380,
+      "sha256": "c7c37f4857ef99d1f472ac34cf6aa14c0002fa15fc96b75cccd4ab14121244aa"
+    },
+    {
       "path": "imagenes/Crimson Desert Enhanced Deluxe Edition.webp",
       "size": 48912,
       "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
@@ -650,6 +655,11 @@
       "path": "imagenes/Resonance A Plague Tale Legacy.webp",
       "size": 32316,
       "sha256": "e14ad3ae3d9acf7835f07401a95769cfb6b9b33b55c3fc04dab575708d091a7e"
+    },
+    {
+      "path": "imagenes/Resonance of Fate End of Eternity Enhanced Remaster.webp",
+      "size": 58882,
+      "sha256": "db7c24c407d7f278103ef7a450083582d56011410f1e0d15f0986013fb3930e5"
     },
     {
       "path": "imagenes/Returning to Mia.webp",
@@ -2005,6 +2015,36 @@
       "path": "capturas/Control Resonant/6.webp",
       "size": 12494,
       "sha256": "bd42871a2126a26f37f9fc03b26c971eaaf27dec885a7b11e3564796872fcbf9"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/1.webp",
+      "size": 26748,
+      "sha256": "fe5adc1d72821eb224307b48a34d4449f53a659f3e01e014e517f421e29983fe"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/2.webp",
+      "size": 31234,
+      "sha256": "e48c8f01d9e9f6d2570b9cb4f9829b94c75672b7a9a07679c6a283ee8a15330e"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/3.webp",
+      "size": 30948,
+      "sha256": "a722781c888e5287ddc77c1f73b88be022ee5904191f2aaccfd7e828168ec546"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/4.webp",
+      "size": 21784,
+      "sha256": "0a8481102fcec63f3f4a5f98b4468e4f187c03b1fe3cb9132e8777002bc1f350"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/5.webp",
+      "size": 30654,
+      "sha256": "e9b023e70452891913b8c6328e1fac7eeb5308cc452f952b56ca8c3d53b4ef9f"
+    },
+    {
+      "path": "capturas/Crackdown 3 Ultimate Edition/6.webp",
+      "size": 27214,
+      "sha256": "04d2ed007e609d5f7b2e368c6d1fdb20e2800bb95cf2bc0f750578493fcd13af"
     },
     {
       "path": "capturas/Crimson Desert Enhanced Deluxe Edition/1.webp",
@@ -3417,6 +3457,36 @@
       "sha256": "f76c151e8937a30827246bd1bce03ca7fbbc809566845f4399e3d90d2bca8a6a"
     },
     {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/1.webp",
+      "size": 30452,
+      "sha256": "eb9008bd6516c513093e7ebb55de98b891afff45c9727dacee7ff72638487928"
+    },
+    {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/2.webp",
+      "size": 46546,
+      "sha256": "56f047ee21e592b7d1aef75d1722da8e20edb059f2710a8ceb96f5cec90ae718"
+    },
+    {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/3.webp",
+      "size": 21508,
+      "sha256": "56bd0b6dbdfab794046fb88a5ed882e46920c63bc58abbd06d4328030c3a38b7"
+    },
+    {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/4.webp",
+      "size": 50122,
+      "sha256": "1f727d256c2818f47c709a355399496e80c50bc9b56fba62ad53ad09966b975b"
+    },
+    {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/5.webp",
+      "size": 33720,
+      "sha256": "41c683cc7b6240aed7b444f955603824030732aac4579eee6f3dae6861710989"
+    },
+    {
+      "path": "capturas/Hunting Simulator 3 Apex Predator Edition/6.webp",
+      "size": 44972,
+      "sha256": "e99552644efd1df84ecaec752cab6ad0c3828033bd2cb44852b49fd5d0470065"
+    },
+    {
       "path": "capturas/I Am Jesus Christ/1.webp",
       "size": 51892,
       "sha256": "23497a72bbb4b97d26c8275e0d75dfd849b07410aed20644a1899f070069feec"
@@ -4685,6 +4755,36 @@
       "path": "capturas/Resonance A Plague Tale Legacy/6.webp",
       "size": 18894,
       "sha256": "a45e40f0e3cf072bf24a548b7d0b4f6e3911368b9288c0f75100b5bbadf2c26e"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/1.webp",
+      "size": 19542,
+      "sha256": "bc8bc8ccc059a424a9d5990a7449570b92f9ffe43909e2615594cf1548a6020e"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/2.webp",
+      "size": 13848,
+      "sha256": "725a8ed68e791260f8923251ae1f20e624b33743d359225bc2898ef4e44c2ada"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/3.webp",
+      "size": 10874,
+      "sha256": "7a74639bf070f7f97521d3b954e8808a54ad53e266d0e7126609ee191df25175"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/4.webp",
+      "size": 41902,
+      "sha256": "2b727abc1c5375acec35efc0884d3f28ea409b28a758a5bcabc822801551f4cf"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/5.webp",
+      "size": 27868,
+      "sha256": "6fca2d98f26f933ca5a16bc194f2bd99275afd6632ab20d99cac75ffd4c5b86f"
+    },
+    {
+      "path": "capturas/Resonance of Fate End of Eternity Enhanced Remaster/6.webp",
+      "size": 28752,
+      "sha256": "b92de8a41e6aafc011bb527a0c7e49ca53bbab4c350c1c94b3679729f778cf75"
     },
     {
       "path": "capturas/Returning to Mia/1.webp",
@@ -6127,6 +6227,11 @@
       "sha256": "f392adfd33cccaded2ef7c75a90a172d28c0f4d94593a25a8ddb2b202462b92b"
     },
     {
+      "path": "sinopsis/Crackdown 3 Ultimate Edition.txt",
+      "size": 439,
+      "sha256": "7b14c71018a71f9ec46bee02715b9959a1e2626d1901b46e707115db1b3c270a"
+    },
+    {
       "path": "sinopsis/Crimson Desert Enhanced Deluxe Edition.txt",
       "size": 453,
       "sha256": "42b54a3528dac24a307e6b1ac6cea295b9155846871c278d997d0711be9588cf"
@@ -6367,6 +6472,11 @@
       "sha256": "c32410e921e8abd48e3277f7f48f0b7fb750b056cd67edb13ebe00289731c99e"
     },
     {
+      "path": "sinopsis/Hunting Simulator 3 Apex Predator Edition.txt",
+      "size": 870,
+      "sha256": "db65c775eec71a8c2f3727ac98ff86fcc254bf519ec2ef366d3409a791a5a17d"
+    },
+    {
       "path": "sinopsis/I Am Jesus Christ.txt",
       "size": 2092,
       "sha256": "1ab24730e6c659e5dfb4bf136a1aea943f970be1d7171823f1e7584698a1bb49"
@@ -6580,6 +6690,11 @@
       "path": "sinopsis/Resonance A Plague Tale Legacy.txt",
       "size": 500,
       "sha256": "a3efec2e24e579935bb0c4123a0f43875b5f5585fa3370033e483c740ffd5231"
+    },
+    {
+      "path": "sinopsis/Resonance of Fate End of Eternity Enhanced Remaster.txt",
+      "size": 844,
+      "sha256": "c76ec00d89fa0e45e501853f33fd71c1cc747789721d44b98ff1fdc61daa9b71"
     },
     {
       "path": "sinopsis/Returning to Mia.txt",
@@ -6992,6 +7107,11 @@
       "sha256": "55c66568221649b13411dade9db77da3347e13100d2a1fde9f03348a1f1e6203"
     },
     {
+      "path": "datos/Crackdown 3 Ultimate Edition.txt",
+      "size": 212,
+      "sha256": "c0adecf7a1f7bfd2d3c91333b3284df81cd76722925d5a8b68b0e65fcedeb436"
+    },
+    {
       "path": "datos/Crimson Desert Enhanced Deluxe Edition.txt",
       "size": 211,
       "sha256": "462e41653be9bd4ba752de62c60463ea7394bc77ffea1f266a8328e3433e14b6"
@@ -7232,6 +7352,11 @@
       "sha256": "eb0df67b1aa104bf014176656990578466eba87e87e0e259e6067f4ff3402e69"
     },
     {
+      "path": "datos/Hunting Simulator 3 Apex Predator Edition.txt",
+      "size": 196,
+      "sha256": "71fa8078051fde8d7330a0fde349f2114424185482bf5e081ae84a4a033679ef"
+    },
+    {
       "path": "datos/I Am Jesus Christ.txt",
       "size": 198,
       "sha256": "d98c2811f4c28c9cac0e5ce1102661d16f9e8fdc2a8b417ec6bfd0edd67a696a"
@@ -7445,6 +7570,11 @@
       "path": "datos/Resonance A Plague Tale Legacy.txt",
       "size": 204,
       "sha256": "7afc35552cc49c750765db51634f914b307a203cc63ed73f337b80984e4f05cd"
+    },
+    {
+      "path": "datos/Resonance of Fate End of Eternity Enhanced Remaster.txt",
+      "size": 187,
+      "sha256": "3b4c274332f92f3f3fa2e28d94b02dd126f6a967747cc69ac31acca41e9106af"
     },
     {
       "path": "datos/Returning to Mia.txt",

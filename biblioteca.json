@@ -7113,13 +7113,13 @@
     },
     {
       "path": "datos/Assassins Creed Odyssey.txt",
-      "size": 177,
-      "sha256": "3190aa36ae968c98e96a693d4bc96a36b4da5903bb88b6136995bd9dcacb064f"
+      "size": 194,
+      "sha256": "fc7ab1c4342105441ccb3701423b2668e35f815a8608c5acb189647b4f69b5d6"
     },
     {
       "path": "datos/Assassins Creed Origins Gold Edition.txt",
-      "size": 177,
-      "sha256": "b46041a75ef265d4f204185a2203d0cb54c7d3e6d91e3d05588a4aaa4eeafe9d"
+      "size": 194,
+      "sha256": "b55ae48e99196d160b52cc8de13e69ec4c93948df3ef1334388eccf0de85dfad"
     },
     {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
@@ -7278,8 +7278,8 @@
     },
     {
       "path": "datos/Crimson Desert Enhanced Deluxe Edition.txt",
-      "size": 211,
-      "sha256": "462e41653be9bd4ba752de62c60463ea7394bc77ffea1f266a8328e3433e14b6"
+      "size": 228,
+      "sha256": "892c522f3440a0d42df394c8b880f9e2829ac47fc5fa79e3b623ad5ccfa7d6f1"
     },
     {
       "path": "datos/Croc 2 Kingdom of the Gobbos.txt",
@@ -7368,13 +7368,13 @@
     },
     {
       "path": "datos/EA SPORTS FC 26.txt",
-      "size": 213,
-      "sha256": "612032a38fd315823dd6268c664b10d846bf7e533997a764e6a97a5ce91bf51f"
+      "size": 217,
+      "sha256": "63b291ea66bab29dccac6e9368b0ed6c5f96535478d4da7fbed338bdcb3bd055"
     },
     {
       "path": "datos/EA SPORTS FC 27.txt",
-      "size": 214,
-      "sha256": "782e96218ad4a2259f87497e8d948fe9d910869e13a48bc460af3420b19a1569"
+      "size": 217,
+      "sha256": "3bc1d700103fcbd816487fecc6a58b57644407ccd1ad98d93cab204202f2e5e3"
     },
     {
       "path": "datos/EA SPORTS FIFA 23.txt",
@@ -7553,8 +7553,8 @@
     },
     {
       "path": "datos/Jurassic World Evolution 3 Premium Edition.txt",
-      "size": 236,
-      "sha256": "32a53abfe2b269e05f9d8b54545432e03a62d781ce67460a7045d7df39f02e5f"
+      "size": 254,
+      "sha256": "85d1f662196f777ee938e5060d745aeab1fc608867d4ed14d2da17e110068dda"
     },
     {
       "path": "datos/Keep Driving.txt",
@@ -7583,8 +7583,8 @@
     },
     {
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
-      "size": 234,
-      "sha256": "9f5922fc9129926042716f9208f3549c161183e0225f0635679c52e2ed86ed3c"
+      "size": 252,
+      "sha256": "1340b660d3be2060daaf3f11930d7bd288cf5a78f3910db95f746a8f4bb6ade2"
     },
     {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
@@ -7623,8 +7623,8 @@
     },
     {
       "path": "datos/Monster Hunter Wild.txt",
-      "size": 254,
-      "sha256": "6ecbe3f3fb9011ba40acc7b67d42f1f038c1861ee1c04a006f72d218fa2facd1"
+      "size": 272,
+      "sha256": "f7f24717cf637b3fe3f5814c3ed5ccb2c6bbebcf07a58fe938031427f8d7f23c"
     },
     {
       "path": "datos/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.txt",
@@ -7643,8 +7643,8 @@
     },
     {
       "path": "datos/NBA 2K27.txt",
-      "size": 202,
-      "sha256": "7ac5b8ed97e5b16f0bd67b6aaa5f949711e299b976f1789180a8e6a6271c1690"
+      "size": 220,
+      "sha256": "2311b72a8ed39a146c78cab4f15eff468881cb4b04d19299f381c172f22965ac"
     },
     {
       "path": "datos/Need For Speed Most Wanted HD.txt",
@@ -7663,8 +7663,8 @@
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
-      "size": 206,
-      "sha256": "a5ad20504051a71af95de685dda12961e22a149898a046e32ef5129dcdf3928d"
+      "size": 224,
+      "sha256": "becc34628010a333ae02bda918ed1503ee95f3452363dbb37a012c8bc5d54b17"
     },
     {
       "path": "datos/Palworld.txt",
@@ -7673,8 +7673,8 @@
     },
     {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
-      "size": 250,
-      "sha256": "6945c1a7ae00dccc7b403ab3d6106cbd85ad89f1f79b0b2c8e20e62c0b5100ed"
+      "size": 268,
+      "sha256": "105ce54e86a59f5d8b49e934e356a4a95d2da0af47e161b2c72a07a4cf1ae0e2"
     },
     {
       "path": "datos/Planet of Lana II Children Of The Lead.txt",
@@ -7788,13 +7788,13 @@
     },
     {
       "path": "datos/Sniper Elite 5 Complete Edition.txt",
-      "size": 259,
-      "sha256": "46b8a19214a026adb01a5c437c67735b76c50e8a6ed660a7c65b82495926f992"
+      "size": 277,
+      "sha256": "3457765b174e2aa57e0523c0cd8bef7e3d6a7981c930f5706819becf794d2c57"
     },
     {
       "path": "datos/Sniper Elite Resistance Deluxe Edition.txt",
-      "size": 259,
-      "sha256": "3b0680977f2876dc02daaf7f8fec01b51140a83ec3c9dc1dc24aae39f28d8f4a"
+      "size": 277,
+      "sha256": "b6c6a5fb95d2bcde50577e7e827f8114c531f41585887f44917cee07cfb118a4"
     },
     {
       "path": "datos/Solo Leveling Arise Overdrive.txt",
@@ -7808,8 +7808,8 @@
     },
     {
       "path": "datos/Star Wars Galactic Racer Deluxe Edition.txt",
-      "size": 228,
-      "sha256": "1f39326767ead59b6f55e03f9aa3473d533a3bb18a32f013a9be28c11ab8b067"
+      "size": 246,
+      "sha256": "70dfb89c785ad256a2f664f36cab3666a4ebe8d0c1f4052184f3c4650ffbe5c8"
     },
     {
       "path": "datos/Star Wars Jedi Survivor.txt",
@@ -7923,8 +7923,8 @@
     },
     {
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
-      "size": 241,
-      "sha256": "7ad97e0953709a2a7ef8d2aaf6da62c66eaa28f498a03ee37faf5085042472d4"
+      "size": 259,
+      "sha256": "37d1b1d1b442c2481991193d114fb674553aaf71417ebf5967da0566976ba095"
     },
     {
       "path": "datos/Tomb Raider Definitive Edition.txt",
@@ -7968,8 +7968,8 @@
     },
     {
       "path": "datos/WWE 2K26.txt",
-      "size": 190,
-      "sha256": "21f3209db95e743f274c45f6d7879bfc548be667bc50c8607bd674e3f98ca4ad"
+      "size": 215,
+      "sha256": "442f9a5dcae5597d55215fe4f5d911dfacf7890767ec4025b4a4b9d1833eac17"
     }
   ]
 }

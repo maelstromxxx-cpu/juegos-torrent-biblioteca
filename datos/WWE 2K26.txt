@@ -1,5 +1,5 @@
 Año: 2026
-Género: Simuladores / Deportes
+Género: Simuladores / Deportes / Lucha
 Tamaño: 107 GB
 Modo: Singleplayer / Multiplayer
 Idioma: MULTI
@@ -7,3 +7,4 @@ Fecha de incorporación: 01/11/2026
 Puntuación: 5,6
 Metacritic: 
 Repacker: FitGirl
+Crack: Hypervisor

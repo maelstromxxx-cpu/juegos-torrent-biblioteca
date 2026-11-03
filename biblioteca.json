@@ -342,6 +342,11 @@
       "sha256": "f1e2ecaedbe99f6302f5f4f1b6eaf2a549aac0a004343a8fa09b2be48f7c185e"
     },
     {
+      "path": "imagenes/Forza Horizon 2 Ultimate Edition.webp",
+      "size": 38876,
+      "sha256": "9e0f646d867716501e297d78a08f3e4fce18bedf22720ff03a547b94a7b3a974"
+    },
+    {
       "path": "imagenes/Forza Horizon 3.webp",
       "size": 23274,
       "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
@@ -2860,6 +2865,36 @@
       "path": "capturas/Farming Simulator 25 Year 1 Bundle/5.webp",
       "size": 32248,
       "sha256": "60402172ac5930cf91b1b63b5ad05ec3872122a11c46b9ced03f0702de26570f"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/1.webp",
+      "size": 20960,
+      "sha256": "b52ba8f46afff6870143695049294c1987e0ed3cf5a51894bb4070efcd548aad"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/2.webp",
+      "size": 20002,
+      "sha256": "937f7ced2842b380199ed1066e24a7a44d67aa29654bfc7be7931bd923b495a0"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/3.webp",
+      "size": 23808,
+      "sha256": "9e1ded094f805519129aa29a76d5610caae101c8851ca3005820e2aa3513590b"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/4.webp",
+      "size": 28604,
+      "sha256": "60d4c9082ee40e367bd37d933c6fd8d47407d0c8ebad337d5b5a394b111efa08"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/5.webp",
+      "size": 23424,
+      "sha256": "02aac9d9e5d9536151ea9adb93fcbe1910e98346e96bac3ba803d79ca51af1b8"
+    },
+    {
+      "path": "capturas/Forza Horizon 2 Ultimate Edition/6.webp",
+      "size": 17658,
+      "sha256": "9ffec73d3d0b71012ed6b0720e5ee808bfaf81ca7019a742bb74e969345468e4"
     },
     {
       "path": "capturas/Forza Horizon 3/1.webp",
@@ -6377,6 +6412,11 @@
       "sha256": "94d46bdfe03c00d0da05cff7ffe18bce131af18a03661cea92055e83e5e02a4e"
     },
     {
+      "path": "sinopsis/Forza Horizon 2 Ultimate Edition.txt",
+      "size": 464,
+      "sha256": "cc905a120ea55cf8358d2800b89aff87fba572cee34d2dc342cd97df9d73f6fa"
+    },
+    {
       "path": "sinopsis/Forza Horizon 3.txt",
       "size": 615,
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
@@ -7255,6 +7295,11 @@
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 202,
       "sha256": "9066577474a45914d1f9630f80694fbb56d7089ab075494397e8de1ec2b0cc89"
+    },
+    {
+      "path": "datos/Forza Horizon 2 Ultimate Edition.txt",
+      "size": 231,
+      "sha256": "7f6976205ce5e2ebf8d8cba3dcde1bef07ce1f546f13b66e6215d2e1bd5a1dc9"
     },
     {
       "path": "datos/Forza Horizon 3.txt",

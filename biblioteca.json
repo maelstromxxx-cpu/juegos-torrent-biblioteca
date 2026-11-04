@@ -262,6 +262,11 @@
       "sha256": "6e69165670c2f1e8af03f06b0f16c6a96b4eb72818344da29a21bfeb10e7a787"
     },
     {
+      "path": "imagenes/Death Stranding 2 On The Beach Digital Deluxe Edition.webp",
+      "size": 46460,
+      "sha256": "616c4047fd2ae40f0f915074dee498ad225fcfe25dc912b37d57bcec8c35ae6e"
+    },
+    {
       "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
       "size": 54612,
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
@@ -2530,6 +2535,36 @@
       "path": "capturas/Days Gone/6.webp",
       "size": 15876,
       "sha256": "12018cc3eef754f91fa818e52f4157ffff62677dcd571d3f048283d803ea173a"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/1.webp",
+      "size": 15810,
+      "sha256": "144d61e66fe53eeb43b42b55dba5309e914f3699c347b3228caeca99e92509da"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/2.webp",
+      "size": 9424,
+      "sha256": "ac5a5a28b7e4133d714b63d15e670aec9774e6d9aca48166b32c58a1daefed69"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/3.webp",
+      "size": 34476,
+      "sha256": "622c9bf3cd4f1f1d9decf6c50835695ea47a47688f474ca76dd0986d224a990a"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/4.webp",
+      "size": 14322,
+      "sha256": "ff43cc7b15ba67bb516e2842db761491ca6f96f8ae7cbcb65019dfcc3f79cb2c"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/5.webp",
+      "size": 8634,
+      "sha256": "23a9defb519f5da691e02bb6528df9c2598bfb377d3f42e7f37ebd6fbf458318"
+    },
+    {
+      "path": "capturas/Death Stranding 2 On The Beach Digital Deluxe Edition/6.webp",
+      "size": 9388,
+      "sha256": "9ef8a9af3ba8b62f75bf6f2b46a11e979f5df5a668971767bfb2caa4b3462aa2"
     },
     {
       "path": "capturas/Deep Rock Galactic Deluxe Edition/1.webp",
@@ -7137,6 +7172,11 @@
       "sha256": "9f5422b905f328c892c2a8bd79db5c4ee9ecf6ca7550b9788aee8b22deb52dce"
     },
     {
+      "path": "sinopsis/Death Stranding 2 On The Beach Digital Deluxe Edition.txt",
+      "size": 944,
+      "sha256": "bdb083c2fd508d2cf3d814df504c87d4449edfdcf3e233ca0420db594517bd8e"
+    },
+    {
       "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
       "size": 529,
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
@@ -8135,6 +8175,11 @@
       "path": "datos/Days Gone.txt",
       "size": 173,
       "sha256": "67448b1bd57c4e32c6e85d47813b15188b7febeecd5da77a77e191259eb6df89"
+    },
+    {
+      "path": "datos/Death Stranding 2 On The Beach Digital Deluxe Edition.txt",
+      "size": 193,
+      "sha256": "85294fe93d12ea73971bafee002c3690b53e76ce867496ff9fbfdc940c395ce6"
     },
     {
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",

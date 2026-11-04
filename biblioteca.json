@@ -192,6 +192,11 @@
       "sha256": "7f8221708f7193e14866406f5c0eebb0bbfd6599ea21652488cac07b4b339efa"
     },
     {
+      "path": "imagenes/Chained Together.webp",
+      "size": 50964,
+      "sha256": "d6b9378027f443541afc2c3c95d718c44f9a4868bbd4182a78d2866f0cc8c681"
+    },
+    {
       "path": "imagenes/Clive Barkers Hellraiser Revival Deluxe Edition.webp",
       "size": 46782,
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
@@ -255,6 +260,11 @@
       "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
       "size": 54612,
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
+    },
+    {
+      "path": "imagenes/Detroit Become Human.webp",
+      "size": 39024,
+      "sha256": "92cb95915842eeda2ffd6215c9902d71c1fd24468c68ced2f78e0d6169ed40af"
     },
     {
       "path": "imagenes/Directive 8020 Deluxe Edition.webp",
@@ -667,6 +677,11 @@
       "sha256": "030902fc18c9bb5888e4e08aed85a8ba372de38b7b41adecf1f651e47a681275"
     },
     {
+      "path": "imagenes/Probably Stolen Cyberpunk Shopkeeper Sim.webp",
+      "size": 59700,
+      "sha256": "9029309320c7126d345a5a6de686c45d6e27089369d92954316e9f6b50dbf15a"
+    },
+    {
       "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
       "size": 14344,
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
@@ -930,6 +945,11 @@
       "path": "imagenes/Tomb Raider IV-VI Remastered.webp",
       "size": 63316,
       "sha256": "72b1ed22c1227daf2ee14d277ca426d54fa0b2c795373f45b54453d3ee7880e2"
+    },
+    {
+      "path": "imagenes/Toy Shire.webp",
+      "size": 39754,
+      "sha256": "5a83a45ed4c815936bd9561ccc808440aef208f0825dd1d2dc5a15efadad1d10"
     },
     {
       "path": "imagenes/Uncharted Legacy of Thieves Collection.webp",
@@ -2087,6 +2107,36 @@
       "sha256": "74a4c2a392b43333dc321521e053b899d1ed6baff49ab29bdecb2cbb1310fe72"
     },
     {
+      "path": "capturas/Chained Together/1.webp",
+      "size": 13258,
+      "sha256": "783e09738074b24c7d728c145b78f93e6dcedab1422de74971d607eefad151ed"
+    },
+    {
+      "path": "capturas/Chained Together/2.webp",
+      "size": 18464,
+      "sha256": "2664de1fef653c2b02bd5932091a8d3293be4276f7e881848ccd310273bb62bb"
+    },
+    {
+      "path": "capturas/Chained Together/3.webp",
+      "size": 9560,
+      "sha256": "b99aaa4bef690ebfca1be0172ca4ef816523a8e6b55051f2bfd20048157d2c22"
+    },
+    {
+      "path": "capturas/Chained Together/4.webp",
+      "size": 26824,
+      "sha256": "9290410d09683ba0177882035f275ee95080b180062fd002177515057acc7958"
+    },
+    {
+      "path": "capturas/Chained Together/5.webp",
+      "size": 22450,
+      "sha256": "5d0c4441d73eb15ddb8a3f8dd3f47d739d125930711c0602ba026b8e7521e806"
+    },
+    {
+      "path": "capturas/Chained Together/6.webp",
+      "size": 14484,
+      "sha256": "4015b7a54fcdad948ec2604b256235a89c347b1d63dcb5d7814d0b1193ae335b"
+    },
+    {
       "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/1.webp",
       "size": 126770,
       "sha256": "fb8178099265672c8cadaa1cd4b5382cf2542d09468b0dfcc06d63dea14f9858"
@@ -2475,6 +2525,36 @@
       "path": "capturas/Deep Rock Galactic Deluxe Edition/6.webp",
       "size": 22000,
       "sha256": "bdc92f689f985e8fa43e7bbb7f2bbacb69ade7c3d6695ab9186c62a1ed2062ca"
+    },
+    {
+      "path": "capturas/Detroit Become Human/1.webp",
+      "size": 13306,
+      "sha256": "f27dddb54bf9648951ed5ed25e30e0748270e2150b9a8330f3b890488b342578"
+    },
+    {
+      "path": "capturas/Detroit Become Human/2.webp",
+      "size": 31626,
+      "sha256": "48160026bd972af5d59302ec41f461fb198f628acb42640f873cfb5375354611"
+    },
+    {
+      "path": "capturas/Detroit Become Human/3.webp",
+      "size": 16992,
+      "sha256": "c89d743facd1e567e8716a9496c4b823378cddad19ac251a76f8b29fa3f6374a"
+    },
+    {
+      "path": "capturas/Detroit Become Human/4.webp",
+      "size": 32944,
+      "sha256": "b1ccc2cf51bcb7b00f6b62bd83c4607359f3282f846d11ba0d0f127d47ddefb8"
+    },
+    {
+      "path": "capturas/Detroit Become Human/5.webp",
+      "size": 18696,
+      "sha256": "2e907b103bf4d00fcf8d92843d1b421d0cf89780f2359470c0dbb010a2039ce2"
+    },
+    {
+      "path": "capturas/Detroit Become Human/6.webp",
+      "size": 11494,
+      "sha256": "7b5b1cf6f975caec0b9a39910bcb795908321e16bc6bbcfce3f6f0449ee67da2"
     },
     {
       "path": "capturas/Directive 8020 Deluxe Edition/1.webp",
@@ -4887,6 +4967,36 @@
       "sha256": "a21d8bdf9a3f27b113bdfb8a9dbd2c7e2d65ca52881833f2068abd0f6701d214"
     },
     {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/1.webp",
+      "size": 27936,
+      "sha256": "eb04d5671eae62068890452e60da65f81f6349582839d4e36252dc3635267919"
+    },
+    {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/2.webp",
+      "size": 23066,
+      "sha256": "fb20311eaf3e831aa7e5905af74c1ecfb05725d631d3ea3600ddcbda07fb9a4d"
+    },
+    {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/3.webp",
+      "size": 22856,
+      "sha256": "93afe1eeeb74dd4fbcf7330c11c5f8e0f4a5dad50799a1af6f508b674cc59b64"
+    },
+    {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/4.webp",
+      "size": 23730,
+      "sha256": "8da925d2cf1cda945eb12ee976cd770368e4fced300389c15735f25280bcc129"
+    },
+    {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/5.webp",
+      "size": 39020,
+      "sha256": "eb64ef26043fabac5cf971fcde71d932709a5dc223615f1c90803fb2976c03e9"
+    },
+    {
+      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/6.webp",
+      "size": 14306,
+      "sha256": "f8fd144dd1af9704830a5cc3307bf17c2fd8b196cdfe2c66317da0c702b924d3"
+    },
+    {
       "path": "capturas/Project Hunt Maps & Weapons Bundle/1.webp",
       "size": 15134,
       "sha256": "f2a1465ffd5d3a55efd366090069746054fb4cbf3a16bbc49f072d4f2906c9ec"
@@ -6467,6 +6577,36 @@
       "sha256": "58c7b53718abf5765031139fe6b87825f74d6605b7cdba07f30e467a90b2bef8"
     },
     {
+      "path": "capturas/Toy Shire/1.webp",
+      "size": 22218,
+      "sha256": "70d95f476d7aa84d1865def22823fa425d286ad89652f423189d43be28949c71"
+    },
+    {
+      "path": "capturas/Toy Shire/2.webp",
+      "size": 23358,
+      "sha256": "12835d7d5bdcdc682a4577d4c7419b1c374d396b70f5fd96243d5a4679dce4d2"
+    },
+    {
+      "path": "capturas/Toy Shire/3.webp",
+      "size": 29030,
+      "sha256": "366fc0cd5b1f21e8a38d5f942b7e837cbee49b011f83f9b6fb8351b194f4db39"
+    },
+    {
+      "path": "capturas/Toy Shire/4.webp",
+      "size": 27414,
+      "sha256": "b23b455e5a0eca3134ea7af6073e07b1f7149d277d0d690b450e2efb9a31b2d8"
+    },
+    {
+      "path": "capturas/Toy Shire/5.webp",
+      "size": 15768,
+      "sha256": "31788d05507334cfccc976f9674a3644802883d8e172c4333dbe351f8aa78466"
+    },
+    {
+      "path": "capturas/Toy Shire/6.webp",
+      "size": 30900,
+      "sha256": "b92f47f7bb38ace06fd549765acf01214450f7fe49ef949b53959849e89c33aa"
+    },
+    {
       "path": "capturas/Uncharted Legacy of Thieves Collection/1.webp",
       "size": 11008,
       "sha256": "5dc751c494b8502dbb88f3ea5fb82627d083a4ce0e0624a2a0eff036d0f97099"
@@ -6892,6 +7032,11 @@
       "sha256": "1354253191f3562dbccbb0f90f923f25c592597c2fe22cb4fbd3a6fb4c64f1c0"
     },
     {
+      "path": "sinopsis/Chained Together.txt",
+      "size": 451,
+      "sha256": "4aff0f6e9fd0fcf37446ba6538d7802bd97e9f2f7913fafb1389eddef08910a3"
+    },
+    {
       "path": "sinopsis/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
       "size": 1272,
       "sha256": "9170a9a914321c064804f758692a39b2b4f6c8c521893a9c4736904305e44669"
@@ -6955,6 +7100,11 @@
       "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
       "size": 529,
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
+    },
+    {
+      "path": "sinopsis/Detroit Become Human.txt",
+      "size": 661,
+      "sha256": "0eb6b0cec436e920d74fd2c79ef3748648a670df484dff2df7d424f3077154e7"
     },
     {
       "path": "sinopsis/Directive 8020 Deluxe Edition.txt",
@@ -7367,6 +7517,11 @@
       "sha256": "b3c81ca02e0e238961bb892cd635bc87e8aeb70d7bd6386a0fe6fe201753aeef"
     },
     {
+      "path": "sinopsis/Probably Stolen Cyberpunk Shopkeeper Sim.txt",
+      "size": 2079,
+      "sha256": "403863c91a6f69fb9439969ce438307f7ff0cd7d49643634a8086213837a41f0"
+    },
+    {
       "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
       "size": 760,
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
@@ -7632,6 +7787,11 @@
       "sha256": "afd4692966fb4d1fbaeb514753c29a28268937f2fd15f6d7152a0ea26f230feb"
     },
     {
+      "path": "sinopsis/Toy Shire.txt",
+      "size": 1570,
+      "sha256": "a249d5ed93738627239c0af269703c9daa9bab01b0f167be18637252cc067822"
+    },
+    {
       "path": "sinopsis/Uncharted Legacy of Thieves Collection.txt",
       "size": 303,
       "sha256": "5cb8f1f26af7e14bcc7894b46ce3c93ad02cac2b2191e7f0c86a8ba7f887914e"
@@ -7867,6 +8027,11 @@
       "sha256": "9beb820631bd8ac6fa8fe6bc6ef4ff0ee089c59d5ecbe09ffc9d202b98d4bade"
     },
     {
+      "path": "datos/Chained Together.txt",
+      "size": 207,
+      "sha256": "1fe4e00e7e6d18b0390827b4fd4090469dde8748c44e282944e05f90d061690e"
+    },
+    {
       "path": "datos/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
       "size": 187,
       "sha256": "aed1edef6029f09ab6863e26e3c4495c556942e8938ade457ffde09242b9bdbf"
@@ -7930,6 +8095,11 @@
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
       "size": 193,
       "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
+    },
+    {
+      "path": "datos/Detroit Become Human.txt",
+      "size": 173,
+      "sha256": "2b10585dcb3304e3fb90c8bda555c31b6edf6a523bd533e354fb4d8195a565d6"
     },
     {
       "path": "datos/Directive 8020 Deluxe Edition.txt",
@@ -8342,6 +8512,11 @@
       "sha256": "132c7e10fd3be54636dc27a6ca557d7c019d1338c0720f865b899f2879e941bf"
     },
     {
+      "path": "datos/Probably Stolen Cyberpunk Shopkeeper Sim.txt",
+      "size": 192,
+      "sha256": "38e7fd20b828871a5980c35daaa752b8f1f0a72a0d3ddb7625ad2ac2bb422a63"
+    },
+    {
       "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
       "size": 213,
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
@@ -8605,6 +8780,11 @@
       "path": "datos/Tomb Raider IV-VI Remastered.txt",
       "size": 186,
       "sha256": "67fcd43cdc1395087cd0cd4c63fc2d639b2d45002eed0b4c894a06011c3fe569"
+    },
+    {
+      "path": "datos/Toy Shire.txt",
+      "size": 188,
+      "sha256": "b01a6463f9ed6fcfb22d9477f01afc7f1134ecb4b507fe29dad1c9ba0decd740"
     },
     {
       "path": "datos/Uncharted Legacy of Thieves Collection.txt",

@@ -1,0 +1,9 @@
+Año: 2026
+Género: Aventura
+Tamaño: 10 GB
+Modo: Singleplayer / Multiplayer
+Idioma: MULTI
+Fecha de incorporación: 03/11/2026
+Puntuación: 7,5
+Metacritic: 80
+Repacker: FitGirl

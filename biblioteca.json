@@ -342,6 +342,11 @@
       "sha256": "c172a9fa10c097637fb1d2666963fb5b065d168e6137a8c2f496a0a6938b50be"
     },
     {
+      "path": "imagenes/Far Cry 3 Digital Deluxe Edition + Blood Dragon.webp",
+      "size": 118688,
+      "sha256": "6391850700f5cb5ee5a003fe9ff0c2dcea61011ab278533fd5739da35ca90b5a"
+    },
+    {
       "path": "imagenes/Far Cry 4 Gold Edition.webp",
       "size": 103696,
       "sha256": "60a8a1d21c8a60f8e1e7f1ec431c8a7281587b7ba14ed0e491d0a641c1aeaf42"
@@ -2955,6 +2960,36 @@
       "path": "capturas/Euro Truck Simulator 2/6.webp",
       "size": 12456,
       "sha256": "176b1ba46e6440efb8360c29d2d18b95292ea0c17aa4b263f4f207a14c2ee722"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/1.webp",
+      "size": 32648,
+      "sha256": "fd728b4ddad8d226acc6dc778e0466d9fc68890f62bbfa2b4a0d4f96b3e16d32"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/2.webp",
+      "size": 51022,
+      "sha256": "bbed89edc8eccd2ec57353070fb2ec34b73c8a454fa97fda10630c2be08623bd"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/3.webp",
+      "size": 36630,
+      "sha256": "c48ab2ec5c74c0d17585598d14f9bc0c8a28df4e1d1956b3d2e2504427836e2b"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/4.webp",
+      "size": 39290,
+      "sha256": "ba4c13a726a054c68b83d7fd89c8a34483ac3974c603e505c65f6ad4c41911ad"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/5.webp",
+      "size": 29152,
+      "sha256": "e17483eb20e168d51520092e5fa28a229907cfe0292a75d6bb4b6d2fd573b928"
+    },
+    {
+      "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/6.webp",
+      "size": 36510,
+      "sha256": "3f4c148ea45aea3fa71dabe4d94c291d3e46da3de1844701ef57aa1cdc5e6d57"
     },
     {
       "path": "capturas/Far Cry 4 Gold Edition/1.webp",
@@ -7007,6 +7042,11 @@
       "sha256": "236409cf8157aba9dbe850277bbed585c1b1937d92fea5a3445de5e1695f91ef"
     },
     {
+      "path": "sinopsis/Far Cry 3 Digital Deluxe Edition + Blood Dragon.txt",
+      "size": 517,
+      "sha256": "727af25c88ad678749c3a9ea73d440ae48776ddde1183ae1b4ff9ae5d41b4562"
+    },
+    {
       "path": "sinopsis/Far Cry 4 Gold Edition.txt",
       "size": 505,
       "sha256": "b23b63350c243da2e695402e178007118b21e5bb4a1f14b3a7c7e870f9073024"
@@ -7975,6 +8015,11 @@
       "path": "datos/Euro Truck Simulator 2.txt",
       "size": 188,
       "sha256": "5a6376e6d8f50a14ab359ae6bf8a282e02383297ed4bc66a34a7645ba927b19f"
+    },
+    {
+      "path": "datos/Far Cry 3 Digital Deluxe Edition + Blood Dragon.txt",
+      "size": 186,
+      "sha256": "b381b4fe6dbe473b4e7b9e9d0694c63d3411d59c6734b41ddadd830457443086"
     },
     {
       "path": "datos/Far Cry 4 Gold Edition.txt",

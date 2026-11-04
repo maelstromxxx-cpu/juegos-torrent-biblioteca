@@ -507,6 +507,11 @@
       "sha256": "e06d38d3f93d4e798e7f5c2fa05d6c1c23d90c6e5aa7492bac21a68982e8a0f6"
     },
     {
+      "path": "imagenes/Lust ‘n Dead.webp",
+      "size": 21430,
+      "sha256": "6b60b7159bac0d0c11bf2d4e3d7d7063dabb153158c93b2bf3b6dc16c8e68e99"
+    },
+    {
       "path": "imagenes/Mafia The Old Country Definitive Edition.webp",
       "size": 32458,
       "sha256": "e11df64f1f917b44b824d28cb79127945e625fbf4f4567d57a3e7d7fce297ea3"
@@ -525,6 +530,11 @@
       "path": "imagenes/Marvels Spider-Man Remastered.webp",
       "size": 34594,
       "sha256": "e6e726d72e861359e4447a85bfd1bc047682dc5ab93e7df690e29c42bd361fe1"
+    },
+    {
+      "path": "imagenes/Max Payne 3 Complete Edition.webp",
+      "size": 55470,
+      "sha256": "b3f26a7ac9bfbb7796a0d63144d031590651cf71a4bab2b20ade038d76149e3d"
     },
     {
       "path": "imagenes/Metal Gear Solid 4 Guns of the Patriots Master Collection.webp",
@@ -555,6 +565,11 @@
       "path": "imagenes/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.webp",
       "size": 31936,
       "sha256": "2d1be4ec396139fc4fc6a0f6234b49d3d4dc69d2c72c3e4b0331e54fcca33eb4"
+    },
+    {
+      "path": "imagenes/Mortal Kombat 11 Ultimate Edition.webp",
+      "size": 64062,
+      "sha256": "968b54d619930ad44de1abb8dc3abaa2916606b744d3e92eff865e9e7510c838"
     },
     {
       "path": "imagenes/Mortal Shell II Devout Edition.webp",
@@ -797,6 +812,11 @@
       "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
     },
     {
+      "path": "imagenes/The Elder Scrolls V Skyrim Anniversary Edition.webp",
+      "size": 25794,
+      "sha256": "3140be4e21647d2be552ae50bd7be8d70fcfeb81b6fffa942d97153c0be1a746"
+    },
+    {
       "path": "imagenes/The First Berserker Khazan Deluxe Edition.webp",
       "size": 47810,
       "sha256": "7d50f57ab3c0df730549ff04f69482e9fadf342877ea98f36babb74e7e095510"
@@ -875,6 +895,11 @@
       "path": "imagenes/Uncharted The Nathan Drake Collection.webp",
       "size": 57180,
       "sha256": "93acbec514b478f682849f97b9de0015be70278f2d0bdef696445ce0ecafb2dd"
+    },
+    {
+      "path": "imagenes/Violet.webp",
+      "size": 11226,
+      "sha256": "4fd9b55dfd30d0edb65d88d288224e3ffc333c9b053553ce5b4758afc26a8326"
     },
     {
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
@@ -3867,6 +3892,36 @@
       "sha256": "b1b9c8eb16b0690d8102fa4184027036239f4cf5205823608de630da805788ab"
     },
     {
+      "path": "capturas/Lust ‘n Dead/1.webp",
+      "size": 13564,
+      "sha256": "de97399703d84a71fda2e10e4f73b2e07713eca7be2240b2a14e5ba822c98a8d"
+    },
+    {
+      "path": "capturas/Lust ‘n Dead/2.webp",
+      "size": 12816,
+      "sha256": "d325d539006b43316754acac7f4e37dbd1e616e6dd965aea4f8d7fa2de09dfd1"
+    },
+    {
+      "path": "capturas/Lust ‘n Dead/3.webp",
+      "size": 11560,
+      "sha256": "a12da433f27d978d5f7f651d89be04126027f94ca12d4fe38206e1d2af15f5bd"
+    },
+    {
+      "path": "capturas/Lust ‘n Dead/4.webp",
+      "size": 10912,
+      "sha256": "a7407789d786d6f71607b80467529addc2aea40f4e3f1713c9c8c48e91573c06"
+    },
+    {
+      "path": "capturas/Lust ‘n Dead/5.webp",
+      "size": 9802,
+      "sha256": "3da25116005d45621818768cfd49550b1f6cb03e4451be670486c3cb5f74b1bc"
+    },
+    {
+      "path": "capturas/Lust ‘n Dead/6.webp",
+      "size": 11458,
+      "sha256": "85d1defc2f5900fd542334b646a38794252ba80de706273d59e14537538cf470"
+    },
+    {
       "path": "capturas/Mafia The Old Country Definitive Edition/1.webp",
       "size": 36822,
       "sha256": "aaf41e0b66b36cbcf819bb2f35dde2810db9514e266db02b6b3d6ca1455c4137"
@@ -3985,6 +4040,36 @@
       "path": "capturas/Marvels Spider-Man Remastered/6.webp",
       "size": 20740,
       "sha256": "0289e51ee92ef9a3f41f2bc29ea714f98d34bf3cfd3056a2e705a096d8baf08f"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/1.webp",
+      "size": 22896,
+      "sha256": "ee1b73d997192e8f19e9c75e46f750c17b0c9a1ab1f5b957e7a1cdc9e56221ae"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/2.webp",
+      "size": 28308,
+      "sha256": "694316632ca29726175fe9567140345ef1ca925bbf534cf98e0b80eec9bcc5ac"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/3.webp",
+      "size": 23034,
+      "sha256": "55f421d733cd4c67b0e4204aa3f2cd4fe1e36a506f13fba6006d60bdb93bb3b5"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/4.webp",
+      "size": 26652,
+      "sha256": "2b7cea8e3ab46f6d5c0e1fb913c5002a51338476774869f0d9f42954694b0a3d"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/5.webp",
+      "size": 22566,
+      "sha256": "5cc7edf3596ad094df81c3f206544104ac49d6dad9a41e59af106bb964cb1288"
+    },
+    {
+      "path": "capturas/Max Payne 3 Complete Edition/6.webp",
+      "size": 16510,
+      "sha256": "e58158a9db9f84901d0c1cbb888625e544db41e28a087c8355a2b93f0bfc4f99"
     },
     {
       "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/1.webp",
@@ -4165,6 +4250,36 @@
       "path": "capturas/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition/6.webp",
       "size": 20316,
       "sha256": "f91cd2d786ed22b171af98008a4e6af1340bb5c4301fa99112527f75def3d617"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/1.webp",
+      "size": 30534,
+      "sha256": "4fe18ec67ca452b15bb3ae08f71dfe12b81d494c1804fca7599b837c5049c708"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/2.webp",
+      "size": 26180,
+      "sha256": "c0d26e12e2a64252c42570a421bfca7820a57d334c8f2225bc8342a5712ec6ff"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/3.webp",
+      "size": 14896,
+      "sha256": "28b0370db7194a61b2f9c61bac735899283095456a9fdf4c65e69ee871c4672c"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/4.webp",
+      "size": 32724,
+      "sha256": "8a9890393ba3417fb5d8cabf661f8b784bc45e956d08bc41aff3f636725d3a89"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/5.webp",
+      "size": 26818,
+      "sha256": "9cb7ad2c650208378c47c9a32f60ee28d05b75af0e3bc88bb9b1d7be84da72f3"
+    },
+    {
+      "path": "capturas/Mortal Kombat 11 Ultimate Edition/6.webp",
+      "size": 28374,
+      "sha256": "14476eaa107105a01fa047383fb08bc331b67f80602b0a2f23a915a6804f15fd"
     },
     {
       "path": "capturas/Mortal Shell II Devout Edition/1.webp",
@@ -5592,6 +5707,36 @@
       "sha256": "8d5a085f60cb83ce59a877a0c8520bdca0631e37cb0273d9ad7011a5f722a1a1"
     },
     {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/1.webp",
+      "size": 41220,
+      "sha256": "914d3dd4f07fb5957c6f43835c39f7c52a4d7054eddd15f76b83b476b6fee6a5"
+    },
+    {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/2.webp",
+      "size": 26438,
+      "sha256": "5c05b73300353e6ee06900d5d93042bd5b0874026c8ffba3b81b33efa14e2c43"
+    },
+    {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/3.webp",
+      "size": 58788,
+      "sha256": "f430c151405bf74bc687bb3573f79a3919a6f09e9b6898d5cdb2a724e0167dbb"
+    },
+    {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/4.webp",
+      "size": 33558,
+      "sha256": "adbf73d8ab16cde0af0594a0f3788ad6eb0f2c701a7b95c5c909dd0e492e6d85"
+    },
+    {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/5.webp",
+      "size": 23786,
+      "sha256": "d341aa255add34e1cd276fdec5b51e380ae9681e8e112b46c6a2699cf66738a1"
+    },
+    {
+      "path": "capturas/The Elder Scrolls V Skyrim Anniversary Edition/6.webp",
+      "size": 46308,
+      "sha256": "190eb6048aedc5a0f346321fd7148f6cc190dc153604a16eda49efb1b6b75389"
+    },
+    {
       "path": "capturas/The First Berserker Khazan Deluxe Edition/1.webp",
       "size": 23738,
       "sha256": "1678b3bba0de62eb076ccbf058bab5f9170d6ccbf8d07e71cf9f14101c241b33"
@@ -6060,6 +6205,36 @@
       "path": "capturas/Uncharted The Nathan Drake Collection/6.webp",
       "size": 24090,
       "sha256": "37be151215e4d0b829c3c60d9ae7f128f463a7e1677366731ec420d595ca709f"
+    },
+    {
+      "path": "capturas/Violet/1.webp",
+      "size": 3984,
+      "sha256": "a3ff30c9ab03effe418c8342937db45131b4e80879555b4461fa2b4b8f72e3ff"
+    },
+    {
+      "path": "capturas/Violet/2.webp",
+      "size": 11790,
+      "sha256": "e63a3843db01f48c887006dd9eba5922ee69dbbf1da123024ee4923cc78963da"
+    },
+    {
+      "path": "capturas/Violet/3.webp",
+      "size": 5450,
+      "sha256": "f4a61ea3f5923142e66dba6c74070d8fad80cdbcbc2222018b57bd0e659c0d7c"
+    },
+    {
+      "path": "capturas/Violet/4.webp",
+      "size": 11988,
+      "sha256": "b88c1566187aec65282ec12ac3a42990b7d62158016c5147c1f1d4706be6670d"
+    },
+    {
+      "path": "capturas/Violet/5.webp",
+      "size": 9588,
+      "sha256": "6df5551f49bb2711813934600d1b3a0f8129bb6a9695c9197d9ff4f75635c5fd"
+    },
+    {
+      "path": "capturas/Violet/6.webp",
+      "size": 7586,
+      "sha256": "b5be97ff4bf3b4ae18dccffc94e6aa0d34bef81360f7bf9439823055df28b329"
     },
     {
       "path": "capturas/Warhammer 40.000 Space Marine II/1.webp",
@@ -6682,6 +6857,11 @@
       "sha256": "75f74bcb3b42694eee2d268c152022eceb8f4186066fe9e60e2661c36c22189a"
     },
     {
+      "path": "sinopsis/Lust ‘n Dead.txt",
+      "size": 1016,
+      "sha256": "f23e4c9dd0b91e423de46a4759c755ab5fb5425d89f6726272317e177063d22f"
+    },
+    {
       "path": "sinopsis/Mafia The Old Country Definitive Edition.txt",
       "size": 295,
       "sha256": "7fc349c80aebfda4d3df5a52cfcd6e0c51d86ab624f66c098e4f6f6ce31faaf5"
@@ -6700,6 +6880,11 @@
       "path": "sinopsis/Marvels Spider-Man Remastered.txt",
       "size": 955,
       "sha256": "2ab6e83a36f8751e2771c4ddb8401e60895fe3a92985bcef56f201aa3cc04179"
+    },
+    {
+      "path": "sinopsis/Max Payne 3 Complete Edition.txt",
+      "size": 1087,
+      "sha256": "ea940dfb439a469d09c23a60c345155ef6232985c2fde604524f97b9c50cf01b"
     },
     {
       "path": "sinopsis/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
@@ -6730,6 +6915,11 @@
       "path": "sinopsis/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.txt",
       "size": 651,
       "sha256": "4eacbc05078782fb4d25ca573dedbc6af89474f968d70ae7937f660599e94127"
+    },
+    {
+      "path": "sinopsis/Mortal Kombat 11 Ultimate Edition.txt",
+      "size": 994,
+      "sha256": "326ba8630557c65db6cfe73e2d20f804e3ebc48ef6ea48cccc6b2629408b608d"
     },
     {
       "path": "sinopsis/Mortal Shell II Devout Edition.txt",
@@ -6972,6 +7162,11 @@
       "sha256": "58de70b68252693fbba03096705a9ebd51e8a0df810592b3568465d4c25cf011"
     },
     {
+      "path": "sinopsis/The Elder Scrolls V Skyrim Anniversary Edition.txt",
+      "size": 980,
+      "sha256": "646c6245223a134f50e1b960fec718100b109df9f00371d5785909378084f671"
+    },
+    {
       "path": "sinopsis/The First Berserker Khazan Deluxe Edition.txt",
       "size": 481,
       "sha256": "7cba120f61c9d089b48546c4624a412ed7ae08fde3a93a046387f48129badc55"
@@ -7050,6 +7245,11 @@
       "path": "sinopsis/Uncharted The Nathan Drake Collection.txt",
       "size": 445,
       "sha256": "b0c013f33235ef60f6122816510757d9b0668622a40f8e408988d68da4b6171f"
+    },
+    {
+      "path": "sinopsis/Violet.txt",
+      "size": 507,
+      "sha256": "0dfef20913e3a3efa4434691edb74c55f7088d7e0f67333e52ff48151e680dc6"
     },
     {
       "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
@@ -7582,6 +7782,11 @@
       "sha256": "7384eb57a14cb5c49f1a149b73a235086dc4523defceb52bdefa3df3e3e2b345"
     },
     {
+      "path": "datos/Lust ‘n Dead.txt",
+      "size": 188,
+      "sha256": "e41db228606b8ef068ff82539867f168e1428fc88652feaede5ba3215621de78"
+    },
+    {
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
       "size": 252,
       "sha256": "1340b660d3be2060daaf3f11930d7bd288cf5a78f3910db95f746a8f4bb6ade2"
@@ -7600,6 +7805,11 @@
       "path": "datos/Marvels Spider-Man Remastered.txt",
       "size": 212,
       "sha256": "3df2e4af9507713d7ee459ab86fd3ccee23136c4d8759efe86d8780a7211ccee"
+    },
+    {
+      "path": "datos/Max Payne 3 Complete Edition.txt",
+      "size": 176,
+      "sha256": "16277120830d81dbe42fb04c8515b8cd7c6fb2d2207e823526b16e95ab1b735d"
     },
     {
       "path": "datos/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
@@ -7630,6 +7840,11 @@
       "path": "datos/Mortal Kombat 1 Khaos Reigns Kollection Definitive Edition.txt",
       "size": 189,
       "sha256": "3b2da3c8ecae75147854c6ca87ce20a5405783706331f1a26136c3cdc926e28c"
+    },
+    {
+      "path": "datos/Mortal Kombat 11 Ultimate Edition.txt",
+      "size": 176,
+      "sha256": "8c4abcea72344f1d991fef18cf5d85a4dbc55eab4aad05bccef6ac94a0e90900"
     },
     {
       "path": "datos/Mortal Shell II Devout Edition.txt",
@@ -7872,6 +8087,11 @@
       "sha256": "f93141b4c2e3fdbb5ee54a9337c5c23e2a12aa39cfb32e14940ebf947238a3cf"
     },
     {
+      "path": "datos/The Elder Scrolls V Skyrim Anniversary Edition.txt",
+      "size": 158,
+      "sha256": "c52fc277c97042ab62acafc7a2bccf8822a150ad2b22fbcb40673b7480fe2aad"
+    },
+    {
       "path": "datos/The First Berserker Khazan Deluxe Edition.txt",
       "size": 220,
       "sha256": "c261700f07153f8c8214d30c0bfb78c550507a6f137fe695a799013364e4da42"
@@ -7950,6 +8170,11 @@
       "path": "datos/Uncharted The Nathan Drake Collection.txt",
       "size": 223,
       "sha256": "5fa25caa6f54df0ee3ef266ab25d9f6c09f21ac797af6bd9312499fe18fa8e2a"
+    },
+    {
+      "path": "datos/Violet.txt",
+      "size": 206,
+      "sha256": "cc59c2c0a168b5e5c02eb3f780f6876b67d5e15276a5d8479bc367f41a4be99d"
     },
     {
       "path": "datos/Warhammer 40.000 Space Marine II.txt",

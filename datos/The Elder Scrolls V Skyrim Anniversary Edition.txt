@@ -1,0 +1,9 @@
+Año: 2016
+Género: Rol
+Tamaño: 10 GB
+Modo: Singleplayer
+Idioma: MULTI
+Fecha de incorporación: 03/11/2026
+Puntuación: 9,2
+Metacritic: 74
+Repacker: FitGirl

@@ -317,6 +317,11 @@
       "sha256": "3572e72d0610286a9dbb1d8a0133fb62a7d04be3ec17f489bb9971ce08d8cd80"
     },
     {
+      "path": "imagenes/Elden Ring Nightreign Deluxe Edition.webp",
+      "size": 96200,
+      "sha256": "07a1c9e7882ecb3a5beccbaa436685b601e0cd86f8ba2504aa1cd5b48b03887f"
+    },
+    {
       "path": "imagenes/Elden Ring Shadow of the Erdtree Deluxe Edition.webp",
       "size": 63178,
       "sha256": "20da155ca364c88e203e124340a74dc0f69de346af23ea9e00d7607abe3f617b"
@@ -2830,6 +2835,36 @@
       "path": "capturas/Elden Ring/6.webp",
       "size": 14362,
       "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/1.webp",
+      "size": 28054,
+      "sha256": "d3482a3eaf5d814ce6199b4d20bff5c7ef67932997ad7d78492a8af4a708c890"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/2.webp",
+      "size": 14294,
+      "sha256": "4eb1344ca22972fc295464e9c14fe41e3d0df3876bc5a38839109241afc82121"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/3.webp",
+      "size": 29832,
+      "sha256": "3ca9e06b123b7ebf9951e45ed1e9f4cdcf14a4262b6e34db8b971ba5d4887c7d"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/4.webp",
+      "size": 18820,
+      "sha256": "2521ee6c273f51596636dff1993b0aac745144d224768e1f0dc9686a4bda5105"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/5.webp",
+      "size": 34006,
+      "sha256": "1bd7ce2359448038aa0e9071d9d5599a60bde5021e2f030f2faf2f98cbb655ec"
+    },
+    {
+      "path": "capturas/Elden Ring Nightreign Deluxe Edition/6.webp",
+      "size": 27096,
+      "sha256": "bae2eeffb64908b94ad3e9cab7253c459a9a3ada8b9cada2f7b764fc6f08fbf6"
     },
     {
       "path": "capturas/Elden Ring Shadow of the Erdtree Deluxe Edition/1.webp",
@@ -6947,6 +6982,11 @@
       "sha256": "d08fdae5229b59532bc2198c04f579c20b4806763a4e97b54689d3b275c191e4"
     },
     {
+      "path": "sinopsis/Elden Ring Nightreign Deluxe Edition.txt",
+      "size": 433,
+      "sha256": "28f6445b9b7bd49338a6f55a4961fec00bfbb54af8b3be05a3b7e6417ee5f7a0"
+    },
+    {
       "path": "sinopsis/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
       "size": 382,
       "sha256": "47e6e2662d2dc77e052146f601517b09ee42630a4a86edcb36be4a870465f087"
@@ -7638,8 +7678,8 @@
     },
     {
       "path": "datos/Assassins Creed Origins Gold Edition.txt",
-      "size": 194,
-      "sha256": "b55ae48e99196d160b52cc8de13e69ec4c93948df3ef1334388eccf0de85dfad"
+      "size": 200,
+      "sha256": "436a899c3de65fcd8bc3ba2b96fb7a99336c93b7f21f488a35e8ee6259fb1e27"
     },
     {
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
@@ -7738,8 +7778,8 @@
     },
     {
       "path": "datos/Call of Duty Black Ops.txt",
-      "size": 175,
-      "sha256": "18bad19a42a20f3b822d8e265213cc72ee80dca7d3d57ab70e299e9d886acd20"
+      "size": 191,
+      "sha256": "bca0292b4bb890b9d56fbd164270feecaf33d6570ff5ff0e45d8753a355100c3"
     },
     {
       "path": "datos/Call Of Duty Modern Warfare 4.txt",
@@ -7912,6 +7952,11 @@
       "sha256": "62e9c6568128a460378fef5c1f2a24f04ab024a4fa8020446996fc2bb041f225"
     },
     {
+      "path": "datos/Elden Ring Nightreign Deluxe Edition.txt",
+      "size": 192,
+      "sha256": "75d8262b76f7dcc5c6c165ba5255abc50b607204c3712f800c6977b5716e60dc"
+    },
+    {
       "path": "datos/Elden Ring Shadow of the Erdtree Deluxe Edition.txt",
       "size": 220,
       "sha256": "021576a3e1ea48da13a3ce6851ebef2abce22f3f3e6a0be171243d72407fc598"
@@ -7933,8 +7978,8 @@
     },
     {
       "path": "datos/Far Cry 4 Gold Edition.txt",
-      "size": 187,
-      "sha256": "b3eb63e6f420e9d67334075be65b1b53e48dfe690893c10995d65349fa4daa0f"
+      "size": 203,
+      "sha256": "0d63fc8b650dec1e652a6e4cf3392a4e5075dacc53864bb31e3c940387cdec2f"
     },
     {
       "path": "datos/Far Cry 5 Gold Edition.txt",
@@ -8148,8 +8193,8 @@
     },
     {
       "path": "datos/Max Payne 3 Complete Edition.txt",
-      "size": 176,
-      "sha256": "16277120830d81dbe42fb04c8515b8cd7c6fb2d2207e823526b16e95ab1b735d"
+      "size": 192,
+      "sha256": "00114428dcf19fe38a955d77afc93b799d124e43f23b9c0a85863bd67e09c49e"
     },
     {
       "path": "datos/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
@@ -8418,8 +8463,8 @@
     },
     {
       "path": "datos/Tekken 8 Ultimate Edition.txt",
-      "size": 159,
-      "sha256": "982ffa4cc10a2278f0d0f846ff38a1bf487e3280957b9c6a4e8a88e3f2cbbbe2"
+      "size": 187,
+      "sha256": "5858d11521acaef55f09500aa2f246202d15dc2e288297eeea1e6c9ac149a48f"
     },
     {
       "path": "datos/Terminator 2D No Fate.txt",

@@ -1,0 +1,5 @@
+Gym Manager es un juego en el que puedes gestionar, construir y expandir tu propio gimnasio, en oposición al gimnasio donde trabajabas anteriormente. Después de ser despedido por el dueño del gimnasio, decidiste vengarte y gastar todos tus ahorros en abrir un nuevo gimnasio, con el objetivo de llevar a la bancarrota a tu antiguo jefe.
+
+Como mecánica principal del juego, tendrás que gestionar, construir y expandir tu gimnasio. Puedes comprar nuevos equipos, mejorar los existentes y vender suplementos. También puedes expandir tu gimnasio demoliendo paredes, comprando nuevas decoraciones y abriendo instalaciones como una sauna, un salón de masajes, un solárium y vestuarios. Mientras tanto, debes proteger tu gimnasio de posibles peligros, mantenerlo limpio y gestionar a tus miembros.
+
+Además de gestionar tu gimnasio, puedes participar en varias actividades en la ciudad, incluyendo coquetear con chicas, sabotear el gimnasio de la competencia, ir de fiesta, comprar equipos más baratos en una tienda de segunda mano, hacer negocios ilegales con un tipo sospechoso en un callejón y forzar cerraduras y robar en la ciudad mientras evitas a la policía.

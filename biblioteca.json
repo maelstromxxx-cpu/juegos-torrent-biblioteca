@@ -42,6 +42,11 @@
       "sha256": "c5c54114afdc293e4a9cded6a1e5efdedfceafa7f277086df0ffb5fbcb689721"
     },
     {
+      "path": "imagenes/Assassins Creed Mirage Master Assassin Edition.webp",
+      "size": 49162,
+      "sha256": "fcb427deb38e00c6472ff60e6514a3fc32ed42a8bfcc475eddd7cc54603a09a3"
+    },
+    {
       "path": "imagenes/Assassins Creed Odyssey.webp",
       "size": 61794,
       "sha256": "4ff7057d2fcdd31245e016358cd78472fa2870e63360651f96fe0e796fd3da33"
@@ -1230,6 +1235,36 @@
       "path": "capturas/Assassins Creed IV Black Flag Jackdaw Edition/6.webp",
       "size": 31334,
       "sha256": "d573ad71cc43b28d8dc9975ffa4435162bdf337b68ac4214ed5d8b7e6e03c15a"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/1.webp",
+      "size": 27874,
+      "sha256": "02fbf9bb314d71660fe4f16e660a5bf03cc74a7b7b9024f2f4941807ceababc9"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/2.webp",
+      "size": 40196,
+      "sha256": "31cb8377f0760d4eff425917525669d4b49b62b4981c5a27d6b4c7b388394c60"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/3.webp",
+      "size": 16004,
+      "sha256": "e9f3a7af5ed50aeacc3a75b67411ff30ddbbd7ba649765d04641b8edb76b9f10"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/4.webp",
+      "size": 35900,
+      "sha256": "494fdfc74997590e2dad38a4a232af6c6b6d5ffeabc42295f719a9b131597847"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/5.webp",
+      "size": 31186,
+      "sha256": "016fea745ccdd4e3ccefcb80b24f4942485e0ba053b5c15152f68d57bfa5925b"
+    },
+    {
+      "path": "capturas/Assassins Creed Mirage Master Assassin Edition/6.webp",
+      "size": 17220,
+      "sha256": "7be0c354720776cd26cea6da2ce090092f3981ac581d85954ecd6cda144b6adc"
     },
     {
       "path": "capturas/Assassins Creed Odyssey/1.webp",
@@ -6882,6 +6917,11 @@
       "sha256": "2bf1f836e6a3e1c16e7781d57e2a241d0f4c7358b57750ead82435790da7a03c"
     },
     {
+      "path": "sinopsis/Assassins Creed Mirage Master Assassin Edition.txt",
+      "size": 650,
+      "sha256": "819b2ed9880f5ccdfe1f865e30d59d0569d89e88e46636021b959bdbdfb93008"
+    },
+    {
       "path": "sinopsis/Assassins Creed Odyssey.txt",
       "size": 1012,
       "sha256": "de47ab495c6e9b3dd694e79ec5aa0533a33b61d0d5b9eb257eb35280a60892d9"
@@ -7870,6 +7910,11 @@
       "path": "datos/Assassins Creed IV Black Flag Jackdaw Edition.txt",
       "size": 184,
       "sha256": "524559640d7eeafb1ed45329c121cd2a5c313f60c94a895096b8ab50b2618f9b"
+    },
+    {
+      "path": "datos/Assassins Creed Mirage Master Assassin Edition.txt",
+      "size": 211,
+      "sha256": "6f163196f2e50308075332974e93d1cdf27129db8dfc7cced950dbf3e8d21395"
     },
     {
       "path": "datos/Assassins Creed Odyssey.txt",

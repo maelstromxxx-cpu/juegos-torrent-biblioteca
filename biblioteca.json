@@ -12,6 +12,11 @@
       "sha256": "67b57714a494ac30417b5c6bfa9b3def8baaef0a03869b45cba02ce243200fc5"
     },
     {
+      "path": "imagenes/Absolutely Nothing Good.webp",
+      "size": 70326,
+      "sha256": "71fcf988d955eae2a320d4751984303028f87fbed1479ece4fa08e70e2045551"
+    },
+    {
       "path": "imagenes/Ace Combat 8 Wings Of Theve.webp",
       "size": 27594,
       "sha256": "c980702bac78bb01b25a7c40bcdce136f5151c28e4d01c1f34a3c265003705f5"
@@ -137,6 +142,11 @@
       "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
     },
     {
+      "path": "imagenes/Cairn Deluxe Edition.webp",
+      "size": 93964,
+      "sha256": "a493f835c4ccd098b00baf243bd3bfbd7132ad1fc1675bcfe9db754fa68cdff7"
+    },
+    {
       "path": "imagenes/Call of Duty Black Ops 2.webp",
       "size": 16960,
       "sha256": "1451a1471eea73e3dede725e84f2f0ccd7b18b16f965a1c4bae8b47e8ff01686"
@@ -222,6 +232,11 @@
       "sha256": "2ce5200aa3c6c0048348a6db2bf1c42cf0dc89d5bb90bed8755a92fa0100e630"
     },
     {
+      "path": "imagenes/Cop Bastard.webp",
+      "size": 23114,
+      "sha256": "4d506ed8adda0bc942c77fae119e7c4e70b7b405dc91b7dbd4b1e3699ec8fb24"
+    },
+    {
       "path": "imagenes/Crackdown 3 Ultimate Edition.webp",
       "size": 75380,
       "sha256": "c7c37f4857ef99d1f472ac34cf6aa14c0002fa15fc96b75cccd4ab14121244aa"
@@ -295,6 +310,11 @@
       "path": "imagenes/Disney Pixar Toy Story 3 Complete Edition.webp",
       "size": 42484,
       "sha256": "e359d72c08eb7b5f6e1082a2d5fca9743aaff72306f1f3fab41c8cbd9b1376d3"
+    },
+    {
+      "path": "imagenes/Distant Worlds 2.webp",
+      "size": 26010,
+      "sha256": "f5efdf0b54befce13a0d1b1f7892bb3bceeda245b27d8520fe37528d116803ae"
     },
     {
       "path": "imagenes/Doom Eternal Deluxe Edition.webp",
@@ -802,6 +822,11 @@
       "sha256": "a8ddd2f92ff74214ff232ceffab257fcc8c5198e0bdccc0771c4f3b607f9e386"
     },
     {
+      "path": "imagenes/RoadCraft 1 Year Anniversary Edition.webp",
+      "size": 97620,
+      "sha256": "2beced21966759262dcce88a0e6bd206f176110e316ccb4c378c5f6dd75f91e6"
+    },
+    {
       "path": "imagenes/RoomGirl Paradise.webp",
       "size": 28824,
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
@@ -815,6 +840,11 @@
       "path": "imagenes/Silent Hill Townfall.webp",
       "size": 25884,
       "sha256": "94660510ac65bcc42e9836ee3ae01f610ecadbd02c091d5ad2338fbd6cdd3ea5"
+    },
+    {
+      "path": "imagenes/Silica.webp",
+      "size": 27212,
+      "sha256": "e23fcbd677a41462daedb6f0c09aa652e2da8adca82ed8743cb3041204022e01"
     },
     {
       "path": "imagenes/Sleeping Dogs Definitive Limited Editions Pack.webp",
@@ -1047,6 +1077,11 @@
       "sha256": "5619d401406d6fda2bb9e77cd99b95fd961e60e7d3e767a3f3ba210be92eb77e"
     },
     {
+      "path": "imagenes/You Are Empty Absolute Edition Complete.webp",
+      "size": 54262,
+      "sha256": "d6b7473d96cfcc2312094b8b8aa9259971a7a8578d4ea766a5c4061aa68e6c54"
+    },
+    {
       "path": "capturas/007 First Light/1.webp",
       "size": 10688,
       "sha256": "0d1d152a3a2303e2350f75f319d9e2ff5017756e05bcd3b585f29ed2c2c27a14"
@@ -1105,6 +1140,36 @@
       "path": "capturas/A Plague Tale Requiem/6.webp",
       "size": 43788,
       "sha256": "35b533280cd4f1ad25745a637c55fbebdf78f650387daafc23d9c42997639dce"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/1.webp",
+      "size": 8550,
+      "sha256": "4a77f5e28632dad9e43786c4adb7e5bbcae55318aaac7f4270350e036c5e48f0"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/2.webp",
+      "size": 29198,
+      "sha256": "210e84a3ad43f4e01f54ed3a1accb3364816a85ddfea0aaebe7109b5e69ae07a"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/3.webp",
+      "size": 10216,
+      "sha256": "86846c251c0490f61f020b07753ba87b6fa3d72e3f043b454d15574ac3329d9e"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/4.webp",
+      "size": 11876,
+      "sha256": "6674cf57301bd2ecc0d977a5714034dda99ec5bd47be227f9d35ad345cb3d0d4"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/5.webp",
+      "size": 25398,
+      "sha256": "a7a14b06b3859ffb0bdb911fd19b8738b2db8e25bc03783fc7b0220202310bc8"
+    },
+    {
+      "path": "capturas/Absolutely Nothing Good/6.webp",
+      "size": 21042,
+      "sha256": "5438b5475dae50fd863921cf82a82198641d53af580e1c2bc84be672ae5e6b95"
     },
     {
       "path": "capturas/Ace Combat 8 Wings Of Theve/1.webp",
@@ -1847,6 +1912,36 @@
       "sha256": "c5cd0dbe9217d63477e895d082f298b624692d46186b3b854b0a6b4d8f4bff94"
     },
     {
+      "path": "capturas/Cairn Deluxe Edition/1.webp",
+      "size": 39500,
+      "sha256": "1be150fd315775f53ec5edfdf5ca2ff592a486bcca4771052bed475d12a145b4"
+    },
+    {
+      "path": "capturas/Cairn Deluxe Edition/2.webp",
+      "size": 47292,
+      "sha256": "fcaee8fbe68eb8c0daacf81c7359946247119ecce7a9ea45d822041876637a51"
+    },
+    {
+      "path": "capturas/Cairn Deluxe Edition/3.webp",
+      "size": 21594,
+      "sha256": "398bb188ae1e335aa6dfc1311a517919ce46ef18793b59761eb84feb6ee29462"
+    },
+    {
+      "path": "capturas/Cairn Deluxe Edition/4.webp",
+      "size": 11656,
+      "sha256": "0f217243d0832f5886affc0349ae3197e7fb557f02e501c9fc49f0d4b537b6cb"
+    },
+    {
+      "path": "capturas/Cairn Deluxe Edition/5.webp",
+      "size": 34422,
+      "sha256": "d2ff3895170e7f07d6b6dbcaaf9c0ea3df44183f4da131e5c4fd9ee2a31318cb"
+    },
+    {
+      "path": "capturas/Cairn Deluxe Edition/6.webp",
+      "size": 19686,
+      "sha256": "5787c43ed38aa5118459128e924dc216ceeb709359ff8271a746f91e6ccfbb4d"
+    },
+    {
       "path": "capturas/Call of Duty Black Ops/1.webp",
       "size": 40534,
       "sha256": "124bea096f8fff4eca32c5f3b96d91f9d3b2a06c96586f6625a7ddda90196c66"
@@ -2342,6 +2437,36 @@
       "sha256": "bd42871a2126a26f37f9fc03b26c971eaaf27dec885a7b11e3564796872fcbf9"
     },
     {
+      "path": "capturas/Cop Bastard/1.webp",
+      "size": 19230,
+      "sha256": "2075d40c44569b7e1132005928c329d82c36557194a9a7322a8f93a8b10b4d77"
+    },
+    {
+      "path": "capturas/Cop Bastard/2.webp",
+      "size": 13344,
+      "sha256": "b6d8d306a0661afe5fa385fe94a73ad034cefbb42a310b701614422d247964ee"
+    },
+    {
+      "path": "capturas/Cop Bastard/3.webp",
+      "size": 16396,
+      "sha256": "623f081da0ebde071d90c35eeb74e908007743848f9185e089a9b1b026bdc429"
+    },
+    {
+      "path": "capturas/Cop Bastard/4.webp",
+      "size": 34740,
+      "sha256": "29d98bf44b592613a140c69e163310e9125fc64cab31ae14cde71aad04fa2b8e"
+    },
+    {
+      "path": "capturas/Cop Bastard/5.webp",
+      "size": 21900,
+      "sha256": "0aa79664f2feef4a188370e990cd0b721a8f5813303666b49136fdd4c10e303b"
+    },
+    {
+      "path": "capturas/Cop Bastard/6.webp",
+      "size": 19610,
+      "sha256": "11bb0f7167ad67358aa1540d003a97611147e9fd0a4e066ca4de80df03130bb5"
+    },
+    {
       "path": "capturas/Crackdown 3 Ultimate Edition/1.webp",
       "size": 26748,
       "sha256": "fe5adc1d72821eb224307b48a34d4449f53a659f3e01e014e517f421e29983fe"
@@ -2790,6 +2915,36 @@
       "path": "capturas/Disney Pixar Toy Story 3 Complete Edition/06.webp",
       "size": 15284,
       "sha256": "84ca74c76648cc9ff8f7dc53a5041d41842e47d3e721f79b1799b3cbd67a3c11"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/1.webp",
+      "size": 20144,
+      "sha256": "b0e875eea5860ebb4d726cc16ad39d2c822f927503f350fc41b62ae7f2224782"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/2.webp",
+      "size": 27726,
+      "sha256": "c4b4c4e8481cdba01f89bac3f9f342e1fa8d0efdd173a6e4085cffa6a4563267"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/3.webp",
+      "size": 25380,
+      "sha256": "dd862d61d2d6a0c217abbe6b110f6dc18d17ee4d5d539ecf81cae10ee6b9a2cb"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/4.webp",
+      "size": 22678,
+      "sha256": "eb99f5facad2c4dfdf43aa04895f24e90050b629edc57e137d76eac000a4cb5e"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/5.webp",
+      "size": 21734,
+      "sha256": "b43b2a81a166bfd25106cb5e0efc3f25a817d2effb68cec77faf55310dd30526"
+    },
+    {
+      "path": "capturas/Distant Worlds 2/6.webp",
+      "size": 16556,
+      "sha256": "0d87460c392591b2a270bbd85db7f15c20c340629465eeb897c5cf98e91127b2"
     },
     {
       "path": "capturas/Doom Eternal Deluxe Edition/1.webp",
@@ -5767,6 +5922,36 @@
       "sha256": "b937a504ca195a5596f49f675d0a98d0fdbc0d842de0b68076f55d5b35c11a4e"
     },
     {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/1.webp",
+      "size": 44644,
+      "sha256": "c07d5cf332409267f51d43e08db5543149ddf678fd22fa704c96f8abe712e2d4"
+    },
+    {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/2.webp",
+      "size": 40708,
+      "sha256": "d5f0d1935d853e1499159ffcb300f4f223c99884528d129dabecddce2c47fb8a"
+    },
+    {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/3.webp",
+      "size": 63080,
+      "sha256": "1d4df946802b33b682ef1a345d9330223c84b67ef7868a3228d732048060b0fe"
+    },
+    {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/4.webp",
+      "size": 63492,
+      "sha256": "64fa6b4e736189e958a26590eeca19ac8c3e7ba31b723c39f0eaf050ecbe1fff"
+    },
+    {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/5.webp",
+      "size": 57900,
+      "sha256": "c7e1cdb84e87591d92601d41200fe0ef9c032e2bb7f746ba78bb2d30bddee83c"
+    },
+    {
+      "path": "capturas/RoadCraft 1 Year Anniversary Edition/6.webp",
+      "size": 48228,
+      "sha256": "00fae03ac5d6290c9bf35117a59c9fd2915abe61c57226ae873c1e15f9c7d271"
+    },
+    {
       "path": "capturas/RoomGirl Paradise/1.webp",
       "size": 27256,
       "sha256": "f7c8d1d3e6c6aed118c98f84ee00fcbf5ad35373547f93db10ed845f1089537b"
@@ -5855,6 +6040,36 @@
       "path": "capturas/Silent Hill Townfall/6.webp",
       "size": 4936,
       "sha256": "0c6d46c7eb61dfe6586848c4cd1c24c9746bdf59b06281b15b3684b384a6c387"
+    },
+    {
+      "path": "capturas/Silica/1.webp",
+      "size": 15692,
+      "sha256": "0459aea2b8cb93bb727fe1a2052e4b5a445f9b870eb25e93a294f7b38f5fbdfa"
+    },
+    {
+      "path": "capturas/Silica/2.webp",
+      "size": 10874,
+      "sha256": "6c5c2ffc61fd8f35f420ccb8748f51810951798ca73559da263e2a288e93cb7f"
+    },
+    {
+      "path": "capturas/Silica/3.webp",
+      "size": 8220,
+      "sha256": "d30c971ed5ecad865ab802041ec766221dc618df2f5b45831bf379b943c5f3b4"
+    },
+    {
+      "path": "capturas/Silica/4.webp",
+      "size": 15134,
+      "sha256": "13511257b12e7ca563505e2539216bc8fd03c8cd0c5855e1259d3b4effeb927e"
+    },
+    {
+      "path": "capturas/Silica/5.webp",
+      "size": 27348,
+      "sha256": "d545493bad37eb5e505b65ad0beec48300a03a2c3b785b90932ba2ecbc610cc9"
+    },
+    {
+      "path": "capturas/Silica/6.webp",
+      "size": 13072,
+      "sha256": "109e9d6dad049387668dd10a267759d4d6deade3f80beb99d2234b5cf2a87f97"
     },
     {
       "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/1.webp",
@@ -7222,6 +7437,36 @@
       "sha256": "ffa7b2c43d41c6c39a39576d0936c6e2bf6bfcb4a5d87d2ae5015f535be2d040"
     },
     {
+      "path": "capturas/You Are Empty Absolute Edition Complete/1.webp",
+      "size": 21396,
+      "sha256": "821dff32207ef4d7445d1dbd9a2669bac8859f250b67c8620d71170151fa608e"
+    },
+    {
+      "path": "capturas/You Are Empty Absolute Edition Complete/2.webp",
+      "size": 18024,
+      "sha256": "85e8246f9342f60de842f569dc6141c0bd651d1bae76a4e07b8d51555ec434c9"
+    },
+    {
+      "path": "capturas/You Are Empty Absolute Edition Complete/3.webp",
+      "size": 21098,
+      "sha256": "570052b30f37733938b99867eba696ffc504fd30643fce05835bbeec2a14220b"
+    },
+    {
+      "path": "capturas/You Are Empty Absolute Edition Complete/4.webp",
+      "size": 15892,
+      "sha256": "6b6ea21d05439a90b54cf2a57c499b2e1925fc442b9f175bff36f4eea4290268"
+    },
+    {
+      "path": "capturas/You Are Empty Absolute Edition Complete/5.webp",
+      "size": 16290,
+      "sha256": "32212595787b5ca9e59c8b2a2c532e61127da6ebefcfe76f4287daac38b18e7c"
+    },
+    {
+      "path": "capturas/You Are Empty Absolute Edition Complete/6.webp",
+      "size": 13616,
+      "sha256": "00f9ac61cb6411541f918a85111d73a74c6ccad9afd30f4744639e5ff880d346"
+    },
+    {
       "path": "sinopsis/007 First Light.txt",
       "size": 383,
       "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
@@ -7230,6 +7475,11 @@
       "path": "sinopsis/A Plague Tale Requiem.txt",
       "size": 963,
       "sha256": "bd3855fbea41aed3ead3d2d82d3b9cca690de77528c1db2fa199f0ceb67ff80e"
+    },
+    {
+      "path": "sinopsis/Absolutely Nothing Good.txt",
+      "size": 683,
+      "sha256": "decece845732a1b5ca358f5c90720ce439bce32e5d3f3daafed35e2fe360e0a6"
     },
     {
       "path": "sinopsis/Ace Combat 8 Wings Of Theve.txt",
@@ -7357,6 +7607,11 @@
       "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
     },
     {
+      "path": "sinopsis/Cairn Deluxe Edition.txt",
+      "size": 633,
+      "sha256": "b2be09103a98ffc20f4b0a0ef93ecdae3f3348de6df10bb0ef8777552643a9f4"
+    },
+    {
       "path": "sinopsis/Call of Duty Black Ops 2.txt",
       "size": 284,
       "sha256": "bc743eaddef1b23445e639028e5a1d7dc87bc46d4946f227b39efdd9b3035548"
@@ -7442,6 +7697,11 @@
       "sha256": "f392adfd33cccaded2ef7c75a90a172d28c0f4d94593a25a8ddb2b202462b92b"
     },
     {
+      "path": "sinopsis/Cop Bastard.txt",
+      "size": 933,
+      "sha256": "666562f2a35bcfaa1d119d4beb862504e1a44f9bbd4ee81f77a1e9de58cbcc6c"
+    },
+    {
       "path": "sinopsis/Crackdown 3 Ultimate Edition.txt",
       "size": 439,
       "sha256": "7b14c71018a71f9ec46bee02715b9959a1e2626d1901b46e707115db1b3c270a"
@@ -7515,6 +7775,11 @@
       "path": "sinopsis/Disney Pixar Toy Story 3 Complete Edition.txt",
       "size": 468,
       "sha256": "2202660e30fe15926e0870e26361e2b40f3fab11fe98b7059030490d7966760c"
+    },
+    {
+      "path": "sinopsis/Distant Worlds 2.txt",
+      "size": 1058,
+      "sha256": "22a6ced96b50640103d75213712e09ee82c0adc8a134e8a8a2e2e8aba2d6c2bc"
     },
     {
       "path": "sinopsis/Doom Eternal Deluxe Edition.txt",
@@ -8022,6 +8287,11 @@
       "sha256": "ad3ce422d298026c2f893e44608347b400340d39243abe82ede29d6fb3fa6891"
     },
     {
+      "path": "sinopsis/RoadCraft 1 Year Anniversary Edition.txt",
+      "size": 691,
+      "sha256": "f5c420c64878de49e9f3bf8b704c92bbdd892c9472b6940282b7e49cb9439d13"
+    },
+    {
       "path": "sinopsis/RoomGirl Paradise.txt",
       "size": 465,
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
@@ -8035,6 +8305,11 @@
       "path": "sinopsis/Silent Hill Townfall.txt",
       "size": 723,
       "sha256": "068c69d35acfdac520e4f545e118fd0ce70f38de1eab76578f26a5bd41930bea"
+    },
+    {
+      "path": "sinopsis/Silica.txt",
+      "size": 1096,
+      "sha256": "fdec081def928c9d210f309425b82e86bd96452443d5aec01ac24ec76dfe89af"
     },
     {
       "path": "sinopsis/Sleeping Dogs Definitive Limited Editions Pack.txt",
@@ -8267,6 +8542,11 @@
       "sha256": "10e5c91592d29143d9636acf88386e3589e2b2b3c0972acc685765a17853387b"
     },
     {
+      "path": "sinopsis/You Are Empty Absolute Edition Complete.txt",
+      "size": 442,
+      "sha256": "c405cefdf46750a1c706a32ae696c01d951840298c36776de5fa7cd3f8301220"
+    },
+    {
       "path": "datos/007 First Light.txt",
       "size": 219,
       "sha256": "8d5a63c3cb8d121b05329973f3f3b4f450ed1ac4d2fc608ae7a5af07a00a024b"
@@ -8275,6 +8555,11 @@
       "path": "datos/A Plague Tale Requiem.txt",
       "size": 244,
       "sha256": "d8c9981bd8ac9a3d4303e786875f479341d9d65220963b5aefc7b28f8b06409a"
+    },
+    {
+      "path": "datos/Absolutely Nothing Good.txt",
+      "size": 184,
+      "sha256": "c9a454417b41d64f01acacc6bf64b2fa6103c8bc33ed2e326c616fd75004c8bf"
     },
     {
       "path": "datos/Ace Combat 8 Wings Of Theve.txt",
@@ -8407,6 +8692,11 @@
       "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
     },
     {
+      "path": "datos/Cairn Deluxe Edition.txt",
+      "size": 205,
+      "sha256": "6dd0dba0d6586240bf89d85d4ec06284e3c70dad7f0a93a76973427758b97ad8"
+    },
+    {
       "path": "datos/Call of Duty Black Ops 2.txt",
       "size": 177,
       "sha256": "6cce7039ddde6fd482eb49a9bcb3fb27c9500e714ac3f5cf746753e573d46507"
@@ -8492,6 +8782,11 @@
       "sha256": "55c66568221649b13411dade9db77da3347e13100d2a1fde9f03348a1f1e6203"
     },
     {
+      "path": "datos/Cop Bastard.txt",
+      "size": 169,
+      "sha256": "79f7b42cc404daf55fad2d9df7b4845744fc8d9ad8dda902a13e72e39a17e979"
+    },
+    {
       "path": "datos/Crackdown 3 Ultimate Edition.txt",
       "size": 212,
       "sha256": "c0adecf7a1f7bfd2d3c91333b3284df81cd76722925d5a8b68b0e65fcedeb436"
@@ -8565,6 +8860,11 @@
       "path": "datos/Disney Pixar Toy Story 3 Complete Edition.txt",
       "size": 198,
       "sha256": "db1319af21b9e6165864249ce7de0948fb9e0f72f9b17cb8b6bed235bb781f42"
+    },
+    {
+      "path": "datos/Distant Worlds 2.txt",
+      "size": 178,
+      "sha256": "4bb16ef6825cad12a919d82aa0cf8328bdabcba01c20b7290fa0ce84f7593430"
     },
     {
       "path": "datos/Doom Eternal Deluxe Edition.txt",
@@ -9072,6 +9372,11 @@
       "sha256": "eb7cbded6dca5e9164ab108e90dfc5554c45552c45ad9fe173960ddb1ea113ee"
     },
     {
+      "path": "datos/RoadCraft 1 Year Anniversary Edition.txt",
+      "size": 212,
+      "sha256": "c0c931586934d43a5523b973850d4a9d9d911a4ce6574a3331e2e66d9a576690"
+    },
+    {
       "path": "datos/RoomGirl Paradise.txt",
       "size": 182,
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
@@ -9085,6 +9390,11 @@
       "path": "datos/Silent Hill Townfall.txt",
       "size": 216,
       "sha256": "3e14cd42a25ccce5584593ddecfb3e3c388018fa39e17a3e11f71349160f9d0c"
+    },
+    {
+      "path": "datos/Silica.txt",
+      "size": 232,
+      "sha256": "a1ccd26f814437c69b86ac493110c61fa1ab4f0b2cb9f198279c51123e8e70eb"
     },
     {
       "path": "datos/Sleeping Dogs Definitive Limited Editions Pack.txt",
@@ -9315,6 +9625,11 @@
       "path": "datos/WWE 2K26.txt",
       "size": 215,
       "sha256": "442f9a5dcae5597d55215fe4f5d911dfacf7890767ec4025b4a4b9d1833eac17"
+    },
+    {
+      "path": "datos/You Are Empty Absolute Edition Complete.txt",
+      "size": 161,
+      "sha256": "4d787ae33b7e9eaff6b7a793ffbd49265a8b04923a56a31ac299ba7d105ad950"
     }
   ]
 }

@@ -1,0 +1,9 @@
+Año: 2025
+Género: Aventura / Simuladores / Conduccion / FP / TP
+Tamaño: 25 GB
+Modo: Singleplayer / Multiplayer
+Idioma: MULTI
+Fecha de incorporación: 05/11/2026
+Puntuación: 7,5
+Metacritic: 
+Repacker: FitGirl

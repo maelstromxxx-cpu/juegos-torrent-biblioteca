@@ -402,6 +402,11 @@
       "sha256": "7ccda483ff42368d582367e4ca9de663482fd4fb9a4fe2d9b32bea10a29dc16f"
     },
     {
+      "path": "imagenes/Forza Horizon 4 Ultimate Edition.webp",
+      "size": 72572,
+      "sha256": "6e8194c9519796f5e34ee0f874fcec6ffab555568ee3dc22fed6830d1a595282"
+    },
+    {
       "path": "imagenes/Forza Horizon 5 Premium Edition.webp",
       "size": 78628,
       "sha256": "8fe71f60295609156038c808be92b77d4179e1278d6ae0723005998313a1c36f"
@@ -495,6 +500,11 @@
       "path": "imagenes/Hogwarts Legacy Complete Edition.webp",
       "size": 43794,
       "sha256": "50d2f8566e0cea82bd4f32b0266ca46cfd667578f871bd697da0c9ef1fb45910"
+    },
+    {
+      "path": "imagenes/HoneyCome Come Come Party.webp",
+      "size": 57124,
+      "sha256": "522a2e178ee898d701d70c51c3e0d4847f5d9f637ea4df64226dc9ed1de3b1d4"
     },
     {
       "path": "imagenes/Horizon Forbidden West Complete Edition.webp",
@@ -650,6 +660,11 @@
       "path": "imagenes/Need For Speed Most Wanted HD.webp",
       "size": 83744,
       "sha256": "08afbba27c64670956b76d29557193dff93013605ca4cafcc10eb1a80f4c3926"
+    },
+    {
+      "path": "imagenes/Need for Speed Most Wanted.webp",
+      "size": 80638,
+      "sha256": "932829d10bb3dcb21deb1c9757f42e042b6bae56ebe94aa768b480247aaf6c98"
     },
     {
       "path": "imagenes/Need for Speed Unbound Ultimate Collection.webp",
@@ -3372,6 +3387,36 @@
       "sha256": "3001442d5a2bbd828731bcd08102a59f786a135456d00659502fff402e68415b"
     },
     {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/1.webp",
+      "size": 16478,
+      "sha256": "564c2d521d82771726523ac57f04ffc5b0a46e1cca924c7ceab70b16bef13dac"
+    },
+    {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/2.webp",
+      "size": 34400,
+      "sha256": "d21f28a7a7091484186726261ce4cce934314af2eb1220073d63853faf8193d3"
+    },
+    {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/3.webp",
+      "size": 22712,
+      "sha256": "af2bc06a85de6cf6398bd0bd3071b1c794d40bb23605e0878bd1d3fdcc26482b"
+    },
+    {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/4.webp",
+      "size": 40282,
+      "sha256": "b1cfeb87e14e3cc8650abccffb2ec2c95c8d8c218d96a5d22cf1eb613924d516"
+    },
+    {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/5.webp",
+      "size": 31158,
+      "sha256": "012c3f7891bae46674c77b53e64476cd06c7773c2faa267175cda1e4f2bd90f6"
+    },
+    {
+      "path": "capturas/Forza Horizon 4 Ultimate Edition/6.webp",
+      "size": 45494,
+      "sha256": "af2984bb40f48f36b8497c0c587433a30c914528670daf608247d7f515e47f95"
+    },
+    {
       "path": "capturas/Forza Horizon 5 Premium Edition/1.webp",
       "size": 26258,
       "sha256": "a96b4d3bdf57f24d827ba9df99bb634bc5528fb4481b478b2e80cc02f572b7f0"
@@ -3940,6 +3985,36 @@
       "path": "capturas/Hogwarts Legacy Complete Edition/6.webp",
       "size": 24324,
       "sha256": "038d6faac00442b687c1c34ecc39f8e59bd5bf06b06906a2c67d15e983563086"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/1.webp",
+      "size": 30902,
+      "sha256": "5d943b52c11aac3cbe793c47552e2f2a2686b6f9a410f5f80d8a4d4b910bf4f9"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/2.webp",
+      "size": 27960,
+      "sha256": "6cd8a8f69e5ed16e99f2d389dfc008a253307c46dcc4f8e8e4120d1864c71c7e"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/3.webp",
+      "size": 30492,
+      "sha256": "113ac66a9db2a665065e03af64c47782d5fddf5a10c21e02bdce2691d4ef6e6f"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/4.webp",
+      "size": 31740,
+      "sha256": "a297bed4610a528e59991fe03acb66a32fb57ad0ef463a648c26e44f2a4dd29e"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/5.webp",
+      "size": 26198,
+      "sha256": "9e89ae7945b045822f1a01f09db45c1d270fa9b70aaa12624013ca5225bf9ce2"
+    },
+    {
+      "path": "capturas/HoneyCome Come Come Party/6.webp",
+      "size": 27304,
+      "sha256": "56cbc33b42d986e24ef1cc29f31df65deed9004ec2e90110958e9243b707e26c"
     },
     {
       "path": "capturas/Horizon Forbidden West Complete Edition/1.webp",
@@ -4835,6 +4910,31 @@
       "path": "capturas/NBA 2K27/6.webp",
       "size": 12922,
       "sha256": "3228d7f6d2ff412522e72028f78f417f866649d26d567b9faa56324a72db1d9d"
+    },
+    {
+      "path": "capturas/Need for Speed Most Wanted/1.webp",
+      "size": 25114,
+      "sha256": "635e9a094056d33d379de6d5e60b60c11c1a8bd0ae45215ba41a723bd7c3efbf"
+    },
+    {
+      "path": "capturas/Need for Speed Most Wanted/2.webp",
+      "size": 24064,
+      "sha256": "22e57b78bd9184691dee4bd9f751b40c92ec7fe59a00bdf4ad1cf01e5a0dc36e"
+    },
+    {
+      "path": "capturas/Need for Speed Most Wanted/3.webp",
+      "size": 25320,
+      "sha256": "abed49ad943e1cec32ec4d53268d3ec3387d4c91e6369fddcd684ec6f0fd0ad2"
+    },
+    {
+      "path": "capturas/Need for Speed Most Wanted/4.webp",
+      "size": 22672,
+      "sha256": "1ee5213414f099e6a9b8ae772f701011a5d6808591833b93ad4fa81617549bb6"
+    },
+    {
+      "path": "capturas/Need for Speed Most Wanted/5.webp",
+      "size": 25092,
+      "sha256": "2222a12e36c975b3b5b393cf664abd992bba467b2dd1dbdeb738c9f0554cadea"
     },
     {
       "path": "capturas/Need For Speed Most Wanted HD/01.webp",
@@ -7487,6 +7587,11 @@
       "sha256": "d51e637f74b12f4bdc73a74621d9f00ac9cc3b8a780c3d3c4887f013ceb02497"
     },
     {
+      "path": "sinopsis/Forza Horizon 4 Ultimate Edition.txt",
+      "size": 474,
+      "sha256": "14d7dd7b7629e84d674ede3cc4d6015d3754568df8ef41196cda486b01dd7866"
+    },
+    {
       "path": "sinopsis/Forza Horizon 5 Premium Edition.txt",
       "size": 2314,
       "sha256": "cb260331eb791162ea713fbc98ebc7d73a0ea0c25f40b773a9e3a958177f5068"
@@ -7580,6 +7685,11 @@
       "path": "sinopsis/Hogwarts Legacy Complete Edition.txt",
       "size": 916,
       "sha256": "bb308cab92638f356f71d59c723f40b8f9856a71f1d81395996d0c17c1ee555b"
+    },
+    {
+      "path": "sinopsis/HoneyCome Come Come Party.txt",
+      "size": 1255,
+      "sha256": "12657a885ca52c2f3eb60c027e61fdf10285fec4b0c9ba11962a8d30d274afb2"
     },
     {
       "path": "sinopsis/Horizon Forbidden West Complete Edition.txt",
@@ -7735,6 +7845,11 @@
       "path": "sinopsis/Need For Speed Most Wanted HD.txt",
       "size": 814,
       "sha256": "f7f4302516052d37663130f5675cdc0a26bdfffae1064f1e353a31c7d69654c0"
+    },
+    {
+      "path": "sinopsis/Need for Speed Most Wanted.txt",
+      "size": 470,
+      "sha256": "9f0729190fa494b0a141f9aaf26f4c0f77ee786b8006508f8ce5fa59c8dff095"
     },
     {
       "path": "sinopsis/Need for Speed Unbound Ultimate Collection.txt",
@@ -8517,6 +8632,11 @@
       "sha256": "37b68358dd47a7518f128ccd140c27e13f85e3624f05991f2d112ffee8db56e9"
     },
     {
+      "path": "datos/Forza Horizon 4 Ultimate Edition.txt",
+      "size": 241,
+      "sha256": "f38eaf3146ca4d9f64d1ba51c32ef905efd332b1094d59883c485a083dca0bcc"
+    },
+    {
       "path": "datos/Forza Horizon 5 Premium Edition.txt",
       "size": 221,
       "sha256": "b969b9c7ea7eb5e663f3ed6b9d89880c9e10c3b80f57ec51a05ae80cdb3c75ad"
@@ -8610,6 +8730,11 @@
       "path": "datos/Hogwarts Legacy Complete Edition.txt",
       "size": 221,
       "sha256": "4011edbef3efa29baaf08f25e5d3273f930b841f2843064eaac7c36ffc115d35"
+    },
+    {
+      "path": "datos/HoneyCome Come Come Party.txt",
+      "size": 183,
+      "sha256": "4833501d1900d5b04bd4c00857671a975fb475c693407bee37a10cfcaf70bc66"
     },
     {
       "path": "datos/Horizon Forbidden West Complete Edition.txt",
@@ -8765,6 +8890,11 @@
       "path": "datos/Need For Speed Most Wanted HD.txt",
       "size": 215,
       "sha256": "78c6d8b419e254a75c0bedfedb4ad3491622f3180f3119610088db7dab074f16"
+    },
+    {
+      "path": "datos/Need for Speed Most Wanted.txt",
+      "size": 208,
+      "sha256": "28ce42b572ec3cfc57f3115a2fe1e7219ff922b19564ef24b5a5218121faa6df"
     },
     {
       "path": "datos/Need for Speed Unbound Ultimate Collection.txt",

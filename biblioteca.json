@@ -137,6 +137,11 @@
       "sha256": "1451a1471eea73e3dede725e84f2f0ccd7b18b16f965a1c4bae8b47e8ff01686"
     },
     {
+      "path": "imagenes/Call of Duty Black Ops 3.webp",
+      "size": 109920,
+      "sha256": "76e1c427297d40ec309cd96546ce7361709ec27e0c1b5e8f8c60bf8c2b9970e4"
+    },
+    {
       "path": "imagenes/Call Of Duty Black Ops 6.webp",
       "size": 53860,
       "sha256": "f788b8a2bac39046f31b00b7c16fa0e3da3103a46e2a625788a6a7fddeb2c678"
@@ -727,6 +732,11 @@
       "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
     },
     {
+      "path": "imagenes/Replaced Supporter Edition.webp",
+      "size": 55458,
+      "sha256": "b76aa1aa6f249435ed0afc5b8a48667af0710b5849062d4824e9d3496bef5e26"
+    },
+    {
       "path": "imagenes/Resident Evil 2 Deluxe Edition.webp",
       "size": 43304,
       "sha256": "5c523cdc6c0ef88ed684ec04773eed74565a721d5732dd5e24c36e3d5cda418e"
@@ -772,6 +782,11 @@
       "sha256": "a8ddd2f92ff74214ff232ceffab257fcc8c5198e0bdccc0771c4f3b607f9e386"
     },
     {
+      "path": "imagenes/RoomGirl Paradise.webp",
+      "size": 28824,
+      "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
+    },
+    {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
@@ -805,6 +820,11 @@
       "path": "imagenes/Solo Leveling Arise Overdrive.webp",
       "size": 23446,
       "sha256": "7c2bbb7dd99bae52419a42d2cf8bd189213d0a2e6f9d68284e90ef7165f73d07"
+    },
+    {
+      "path": "imagenes/Spider-Man Shattered Dimensions.webp",
+      "size": 71872,
+      "sha256": "dc0247fddc9f0ebc1c35aaae134f75c06fd4d2aa4203f19824dc45cfc5cd8c0d"
     },
     {
       "path": "imagenes/Stalker 2 Heart Of Chornobyl.webp",
@@ -980,6 +1000,11 @@
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
       "size": 108972,
       "sha256": "3b158100f9a73d86cfb2e59fd4d1868714397ad3f1a6853b7ae5634e49ef8a7f"
+    },
+    {
+      "path": "imagenes/Warrior Cats Clans of the Forest.webp",
+      "size": 35496,
+      "sha256": "a6aab1e5567fa70421dc8fb324485d2ded37a402f339a85bf78419f3df92897e"
     },
     {
       "path": "imagenes/Watch Dogs 2 Gold Edition.webp",
@@ -1830,6 +1855,36 @@
       "path": "capturas/Call of Duty Black Ops 2/6.webp",
       "size": 43996,
       "sha256": "6b7fecd202c11a81123e6c3ba9533d8a634f9efcf814fbf4abc9b44788d5156a"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/1.webp",
+      "size": 23888,
+      "sha256": "4c01ba3083a15591786518539c3d80ebdfc884cb7d9a4e5ed7fda9699b09423c"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/2.webp",
+      "size": 15992,
+      "sha256": "d25a48daf181ac35edf53c97f1598aec828a1b0ff6505e82afc395e8c566fef6"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/3.webp",
+      "size": 25596,
+      "sha256": "095ad4a223d4bb379fdb1a28a7c2ea3d7b058045906f83be5e2d1a02db0ca59c"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/4.webp",
+      "size": 19036,
+      "sha256": "9995c50cd56fb05da7bdf6804e205e6fcff5b77776df7a1ce1a03ace5ac9feeb"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/5.webp",
+      "size": 26936,
+      "sha256": "f145b0e356b3cc99c28e4a2d0805b53bde3e6fc45680248416ba1554ac174f81"
+    },
+    {
+      "path": "capturas/Call of Duty Black Ops 3/6.webp",
+      "size": 18582,
+      "sha256": "d56b2bdf6ec6abdb5a062727d07712414601681da7db4ba227123bbd4c72099b"
     },
     {
       "path": "capturas/Call Of Duty Black Ops 6/1.webp",
@@ -5277,6 +5332,36 @@
       "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
     },
     {
+      "path": "capturas/Replaced Supporter Edition/1.webp",
+      "size": 8942,
+      "sha256": "a2c36d31344e530db0b5452e46a2a6c7d0c4d36a8373db4df5235ae7e74c75a0"
+    },
+    {
+      "path": "capturas/Replaced Supporter Edition/2.webp",
+      "size": 12724,
+      "sha256": "9d8206484da51f206fddd54466893357bc578f0124e6987e34974cce5f6a3a48"
+    },
+    {
+      "path": "capturas/Replaced Supporter Edition/3.webp",
+      "size": 12374,
+      "sha256": "4ba35096a39bdd6249028f2ef7990efe80c11ba5b701262bd2ad4fb516006bf8"
+    },
+    {
+      "path": "capturas/Replaced Supporter Edition/4.webp",
+      "size": 17302,
+      "sha256": "0065780f7d9dcf15e301374f984156531fc332e477ed62182a7b7ec66b0fe6ed"
+    },
+    {
+      "path": "capturas/Replaced Supporter Edition/5.webp",
+      "size": 8100,
+      "sha256": "35a5569b377ac8d69194f0ea1a9be2dcb9607ae03bd7684a8f5af69ee4a0b3d3"
+    },
+    {
+      "path": "capturas/Replaced Supporter Edition/6.webp",
+      "size": 27310,
+      "sha256": "7b69401629bddd33313fd87a48cedfee9938b11c05cc170272028b7fb6ed9f39"
+    },
+    {
       "path": "capturas/Resident Evil 2 Deluxe Edition/1.webp",
       "size": 9474,
       "sha256": "16d1ec40b59aa6aa43f375a6a2256203b665e445f3ee22857a899415886ab752"
@@ -5547,6 +5632,36 @@
       "sha256": "b937a504ca195a5596f49f675d0a98d0fdbc0d842de0b68076f55d5b35c11a4e"
     },
     {
+      "path": "capturas/RoomGirl Paradise/1.webp",
+      "size": 27256,
+      "sha256": "f7c8d1d3e6c6aed118c98f84ee00fcbf5ad35373547f93db10ed845f1089537b"
+    },
+    {
+      "path": "capturas/RoomGirl Paradise/2.webp",
+      "size": 13694,
+      "sha256": "2eb0b8508e64f11693b13cb80cd7b97b70458e916dc03a834c6f793d0c5db89d"
+    },
+    {
+      "path": "capturas/RoomGirl Paradise/3.webp",
+      "size": 28120,
+      "sha256": "3c0bf855ab8ebaff7e2f1b1dffba5f69d340a36e6f16d66f9a10e5f5ce5d6790"
+    },
+    {
+      "path": "capturas/RoomGirl Paradise/4.webp",
+      "size": 12406,
+      "sha256": "8cf403b75c0e9e94690fd8a869561ccb3a22849e41f3ba1d09a3a58462cf037b"
+    },
+    {
+      "path": "capturas/RoomGirl Paradise/5.webp",
+      "size": 13498,
+      "sha256": "5921e60a27c5855e34796a9d711944894f4190c0945dbdc541f23b413099f05f"
+    },
+    {
+      "path": "capturas/RoomGirl Paradise/6.webp",
+      "size": 15784,
+      "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
+    },
+    {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
       "size": 14458,
       "sha256": "9e9ba3aec4c26c50ea3a4af6d6fd0ead215196c9b90c6ade35a7f2e555103e4a"
@@ -5755,6 +5870,36 @@
       "path": "capturas/Solo Leveling Arise Overdrive/6.webp",
       "size": 17164,
       "sha256": "6f231ca0b2f21098662b28c3418dee5a89811823bada6444a0e1c2e704337ecd"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/1.webp",
+      "size": 22744,
+      "sha256": "c5dd3d3963fb95d2dd5dccb17e481b69743599d54668d24e6fd97bc3c2cd849f"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/2.webp",
+      "size": 28414,
+      "sha256": "6481d993e908f6f79261f07916e943b36d2e20bbb2b8abe48f3e638208ea63a8"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/3.webp",
+      "size": 35564,
+      "sha256": "970ef5723f6293bec0a30f6d19f7a92122ae3f03cf19ab78049a9e1436a91e21"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/4.webp",
+      "size": 33194,
+      "sha256": "00357fb2fb9e514470c2e361acd48c2e20242516768274904689e747c01bd933"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/5.webp",
+      "size": 26972,
+      "sha256": "5599d209489a4ec80b1c0fdde81eba590aa7e81264a0ea27d5439c9155ebb3a3"
+    },
+    {
+      "path": "capturas/Spider-Man Shattered Dimensions/6.webp",
+      "size": 23992,
+      "sha256": "548835347e305acd77a20c4e2b435eb6289c8fcce6d0a464805580d0d469e2ac"
     },
     {
       "path": "capturas/Stalker 2 Heart Of Chornobyl/1.webp",
@@ -6797,6 +6942,36 @@
       "sha256": "7ac3b5940547bf3dae478b06bbe11eab4590fb354bae02b71814ae4ebf40d17c"
     },
     {
+      "path": "capturas/Warrior Cats Clans of the Forest/1.webp",
+      "size": 28500,
+      "sha256": "82deabf65abebff57bd8d75aea2a247ed9f8cf5ed3a641c621d262061f08db4d"
+    },
+    {
+      "path": "capturas/Warrior Cats Clans of the Forest/2.webp",
+      "size": 13850,
+      "sha256": "4f892d56b153c232d20bb7912acd18095a9de2a73534da4e64f625d2199948bc"
+    },
+    {
+      "path": "capturas/Warrior Cats Clans of the Forest/3.webp",
+      "size": 18390,
+      "sha256": "a1d8d8806e3492709448e8bff0bfdecc0d0f9a5d0808a8d7dd2496bdde7b43d2"
+    },
+    {
+      "path": "capturas/Warrior Cats Clans of the Forest/4.webp",
+      "size": 27130,
+      "sha256": "d52125911842190d8a687aea988340c4e76192331eff1c68e4e18c268b327cec"
+    },
+    {
+      "path": "capturas/Warrior Cats Clans of the Forest/5.webp",
+      "size": 23180,
+      "sha256": "aa0d5fd2f1d33ee92dc15344ca4c0a886f313099779aae560cf49ccf3d7ef153"
+    },
+    {
+      "path": "capturas/Warrior Cats Clans of the Forest/6.webp",
+      "size": 20284,
+      "sha256": "ecdaabc0a8440088aaefbd188236393c711c09a1837cf90e92a67a25cb561fb4"
+    },
+    {
       "path": "capturas/Watch Dogs/1.webp",
       "size": 34316,
       "sha256": "71db5eb4c46a8686fc24fa132f51ea8228b988d69443078c1dac6698346aefd8"
@@ -7045,6 +7220,11 @@
       "path": "sinopsis/Call of Duty Black Ops 2.txt",
       "size": 284,
       "sha256": "bc743eaddef1b23445e639028e5a1d7dc87bc46d4946f227b39efdd9b3035548"
+    },
+    {
+      "path": "sinopsis/Call of Duty Black Ops 3.txt",
+      "size": 653,
+      "sha256": "6c0f4eeb84fadf7dd33bdc26f6b7650e45fd4b2f8ba6a43842e24c6c4c53b08e"
     },
     {
       "path": "sinopsis/Call Of Duty Black Ops 6.txt",
@@ -7637,6 +7817,11 @@
       "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
     },
     {
+      "path": "sinopsis/Replaced Supporter Edition.txt",
+      "size": 476,
+      "sha256": "db58f201b0cb279afe05c87068b1f9e4d5cd8448446dc3cc6d134eda62b27ad6"
+    },
+    {
       "path": "sinopsis/Resident Evil 2 Deluxe Edition.txt",
       "size": 1184,
       "sha256": "38031f3ab291c316ef44f39a254aed8d91f01444eb3d212d999cfa640e893c66"
@@ -7682,6 +7867,11 @@
       "sha256": "ad3ce422d298026c2f893e44608347b400340d39243abe82ede29d6fb3fa6891"
     },
     {
+      "path": "sinopsis/RoomGirl Paradise.txt",
+      "size": 465,
+      "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
+    },
+    {
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
       "size": 1896,
       "sha256": "f3ed473848931bd796acb0e6c6b286581f7806dd9146af7224a8498662eecfe4"
@@ -7715,6 +7905,11 @@
       "path": "sinopsis/Solo Leveling Arise Overdrive.txt",
       "size": 485,
       "sha256": "82c6ab73a1a7efbb5fd43b8daf110bc86518c7653e84da6856e55ab443f82897"
+    },
+    {
+      "path": "sinopsis/Spider-Man Shattered Dimensions.txt",
+      "size": 501,
+      "sha256": "2ed37c8c4f6970bb680ea48bf5e2c66c70884a9852b7f615fda94e48b4439dd4"
     },
     {
       "path": "sinopsis/Stalker 2 Heart Of Chornobyl.txt",
@@ -7892,6 +8087,11 @@
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
     },
     {
+      "path": "sinopsis/Warrior Cats Clans of the Forest.txt",
+      "size": 683,
+      "sha256": "b34a54dcd7443b3b593fafebab9f71b16690054a9d10910be34728c68c922e27"
+    },
+    {
       "path": "sinopsis/Watch Dogs 2 Gold Edition.txt",
       "size": 764,
       "sha256": "53767bb3ef0856048a77fdb0085f6bf6af94856672ed705ba488f329dfa222d9"
@@ -8050,6 +8250,11 @@
       "path": "datos/Call of Duty Black Ops 2.txt",
       "size": 177,
       "sha256": "6cce7039ddde6fd482eb49a9bcb3fb27c9500e714ac3f5cf746753e573d46507"
+    },
+    {
+      "path": "datos/Call of Duty Black Ops 3.txt",
+      "size": 203,
+      "sha256": "1367c15d16d1c347edf4bbf436e4600709f978e6c628d088941793ceac6bd0dd"
     },
     {
       "path": "datos/Call Of Duty Black Ops 6.txt",
@@ -8642,6 +8847,11 @@
       "sha256": "95d0afe06ffc6f95dd00dc67f14210600cc8b4e4adf2f50d84c3a6589a8f4f14"
     },
     {
+      "path": "datos/Replaced Supporter Edition.txt",
+      "size": 216,
+      "sha256": "bceaccb90929a0d100ff36434e78ddbbe2ed7d218a73ea66656bd42adeeeba74"
+    },
+    {
       "path": "datos/Resident Evil 2 Deluxe Edition.txt",
       "size": 188,
       "sha256": "fd91fb0f4b23c31690569dab6ce1c9e059df73636f8493c3eff4e537de0a438e"
@@ -8687,6 +8897,11 @@
       "sha256": "eb7cbded6dca5e9164ab108e90dfc5554c45552c45ad9fe173960ddb1ea113ee"
     },
     {
+      "path": "datos/RoomGirl Paradise.txt",
+      "size": 183,
+      "sha256": "01861d0e79a941ffab891bb8753e50546889bb62c6cfc5fab2640cc7293ea0d2"
+    },
+    {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
       "size": 192,
       "sha256": "f8155fedac4853d9e3e54feda2be0b6643c54f83d61b6ffbcddb55a038794c52"
@@ -8720,6 +8935,11 @@
       "path": "datos/Solo Leveling Arise Overdrive.txt",
       "size": 183,
       "sha256": "b0f7aeaa0c2687f916f7a5be2f066e75b284c8b43eb571a48da587469eb83edc"
+    },
+    {
+      "path": "datos/Spider-Man Shattered Dimensions.txt",
+      "size": 208,
+      "sha256": "921163533cd824192699bb79000302ac858437785f3bb5677730c4595159fd63"
     },
     {
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
@@ -8895,6 +9115,11 @@
       "path": "datos/Warhammer 40.000 Space Marine II.txt",
       "size": 246,
       "sha256": "1006c67c5e44c8a7541ee0da124d1f3ea48400986456364ea02a16101ead0df3"
+    },
+    {
+      "path": "datos/Warrior Cats Clans of the Forest.txt",
+      "size": 183,
+      "sha256": "e7743b66123615f872e6305ccc2306826ef7501fa37f23c107569abfa18aad3c"
     },
     {
       "path": "datos/Watch Dogs 2 Gold Edition.txt",

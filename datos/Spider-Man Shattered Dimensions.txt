@@ -3,7 +3,7 @@ Géneros: Acción / Aventura / TPS / Plataformas / Superhéroes
 Tamaño: 4.1GB
 Modo: Singleplayer
 Idioma: MULTI
-Fecha de incorporación: 01/11/2026
+Fecha de incorporación: 04/11/2026
 Puntuación: 8.2
 Metacritic: 76
 Repacker: FitGirl

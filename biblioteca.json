@@ -407,6 +407,11 @@
       "sha256": "c98908045fdbc5a90a58aef35a643acb48c8e9fb1a8f699321cfae2282d0b2d9"
     },
     {
+      "path": "imagenes/Far Cry Primal Apex Edition.webp",
+      "size": 76334,
+      "sha256": "be3df444779306856b031f118cecd396fb78d0796ffd488df1ed4e2f03bf1d07"
+    },
+    {
       "path": "imagenes/Farming Simulator 25 Year 1 Bundle.webp",
       "size": 78776,
       "sha256": "f1e2ecaedbe99f6302f5f4f1b6eaf2a549aac0a004343a8fa09b2be48f7c185e"
@@ -3460,6 +3465,36 @@
       "path": "capturas/Far Cry 5 Gold Edition/6.webp",
       "size": 31544,
       "sha256": "85e5310d115685634f335f3a35050280e569e32dd2bbedf575f4826363391b6a"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/1.webp",
+      "size": 16034,
+      "sha256": "2cb7b42c6e5dc7455e571b40839100c5f81f0f5c1d705176f0a5029670f62318"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/2.webp",
+      "size": 18162,
+      "sha256": "01411967d422c9ef278540616c127e0009088570294c76f4e7f6b6cec4e18666"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/3.webp",
+      "size": 21778,
+      "sha256": "9c8fbb7ae197727f917c24ab58e8d43a1afb5f4ad592fb77bb24fbcc1b8c918e"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/4.webp",
+      "size": 26894,
+      "sha256": "8907fbd9de9561eac72392084a5ed4eec431963e430cb49cbda8c4934b1493f4"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/5.webp",
+      "size": 32204,
+      "sha256": "dbfadea88253120a713d2461664ef6eaf8d092922de49d4f4d1131f9920801c3"
+    },
+    {
+      "path": "capturas/Far Cry Primal Apex Edition/6.webp",
+      "size": 39662,
+      "sha256": "1a04a1aa0fd0619dec7f4b0e249128d781329624fbd7f8806dc0bab0a4720636"
     },
     {
       "path": "capturas/Farming Simulator 25 Year 1 Bundle/1.webp",
@@ -7872,6 +7907,11 @@
       "sha256": "63c5ce8bfa8e31c6e4ccefa371a10fc6e2c750969f2a730c87e3e9137dedcbe6"
     },
     {
+      "path": "sinopsis/Far Cry Primal Apex Edition.txt",
+      "size": 1961,
+      "sha256": "c92715470f4ca8b96800789036ba85cbb0607462b7e217bab1c37d7da3103007"
+    },
+    {
       "path": "sinopsis/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 494,
       "sha256": "94d46bdfe03c00d0da05cff7ffe18bce131af18a03661cea92055e83e5e02a4e"
@@ -8955,6 +8995,11 @@
       "path": "datos/Far Cry 5 Gold Edition.txt",
       "size": 207,
       "sha256": "af5065ba85aa9ff33fa084b64d322d833a9917c6247c52f16f494fdfdb3cc06d"
+    },
+    {
+      "path": "datos/Far Cry Primal Apex Edition.txt",
+      "size": 217,
+      "sha256": "8e58f6d46d940b2b995b594caf7740f7d6d9274843cf752aba1c997468b42e27"
     },
     {
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",

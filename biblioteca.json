@@ -482,6 +482,11 @@
       "sha256": "9632152fd61c787641a229e38da101fb3c680d766edbfb005bdddf0a006dc6ca"
     },
     {
+      "path": "imagenes/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition.webp",
+      "size": 138498,
+      "sha256": "162e5a688d3df9739b49865c7e9fb9a79d1020f26c00114eaeb0f4bae0c46a7b"
+    },
+    {
       "path": "imagenes/Gothic 1 Remake.webp",
       "size": 21472,
       "sha256": "abc5795a189e1ac949dcdf808a72d8e36b2bae7108f98ff7a6b957f432348366"
@@ -3910,6 +3915,36 @@
       "path": "capturas/God Of War Ragnarok Deluxe Edition/6.webp",
       "size": 23762,
       "sha256": "0dc5c5eca6fcc30b1850a3b564575465b65afa5f7e3cdee516105b61312f51b7"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/1.webp",
+      "size": 57766,
+      "sha256": "61c90d8e2ca783362ee271757d89ae48a33381f47a5f0a9fb46eb35e73de27d6"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/2.webp",
+      "size": 21636,
+      "sha256": "6f9bca8263bc67a5d5fcb0e6746886770cdb7e4c0363a080768e7d89e3123390"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/3.webp",
+      "size": 29684,
+      "sha256": "6b028824043d207cac9fa732e1a087eb54a056f3c78a97b2805da8ac51c04d67"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/4.webp",
+      "size": 20322,
+      "sha256": "05d4dfaab5eebdb68781057c01d388432c8f6d6454315978611b48bce9f34286"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/5.webp",
+      "size": 17808,
+      "sha256": "c9e91652475902663b1358c682dec0ea000875d7496d147e4e942aecde379fa5"
+    },
+    {
+      "path": "capturas/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition/6.webp",
+      "size": 33268,
+      "sha256": "204194105b7083b19cba87bb56179ff62e7085f110ef63f2743b290c0b83a64e"
     },
     {
       "path": "capturas/Gothic 1 Remake/1.webp",
@@ -7982,6 +8017,11 @@
       "sha256": "75a89b27b2d0d05ad9caa551c43bce339ecc20b1db13c3222ab024c6b6de6bbb"
     },
     {
+      "path": "sinopsis/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition.txt",
+      "size": 913,
+      "sha256": "f77814bc1b72aee05af53fce10f22e1c208a13e440df8d97aedf194345e3ebe0"
+    },
+    {
       "path": "sinopsis/Gothic 1 Remake.txt",
       "size": 765,
       "sha256": "0f12f3c8a14067e1126424fe03922e92613dd4343b64633a58ea7966bcf07d9b"
@@ -9070,6 +9110,11 @@
       "path": "datos/God of War.txt",
       "size": 188,
       "sha256": "6005fb64ae446574c37c402060b20fb9ff8c3e33e5ce18c8cde1f3450e8fa763"
+    },
+    {
+      "path": "datos/Godzilla Destroy All Monsters Melee Remastered Digital Deluxe Edition.txt",
+      "size": 184,
+      "sha256": "82f893d15efadb2a02a982887e94f34c99a508de6328ac283cbbe7854e9d8445"
     },
     {
       "path": "datos/Gothic 1 Remake.txt",

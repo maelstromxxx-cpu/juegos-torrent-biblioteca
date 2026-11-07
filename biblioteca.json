@@ -37,6 +37,11 @@
       "sha256": "9e275b5cb811d0539c7fde787b6f535ed36eaf4d66a4752f60a9bda3a6964f0f"
     },
     {
+      "path": "imagenes/Arma Reforger Deluxe Edition.webp",
+      "size": 29604,
+      "sha256": "7698ca0906c0b38788abc3303cb6a9fbbb111d5625d1958f85907ed8bf04c4fe"
+    },
+    {
       "path": "imagenes/Armored Core VI Fires Of Rubicon Deluxe Edition.webp",
       "size": 83546,
       "sha256": "773130cda8596648f5513191847d33091e0934805956d001140802274d6d50bb"
@@ -1300,6 +1305,36 @@
       "path": "capturas/Angry Birds Ultimate Collection/6.webp",
       "size": 12522,
       "sha256": "57f72da6b63eb3290553a32b6d808ac391a3c904614b15d5da22e798cf8210e0"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/1.webp",
+      "size": 28284,
+      "sha256": "2f8dd368b257a847ee12b1d1161532f4e84b30af5721408ba1aa6501c19f652b"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/2.webp",
+      "size": 25590,
+      "sha256": "606ea3bc5612a2da8e6d7c1b9194a7180ed5cbd9e6a478ad41f907ac6d877d63"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/3.webp",
+      "size": 27390,
+      "sha256": "21cc6b52ef0b56b2e47545ef08e6a1c10e6711ec19c97788575f2075223d1033"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/4.webp",
+      "size": 21448,
+      "sha256": "2b419c4625dab4e14893fc6f3ad0893a294a9e430934957aa4220dc2475a51b5"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/5.webp",
+      "size": 21684,
+      "sha256": "b4244058f23892b19f367fed8a0f05d267d9214a1ae82ab0f463f0c2d0610d90"
+    },
+    {
+      "path": "capturas/Arma Reforger Deluxe Edition/6.webp",
+      "size": 36154,
+      "sha256": "8759de563d2da2fa02bb132ab6b2b3d8f5244cc79d3c29b163b8f49d66d4e669"
     },
     {
       "path": "capturas/Armored Core VI Fires Of Rubicon Deluxe Edition/1.webp",
@@ -7572,6 +7607,11 @@
       "sha256": "0349560042fb515c0f17477245c6e5d6dc159619b3948d3a77fbf19c4cd73277"
     },
     {
+      "path": "sinopsis/Arma Reforger Deluxe Edition.txt",
+      "size": 607,
+      "sha256": "a806984a66fe7530f6f09a9c385482fa0cf262798c710615d1ee15a11d0d9ac7"
+    },
+    {
       "path": "sinopsis/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",
       "size": 926,
       "sha256": "5f8b4f8bbab8b4b9f6b506df8fca389199fb8229b7a317a232f37163f162d9ff"
@@ -8660,6 +8700,11 @@
       "path": "datos/Angry Birds Ultimate Collection.txt",
       "size": 187,
       "sha256": "5ffee417d59653d7e5d1ee35f6fea2fa1ff0304115dfc8eac6fb4410089b876d"
+    },
+    {
+      "path": "datos/Arma Reforger Deluxe Edition.txt",
+      "size": 239,
+      "sha256": "8f4333457473cacb8c8e9639e7060c4be012b734c2ce625f9ded5dc769e1290f"
     },
     {
       "path": "datos/Armored Core VI Fires Of Rubicon Deluxe Edition.txt",

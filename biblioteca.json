@@ -457,6 +457,11 @@
       "sha256": "10191149f70fc1d0e07975b77a11497bc7417e2c73ddfea98c9f9ae17fc89c96"
     },
     {
+      "path": "imagenes/From Space Resistance Bundle.webp",
+      "size": 47720,
+      "sha256": "cabd417c7df7420b7b5a8b73d7c306cda05b657e038cfcc39cd3ee09ba7f0e2d"
+    },
+    {
       "path": "imagenes/Gears Of War E-Days Online.webp",
       "size": 61216,
       "sha256": "81ebbdceab07068ee47f61a9a2bce8fdc14c42ec21757d2b6f7407679da378a6"
@@ -3775,6 +3780,36 @@
       "path": "capturas/Forza Motorsport 7 Ultimate Edition/6.webp",
       "size": 21234,
       "sha256": "800d0d05947cbb16753e80246a37fddfa826d27b0053f721294c27714cac986c"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/1.webp",
+      "size": 25542,
+      "sha256": "e1b5d58b5cca2f64be9cd21a1a7d1f16cb72187f786b4a803446a77819347478"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/2.webp",
+      "size": 25072,
+      "sha256": "180adbb94d9419d158c6f0adde4d576ac4af910501858a4a1ddc6de18d16df0a"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/3.webp",
+      "size": 26940,
+      "sha256": "832ae9d9ef5b752316c6b0afe7e42c48965ae605d68f8ceb1f402932ff8af449"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/4.webp",
+      "size": 20980,
+      "sha256": "6c00c17af78f65e2ec0d9f8cd5c01bfb7aa7817893a4d78d913e16a368b64fa6"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/5.webp",
+      "size": 20602,
+      "sha256": "ecb98ee040588de365e305ac5623d0b69c64bb122d54510408eb25e295bac844"
+    },
+    {
+      "path": "capturas/From Space Resistance Bundle/6.webp",
+      "size": 18436,
+      "sha256": "6f0692df3aed27b50614f0adcfe202d77d3e9f0dcdd6a19fe52c8e2eec4678a9"
     },
     {
       "path": "capturas/Gears Of War E-Days/01.webp",
@@ -8062,6 +8097,11 @@
       "sha256": "670ec9275196e20fcaf6ef518c2ef69ac38350a370d4d1c3dbad06b737c4b324"
     },
     {
+      "path": "sinopsis/From Space Resistance Bundle.txt",
+      "size": 305,
+      "sha256": "e6911225399f59520cf9c5ad218118e9a26ecd411cdd57e497b6b14e3a50fd43"
+    },
+    {
       "path": "sinopsis/Gears Of War E-Days Online.txt",
       "size": 500,
       "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
@@ -9165,6 +9205,11 @@
       "path": "datos/Forza Motorsport 7 Ultimate Edition.txt",
       "size": 200,
       "sha256": "bc5bd7babe5f64e23f78999bdb14a514ac571eb5084671608f485a83e1bd8cd0"
+    },
+    {
+      "path": "datos/From Space Resistance Bundle.txt",
+      "size": 193,
+      "sha256": "9cf7eaef9adac926dd6e951633b0ad850994a706542586b26ff806ca28867a4f"
     },
     {
       "path": "datos/Gears Of War E-Days Online.txt",

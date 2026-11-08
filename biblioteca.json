@@ -22,6 +22,11 @@
       "sha256": "c980702bac78bb01b25a7c40bcdce136f5151c28e4d01c1f34a3c265003705f5"
     },
     {
+      "path": "imagenes/Age of Wonders 4 2026 Collector’s Bundle.webp",
+      "size": 47620,
+      "sha256": "186af2aff7bc82b2f884827d733e32e94e85b286a316edb5d229ba0bc1b760bb"
+    },
+    {
       "path": "imagenes/Alan Wake 2.webp",
       "size": 46236,
       "sha256": "878c49b7d8f442c39856aab500dd2e428e609231fbfaf285b088b763f326672c"
@@ -297,6 +302,11 @@
       "sha256": "616c4047fd2ae40f0f915074dee498ad225fcfe25dc912b37d57bcec8c35ae6e"
     },
     {
+      "path": "imagenes/Decktamer.webp",
+      "size": 49906,
+      "sha256": "c15f1c2849df43685b3727639f6088548babac2a0a7daf2441207494b538ebc0"
+    },
+    {
       "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
       "size": 54612,
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
@@ -397,6 +407,11 @@
       "sha256": "c172a9fa10c097637fb1d2666963fb5b065d168e6137a8c2f496a0a6938b50be"
     },
     {
+      "path": "imagenes/Every Day We Fight.webp",
+      "size": 33676,
+      "sha256": "4a37a7edbe5dcf1bf20a5c70a52e293540105f45f3ab25eda27b357246de7f8e"
+    },
+    {
       "path": "imagenes/Far Cry 3 Digital Deluxe Edition + Blood Dragon.webp",
       "size": 118688,
       "sha256": "6391850700f5cb5ee5a003fe9ff0c2dcea61011ab278533fd5739da35ca90b5a"
@@ -475,6 +490,11 @@
       "path": "imagenes/Ghost Of Tsushima.webp",
       "size": 75112,
       "sha256": "3115bcaa28fd98fecd866bf849eaafba90a975acaf0d264bcc6c9ae6e76845f8"
+    },
+    {
+      "path": "imagenes/Giggleland.webp",
+      "size": 18712,
+      "sha256": "9c356f94384bd8963431c631c3c3c1506dab91d5f04f3ffd95f3a3fdd7ea0f87"
     },
     {
       "path": "imagenes/God of War III Remastered.webp",
@@ -615,6 +635,11 @@
       "path": "imagenes/Lies Of P.webp",
       "size": 40802,
       "sha256": "e06d38d3f93d4e798e7f5c2fa05d6c1c23d90c6e5aa7492bac21a68982e8a0f6"
+    },
+    {
+      "path": "imagenes/Lightyear Frontier.webp",
+      "size": 50048,
+      "sha256": "c10b59ded731b535a8a32421a1b2ec5a7d2f870b611a3591473e78464aeffbfc"
     },
     {
       "path": "imagenes/Lust ‘n Dead.webp",
@@ -852,6 +877,11 @@
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
     },
     {
+      "path": "imagenes/Save Amani.webp",
+      "size": 15306,
+      "sha256": "f1f24aea26d8982c69f41a18c8d63cdabdced44b05aa9748e57eabbc61147202"
+    },
+    {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
@@ -890,6 +920,11 @@
       "path": "imagenes/Solo Leveling Arise Overdrive.webp",
       "size": 23446,
       "sha256": "7c2bbb7dd99bae52419a42d2cf8bd189213d0a2e6f9d68284e90ef7165f73d07"
+    },
+    {
+      "path": "imagenes/Sort The Capybaras.webp",
+      "size": 26534,
+      "sha256": "8f0e300b9b1af9ad1e9f5c53c6f479cb1529e9970ee941cab8050be909e0c34b"
     },
     {
       "path": "imagenes/Spider-Man Shattered Dimensions.webp",
@@ -1062,9 +1097,19 @@
       "sha256": "93acbec514b478f682849f97b9de0015be70278f2d0bdef696445ce0ecafb2dd"
     },
     {
+      "path": "imagenes/Victoria 3.webp",
+      "size": 35216,
+      "sha256": "a79f83bb1cfb813c0173756a50e539d3282255a47095d0699f7536a3f1b2b2f8"
+    },
+    {
       "path": "imagenes/Violet.webp",
       "size": 11226,
       "sha256": "4fd9b55dfd30d0edb65d88d288224e3ffc333c9b053553ce5b4758afc26a8326"
+    },
+    {
+      "path": "imagenes/Void Breaker.webp",
+      "size": 30346,
+      "sha256": "267762188bb635c27c5578be3cbb3c8fb153694e86fa6c6b47076e8d0c4dbc5b"
     },
     {
       "path": "imagenes/Warhammer 40.000 Space Marine II.webp",
@@ -1225,6 +1270,36 @@
       "path": "capturas/Ace Combat 8 Wings Of Theve/6.webp",
       "size": 17982,
       "sha256": "04692a4e9c291deff4925c9a17524ec30e645255a232f98e779f1b6be942e1c7"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/1.webp",
+      "size": 37768,
+      "sha256": "c05cecf52d4bf26e3fd51d0c376405630d0687157bfabc594ed9f985fad7c9dd"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/2.webp",
+      "size": 29526,
+      "sha256": "f9cdc3f6a6c3a8a5127e459c5f84bbd7a9aa38a802288e28594108237839c923"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/3.webp",
+      "size": 24966,
+      "sha256": "a6ec6045e80232b3115461d8d4745dbccabeaa666f832cd30338c53acb31a1e6"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/4.webp",
+      "size": 44534,
+      "sha256": "f6554f38458879ccb8faaefbc2e007889c60c9db2f01cc913574b82b97535ed1"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/5.webp",
+      "size": 14516,
+      "sha256": "5b9aa0a332bf0495e75a73b7dae88eabe74a0b76b35489e386446ebd9f6f6587"
+    },
+    {
+      "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/6.webp",
+      "size": 23498,
+      "sha256": "de69dc4dadc1f9874ea0000ce006f8c232ee3fd4fce0e6610090143a891d0b08"
     },
     {
       "path": "capturas/Alan Wake 2/1.webp",
@@ -2852,6 +2927,36 @@
       "sha256": "9ef8a9af3ba8b62f75bf6f2b46a11e979f5df5a668971767bfb2caa4b3462aa2"
     },
     {
+      "path": "capturas/Decktamer/1.webp",
+      "size": 30798,
+      "sha256": "a342f49969e3df3112083a0b24f1f68518d1edbd985c77b0274b130d740c6e00"
+    },
+    {
+      "path": "capturas/Decktamer/2.webp",
+      "size": 29512,
+      "sha256": "1a89e44a7248d600968a4ba276a9d2e4456ede525ce0ed92ddc2f435105fb081"
+    },
+    {
+      "path": "capturas/Decktamer/3.webp",
+      "size": 14250,
+      "sha256": "3a73395f2d573ca19c4eaba51a9a8c2cccf7ae84020471aea469e0bfb1a3ecb5"
+    },
+    {
+      "path": "capturas/Decktamer/4.webp",
+      "size": 27772,
+      "sha256": "c6ee88b5cda752852603d96e7b4aa6a8e7ddbe072f4597292640cc630f93de4a"
+    },
+    {
+      "path": "capturas/Decktamer/5.webp",
+      "size": 24128,
+      "sha256": "dc51f9e14e9f08668f8a28217a59b3aab32d5b0620f8334642b0496f585616f8"
+    },
+    {
+      "path": "capturas/Decktamer/6.webp",
+      "size": 33730,
+      "sha256": "23a267a0958fdccfe96ac95b7397dd9950e02f954e454186855c40bfa2e1c0da"
+    },
+    {
       "path": "capturas/Deep Rock Galactic Deluxe Edition/1.webp",
       "size": 19300,
       "sha256": "fca9a07389e746d11c1d944a1c22453ec7c901040fa562c6bdbbc2480869b491"
@@ -3427,6 +3532,36 @@
       "sha256": "176b1ba46e6440efb8360c29d2d18b95292ea0c17aa4b263f4f207a14c2ee722"
     },
     {
+      "path": "capturas/Every Day We Fight/1.webp",
+      "size": 41996,
+      "sha256": "aaa6c97e73621dc4e4b98607c832470e508f730f1f1e3ab335f890ea47bf69e4"
+    },
+    {
+      "path": "capturas/Every Day We Fight/2.webp",
+      "size": 35808,
+      "sha256": "0b2f5a4b3720fd767c08073cc273639fb3ab79efc8f49cf872b1653f7eda08f9"
+    },
+    {
+      "path": "capturas/Every Day We Fight/3.webp",
+      "size": 33416,
+      "sha256": "20efe6789b2b5fc9db2a889cfc694ec3135bcc7f16642226b49341677652014f"
+    },
+    {
+      "path": "capturas/Every Day We Fight/4.webp",
+      "size": 25990,
+      "sha256": "1b5a502159ec4ca6253deec442e4feb86ba2284e976734dafee324326913a654"
+    },
+    {
+      "path": "capturas/Every Day We Fight/5.webp",
+      "size": 32178,
+      "sha256": "a1bc47a7ab37747487db9eea8d2cb98923783bec1ef862bb9e781e7e3ec79042"
+    },
+    {
+      "path": "capturas/Every Day We Fight/6.webp",
+      "size": 20356,
+      "sha256": "d4a112b8304f11a3ecd6ac69c2a7d9a29e36a443716261ffb5af3eca9ab645d3"
+    },
+    {
       "path": "capturas/Far Cry 3 Digital Deluxe Edition + Blood Dragon/1.webp",
       "size": 32648,
       "sha256": "fd728b4ddad8d226acc6dc778e0466d9fc68890f62bbfa2b4a0d4f96b3e16d32"
@@ -3900,6 +4035,36 @@
       "path": "capturas/Ghost Of Tsushima/6.webp",
       "size": 15462,
       "sha256": "d5f32726019756f943797b65511c12217640773232548a4e883c8e93e70f61f7"
+    },
+    {
+      "path": "capturas/Giggleland/1.webp",
+      "size": 30878,
+      "sha256": "2c4aff397e18bd402c44b697d263e71c9fa6fbe8cc7d51e3b2e630e9b5d2d845"
+    },
+    {
+      "path": "capturas/Giggleland/2.webp",
+      "size": 9594,
+      "sha256": "22f3e5d42ae3a2dfbb74d9ff4ebfe396e62fdce961fe0ebcd46b347b3cf6de3c"
+    },
+    {
+      "path": "capturas/Giggleland/3.webp",
+      "size": 7550,
+      "sha256": "57471bcffaedacc221f5249cb84242424684a5509453237422deb38ba8e05d28"
+    },
+    {
+      "path": "capturas/Giggleland/4.webp",
+      "size": 9898,
+      "sha256": "1d7bdcdc2fd27919ee46902d6510ce45c3bda9fcf2bcc03ca188e31f964713f9"
+    },
+    {
+      "path": "capturas/Giggleland/5.webp",
+      "size": 12550,
+      "sha256": "66547bb6abde920de28b0b4087d344e41d042ed3210f248f035b116acae1a58e"
+    },
+    {
+      "path": "capturas/Giggleland/6.webp",
+      "size": 27152,
+      "sha256": "dcec30fcc187e189e3aace60a5b4ac776987610e8d52fe0f62501b052f42bb0e"
     },
     {
       "path": "capturas/God of War/1.webp",
@@ -4735,6 +4900,36 @@
       "path": "capturas/Lies Of P/6.webp",
       "size": 19992,
       "sha256": "b1b9c8eb16b0690d8102fa4184027036239f4cf5205823608de630da805788ab"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/1.webp",
+      "size": 49418,
+      "sha256": "4c4096f2d39e0980fbb39cd1d7ca00fee020bc51960bb271c25e2d78da9dd9b8"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/2.webp",
+      "size": 30412,
+      "sha256": "81e3bf42ee8c2b6b53ba09f18e9281684b0b13a5004b8c74f463b712e00dde52"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/3.webp",
+      "size": 33292,
+      "sha256": "31bf62e452c9e445721392be2f5eeaeacd34cc95c992c934ae1e75cdf0ff9886"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/4.webp",
+      "size": 38152,
+      "sha256": "37639cb3fc87bc659ba5758c438383c0b7d7e14a64daf80f4e3d3297491862e0"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/5.webp",
+      "size": 23524,
+      "sha256": "d43b0c1d7d963fc3b902908b0e9090d70a81e1f1ea9f3eee5233d5a4370825ff"
+    },
+    {
+      "path": "capturas/Lightyear Frontier/6.webp",
+      "size": 40546,
+      "sha256": "5c5929de82d7f661b80ac56d02afcec4ef525a17e24eb9d10c14d0e0dea8d98a"
     },
     {
       "path": "capturas/Lust ‘n Dead/1.webp",
@@ -6127,6 +6322,36 @@
       "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
     },
     {
+      "path": "capturas/Save Amani/1.webp",
+      "size": 9674,
+      "sha256": "35621eea3b7098031e8c22f5a83bb34670dc6117e43e1f3a9da4ed95476e9268"
+    },
+    {
+      "path": "capturas/Save Amani/2.webp",
+      "size": 9742,
+      "sha256": "31e9b4acd4dbf614f08c1dd08d2f01b346b09d02fa9d730e1b21ef1524caf22a"
+    },
+    {
+      "path": "capturas/Save Amani/3.webp",
+      "size": 19230,
+      "sha256": "55882d2f8b20c721d96275f9a3e5e652bd475a6dd27e31040e8bc4578a37b9f4"
+    },
+    {
+      "path": "capturas/Save Amani/4.webp",
+      "size": 8844,
+      "sha256": "29f7f803bfa749e598a5c59e973fc2d654d5e388d7a43840080518592f800a87"
+    },
+    {
+      "path": "capturas/Save Amani/5.webp",
+      "size": 11548,
+      "sha256": "3863e3d81b41094ec04bd75a634ee34f9ef770d0ba28b8de93e9a7e1628d6da3"
+    },
+    {
+      "path": "capturas/Save Amani/6.webp",
+      "size": 16122,
+      "sha256": "57407fd5b5f40953cb8b7a1e61851ed7d4768fb5f68dfb370eefa4c953b498b7"
+    },
+    {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
       "size": 14458,
       "sha256": "9e9ba3aec4c26c50ea3a4af6d6fd0ead215196c9b90c6ade35a7f2e555103e4a"
@@ -6365,6 +6590,36 @@
       "path": "capturas/Solo Leveling Arise Overdrive/6.webp",
       "size": 17164,
       "sha256": "6f231ca0b2f21098662b28c3418dee5a89811823bada6444a0e1c2e704337ecd"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/1.webp",
+      "size": 38560,
+      "sha256": "757e0e0f341bb93a8ecc209d6f989032658f829488eae6aaf2bbb634511e168b"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/2.webp",
+      "size": 46422,
+      "sha256": "bc87a45b44d3f61808662818919c95ca72ff5f17d44c4c5fd50ee4b2e8e056b4"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/3.webp",
+      "size": 35510,
+      "sha256": "cc9ba11ce39f448339b832b7c20318d5cd02999828faa084d996567e8c9a85ae"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/4.webp",
+      "size": 37742,
+      "sha256": "899ae0516ef8bcb1fc662f9a8783b29246c0bfa5a416202753f866bcb8fe6ad8"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/5.webp",
+      "size": 41416,
+      "sha256": "0b2e84e19d5a64d17655bd5de85d9cce2690c68962cfcee2e2ec3a2b92f11203"
+    },
+    {
+      "path": "capturas/Sort The Capybaras/6.webp",
+      "size": 38088,
+      "sha256": "e03dcd5e55f7bbebad83616bb24cf0d8428197549b706d9e64e74af7d88c3eb4"
     },
     {
       "path": "capturas/Spider-Man Shattered Dimensions/1.webp",
@@ -7377,6 +7632,36 @@
       "sha256": "37be151215e4d0b829c3c60d9ae7f128f463a7e1677366731ec420d595ca709f"
     },
     {
+      "path": "capturas/Victoria 3/1.webp",
+      "size": 30714,
+      "sha256": "1a907c2b79b1620ff81ece0b9d825b1a802f6530656f5d9b7aadfabb42fa955d"
+    },
+    {
+      "path": "capturas/Victoria 3/2.webp",
+      "size": 41932,
+      "sha256": "6168f342a13c377904bdbfff73ff1a88909614605b8913ffde91e29a788a1ebc"
+    },
+    {
+      "path": "capturas/Victoria 3/3.webp",
+      "size": 26030,
+      "sha256": "fedfbea72083af7f243ec9b06c11bc653404c04a31328a7dde038e60f4590f4a"
+    },
+    {
+      "path": "capturas/Victoria 3/4.webp",
+      "size": 16520,
+      "sha256": "2b9cde8cf7b4b1feec1445bfd2e204e803b3170596547a95caf93595883293e1"
+    },
+    {
+      "path": "capturas/Victoria 3/5.webp",
+      "size": 30594,
+      "sha256": "32054a1a91dd98f26b1c278118792b9d4d3d7b81f9950f601f4a3950ac1873f9"
+    },
+    {
+      "path": "capturas/Victoria 3/6.webp",
+      "size": 19472,
+      "sha256": "8bbaa5cc3fc421ecfd276853314bce76a582f0b5d883e9faec5037ec4893e294"
+    },
+    {
       "path": "capturas/Violet/1.webp",
       "size": 3984,
       "sha256": "a3ff30c9ab03effe418c8342937db45131b4e80879555b4461fa2b4b8f72e3ff"
@@ -7405,6 +7690,36 @@
       "path": "capturas/Violet/6.webp",
       "size": 7586,
       "sha256": "b5be97ff4bf3b4ae18dccffc94e6aa0d34bef81360f7bf9439823055df28b329"
+    },
+    {
+      "path": "capturas/Void Breaker/1.webp",
+      "size": 28776,
+      "sha256": "d42f5a4bd6ddd2ca5027dc6477f074c4f68a661449b3bd48076f85baac027f3e"
+    },
+    {
+      "path": "capturas/Void Breaker/2.webp",
+      "size": 32996,
+      "sha256": "7dcdb1f0dca020f5dfc3767de3c07893a306c96127d3fca42c150e64598230af"
+    },
+    {
+      "path": "capturas/Void Breaker/3.webp",
+      "size": 33248,
+      "sha256": "fa80b30c2cd9f59587127b034834e34ed2f0c4dd5862ebac232f78bba27baf15"
+    },
+    {
+      "path": "capturas/Void Breaker/4.webp",
+      "size": 25506,
+      "sha256": "18cfb6afff39fb9aff391d4a12acc5eaf3d3b7afb898a5ce1394f7cf5f0070a8"
+    },
+    {
+      "path": "capturas/Void Breaker/5.webp",
+      "size": 37156,
+      "sha256": "dffc6e3f3aecdd7a1195c5409969a9c66c53ad5112ffc1dafc74be782f509ef0"
+    },
+    {
+      "path": "capturas/Void Breaker/6.webp",
+      "size": 27060,
+      "sha256": "c87c8184b122da757ef0dc119511cec3658a4cf4aa386f0edf71caef0452d3f9"
     },
     {
       "path": "capturas/Warhammer 40.000 Space Marine II/1.webp",
@@ -7660,6 +7975,11 @@
       "path": "sinopsis/Ace Combat 8 Wings Of Theve.txt",
       "size": 335,
       "sha256": "ea9570a959cae9bf1de05bb9b6101cc21a05bf2a76b4f46230d959948ed71f8d"
+    },
+    {
+      "path": "sinopsis/Age of Wonders 4 2026 Collector’s Bundle.txt",
+      "size": 972,
+      "sha256": "2b005edfaf619c4d2842bea145a55b67dce6a0725207a47bc537a7fa1656c40e"
     },
     {
       "path": "sinopsis/Alan Wake 2.txt",
@@ -7937,6 +8257,11 @@
       "sha256": "bdb083c2fd508d2cf3d814df504c87d4449edfdcf3e233ca0420db594517bd8e"
     },
     {
+      "path": "sinopsis/Decktamer.txt",
+      "size": 487,
+      "sha256": "a10891881c84537bd39886f7f1777d3f63d2ec18c3dc74bc59ad52e99836cbd8"
+    },
+    {
       "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
       "size": 529,
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
@@ -8037,6 +8362,11 @@
       "sha256": "236409cf8157aba9dbe850277bbed585c1b1937d92fea5a3445de5e1695f91ef"
     },
     {
+      "path": "sinopsis/Every Day We Fight.txt",
+      "size": 665,
+      "sha256": "154bf8b31dbed1da7e6a27e1c3461fe46c5f5b5d238b0c3ef5cd92a7749d115e"
+    },
+    {
       "path": "sinopsis/Far Cry 3 Digital Deluxe Edition + Blood Dragon.txt",
       "size": 517,
       "sha256": "727af25c88ad678749c3a9ea73d440ae48776ddde1183ae1b4ff9ae5d41b4562"
@@ -8115,6 +8445,11 @@
       "path": "sinopsis/Ghost Of Tsushima.txt",
       "size": 910,
       "sha256": "8d5cfe6c5c4ea4363c4973c3ebf3432fe35b987d951b17ab40cf0fb76470d00e"
+    },
+    {
+      "path": "sinopsis/Giggleland.txt",
+      "size": 510,
+      "sha256": "2c0397b0b0f22867cb19d3f8542a3ff79f0c6e39fe28b11c81a24aedf7a40400"
     },
     {
       "path": "sinopsis/God of War III Remastered.txt",
@@ -8255,6 +8590,11 @@
       "path": "sinopsis/Lies Of P.txt",
       "size": 1014,
       "sha256": "75f74bcb3b42694eee2d268c152022eceb8f4186066fe9e60e2661c36c22189a"
+    },
+    {
+      "path": "sinopsis/Lightyear Frontier.txt",
+      "size": 502,
+      "sha256": "33ef1d2ada5c15c0514304998a024bfa99367660e330130ce040297692a7d0c6"
     },
     {
       "path": "sinopsis/Lust ‘n Dead.txt",
@@ -8492,6 +8832,11 @@
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
     },
     {
+      "path": "sinopsis/Save Amani.txt",
+      "size": 762,
+      "sha256": "78814284926513e0fe2c2df93dcb14e97f53fb1195d70a334d87253411f92d29"
+    },
+    {
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
       "size": 1896,
       "sha256": "f3ed473848931bd796acb0e6c6b286581f7806dd9146af7224a8498662eecfe4"
@@ -8530,6 +8875,11 @@
       "path": "sinopsis/Solo Leveling Arise Overdrive.txt",
       "size": 485,
       "sha256": "82c6ab73a1a7efbb5fd43b8daf110bc86518c7653e84da6856e55ab443f82897"
+    },
+    {
+      "path": "sinopsis/Sort The Capybaras.txt",
+      "size": 471,
+      "sha256": "05c246d7218d0da238b896f8c33a1841151ddbcfba0a672543ec6eefb0a738e0"
     },
     {
       "path": "sinopsis/Spider-Man Shattered Dimensions.txt",
@@ -8702,9 +9052,19 @@
       "sha256": "b0c013f33235ef60f6122816510757d9b0668622a40f8e408988d68da4b6171f"
     },
     {
+      "path": "sinopsis/Victoria 3.txt",
+      "size": 281,
+      "sha256": "2979f800cf5df9c389174bf1ce969403391b636144a43c331b3da1eb62a0919d"
+    },
+    {
       "path": "sinopsis/Violet.txt",
       "size": 507,
       "sha256": "0dfef20913e3a3efa4434691edb74c55f7088d7e0f67333e52ff48151e680dc6"
+    },
+    {
+      "path": "sinopsis/Void Breaker.txt",
+      "size": 413,
+      "sha256": "382b3dad5f9954cec9214a0fa293c13315f41b6b76c31d51430126b25a809efb"
     },
     {
       "path": "sinopsis/Warhammer 40.000 Space Marine II.txt",
@@ -8765,6 +9125,11 @@
       "path": "datos/Ace Combat 8 Wings Of Theve.txt",
       "size": 224,
       "sha256": "23340862b72ab677b20bb9b7b134891c2779c695f9933fd0e2c51698e1f06865"
+    },
+    {
+      "path": "datos/Age of Wonders 4 2026 Collector’s Bundle.txt",
+      "size": 194,
+      "sha256": "96bf13b8ec37e06310ecee433066cc6024169b6dc7aa809508ba8e164cbdb8f7"
     },
     {
       "path": "datos/Alan Wake 2.txt",
@@ -9047,6 +9412,11 @@
       "sha256": "85294fe93d12ea73971bafee002c3690b53e76ce867496ff9fbfdc940c395ce6"
     },
     {
+      "path": "datos/Decktamer.txt",
+      "size": 183,
+      "sha256": "a19d635d8c15a1db7fb074adc264d8e5bc74a6fda485abb2b3dc8fdbc86d8336"
+    },
+    {
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
       "size": 193,
       "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
@@ -9147,6 +9517,11 @@
       "sha256": "5a6376e6d8f50a14ab359ae6bf8a282e02383297ed4bc66a34a7645ba927b19f"
     },
     {
+      "path": "datos/Every Day We Fight.txt",
+      "size": 180,
+      "sha256": "878532fb4b3540261d5fc4255a660807ffda21d3dcc39b539aad51f4dde466b8"
+    },
+    {
       "path": "datos/Far Cry 3 Digital Deluxe Edition + Blood Dragon.txt",
       "size": 186,
       "sha256": "b381b4fe6dbe473b4e7b9e9d0694c63d3411d59c6734b41ddadd830457443086"
@@ -9225,6 +9600,11 @@
       "path": "datos/Ghost Of Tsushima.txt",
       "size": 236,
       "sha256": "726a164c6fdb10bf49e62bdce0ef97cc50f825df0b36faa34d7c071ca7beb439"
+    },
+    {
+      "path": "datos/Giggleland.txt",
+      "size": 198,
+      "sha256": "508b888b7a9b816276c34db2835f8e2e021565d8900ff5dc96481549fc43ceff"
     },
     {
       "path": "datos/God of War III Remastered.txt",
@@ -9365,6 +9745,11 @@
       "path": "datos/Lies Of P.txt",
       "size": 193,
       "sha256": "7384eb57a14cb5c49f1a149b73a235086dc4523defceb52bdefa3df3e3e2b345"
+    },
+    {
+      "path": "datos/Lightyear Frontier.txt",
+      "size": 228,
+      "sha256": "120c4ee15c13009b223027a22d3907ea7cfb204f9b9854098e776ba1b218a019"
     },
     {
       "path": "datos/Lust ‘n Dead.txt",
@@ -9602,6 +9987,11 @@
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
     },
     {
+      "path": "datos/Save Amani.txt",
+      "size": 231,
+      "sha256": "24a70e33d78df0dff2d5bce8a35f672270784658757ba011a4653c203ddf1a75"
+    },
+    {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
       "size": 191,
       "sha256": "c9f016ab4ab4c57889406e5d8d8375b136a8c8d3382b559727ccbb53e0194582"
@@ -9640,6 +10030,11 @@
       "path": "datos/Solo Leveling Arise Overdrive.txt",
       "size": 183,
       "sha256": "b0f7aeaa0c2687f916f7a5be2f066e75b284c8b43eb571a48da587469eb83edc"
+    },
+    {
+      "path": "datos/Sort The Capybaras.txt",
+      "size": 202,
+      "sha256": "6520ab984ef8c8924413e41f0999d830283598f65973cd69e2bd3e2953d458f3"
     },
     {
       "path": "datos/Spider-Man Shattered Dimensions.txt",
@@ -9812,9 +10207,19 @@
       "sha256": "5fa25caa6f54df0ee3ef266ab25d9f6c09f21ac797af6bd9312499fe18fa8e2a"
     },
     {
+      "path": "datos/Victoria 3.txt",
+      "size": 190,
+      "sha256": "b023784f3382a40f9de855848883b77a125424ea2e19a3020c63d189edd5a74d"
+    },
+    {
       "path": "datos/Violet.txt",
       "size": 206,
       "sha256": "cc59c2c0a168b5e5c02eb3f780f6876b67d5e15276a5d8479bc367f41a4be99d"
+    },
+    {
+      "path": "datos/Void Breaker.txt",
+      "size": 179,
+      "sha256": "014ce1b090eff057e3d19d6f08340cfa9268248ea7a2eac16ba36a522f295297"
     },
     {
       "path": "datos/Warhammer 40.000 Space Marine II.txt",

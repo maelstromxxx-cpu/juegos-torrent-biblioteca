@@ -1,0 +1,3 @@
+Este roguelike por turnos une la creación de mazos y la captura de monstruos. Recluta cartas enemigas mientras te adentras en las profundidades del abismo. ¿Los matarás o los domarás?
+
+En Decktamer, encontrarás criaturas que se han adaptado a su extraño entorno: el abismo. Se rumorea que quien tenga el valor de llegar al fondo del gigantesco cráter encontrará una gran fortuna; pero cuidado, porque cuanto más te adentres, más raras y peligrosas se volverán las criaturas...

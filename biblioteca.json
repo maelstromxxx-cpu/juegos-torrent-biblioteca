@@ -1067,6 +1067,11 @@
       "sha256": "3b158100f9a73d86cfb2e59fd4d1868714397ad3f1a6853b7ae5634e49ef8a7f"
     },
     {
+      "path": "imagenes/Warhammer 40000 Dawn of War Definitive Edition.webp",
+      "size": 74468,
+      "sha256": "0c5c6010bcfcda41d0cacb10e050bd35b615c955afba49f219878a9425535f54"
+    },
+    {
       "path": "imagenes/Warrior Cats Clans of the Forest.webp",
       "size": 35496,
       "sha256": "a6aab1e5567fa70421dc8fb324485d2ded37a402f339a85bf78419f3df92897e"
@@ -7397,6 +7402,36 @@
       "sha256": "7ac3b5940547bf3dae478b06bbe11eab4590fb354bae02b71814ae4ebf40d17c"
     },
     {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/1.webp",
+      "size": 41250,
+      "sha256": "5158c1dd5a1c5160d3a68929e5c451ca71cdfad83a4676073ba86c0aab1e34d6"
+    },
+    {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/2.webp",
+      "size": 38782,
+      "sha256": "1fcb2a996ff2cc457127f480a378ff35ca605818629d07e209b916ec225c2956"
+    },
+    {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/3.webp",
+      "size": 23530,
+      "sha256": "72b818e09fedb8079e9cb87f3298461cc0ef8033e0de8fce72dc4b379f667c94"
+    },
+    {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/4.webp",
+      "size": 36540,
+      "sha256": "a0169df42bf9314bb1341e353351066f9dd9687a5d82c6e187a9498d23c3514e"
+    },
+    {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/5.webp",
+      "size": 36908,
+      "sha256": "1275bd9a736630b2dd1809ee5a84afe2f52f42ad98c5bd312987882cf6708c0c"
+    },
+    {
+      "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/6.webp",
+      "size": 42580,
+      "sha256": "00a14a608c2435aad7ccb8de3b706f1f2124324e2a8d845214deb4e564e435fd"
+    },
+    {
       "path": "capturas/Warrior Cats Clans of the Forest/1.webp",
       "size": 28500,
       "sha256": "82deabf65abebff57bd8d75aea2a247ed9f8cf5ed3a641c621d262061f08db4d"
@@ -8637,6 +8672,11 @@
       "sha256": "8ac0e093d251c1d67a79698bdc739aab98156995c8aca2779b7d6306aee1a71b"
     },
     {
+      "path": "sinopsis/Warhammer 40000 Dawn of War Definitive Edition.txt",
+      "size": 627,
+      "sha256": "eb026865b376c03b574b9c280c6e5da8fbb455c5064622e4739d3b3a3df50884"
+    },
+    {
       "path": "sinopsis/Warrior Cats Clans of the Forest.txt",
       "size": 683,
       "sha256": "b34a54dcd7443b3b593fafebab9f71b16690054a9d10910be34728c68c922e27"
@@ -9735,6 +9775,11 @@
       "path": "datos/Warhammer 40.000 Space Marine II.txt",
       "size": 246,
       "sha256": "1006c67c5e44c8a7541ee0da124d1f3ea48400986456364ea02a16101ead0df3"
+    },
+    {
+      "path": "datos/Warhammer 40000 Dawn of War Definitive Edition.txt",
+      "size": 183,
+      "sha256": "ffbfae4c280e2604a03d463a799ce1b8f01617ebcbbde5ff9c4127c9a2a7a6dc"
     },
     {
       "path": "datos/Warrior Cats Clans of the Forest.txt",

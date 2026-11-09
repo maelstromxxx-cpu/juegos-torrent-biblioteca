@@ -1192,6 +1192,11 @@
       "sha256": "a256fd7f46c15255d745b340d9b727fcf4c8ebdbf03452de8399d942461bcc84"
     },
     {
+      "path": "imagenes/Woodo Endless Summer Edition.webp",
+      "size": 25404,
+      "sha256": "6c506860f2c1a7b8414241a6dffcb012eb03b391036a73cdd8b2e775146da999"
+    },
+    {
       "path": "imagenes/WWE 2K26.webp",
       "size": 78690,
       "sha256": "5619d401406d6fda2bb9e77cd99b95fd961e60e7d3e767a3f3ba210be92eb77e"
@@ -8247,6 +8252,36 @@
       "sha256": "3d8da4e6be3143ed3d1d7b801c031da8dfdcfca80d670b78c6784a88a4afc160"
     },
     {
+      "path": "capturas/Woodo Endless Summer Edition/1.webp",
+      "size": 21240,
+      "sha256": "8c9afc43451fa03c0b65675fd455b9293116590cfc39b5add66828c68483b0a5"
+    },
+    {
+      "path": "capturas/Woodo Endless Summer Edition/2.webp",
+      "size": 16200,
+      "sha256": "86c31687c76149f7f3bf6613212631115601896b421fb3af4cd3b3134e845e0b"
+    },
+    {
+      "path": "capturas/Woodo Endless Summer Edition/3.webp",
+      "size": 8798,
+      "sha256": "61ada9ea4d52432d271d21b2e22ba590f9db4d66f0ab33ef74471123c1b9cde6"
+    },
+    {
+      "path": "capturas/Woodo Endless Summer Edition/4.webp",
+      "size": 20046,
+      "sha256": "f480ac27bfd349de6c5d45e74bcdbf97e2c1baaad5ec3b708178167654ca03ff"
+    },
+    {
+      "path": "capturas/Woodo Endless Summer Edition/5.webp",
+      "size": 6560,
+      "sha256": "b4a598060835a84744e454e01796b725bfd11d8da1d527e7b6009a73b4d00a89"
+    },
+    {
+      "path": "capturas/Woodo Endless Summer Edition/6.webp",
+      "size": 11904,
+      "sha256": "e59b25035ab4c2a803d867e9178946816d96c51afa1a27815842878096292311"
+    },
+    {
       "path": "capturas/WWE 2K26/1.webp",
       "size": 16426,
       "sha256": "502692dadc41430cbe84522f82c1c50449a3775ea8732317de3baf7b3eba07c6"
@@ -9497,6 +9532,11 @@
       "sha256": "995cad2ec97f828e1fe38aa16d806d6039c6f48dd6504367b11e603f4a46f880"
     },
     {
+      "path": "sinopsis/Woodo Endless Summer Edition.txt",
+      "size": 886,
+      "sha256": "7140d33e4106acb4b81d52cf324e4745a673bd4e97f65521a1cf24cf2dcec3af"
+    },
+    {
       "path": "sinopsis/WWE 2K26.txt",
       "size": 7786,
       "sha256": "10e5c91592d29143d9636acf88386e3589e2b2b3c0972acc685765a17853387b"
@@ -10700,6 +10740,11 @@
       "path": "datos/Wing Commander II Vengeance of the Kilrathi.txt",
       "size": 189,
       "sha256": "ff4a01afc00f894e86595a7bca7594af54901a0b5a989767235767451fa60db6"
+    },
+    {
+      "path": "datos/Woodo Endless Summer Edition.txt",
+      "size": 186,
+      "sha256": "e3866568a9506af80f51882e8781e1a8f0ba8771ec25d55522571d11e540f3a0"
     },
     {
       "path": "datos/WWE 2K26.txt",

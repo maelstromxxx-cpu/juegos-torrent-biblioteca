@@ -1062,6 +1062,11 @@
       "sha256": "a0d20a3a7c959e5d147afa202808f858088bcb29d8a406a18335a855365d35c2"
     },
     {
+      "path": "imagenes/The Berlin Apartment.webp",
+      "size": 34132,
+      "sha256": "33b09628426bfe777048a5113ffb2a11e53fa76c728433074dc6461f222ce86d"
+    },
+    {
       "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
       "size": 63882,
       "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
@@ -1100,6 +1105,11 @@
       "path": "imagenes/The Lord of the Rings War in the North Legacy Edition.webp",
       "size": 36430,
       "sha256": "d28760c70637d54baab3ffd7c0d4075dd9a171935bcc3e76b29672b6ebfcc170"
+    },
+    {
+      "path": "imagenes/The Midnight Walk.webp",
+      "size": 54642,
+      "sha256": "92a2a82bb5001f789af843b135e4f958308346474e15246995f78c230817e51e"
     },
     {
       "path": "imagenes/The Relic First Guardian.webp",
@@ -7552,6 +7562,36 @@
       "sha256": "6da822ca7f1034ac622e87da9a8c1923ac9f3b6deaedd1c39f2941873362a596"
     },
     {
+      "path": "capturas/The Berlin Apartment/1.webp",
+      "size": 19756,
+      "sha256": "7fe24810c99edd066d99d4ba233260000b89fdd248a40ac6acb5eec460227a60"
+    },
+    {
+      "path": "capturas/The Berlin Apartment/2.webp",
+      "size": 25746,
+      "sha256": "dbca012aedc04484cfafc0a2fcbed3472ea227a4751e9eea0c7a7b9804699153"
+    },
+    {
+      "path": "capturas/The Berlin Apartment/3.webp",
+      "size": 22466,
+      "sha256": "78a95b60b553c9784d34322c69d66dcafbd6a560ecf5dedf0ce69d4436a24929"
+    },
+    {
+      "path": "capturas/The Berlin Apartment/4.webp",
+      "size": 17088,
+      "sha256": "0c0303db9fdb60cf7268d644ecf48e30c34f9a9f0105dae6ef79a38fea166c7d"
+    },
+    {
+      "path": "capturas/The Berlin Apartment/5.webp",
+      "size": 11154,
+      "sha256": "d24d88581f7a217249ba0cad9e8e7ca844369c47baa7978ed4fecc2dfc20bee2"
+    },
+    {
+      "path": "capturas/The Berlin Apartment/6.webp",
+      "size": 19986,
+      "sha256": "f8488335b45059372e87cf7755dfea8f5c7b22adf22402a05b4943034d8c359f"
+    },
+    {
       "path": "capturas/The Blood of Dawnwalker Eclipse Edition/1.webp",
       "size": 28650,
       "sha256": "c01aee6f5ee2614933e9285d112ea72a6d2b412cc66121299315d28df8dd59ce"
@@ -7785,6 +7825,31 @@
       "path": "capturas/The Lord of the Rings War in the North Legacy Edition/5.webp",
       "size": 42976,
       "sha256": "95a24d8ee4c0ab9d04defd719c67e52f71238451c0a361b8a224b2af2ed7642e"
+    },
+    {
+      "path": "capturas/The Midnight Walk/1.webp",
+      "size": 8022,
+      "sha256": "b0bf506800386616f6b04a85baf9876dbc3898174a33bf66813be9a83fb2b382"
+    },
+    {
+      "path": "capturas/The Midnight Walk/2.webp",
+      "size": 8534,
+      "sha256": "5713fab7719454a76a0f14ca017d060db673124eebf428431fa21ffbc62faca3"
+    },
+    {
+      "path": "capturas/The Midnight Walk/3.webp",
+      "size": 11880,
+      "sha256": "a0a083808370e6030230954c701abfde1fd6973604b9d50b40ec2d0b76488834"
+    },
+    {
+      "path": "capturas/The Midnight Walk/4.webp",
+      "size": 9572,
+      "sha256": "c0fd31d5af168ab299698431c7a27e13470243b05a3094f49b8f15a80b7f8b25"
+    },
+    {
+      "path": "capturas/The Midnight Walk/5.webp",
+      "size": 7844,
+      "sha256": "09acef651539d487e4010d458c1d23ffb9956799d255b6709523867435bd7c34"
     },
     {
       "path": "capturas/The Relic First Guardian/1.webp",
@@ -9682,6 +9747,11 @@
       "sha256": "296b1c9e4ebdda7085697a492106ea66f8ba7517e6d02d0cfaf141ae173aab07"
     },
     {
+      "path": "sinopsis/The Berlin Apartment.txt",
+      "size": 623,
+      "sha256": "c0a1fd12bc867fe711ba2362fbed22b8c2d862f8e3f8365615966840f399fb44"
+    },
+    {
       "path": "sinopsis/The Blood of Dawnwalker Eclipse Edition.txt",
       "size": 409,
       "sha256": "58de70b68252693fbba03096705a9ebd51e8a0df810592b3568465d4c25cf011"
@@ -9720,6 +9790,11 @@
       "path": "sinopsis/The Lord of the Rings War in the North Legacy Edition.txt",
       "size": 707,
       "sha256": "7d70615f2167272a92d7c8ce4b343cf9de1ff976523d3dc83ff78bca4c8e1673"
+    },
+    {
+      "path": "sinopsis/The Midnight Walk.txt",
+      "size": 746,
+      "sha256": "a463ddb9b0f0eefcafa435d0c26ded822ca6f2a151b849c1a3322f2f3fb7ac4d"
     },
     {
       "path": "sinopsis/The Relic First Guardian.txt",
@@ -10932,6 +11007,11 @@
       "sha256": "0db32f500225fe98f33f40430a155c18c5b116c0d4a58a6f1a2a40bd260c7b4f"
     },
     {
+      "path": "datos/The Berlin Apartment.txt",
+      "size": 176,
+      "sha256": "a83393d1bd409f696e84deb026f9dbac18fcfc11e19e6b14e96f7d5366460fd8"
+    },
+    {
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",
       "size": 216,
       "sha256": "f93141b4c2e3fdbb5ee54a9337c5c23e2a12aa39cfb32e14940ebf947238a3cf"
@@ -10970,6 +11050,11 @@
       "path": "datos/The Lord of the Rings War in the North Legacy Edition.txt",
       "size": 181,
       "sha256": "5851e6ff9114583cc43434f440ff87baca52deb0d95114161a7eeaaf38da2b22"
+    },
+    {
+      "path": "datos/The Midnight Walk.txt",
+      "size": 191,
+      "sha256": "46e6dbe6746c7f48c65b8d50f650a3ec27a1ed0218520af972d72dad6bc69464"
     },
     {
       "path": "datos/The Relic First Guardian.txt",

@@ -322,6 +322,11 @@
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
     },
     {
+      "path": "imagenes/Demons Souls Black Phantom Edition.webp",
+      "size": 25858,
+      "sha256": "6c86d8eef4864f3a3ac0bb9002f20a6a7fc2611691fce30d9fcb21b052e3614f"
+    },
+    {
       "path": "imagenes/Detroit Become Human.webp",
       "size": 39024,
       "sha256": "92cb95915842eeda2ffd6215c9902d71c1fd24468c68ced2f78e0d6169ed40af"
@@ -535,6 +540,11 @@
       "path": "imagenes/Gothic 1 Remake.webp",
       "size": 21472,
       "sha256": "abc5795a189e1ac949dcdf808a72d8e36b2bae7108f98ff7a6b957f432348366"
+    },
+    {
+      "path": "imagenes/Granblue Fantasy Relink Endless Ragnarok Special Edition.webp",
+      "size": 97642,
+      "sha256": "761581c252f2b8bea0da0057dc13587ceca18bd675245313221952ab2c78a991"
     },
     {
       "path": "imagenes/Grand Theft Auto V GTA.webp",
@@ -3087,6 +3097,36 @@
       "sha256": "bdc92f689f985e8fa43e7bbb7f2bbacb69ade7c3d6695ab9186c62a1ed2062ca"
     },
     {
+      "path": "capturas/Demons Souls Black Phantom Edition/1.webp",
+      "size": 21680,
+      "sha256": "c593c906fffb2994bd95808a72ca7f5ce4cff0c4e708abb2dc74f62b6b3d349d"
+    },
+    {
+      "path": "capturas/Demons Souls Black Phantom Edition/2.webp",
+      "size": 18068,
+      "sha256": "f17821dcaacdb4ae20279b6820739e1597d67f08bef6db39cd8b8ff8a307ba51"
+    },
+    {
+      "path": "capturas/Demons Souls Black Phantom Edition/3.webp",
+      "size": 21192,
+      "sha256": "a814843fef11477c26f33215e004592948573eb5278465348deb3016a55f651b"
+    },
+    {
+      "path": "capturas/Demons Souls Black Phantom Edition/4.webp",
+      "size": 27940,
+      "sha256": "7d6c2e2b86c4974dacc5c7d1ed5a5823dabfbbf82ae5ed6e574f483ea7790a5f"
+    },
+    {
+      "path": "capturas/Demons Souls Black Phantom Edition/5.webp",
+      "size": 29516,
+      "sha256": "bb939da6f0121c3beeb7af0166b5471528e8c1c0c78b9da728f1570a4e1ad72a"
+    },
+    {
+      "path": "capturas/Demons Souls Black Phantom Edition/6.webp",
+      "size": 19366,
+      "sha256": "cb63fbfc73597334d45789b2ec1795b4c7fba468b284153094514284597a06ed"
+    },
+    {
       "path": "capturas/Detroit Become Human/1.webp",
       "size": 13306,
       "sha256": "f27dddb54bf9648951ed5ed25e30e0748270e2150b9a8330f3b890488b342578"
@@ -4345,6 +4385,36 @@
       "path": "capturas/Gothic 1 Remake/6.webp",
       "size": 15208,
       "sha256": "4465763ac24626abdb98f04d289b382bf0b618b67b00e47e9f96e61b0fa81394"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/1.webp",
+      "size": 19648,
+      "sha256": "7c1466386e5068b5673018c898ea0271399482cdb8da500417eab44cbca82874"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/2.webp",
+      "size": 29984,
+      "sha256": "045b6a93d53381b8ab5b217a47ca2fd6c1ae938aafbb5e9cf0dedae8143161c5"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/3.webp",
+      "size": 11470,
+      "sha256": "7d50afa3513a1d0b6f69125d37a433758ccc18c88a2b1247e98c0f6f7dd1251f"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/4.webp",
+      "size": 13326,
+      "sha256": "c30bfd1e2b11a64f9610f034e355f04bf16f5f0d1f97eb190f97d5555c419a6d"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/5.webp",
+      "size": 16378,
+      "sha256": "a8c381ccb5848a1ea86eb57eeb8554f29f1eea0469e41b172b8d3541eda694e1"
+    },
+    {
+      "path": "capturas/Granblue Fantasy Relink Endless Ragnarok Special Edition/6.webp",
+      "size": 20078,
+      "sha256": "fdc74caa81600d83c5b8c5e4dec479cfd553e412f61095fbc89a598576a8d006"
     },
     {
       "path": "capturas/Grand Theft Auto V GTA/01.webp",
@@ -8557,6 +8627,11 @@
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
     },
     {
+      "path": "sinopsis/Demons Souls Black Phantom Edition.txt",
+      "size": 451,
+      "sha256": "d0cf39bf8a0062f2ef7e9443323fe54cc32a59aa1741d280f4ee1be287033011"
+    },
+    {
       "path": "sinopsis/Detroit Become Human.txt",
       "size": 661,
       "sha256": "0eb6b0cec436e920d74fd2c79ef3748648a670df484dff2df7d424f3077154e7"
@@ -8770,6 +8845,11 @@
       "path": "sinopsis/Gothic 1 Remake.txt",
       "size": 765,
       "sha256": "0f12f3c8a14067e1126424fe03922e92613dd4343b64633a58ea7966bcf07d9b"
+    },
+    {
+      "path": "sinopsis/Granblue Fantasy Relink Endless Ragnarok Special Edition.txt",
+      "size": 1366,
+      "sha256": "143ba2c544fcf47f4e8e5e2310d57b79b4b1abae98de5984e1d642ccb1ef1f5c"
     },
     {
       "path": "sinopsis/Grand Theft Auto V GTA.txt",
@@ -9544,7 +9624,7 @@
     {
       "path": "datos/Battlefield 6.txt",
       "size": 192,
-      "sha256": "ee59fc1356cc302bc854017a74b94cb441ea4c1189838615213e9c6ab17735cc"
+      "sha256": "72ac8a95723b67ce64b0b4ea36e8d17d9917e4831f4ed9663383e96ca274a227"
     },
     {
       "path": "datos/Battlefield I Ultimate Edition.txt",
@@ -9750,6 +9830,11 @@
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
       "size": 193,
       "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
+    },
+    {
+      "path": "datos/Demons Souls Black Phantom Edition.txt",
+      "size": 226,
+      "sha256": "a3a099c61294af1c034128d54fc76ff5468cfb1618d990f00cc7cca500fb120e"
     },
     {
       "path": "datos/Detroit Become Human.txt",
@@ -9965,6 +10050,11 @@
       "path": "datos/Gothic 1 Remake.txt",
       "size": 190,
       "sha256": "3ef9e409580bd3ad9361232339f9d88f9ba673c79fc552f6e84327cfc48aa2b4"
+    },
+    {
+      "path": "datos/Granblue Fantasy Relink Endless Ragnarok Special Edition.txt",
+      "size": 218,
+      "sha256": "6dfed7cac37ee06f01df5a8dc26e520726208f76ce7fe8052d88c5dd450a54d1"
     },
     {
       "path": "datos/Grand Theft Auto V GTA.txt",

@@ -1,9 +1,9 @@
-Año: 2025
-Géneros: Acción / FPS / Shooter / Bélico / Multijugador
-Tamaño: 55.0GB
+Año: 2024
+Géneros: Acción / RPG / Rol / Souls-like / TPS / Fantasía oscura
+Tamaño: 3.2GB
 Modo: Singleplayer / Multiplayer / Co-op
 Idioma: MULTI
 Fecha de incorporación: 09/11/2026
-Puntuación: 8.9
-Metacritic: 84
+Puntuación: 9.4
+Metacritic: 92
 Repacker: FitGirl

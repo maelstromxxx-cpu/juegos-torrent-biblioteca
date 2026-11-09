@@ -147,6 +147,11 @@
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
     },
     {
+      "path": "imagenes/Blueys Happy Snaps.webp",
+      "size": 28158,
+      "sha256": "3b0a68e82a1e7884dbc8beba5a43332104baa93b17b7f5d9ffa3bed96ffdda91"
+    },
+    {
       "path": "imagenes/Bravely Default Flying Fairy HD Remaster.webp",
       "size": 79658,
       "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
@@ -230,6 +235,11 @@
       "path": "imagenes/Chained Together.webp",
       "size": 50964,
       "sha256": "d6b9378027f443541afc2c3c95d718c44f9a4868bbd4182a78d2866f0cc8c681"
+    },
+    {
+      "path": "imagenes/Clair Obscur Expedition 33  Deluxe Edition.webp",
+      "size": 65498,
+      "sha256": "7953451b1871f0e6a56cf3a0b007d69d686b073811cc5dd61c6a0ebcde944534"
     },
     {
       "path": "imagenes/Clive Barkers Hellraiser Revival Deluxe Edition.webp",
@@ -560,6 +570,11 @@
       "path": "imagenes/Harvest Moon Echoes of Teradea.webp",
       "size": 48910,
       "sha256": "02c8c0c36d83ab03cd9a7cc5e53b561cfcc0ffc878fed589765f3dafc159eb06"
+    },
+    {
+      "path": "imagenes/Heart of the Machine.webp",
+      "size": 29936,
+      "sha256": "e6a721f03c37ca6d02ccd7e0674117c1a75d3ba5a12d7e982ef80d74c97fbf55"
     },
     {
       "path": "imagenes/Hitman World of Assassination.webp",
@@ -1037,6 +1052,11 @@
       "sha256": "3de16c2787345a1a22881787076c8c0ece7f27a88aa30aa1bf0c1f1a40efc7ba"
     },
     {
+      "path": "imagenes/The Legend of Zelda Tears of the Kingdom.webp",
+      "size": 34750,
+      "sha256": "db3cdcc79402d289a7909b429acb41e3dd6ce077d697f80886b36357fc52c7fe"
+    },
+    {
       "path": "imagenes/The Lord of the Rings War in the North Legacy Edition.webp",
       "size": 36430,
       "sha256": "d28760c70637d54baab3ffd7c0d4075dd9a171935bcc3e76b29672b6ebfcc170"
@@ -1145,6 +1165,16 @@
       "path": "imagenes/Wicked Seed.webp",
       "size": 14916,
       "sha256": "a2d87d05dbe340f1d854f13fc5d052debdefac656f4a9d89a93af7c9814755ea"
+    },
+    {
+      "path": "imagenes/Wing Commander 35th Anniversary Edition.webp",
+      "size": 88920,
+      "sha256": "b68634da24b79394e51d0c9cd54bc0c2479d28d4728f17139b04926fbc9bb999"
+    },
+    {
+      "path": "imagenes/Wing Commander II Vengeance of the Kilrathi.webp",
+      "size": 47514,
+      "sha256": "a256fd7f46c15255d745b340d9b727fcf4c8ebdbf03452de8399d942461bcc84"
     },
     {
       "path": "imagenes/WWE 2K26.webp",
@@ -2017,6 +2047,36 @@
       "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
     },
     {
+      "path": "capturas/Blueys Happy Snaps/1.webp",
+      "size": 25456,
+      "sha256": "ad1e84b3380cbfb76cdb3a15cb1955faa7ed7499f81174fd9fa53a6cda9c17d2"
+    },
+    {
+      "path": "capturas/Blueys Happy Snaps/2.webp",
+      "size": 18262,
+      "sha256": "8c32a5bbe9f22cbf3760fd71738c8d029009cf2695e727dea794b34e81fd44aa"
+    },
+    {
+      "path": "capturas/Blueys Happy Snaps/3.webp",
+      "size": 18596,
+      "sha256": "89992184bfe9d89120a8762d277b7141379e6b5de19780f03d472aabafa88704"
+    },
+    {
+      "path": "capturas/Blueys Happy Snaps/4.webp",
+      "size": 20126,
+      "sha256": "b7a3f0f17a41047b1b9c72d0f607b46f380c9a71030280bb977235c9eb95830b"
+    },
+    {
+      "path": "capturas/Blueys Happy Snaps/5.webp",
+      "size": 20196,
+      "sha256": "0eef5b7fc30be3826f0f661bf9404bade1d3a81174b9487c71c784508caa4d1f"
+    },
+    {
+      "path": "capturas/Blueys Happy Snaps/6.webp",
+      "size": 25972,
+      "sha256": "23dbd6762d001828ac5cec67afbbb9797791cc4342f5a0d96ecbfd70b136826e"
+    },
+    {
       "path": "capturas/Bravely Default Flying Fairy HD Remaster/1.webp",
       "size": 9926,
       "sha256": "57aa80e44e59ce49e31de9ac74678230a25fc168b4c2fe0841ccad63d7bee27c"
@@ -2510,6 +2570,36 @@
       "path": "capturas/Chained Together/6.webp",
       "size": 14484,
       "sha256": "4015b7a54fcdad948ec2604b256235a89c347b1d63dcb5d7814d0b1193ae335b"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/1.webp",
+      "size": 31962,
+      "sha256": "bb0cc2017bdcfcf8dacefc90fe87da110b9fdb247fb905b04d9276658267e894"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/2.webp",
+      "size": 15182,
+      "sha256": "3afb77c388a3f5b1f439bf847d848316f1144af646dcfc5ac048199346dfb2e0"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/3.webp",
+      "size": 8542,
+      "sha256": "c84f618ae2d35c349b2e8a3734cfc5f4fb13fb99c7a491a6e0fe3aebc9509186"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/4.webp",
+      "size": 28946,
+      "sha256": "12000f08273cc5e746191bd7262f6625155ca83a57f749bd8a50b1992fce9777"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/5.webp",
+      "size": 18876,
+      "sha256": "85c5f9e378a15d6748765de55f13486deb277cc754c4f6a0d94227b4e8980106"
+    },
+    {
+      "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/6.webp",
+      "size": 41570,
+      "sha256": "a0f726a631030d572e132389ab5110bfbe4a7155d40203489d118d22089edca5"
     },
     {
       "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/1.webp",
@@ -4460,6 +4550,36 @@
       "path": "capturas/Harvest Moon Echoes of Teradea/6.webp",
       "size": 29728,
       "sha256": "33d38996fb8eeaab16599c838b20d54b5a9b30915b21d6b65e1bafebfa9b37a7"
+    },
+    {
+      "path": "capturas/Heart of the Machine/1.webp",
+      "size": 19596,
+      "sha256": "d37c6843d654cc4378be61e208b8e30dd19297604f6bedae398f88dc112bf68e"
+    },
+    {
+      "path": "capturas/Heart of the Machine/2.webp",
+      "size": 23468,
+      "sha256": "12432af3a116d8037a5c8b328f4c283387271a1447c3e92e8187501b1604258b"
+    },
+    {
+      "path": "capturas/Heart of the Machine/3.webp",
+      "size": 39184,
+      "sha256": "36f4bdae4e8e2646dc84a7955bec7bf98d89fc8195bd5db7f4232071a0390c78"
+    },
+    {
+      "path": "capturas/Heart of the Machine/4.webp",
+      "size": 35548,
+      "sha256": "3cf94658a4e5abea3011e21f3624f07cedf46ca83d48e9e2e7a9ef8f132795d0"
+    },
+    {
+      "path": "capturas/Heart of the Machine/5.webp",
+      "size": 42700,
+      "sha256": "a8f210dc27188e4c75416c70e905b50bd3b483588d9c4dc3e673b44a61f92e62"
+    },
+    {
+      "path": "capturas/Heart of the Machine/6.webp",
+      "size": 31972,
+      "sha256": "6b85980106cfdb476a3095aef7465d33b2d623ce59a43fec2b050d34299c63b0"
     },
     {
       "path": "capturas/Hitman World of Assassination/1.webp",
@@ -7287,6 +7407,36 @@
       "sha256": "6aa59fed9477ebb061c4fa7220678dd2931992ac53729d68cac666b5ff3896a5"
     },
     {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/1.webp",
+      "size": 28378,
+      "sha256": "80a63b2953dfe4cb3ec5bf5448d0b2ec247310d12f3ada732009ed0de1aee022"
+    },
+    {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/2.webp",
+      "size": 32400,
+      "sha256": "c9d31602600cf248b6027a87b8eab8c039737a345ad26553f1e026f67c81163f"
+    },
+    {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/3.webp",
+      "size": 23954,
+      "sha256": "6ad13a1f8e3f10261f0345bbbaf8310d94f1ae728146ab3b8b83aadf88c9be49"
+    },
+    {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/4.webp",
+      "size": 12098,
+      "sha256": "c60dda7f1bc5c3e533f31dfa39e5cd3d3171201c7fd342733235d7f8f0c13946"
+    },
+    {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/5.webp",
+      "size": 27812,
+      "sha256": "c65f1f8b8f9c7790e3699dd9a2316918c994b6165490118e4f0bf4a302eba3b5"
+    },
+    {
+      "path": "capturas/The Legend of Zelda Tears of the Kingdom/6.webp",
+      "size": 22914,
+      "sha256": "ea7a7def0ab74abadee22a5197a6a83dabcf7508af76913c896ead34a050950f"
+    },
+    {
       "path": "capturas/The Lord of the Rings War in the North Legacy Edition/1.webp",
       "size": 22954,
       "sha256": "6f254d5fd35a02fc1c89ac422173f07794b607caf5538e3c1eba9a1ce11371e4"
@@ -7932,6 +8082,66 @@
       "sha256": "0fcc58fc08822d41dd0fcfa6cdb43880a8cf070baa2c3aef3f328c7a1b388091"
     },
     {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/1.webp",
+      "size": 24710,
+      "sha256": "d709152806e0e948300bad56a52ecbe1fba0753d6b08c1e2d8c1d4c90e218b4a"
+    },
+    {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/2.webp",
+      "size": 23760,
+      "sha256": "e4f72679bde96f84bef6140c5662edc871b2054552b693001c9206d37f453f02"
+    },
+    {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/3.webp",
+      "size": 23720,
+      "sha256": "a748f9090d027cc5c47414a4776b84790ade6558e564a71ac6500976de860eaf"
+    },
+    {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/4.webp",
+      "size": 16236,
+      "sha256": "0b4796a652e7cb8161250bb3b7758ac11e9fffdeb9aef1db8a881f48f14a73c2"
+    },
+    {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/5.webp",
+      "size": 19088,
+      "sha256": "5b57debd4090fc580bb5469c56cc109d9b83685d391541e9f78fbd02ff7e821d"
+    },
+    {
+      "path": "capturas/Wing Commander 35th Anniversary Edition/6.webp",
+      "size": 18590,
+      "sha256": "9542ee5cc3efc8426fadd3babdaa529c3c09c53fcf808c9b5361b7f797bf6ba5"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/1.webp",
+      "size": 24510,
+      "sha256": "094bde3a82e2bf42a900420f1aef1ed2cc8abc73e85e1b3ac28f70a4cfedb8ec"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/2.webp",
+      "size": 19744,
+      "sha256": "a66429daada28c50bba8cd2f921acc94a8b4e14787d1ae65cc4ee44355f03956"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/3.webp",
+      "size": 23678,
+      "sha256": "bbc5f8d4ecd59594b605f88e85db0f0041c10908d12cfd7d44e2da429f06ffc2"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/4.webp",
+      "size": 14944,
+      "sha256": "d744912def80a3c04ba4fdc831ccc3e038d2976feb8e67da3c4620b38a27e719"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/5.webp",
+      "size": 17732,
+      "sha256": "2fc961199b0fb4e74f2682fe0e3d5c0e1e64640c21b6224ce37dcf9881c7db70"
+    },
+    {
+      "path": "capturas/Wing Commander II Vengeance of the Kilrathi/6.webp",
+      "size": 15036,
+      "sha256": "3d8da4e6be3143ed3d1d7b801c031da8dfdcfca80d670b78c6784a88a4afc160"
+    },
+    {
       "path": "capturas/WWE 2K26/1.webp",
       "size": 16426,
       "sha256": "502692dadc41430cbe84522f82c1c50449a3775ea8732317de3baf7b3eba07c6"
@@ -8137,6 +8347,11 @@
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
     },
     {
+      "path": "sinopsis/Blueys Happy Snaps.txt",
+      "size": 607,
+      "sha256": "f9cf7b23890ca8eec9a78161290c1aeeb5f9485dfc244c6536d00ff5e2f5508d"
+    },
+    {
       "path": "sinopsis/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 328,
       "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
@@ -8220,6 +8435,11 @@
       "path": "sinopsis/Chained Together.txt",
       "size": 451,
       "sha256": "4aff0f6e9fd0fcf37446ba6538d7802bd97e9f2f7913fafb1389eddef08910a3"
+    },
+    {
+      "path": "sinopsis/Clair Obscur Expedition 33  Deluxe Edition.txt",
+      "size": 794,
+      "sha256": "4031e6950778f4c362585a1ca914df7b117a481850e392eea4bd19d881559aee"
     },
     {
       "path": "sinopsis/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
@@ -8550,6 +8770,11 @@
       "path": "sinopsis/Harvest Moon Echoes of Teradea.txt",
       "size": 907,
       "sha256": "32911f961521d9d01f4a7e9593020dec393966effff9e10033787e55b79ef176"
+    },
+    {
+      "path": "sinopsis/Heart of the Machine.txt",
+      "size": 1519,
+      "sha256": "dd5ca8a70255ab1a190703675f4ee189ecb171ab95524742bf5f0be0e83093d3"
     },
     {
       "path": "sinopsis/Hitman World of Assassination.txt",
@@ -9027,6 +9252,11 @@
       "sha256": "9bbf42ed3023f4168d7c7bcf5ec5f5f278d886e75bb91f16bb7bdb4e4b7ba660"
     },
     {
+      "path": "sinopsis/The Legend of Zelda Tears of the Kingdom.txt",
+      "size": 502,
+      "sha256": "b6a04f2c5af7b28e402ef5cfec4fb491c8413fc4d6f80ff098695b4f8350d9b9"
+    },
+    {
       "path": "sinopsis/The Lord of the Rings War in the North Legacy Edition.txt",
       "size": 707,
       "sha256": "7d70615f2167272a92d7c8ce4b343cf9de1ff976523d3dc83ff78bca4c8e1673"
@@ -9135,6 +9365,16 @@
       "path": "sinopsis/Wicked Seed.txt",
       "size": 260,
       "sha256": "61e22a81fa8495d67bf03bae98b679071f61f1e27535180eda2516e1cd88664f"
+    },
+    {
+      "path": "sinopsis/Wing Commander 35th Anniversary Edition.txt",
+      "size": 438,
+      "sha256": "50676ebe0046bccf3d1b0fe35f5ed584c037c9d4a935f2caf4df9ba615e6c678"
+    },
+    {
+      "path": "sinopsis/Wing Commander II Vengeance of the Kilrathi.txt",
+      "size": 359,
+      "sha256": "995cad2ec97f828e1fe38aa16d806d6039c6f48dd6504367b11e603f4a46f880"
     },
     {
       "path": "sinopsis/WWE 2K26.txt",
@@ -9297,6 +9537,11 @@
       "sha256": "d02c295030f5b35438bf7c6d14062ade791f400be58a3be3133de3fa2b8df881"
     },
     {
+      "path": "datos/Blueys Happy Snaps.txt",
+      "size": 206,
+      "sha256": "4a151f1b3e6ef75e6601359942b60d761b17b584d0c476b2a55882d833a754a6"
+    },
+    {
       "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 171,
       "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
@@ -9380,6 +9625,11 @@
       "path": "datos/Chained Together.txt",
       "size": 207,
       "sha256": "1fe4e00e7e6d18b0390827b4fd4090469dde8748c44e282944e05f90d061690e"
+    },
+    {
+      "path": "datos/Clair Obscur Expedition 33  Deluxe Edition.txt",
+      "size": 176,
+      "sha256": "d44d7e5d00eebb5c3828603c80980f83634ae29e8a71423c65b684768d8a4f3c"
     },
     {
       "path": "datos/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
@@ -9710,6 +9960,11 @@
       "path": "datos/Harvest Moon Echoes of Teradea.txt",
       "size": 176,
       "sha256": "e1de278e9602d2764f78a4547aa823771e2ecc4bbd830f2e1106ff5f29dac724"
+    },
+    {
+      "path": "datos/Heart of the Machine.txt",
+      "size": 184,
+      "sha256": "f911b325b9fc9ea43bb2791868e33ba6e0fe7abbefcc982ec0ef4f63f00420f9"
     },
     {
       "path": "datos/Hitman World of Assassination.txt",
@@ -10187,6 +10442,11 @@
       "sha256": "8473c4a55abe7032e3bcc5f84e455535bfd09d6adbd8a37f2942b859eccf5c2c"
     },
     {
+      "path": "datos/The Legend of Zelda Tears of the Kingdom.txt",
+      "size": 210,
+      "sha256": "d81e08241525a9a3d70d89dae8b12b491f25cb85c93f7ce02e74a617f6c24449"
+    },
+    {
       "path": "datos/The Lord of the Rings War in the North Legacy Edition.txt",
       "size": 181,
       "sha256": "5851e6ff9114583cc43434f440ff87baca52deb0d95114161a7eeaaf38da2b22"
@@ -10295,6 +10555,16 @@
       "path": "datos/Wicked Seed.txt",
       "size": 187,
       "sha256": "bef2dbca5b9f8724e85606481579b2c2cf56c8311d53e9c0921bae57f1536211"
+    },
+    {
+      "path": "datos/Wing Commander 35th Anniversary Edition.txt",
+      "size": 188,
+      "sha256": "3452caec2027d45c9a86aabcc0f59c37048f729237e25a39632695476445893a"
+    },
+    {
+      "path": "datos/Wing Commander II Vengeance of the Kilrathi.txt",
+      "size": 189,
+      "sha256": "ff4a01afc00f894e86595a7bca7594af54901a0b5a989767235767451fa60db6"
     },
     {
       "path": "datos/WWE 2K26.txt",

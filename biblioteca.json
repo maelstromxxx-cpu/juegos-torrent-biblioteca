@@ -118,8 +118,8 @@
     },
     {
       "path": "imagenes/Battlefield 6.webp",
-      "size": 38778,
-      "sha256": "8d0502b14497ea37d69915858090a1d4aabb2374b9463c1f234e0ebb1cdc19ef"
+      "size": 40574,
+      "sha256": "232e0be233b349fbf341dd1a3a2bf6955d396f0072e008c9a8f3555b268a2905"
     },
     {
       "path": "imagenes/Battlefield V.webp",
@@ -997,6 +997,11 @@
       "sha256": "1d03a0480c8925ba4881d9ae2ad5ef3d2e666d3b84342452b0d7442f9dcab34c"
     },
     {
+      "path": "imagenes/Taboo Trial.webp",
+      "size": 55588,
+      "sha256": "9a39ce73dbd5d84f388067ec4a677e84233a9b858645a80743f6eb2407f2d880"
+    },
+    {
       "path": "imagenes/Tekken 7 Ultimate Edition.webp",
       "size": 86312,
       "sha256": "78a535f0eef6b56ec7e1aeba68469458409bbae4651d3868f713242eed038098"
@@ -1858,33 +1863,33 @@
     },
     {
       "path": "capturas/Battlefield 6/1.webp",
-      "size": 20906,
-      "sha256": "45669fecb0a01b74a46570a1466bfe955f767a708e723f717a61aa2d9184a458"
+      "size": 32254,
+      "sha256": "16e3d05e11e5daef4507cce0dddbdbeb818ca27b2c540e7650851a4527bf3bd1"
     },
     {
       "path": "capturas/Battlefield 6/2.webp",
-      "size": 19334,
-      "sha256": "539fd87cbbf6211e34b3428ba2598f726d67a7e0ed2063e53fdb26d340d53c45"
+      "size": 35772,
+      "sha256": "3e8652288f9e1b930a7f1c1626d89c37bc0066678a5a21a9a1283316cb7019de"
     },
     {
       "path": "capturas/Battlefield 6/3.webp",
-      "size": 21122,
-      "sha256": "2576f26fcce8e338553989137c20248bd3135df52557bd38a244d3905bb83950"
+      "size": 30552,
+      "sha256": "e2d8ed094c18c1ef6920f474c3c141d08c09e34582c2a8706833e0fb259a9551"
     },
     {
       "path": "capturas/Battlefield 6/4.webp",
-      "size": 43918,
-      "sha256": "8b2c4cc2911fa24f76982f4b54ec56e1df4b2f6c58ee2f81b7795e32921a3879"
+      "size": 25502,
+      "sha256": "f4efc0242b9ef24692baa24afc8ffc6340818614975d1529c1285c2638d4bd1d"
     },
     {
       "path": "capturas/Battlefield 6/5.webp",
-      "size": 41356,
-      "sha256": "4d17b6271f996c71ed9ee639142de7ccbe689dd1c0dad4a2f61c244ffd77ca94"
+      "size": 15708,
+      "sha256": "2c64275bd533e420ae7ce08ea41ec321d364abf653a0593b17b72018fb0aaaa5"
     },
     {
       "path": "capturas/Battlefield 6/6.webp",
-      "size": 40016,
-      "sha256": "c2e7e3983fa6180cd2a4b3cb728d8fe86930809405988c34f1ab376d0bbf1163"
+      "size": 25054,
+      "sha256": "93d35beefd1a62e770a2aedd1b188c83c4ef850bec7fdecf21d2c39c154e48ab"
     },
     {
       "path": "capturas/Battlefield V/1.webp",
@@ -7077,6 +7082,36 @@
       "sha256": "794b8781ebb3d495f73c27c430eef42a489ff6663f244034136fdba0f190eae8"
     },
     {
+      "path": "capturas/Taboo Trial/1.webp",
+      "size": 26066,
+      "sha256": "dfc2281123f288f344c35d4e76a8671c070f68797488d6cd686362e681e6e0a6"
+    },
+    {
+      "path": "capturas/Taboo Trial/2.webp",
+      "size": 33178,
+      "sha256": "83d7ff2bf5c2f4b5effe7a0a267b036c36e9abf9a3cab893fae46fc5ba8d05e3"
+    },
+    {
+      "path": "capturas/Taboo Trial/3.webp",
+      "size": 34486,
+      "sha256": "c76de66188c73081e8eb4ca12310af6c5ade50cd8b7409c6ea4d9c39b0f09812"
+    },
+    {
+      "path": "capturas/Taboo Trial/4.webp",
+      "size": 19512,
+      "sha256": "e11d3e2a5b9d7b9f107ff9e0327343d107433290dda463d0698d65139a9d1956"
+    },
+    {
+      "path": "capturas/Taboo Trial/5.webp",
+      "size": 24898,
+      "sha256": "166dcfd98c423c22413df3cfffc99435adaffd4718f868f7301636e217dca009"
+    },
+    {
+      "path": "capturas/Taboo Trial/6.webp",
+      "size": 27954,
+      "sha256": "ef63124b1e4b02fe9ee611721d85d2aabbd285db8260fdc471e878e961c1d7cf"
+    },
+    {
       "path": "capturas/Tekken 7 Ultimate Edition/1.webp",
       "size": 33442,
       "sha256": "b02ecf6d479a2ab4ec74fba3a7261bd7bd42299231a747841784633463d77161"
@@ -8318,8 +8353,8 @@
     },
     {
       "path": "sinopsis/Battlefield 6.txt",
-      "size": 761,
-      "sha256": "93670823b3b01d96d10d3d3a5455f738fbb7fa8adf9ee4e00dfbef2ab5e2f837"
+      "size": 1078,
+      "sha256": "8d9ecd0727e164ca0daac5a40976b2a3b4eed0bd079ffea88eb684fde672a17b"
     },
     {
       "path": "sinopsis/Battlefield V.txt",
@@ -9197,6 +9232,11 @@
       "sha256": "da5de943906c0f0bdfa7a25d2e9fc27a86dade48eded7cde0b36308fae990179"
     },
     {
+      "path": "sinopsis/Taboo Trial.txt",
+      "size": 385,
+      "sha256": "e8f626b80b064bd8913a3033620577eab82eb048902d88534a36c31d287e7ab7"
+    },
+    {
       "path": "sinopsis/Tekken 7 Ultimate Edition.txt",
       "size": 1010,
       "sha256": "1d9f32792423965dc722eb1edaae4dbf7a86a0a29c0b6f2cc0a1b6e0ac76eeb0"
@@ -9503,8 +9543,8 @@
     },
     {
       "path": "datos/Battlefield 6.txt",
-      "size": 214,
-      "sha256": "40caba81e41f9aafea78ff3ad5e6d4cf48c8025d64160f6501538abaecfc4260"
+      "size": 192,
+      "sha256": "ee59fc1356cc302bc854017a74b94cb441ea4c1189838615213e9c6ab17735cc"
     },
     {
       "path": "datos/Battlefield I Ultimate Edition.txt",
@@ -10385,6 +10425,11 @@
       "path": "datos/Stygian Outer Gods.txt",
       "size": 205,
       "sha256": "b7451f1a1885f55825ad0ab789c5bdf2145ae6f04e139a8bd534207b4f2f8333"
+    },
+    {
+      "path": "datos/Taboo Trial.txt",
+      "size": 186,
+      "sha256": "e7df8dc6ea004776d33b415a873e52b9e41d6aa9b1375d50eaf7afa769336eca"
     },
     {
       "path": "datos/Tekken 7 Ultimate Edition.txt",

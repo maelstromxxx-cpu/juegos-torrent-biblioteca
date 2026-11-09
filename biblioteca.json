@@ -82,6 +82,11 @@
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
     },
     {
+      "path": "imagenes/Atomic Heart Ultimate Edition.webp",
+      "size": 77066,
+      "sha256": "fe51312421fe7e2f588c6cdd922d46e5530fac62adfeb4ae74ab5326127a726d"
+    },
+    {
       "path": "imagenes/Atomic Heart.webp",
       "size": 76358,
       "sha256": "7a50d4d32944753da127023214fc82262753ba93da3f7ba45599c03562d42d62"
@@ -1037,6 +1042,11 @@
       "sha256": "3d92fa0decb6f6d3b677fa5cf393881c1d4763ae0813bed1ad75c706a966730f"
     },
     {
+      "path": "imagenes/The Alters Deluxe Edition.webp",
+      "size": 35198,
+      "sha256": "a0d20a3a7c959e5d147afa202808f858088bcb29d8a406a18335a855365d35c2"
+    },
+    {
       "path": "imagenes/The Blood of Dawnwalker Eclipse Edition.webp",
       "size": 63882,
       "sha256": "e316396c87ecc4d6993567577d8d0e8f3a56cd07de7ef1ebced6ed6418b636b4"
@@ -1715,6 +1725,36 @@
       "path": "capturas/Atomic Heart/6.webp",
       "size": 24068,
       "sha256": "1582e3f7fdc52527521cba6896d0a0dd8544b512600ba2386f11ce6bbfa86268"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/1.webp",
+      "size": 39470,
+      "sha256": "cb14299bccb002e8eaca4a189b1fb8f2d36e39b566161e25f2ed8dcfc847dfb8"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/2.webp",
+      "size": 24290,
+      "sha256": "59ba911a9fcfbd3a1e917fecb31bc16203b77e971550f0c3b234a7c7f7d97717"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/3.webp",
+      "size": 19614,
+      "sha256": "f94f320b9d3268c4ef691acbbe7d7886d95846d991b3ea913953ecb825ada08b"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/4.webp",
+      "size": 6562,
+      "sha256": "31e5ab2407bb73803f240ad07ffaa857f4cdfb377efc02eeec724d8f9d50f01d"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/5.webp",
+      "size": 25126,
+      "sha256": "242663cffc1fbdda5a59bc99c15c03b01676f7d44a229c61c7acba382bf76c39"
+    },
+    {
+      "path": "capturas/Atomic Heart Ultimate Edition/6.webp",
+      "size": 25538,
+      "sha256": "75c9090588913c79c8b28cb5b9f77d5a08c6c214f27456191e6f312d6dac9e5c"
     },
     {
       "path": "capturas/Avatar Frontiers of Pandora Complete Edition/1.webp",
@@ -7337,6 +7377,36 @@
       "sha256": "8d72b1596c2780b938df4d8233285744fcb90ba50fed258519240ac43e3c27ee"
     },
     {
+      "path": "capturas/The Alters Deluxe Edition/1.webp",
+      "size": 10954,
+      "sha256": "5ee2ee787c756ff2bdccc78818d65492dcebdfb64289b4a706a9d114c4e6dea1"
+    },
+    {
+      "path": "capturas/The Alters Deluxe Edition/2.webp",
+      "size": 21362,
+      "sha256": "5c5522e9f4fb87dda1273bd05e34c6769320d62fb8ef4c567a6c1440c082dd89"
+    },
+    {
+      "path": "capturas/The Alters Deluxe Edition/3.webp",
+      "size": 7524,
+      "sha256": "7316b2f5200c28516d66cf773cff93be6701beba2642ea09c4a69fe2ae43dae2"
+    },
+    {
+      "path": "capturas/The Alters Deluxe Edition/4.webp",
+      "size": 24068,
+      "sha256": "77d050440b512bf0b569ebbdbc28871c4e37ba917ee9e11a46822c858a3fdd31"
+    },
+    {
+      "path": "capturas/The Alters Deluxe Edition/5.webp",
+      "size": 17180,
+      "sha256": "aa23a724d542212b5b7bd318262ba1089eb994795f5ff1dc181468cdf689b0c2"
+    },
+    {
+      "path": "capturas/The Alters Deluxe Edition/6.webp",
+      "size": 25676,
+      "sha256": "6da822ca7f1034ac622e87da9a8c1923ac9f3b6deaedd1c39f2941873362a596"
+    },
+    {
       "path": "capturas/The Blood of Dawnwalker Eclipse Edition/1.webp",
       "size": 28650,
       "sha256": "c01aee6f5ee2614933e9285d112ea72a6d2b412cc66121299315d28df8dd59ce"
@@ -8422,6 +8492,11 @@
       "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
     },
     {
+      "path": "sinopsis/Atomic Heart Ultimate Edition.txt",
+      "size": 1005,
+      "sha256": "bab63478e6ccd995be4b3792b46187cb40a333d2d2cacc876aea77b332147046"
+    },
+    {
       "path": "sinopsis/Atomic Heart.txt",
       "size": 840,
       "sha256": "c7a7de17cf894abcba0e87061840431ba0a4d049aafa35700829df91628ab02c"
@@ -9377,6 +9452,11 @@
       "sha256": "44f3c8b0954e15e5964fc0736126f3255114cccc3fcb8651628329404297fd74"
     },
     {
+      "path": "sinopsis/The Alters Deluxe Edition.txt",
+      "size": 1198,
+      "sha256": "296b1c9e4ebdda7085697a492106ea66f8ba7517e6d02d0cfaf141ae173aab07"
+    },
+    {
       "path": "sinopsis/The Blood of Dawnwalker Eclipse Edition.txt",
       "size": 409,
       "sha256": "58de70b68252693fbba03096705a9ebd51e8a0df810592b3568465d4c25cf011"
@@ -9625,6 +9705,11 @@
       "path": "datos/Assassins Creed Shadows Premium Edition.txt",
       "size": 221,
       "sha256": "c1052597e3ad7b61d1ec5211e5cd571dafbaf1cec61724b0e0d77278580f0857"
+    },
+    {
+      "path": "datos/Atomic Heart Ultimate Edition.txt",
+      "size": 205,
+      "sha256": "dd887c6f8c38e4eb69b82b33f0427271d3873fff119787e5fb9aee45305be3ae"
     },
     {
       "path": "datos/Atomic Heart.txt",
@@ -10585,6 +10670,11 @@
       "path": "datos/Terminator Resistance.txt",
       "size": 246,
       "sha256": "bcfce3a430c2742923320784c5178a8f938ecd6368f3bc741e14f3772d1c253b"
+    },
+    {
+      "path": "datos/The Alters Deluxe Edition.txt",
+      "size": 206,
+      "sha256": "0db32f500225fe98f33f40430a155c18c5b116c0d4a58a6f1a2a40bd260c7b4f"
     },
     {
       "path": "datos/The Blood of Dawnwalker Eclipse Edition.txt",

@@ -1,0 +1,9 @@
+Año: 2026
+Género: Acción / Simuladores / Spacecraft
+Tamaño: 500 MB
+Modo: Singleplayer
+Idioma: MULTI
+Fecha de incorporación: 09/11/2026
+Puntuación: 10,0
+Metacritic: 
+Repacker: FitGirl

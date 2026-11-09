@@ -797,6 +797,11 @@
       "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
     },
     {
+      "path": "imagenes/Phonopolis.webp",
+      "size": 61516,
+      "sha256": "0169680015edbd34562e06f02dc6e8b2cbe39e6a11ed0c56f4fadb8cc4707ced"
+    },
+    {
       "path": "imagenes/Planet of Lana II Children Of The Lead.webp",
       "size": 30068,
       "sha256": "e082abab504a0ea1e3398d66916e6170026feba4bb01cdd151d667bd63a77dc7"
@@ -960,6 +965,11 @@
       "path": "imagenes/Solo Leveling Arise Overdrive.webp",
       "size": 23446,
       "sha256": "7c2bbb7dd99bae52419a42d2cf8bd189213d0a2e6f9d68284e90ef7165f73d07"
+    },
+    {
+      "path": "imagenes/Songs of Conquest Complete Bundle.webp",
+      "size": 96360,
+      "sha256": "d8edec1038dd3150a6051bbd8091bf176f6ca988807c18dd77e8fc4e6c6c45a8"
     },
     {
       "path": "imagenes/Sort The Capybaras.webp",
@@ -5952,6 +5962,36 @@
       "sha256": "db116b5fd7a576650b3964c719ceceb08a378cd1e14d29f5c7ca402e602329dc"
     },
     {
+      "path": "capturas/Phonopolis/1.webp",
+      "size": 38022,
+      "sha256": "2deaa3ec677b278a500ee61e8f92c77c4c150f2917ab6ce82778a0ee85141146"
+    },
+    {
+      "path": "capturas/Phonopolis/2.webp",
+      "size": 32622,
+      "sha256": "60e80d38e75893edd9377c2f42ac626b5f3406a1685b592b23246c5b1a225e1a"
+    },
+    {
+      "path": "capturas/Phonopolis/3.webp",
+      "size": 17514,
+      "sha256": "ee62cc2febd98ec21effcb754e1da3fe3de902fb3db568f366e54f83d7dd6e2e"
+    },
+    {
+      "path": "capturas/Phonopolis/4.webp",
+      "size": 41640,
+      "sha256": "b71d65542ce8108773b82ecda9dc48093044875b68aae10f8f27d8f82a889df3"
+    },
+    {
+      "path": "capturas/Phonopolis/5.webp",
+      "size": 21404,
+      "sha256": "4e0452c466aaf86db2a74e6e8a2c4b5cd08da7d1dd7977cc9fac351863efff59"
+    },
+    {
+      "path": "capturas/Phonopolis/6.webp",
+      "size": 28588,
+      "sha256": "c71401217816eeda7776b850f573411a2c5037aab24224bff12ee9061a95c354"
+    },
+    {
       "path": "capturas/Planet of Lana/1.webp",
       "size": 15904,
       "sha256": "d27d97f44f0132f2f1a0c0e75e51f30ee86e9bae458dc6c228c46c4bba872856"
@@ -6940,6 +6980,36 @@
       "path": "capturas/Solo Leveling Arise Overdrive/6.webp",
       "size": 17164,
       "sha256": "6f231ca0b2f21098662b28c3418dee5a89811823bada6444a0e1c2e704337ecd"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/1.webp",
+      "size": 51086,
+      "sha256": "b28c9331ca4edb88db852134a8824dc21a6bcd1c09eb51c6b913288782e6239f"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/2.webp",
+      "size": 51378,
+      "sha256": "f397fe0b833c2cd6eeb9065bf58c3575c8636187448ffd131e524662cb1358af"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/3.webp",
+      "size": 21654,
+      "sha256": "d2b1e23e4293a83bc136335838ef0d9fc27fdd0222d1019cf6ee2cf18fe6d88b"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/4.webp",
+      "size": 51876,
+      "sha256": "62683759300991f4ec09bf195edb210edab4ff27ccc83a504d32a421cc5dc699"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/5.webp",
+      "size": 29650,
+      "sha256": "2d8fb6b3059f393192d91b2a7a629ac6b48e49f49b01c54b8660d2c78d77cae0"
+    },
+    {
+      "path": "capturas/Songs of Conquest Complete Bundle/6.webp",
+      "size": 45004,
+      "sha256": "cd6258701aa52d994728a37c047c83f4c90c3ef5f8791c0daf3e4c341262b323"
     },
     {
       "path": "capturas/Sort The Capybaras/1.webp",
@@ -9347,6 +9417,11 @@
       "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
     },
     {
+      "path": "sinopsis/Phonopolis.txt",
+      "size": 452,
+      "sha256": "18a37dd22bf6584fca3082a63f0bb61fcd5f2d8067d041f58b6f805ed20dbd14"
+    },
+    {
       "path": "sinopsis/Planet of Lana II Children Of The Lead.txt",
       "size": 455,
       "sha256": "3d1c42104b7fbc059df2486756ccf9eb44623f3a5b94a2beaeedbc9d04efef59"
@@ -9510,6 +9585,11 @@
       "path": "sinopsis/Solo Leveling Arise Overdrive.txt",
       "size": 485,
       "sha256": "82c6ab73a1a7efbb5fd43b8daf110bc86518c7653e84da6856e55ab443f82897"
+    },
+    {
+      "path": "sinopsis/Songs of Conquest Complete Bundle.txt",
+      "size": 355,
+      "sha256": "37ad0c2077ac465c26bb7e44ec92d6ba669bfb5c55f2af7f6e895f852493f814"
     },
     {
       "path": "sinopsis/Sort The Capybaras.txt",
@@ -10587,6 +10667,11 @@
       "sha256": "105ce54e86a59f5d8b49e934e356a4a95d2da0af47e161b2c72a07a4cf1ae0e2"
     },
     {
+      "path": "datos/Phonopolis.txt",
+      "size": 181,
+      "sha256": "248e836804f9dc15cf5c2f612cdcf9850744ecb0d89b3834b94a5942fd7fd1ae"
+    },
+    {
       "path": "datos/Planet of Lana II Children Of The Lead.txt",
       "size": 209,
       "sha256": "b0073e1ec972e119919074f0b7c7507d58b9f05e5c8a72eb42c48a725b6f04a4"
@@ -10750,6 +10835,11 @@
       "path": "datos/Solo Leveling Arise Overdrive.txt",
       "size": 183,
       "sha256": "b0f7aeaa0c2687f916f7a5be2f066e75b284c8b43eb571a48da587469eb83edc"
+    },
+    {
+      "path": "datos/Songs of Conquest Complete Bundle.txt",
+      "size": 195,
+      "sha256": "6f08e2281e87a1a605734c6cdff411fd58ffd6b2ecf5a15a86e2935ffb122008"
     },
     {
       "path": "datos/Sort The Capybaras.txt",

@@ -922,6 +922,11 @@
       "sha256": "a8ddd2f92ff74214ff232ceffab257fcc8c5198e0bdccc0771c4f3b607f9e386"
     },
     {
+      "path": "imagenes/Road Rash 30th Anniversary Edition.webp",
+      "size": 51802,
+      "sha256": "77770a8692f480a5b7aa8b21c2cf46f954df30690df432e13c85b7aa298ac6cb"
+    },
+    {
       "path": "imagenes/RoadCraft 1 Year Anniversary Edition.webp",
       "size": 97620,
       "sha256": "2beced21966759262dcce88a0e6bd206f176110e316ccb4c378c5f6dd75f91e6"
@@ -6742,6 +6747,36 @@
       "sha256": "b937a504ca195a5596f49f675d0a98d0fdbc0d842de0b68076f55d5b35c11a4e"
     },
     {
+      "path": "capturas/Road Rash 30th Anniversary Edition/1.webp",
+      "size": 19064,
+      "sha256": "8d97d8b6e3b28aa9309a7f56e97caa7e6c324fe44d34e59d070893abb1d2b5a1"
+    },
+    {
+      "path": "capturas/Road Rash 30th Anniversary Edition/2.webp",
+      "size": 14732,
+      "sha256": "5793eb971baef5b2bbb4d3daa402d7d80fd138224705d3fdaacf64d32e5aedea"
+    },
+    {
+      "path": "capturas/Road Rash 30th Anniversary Edition/3.webp",
+      "size": 25450,
+      "sha256": "700c764826801955da2a76cc8f8c9cd51298e6021ab6feaf708a8c9bef075f7e"
+    },
+    {
+      "path": "capturas/Road Rash 30th Anniversary Edition/4.webp",
+      "size": 24352,
+      "sha256": "8eb258a05d669d8ce3d4b3f8a6d12f86ad20866bc51a4ab365bbcd978d325f61"
+    },
+    {
+      "path": "capturas/Road Rash 30th Anniversary Edition/5.webp",
+      "size": 23144,
+      "sha256": "32512c4c19521d27ef26292f22001c006ecd02b2399fcd238d1c70fa139feb10"
+    },
+    {
+      "path": "capturas/Road Rash 30th Anniversary Edition/6.webp",
+      "size": 19612,
+      "sha256": "f9425e05486a6c6da343339e5ea13e8be4d06d5dfda3b32b088d6b9aee323ccd"
+    },
+    {
       "path": "capturas/RoadCraft 1 Year Anniversary Edition/1.webp",
       "size": 44644,
       "sha256": "c07d5cf332409267f51d43e08db5543149ddf678fd22fa704c96f8abe712e2d4"
@@ -9747,6 +9782,11 @@
       "sha256": "ad3ce422d298026c2f893e44608347b400340d39243abe82ede29d6fb3fa6891"
     },
     {
+      "path": "sinopsis/Road Rash 30th Anniversary Edition.txt",
+      "size": 1128,
+      "sha256": "3fd2aeab82a1fe62607c8c57debea6bd2e7b1fe956cbdf39a246478b4386cc90"
+    },
+    {
       "path": "sinopsis/RoadCraft 1 Year Anniversary Edition.txt",
       "size": 691,
       "sha256": "f5c420c64878de49e9f3bf8b704c92bbdd892c9472b6940282b7e49cb9439d13"
@@ -11025,6 +11065,11 @@
       "path": "datos/Rise of the Tomb Raider 20 Year Celebration.txt",
       "size": 173,
       "sha256": "eb7cbded6dca5e9164ab108e90dfc5554c45552c45ad9fe173960ddb1ea113ee"
+    },
+    {
+      "path": "datos/Road Rash 30th Anniversary Edition.txt",
+      "size": 186,
+      "sha256": "864daff026c82d7073b88a2e661aaf53f8e06d8d52fb7ed5f47df0faf036b630"
     },
     {
       "path": "datos/RoadCraft 1 Year Anniversary Edition.txt",

@@ -42,6 +42,11 @@
       "sha256": "9e275b5cb811d0539c7fde787b6f535ed36eaf4d66a4752f60a9bda3a6964f0f"
     },
     {
+      "path": "imagenes/Anomalith Digital Deluxe Edition.webp",
+      "size": 37758,
+      "sha256": "b45d6e752ff4a706f9212184124ce2454e955bfff5f6acbbd7b632bcb29fe166"
+    },
+    {
       "path": "imagenes/Arma Reforger Deluxe Edition.webp",
       "size": 29604,
       "sha256": "7698ca0906c0b38788abc3303cb6a9fbbb111d5625d1958f85907ed8bf04c4fe"
@@ -635,6 +640,11 @@
       "path": "imagenes/I Am Jesus Christ.webp",
       "size": 20594,
       "sha256": "ca8e0e1fffcfc5cf6e5a2ba1eeb89bc2bd0e03023589f1c2006797abb82969f7"
+    },
+    {
+      "path": "imagenes/I Am Your Beast Complete Edition.webp",
+      "size": 73874,
+      "sha256": "44cac273f28e904e3472e9bd24ae4ead6388e1e5da54cda6fc735dbce3a123d1"
     },
     {
       "path": "imagenes/Indiana Jones And The Great Circle.webp",
@@ -1515,6 +1525,36 @@
       "path": "capturas/Angry Birds Ultimate Collection/6.webp",
       "size": 12522,
       "sha256": "57f72da6b63eb3290553a32b6d808ac391a3c904614b15d5da22e798cf8210e0"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/1.webp",
+      "size": 21064,
+      "sha256": "b5d52161f0e2a5da3c2315d84235632834bb13cdcdfed831b7f32a0fb07b0abd"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/2.webp",
+      "size": 45438,
+      "sha256": "c7713aa991ac420ed9b8270a354346502c35d99c67fa01b411cfa88d9db5b46f"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/3.webp",
+      "size": 15826,
+      "sha256": "af077cb7f8c5327fc0d4d9ee06b5a527a320b60bd07d6e9e6d5f98d779fde9d5"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/4.webp",
+      "size": 18368,
+      "sha256": "dcfe7bcdd2322fff4ea16beebbc15fc412735795f4a723966da64e7c08da5938"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/5.webp",
+      "size": 18654,
+      "sha256": "76c07f99b1d31dcfb5abd1945790f72d7449f2af462fe707dc545ad93b7a7736"
+    },
+    {
+      "path": "capturas/Anomalith Digital Deluxe Edition/6.webp",
+      "size": 10000,
+      "sha256": "42d94fbb6a9471ff566580343d32e6e7d999e540223187fa7f4978e7e7af8a75"
     },
     {
       "path": "capturas/Arma Reforger Deluxe Edition/1.webp",
@@ -5060,6 +5100,36 @@
       "path": "capturas/I Am Jesus Christ/6.webp",
       "size": 30124,
       "sha256": "4e3e6512a9648413ee3836773172202aa8f3bedc31be95a1c50d8ef99825ecca"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/1.webp",
+      "size": 19756,
+      "sha256": "c8e46666f6072385bda1ddf557acf1129acf21c6ef4c89c6ff4d07e2c7aff8e7"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/2.webp",
+      "size": 18276,
+      "sha256": "d42f12e57978c80b58fe5e9f992b49f2591d743a9d023eb4c75eb9d13a29ad66"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/3.webp",
+      "size": 31364,
+      "sha256": "d98b8d37f6a781dfa503a2eb4230094879b5d754d7c4ad686d64c495ef657314"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/4.webp",
+      "size": 26144,
+      "sha256": "6974b2061df3aef1886fd2f9526b3671cfcd283a112c1853b9f855acc9c21016"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/5.webp",
+      "size": 18014,
+      "sha256": "34451ba8729d2a571863b91e70721bc8cfddbdb37d879fc0854cb02ef79f6005"
+    },
+    {
+      "path": "capturas/I Am Your Beast Complete Edition/6.webp",
+      "size": 12094,
+      "sha256": "07a2ddf9965f29c91554392e13b3e43ae98d3f732913d6ba72bcebf60406638d"
     },
     {
       "path": "capturas/Indiana Jones And The Great Circle/1.webp",
@@ -8897,6 +8967,11 @@
       "sha256": "0349560042fb515c0f17477245c6e5d6dc159619b3948d3a77fbf19c4cd73277"
     },
     {
+      "path": "sinopsis/Anomalith Digital Deluxe Edition.txt",
+      "size": 704,
+      "sha256": "c00ca187c38bad77b60b7be57a2f50ee9c690fe5685bed0804e6d26f7bba0400"
+    },
+    {
       "path": "sinopsis/Arma Reforger Deluxe Edition.txt",
       "size": 607,
       "sha256": "a806984a66fe7530f6f09a9c385482fa0cf262798c710615d1ee15a11d0d9ac7"
@@ -9495,6 +9570,11 @@
       "path": "sinopsis/I Am Jesus Christ.txt",
       "size": 2092,
       "sha256": "1ab24730e6c659e5dfb4bf136a1aea943f970be1d7171823f1e7584698a1bb49"
+    },
+    {
+      "path": "sinopsis/I Am Your Beast Complete Edition.txt",
+      "size": 754,
+      "sha256": "61432934a1c731e47e9d61ae1edfa96741a47f4a978f7c951aaa9c633411335e"
     },
     {
       "path": "sinopsis/Indiana Jones And The Great Circle.txt",
@@ -10177,6 +10257,11 @@
       "sha256": "5ffee417d59653d7e5d1ee35f6fea2fa1ff0304115dfc8eac6fb4410089b876d"
     },
     {
+      "path": "datos/Anomalith Digital Deluxe Edition.txt",
+      "size": 167,
+      "sha256": "b1ff737afc09f7ad401aa80b583431ca6543d5260de53584eb0151144675d2d5"
+    },
+    {
       "path": "datos/Arma Reforger Deluxe Edition.txt",
       "size": 239,
       "sha256": "8f4333457473cacb8c8e9639e7060c4be012b734c2ce625f9ded5dc769e1290f"
@@ -10780,6 +10865,11 @@
       "path": "datos/I Am Jesus Christ.txt",
       "size": 198,
       "sha256": "d98c2811f4c28c9cac0e5ce1102661d16f9e8fdc2a8b417ec6bfd0edd67a696a"
+    },
+    {
+      "path": "datos/I Am Your Beast Complete Edition.txt",
+      "size": 161,
+      "sha256": "422a7be4af7e0c01c24b89416a2a10417dfd0b9e82834be6032a9d0f110a6377"
     },
     {
       "path": "datos/Indiana Jones And The Great Circle.txt",

@@ -257,6 +257,11 @@
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
     },
     {
+      "path": "imagenes/Conan Exiles Enhanced Complete Edition.webp",
+      "size": 55716,
+      "sha256": "7467ff3f1da75a8469a8645066fb412cc98c2e40005a9bcb95c45c1884ba4c2e"
+    },
+    {
       "path": "imagenes/Control Resonant.webp",
       "size": 42414,
       "sha256": "2ce5200aa3c6c0048348a6db2bf1c42cf0dc89d5bb90bed8755a92fa0100e630"
@@ -647,6 +652,11 @@
       "sha256": "760e6b63f7067aa8e7a35ee231870d6bd384d56d3f8d8193590f3c852e71e0fd"
     },
     {
+      "path": "imagenes/Hypnos.webp",
+      "size": 19970,
+      "sha256": "726c94f5f70bc7f80d073aa81e04ad97797f27eff6dd16db15449a8848f2c21f"
+    },
+    {
       "path": "imagenes/I Am Jesus Christ.webp",
       "size": 20594,
       "sha256": "ca8e0e1fffcfc5cf6e5a2ba1eeb89bc2bd0e03023589f1c2006797abb82969f7"
@@ -690,6 +700,11 @@
       "path": "imagenes/Knights of Honor II Sovereign.webp",
       "size": 51472,
       "sha256": "eda701514827a0d4603d86faf36c577a8e9a05aad12aa20e8adf1e69cd553794"
+    },
+    {
+      "path": "imagenes/Legend of Zelda Ocarina of Time.webp",
+      "size": 40640,
+      "sha256": "09a054b710e270ad9844be2117743c5b70ede8f0c91127a2696375e172ed3a4c"
     },
     {
       "path": "imagenes/Lego Batman Legacy of the Dark Knight.webp",
@@ -1285,6 +1300,11 @@
       "path": "imagenes/Wing Commander II Vengeance of the Kilrathi.webp",
       "size": 47514,
       "sha256": "a256fd7f46c15255d745b340d9b727fcf4c8ebdbf03452de8399d942461bcc84"
+    },
+    {
+      "path": "imagenes/Wing Commander III Heart of the Tiger 30th Anniversary Edition.webp",
+      "size": 43076,
+      "sha256": "36d91c7c54bd14c14f386feab321db5a6db9ff7775c356748ef0b47365a1934b"
     },
     {
       "path": "imagenes/Woodo Endless Summer Edition.webp",
@@ -2840,6 +2860,36 @@
       "path": "capturas/Clive Barkers Hellraiser Revival Deluxe Edition/6.webp",
       "size": 50734,
       "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/1.webp",
+      "size": 33340,
+      "sha256": "4c45007a408b8fafe902b6ba5225ad859f30795c44502c4f728c16f42220a5da"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/2.webp",
+      "size": 24522,
+      "sha256": "ee060d9bfafd770a6afbef1f56045c7846da1e09bb124b7771dd508a0f3106ca"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/3.webp",
+      "size": 15156,
+      "sha256": "147adee1dee13894089135895fb104b8973a69fe7be883bbf87f2ff75463afe0"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/4.webp",
+      "size": 13512,
+      "sha256": "afde9263c2eb6af79c60a17e4154d5a3ae6cba0cda775e4ca0c35dd44d6d5c8e"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/5.webp",
+      "size": 18512,
+      "sha256": "421ccdb88b576de1b4d99cf18e40bef074546c693bd8fbf89ad666eb3b4d9dfc"
+    },
+    {
+      "path": "capturas/Conan Exiles Enhanced Complete Edition/6.webp",
+      "size": 20312,
+      "sha256": "77eff04149fcc6d1e9ec99a1269b93bf4eb7acf39ccb6a5c4647864ed4ca5fa3"
     },
     {
       "path": "capturas/Control Resonant/1.webp",
@@ -5152,6 +5202,36 @@
       "sha256": "e99552644efd1df84ecaec752cab6ad0c3828033bd2cb44852b49fd5d0470065"
     },
     {
+      "path": "capturas/Hypnos/1.webp",
+      "size": 20278,
+      "sha256": "9fc395aa25596b2576ae3790638ad0da67ef0c265104de67053b1799aa3191e6"
+    },
+    {
+      "path": "capturas/Hypnos/2.webp",
+      "size": 16854,
+      "sha256": "9b8fc46c36a4166830c4c89579ff7ca9aba6be732d8449c269501fb15499b73f"
+    },
+    {
+      "path": "capturas/Hypnos/3.webp",
+      "size": 12560,
+      "sha256": "aec380c54e0f2f126f357f6a21114b9b9c9ae401989a9394def50b8e8a1b7a7b"
+    },
+    {
+      "path": "capturas/Hypnos/4.webp",
+      "size": 24272,
+      "sha256": "fdd03c2b58a3c9f729f9feae3a7e5cfdd179ef31ba1f96f6c8da7a433d8dae5b"
+    },
+    {
+      "path": "capturas/Hypnos/5.webp",
+      "size": 21618,
+      "sha256": "848bf6f2df5518ee4553ec78e6af27a4873b0574c5c11941f7eca06b99e9037e"
+    },
+    {
+      "path": "capturas/Hypnos/6.webp",
+      "size": 20876,
+      "sha256": "599306721922fe38ddc9a5cdd193f562cedce005980b02438c7e07b710d5f2f4"
+    },
+    {
       "path": "capturas/I Am Jesus Christ/1.webp",
       "size": 51892,
       "sha256": "23497a72bbb4b97d26c8275e0d75dfd849b07410aed20644a1899f070069feec"
@@ -5420,6 +5500,36 @@
       "path": "capturas/Knights of Honor II Sovereign/6.webp",
       "size": 40414,
       "sha256": "aec66fae0540dc8528f31cfca8d852f62756a6702ade2dffba4fae8052b01870"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/1.webp",
+      "size": 15522,
+      "sha256": "849017223c418dadb33eff818b73f2edf213e8e82e8ee7a3a76f74b1bff7d842"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/2.webp",
+      "size": 14250,
+      "sha256": "a726b592fdf2c98a42c529b7c27234b5d24b199a20c99deeceb4649e9fdbd4b6"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/3.webp",
+      "size": 10380,
+      "sha256": "e8f7e0a34cdd4ee6270b21b6adb4bfa42771880079c7ef78bbec24d046a6c58f"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/4.webp",
+      "size": 18034,
+      "sha256": "da09d80ead273edba168378835d9f19d525547983cc22ce1e38baa9ca02dd98a"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/5.webp",
+      "size": 16362,
+      "sha256": "cfa900455afec76dd7d6b67ab6dfa5556622af38b8b620a0207174427eb2fbd7"
+    },
+    {
+      "path": "capturas/Legend of Zelda Ocarina of Time/6.webp",
+      "size": 16894,
+      "sha256": "8241c237aa9ee2661bb44d6a3455c2fff24a80e4b7157c87323171a46c987564"
     },
     {
       "path": "capturas/Lego Batman Legacy of the Dark Knight/1.webp",
@@ -8942,6 +9052,36 @@
       "sha256": "3d8da4e6be3143ed3d1d7b801c031da8dfdcfca80d670b78c6784a88a4afc160"
     },
     {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/1.webp",
+      "size": 18472,
+      "sha256": "67479a476610b1f1e02e51bd0f8fc1cbe4ac631692a457ba0e6ba878f5323950"
+    },
+    {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/2.webp",
+      "size": 11442,
+      "sha256": "64ade8a09d1e5608cf0a2e93b1982c85a9536028d615759d09b7f44260a04f08"
+    },
+    {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/3.webp",
+      "size": 18276,
+      "sha256": "2b1680afe6165969c8227e4db4bfcf8326505663560ef19deb24cb743a1d8c49"
+    },
+    {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/4.webp",
+      "size": 11550,
+      "sha256": "741ac576e58a4d586c56149fbc5fc2d4498e514aa6eca97ebc8e65227072a745"
+    },
+    {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/5.webp",
+      "size": 15672,
+      "sha256": "924fb3d50121abd75613340b3ca002cae970b41027c37ef89f5ae733471e4fd3"
+    },
+    {
+      "path": "capturas/Wing Commander III Heart of the Tiger 30th Anniversary Edition/6.webp",
+      "size": 9078,
+      "sha256": "73b79cec929b6efa86733bf2f4c60c530b32e2f6c8f2b18abd7b386dca7735be"
+    },
+    {
       "path": "capturas/Woodo Endless Summer Edition/1.webp",
       "size": 21240,
       "sha256": "8c9afc43451fa03c0b65675fd455b9293116590cfc39b5add66828c68483b0a5"
@@ -9320,6 +9460,11 @@
       "path": "sinopsis/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
       "size": 1272,
       "sha256": "9170a9a914321c064804f758692a39b2b4f6c8c521893a9c4736904305e44669"
+    },
+    {
+      "path": "sinopsis/Conan Exiles Enhanced Complete Edition.txt",
+      "size": 1116,
+      "sha256": "41ad77fb449ee1518324833d44947ba3b7ba2b9aaf38b74e88b7761631fe3cc3"
     },
     {
       "path": "sinopsis/Control Resonant.txt",
@@ -9712,6 +9857,11 @@
       "sha256": "692eea391e78988db976855d1512942acfc6e4109e555118550fec7b792e59ea"
     },
     {
+      "path": "sinopsis/Hypnos.txt",
+      "size": 400,
+      "sha256": "e649b4408fc295b58c55a5c7dab95ab2879401fac7d3f5daa21512a77ce5fe2d"
+    },
+    {
       "path": "sinopsis/I Am Jesus Christ.txt",
       "size": 2092,
       "sha256": "1ab24730e6c659e5dfb4bf136a1aea943f970be1d7171823f1e7584698a1bb49"
@@ -9755,6 +9905,11 @@
       "path": "sinopsis/Knights of Honor II Sovereign.txt",
       "size": 697,
       "sha256": "82a47fe9e3b1fc860dcfc40da7053d078bfb83b6a966ad189f28cb5117cb6bf4"
+    },
+    {
+      "path": "sinopsis/Legend of Zelda Ocarina of Time.txt",
+      "size": 450,
+      "sha256": "374f410fd6f42281c8938bf847dc4d796be3bf24078fb1d77e8bc83623110d3e"
     },
     {
       "path": "sinopsis/Lego Batman Legacy of the Dark Knight.txt",
@@ -10352,6 +10507,11 @@
       "sha256": "995cad2ec97f828e1fe38aa16d806d6039c6f48dd6504367b11e603f4a46f880"
     },
     {
+      "path": "sinopsis/Wing Commander III Heart of the Tiger 30th Anniversary Edition.txt",
+      "size": 1114,
+      "sha256": "c3761baa83db66cb5c33d69e029a8f38dc565dfb78429c263912574b88493f1e"
+    },
+    {
       "path": "sinopsis/Woodo Endless Summer Edition.txt",
       "size": 886,
       "sha256": "7140d33e4106acb4b81d52cf324e4745a673bd4e97f65521a1cf24cf2dcec3af"
@@ -10635,6 +10795,11 @@
       "path": "datos/Clive Barkers Hellraiser Revival Deluxe Edition.txt",
       "size": 187,
       "sha256": "aed1edef6029f09ab6863e26e3c4495c556942e8938ade457ffde09242b9bdbf"
+    },
+    {
+      "path": "datos/Conan Exiles Enhanced Complete Edition.txt",
+      "size": 274,
+      "sha256": "48680d9495208b8863ab3035eedbb71a07a8006ab4e0d999ffa249a6695d261c"
     },
     {
       "path": "datos/Control Resonant.txt",
@@ -11027,6 +11192,11 @@
       "sha256": "ecc882267f5f6c48be2fa2cb5f882bedaf2ef52f57ad682f6d6a274401c44950"
     },
     {
+      "path": "datos/Hypnos.txt",
+      "size": 200,
+      "sha256": "191683290b85af94ec3666e3e0ff38d7f6e16e68433fbe3e86dac3c5723aea7d"
+    },
+    {
       "path": "datos/I Am Jesus Christ.txt",
       "size": 198,
       "sha256": "d98c2811f4c28c9cac0e5ce1102661d16f9e8fdc2a8b417ec6bfd0edd67a696a"
@@ -11070,6 +11240,11 @@
       "path": "datos/Knights of Honor II Sovereign.txt",
       "size": 194,
       "sha256": "fb8e0fa8da37444f1602cf40008b81be2e293deef4303733a9f5bd49a343eee6"
+    },
+    {
+      "path": "datos/Legend of Zelda Ocarina of Time.txt",
+      "size": 208,
+      "sha256": "ac701e464bd2e8d5c2a8297ff6f6bbe7bc918561f26a0c82f8174148203d2ab9"
     },
     {
       "path": "datos/Lego Batman Legacy of the Dark Knight.txt",
@@ -11665,6 +11840,11 @@
       "path": "datos/Wing Commander II Vengeance of the Kilrathi.txt",
       "size": 189,
       "sha256": "ff4a01afc00f894e86595a7bca7594af54901a0b5a989767235767451fa60db6"
+    },
+    {
+      "path": "datos/Wing Commander III Heart of the Tiger 30th Anniversary Edition.txt",
+      "size": 173,
+      "sha256": "23b6a492333adc393326294cba0e4b2d7464024ef23efafe327a572bd5288889"
     },
     {
       "path": "datos/Woodo Endless Summer Edition.txt",

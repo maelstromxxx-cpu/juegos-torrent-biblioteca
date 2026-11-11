@@ -1097,6 +1097,11 @@
       "sha256": "9a39ce73dbd5d84f388067ec4a677e84233a9b858645a80743f6eb2407f2d880"
     },
     {
+      "path": "imagenes/Tacoma.webp",
+      "size": 37824,
+      "sha256": "f9108dc7e314b4f10b649925bfbd21e2d8e03699248a7e6a7f24a3d4d7b10ea2"
+    },
+    {
       "path": "imagenes/Tekken 7 Ultimate Edition.webp",
       "size": 86312,
       "sha256": "78a535f0eef6b56ec7e1aeba68469458409bbae4651d3868f713242eed038098"
@@ -7842,6 +7847,36 @@
       "sha256": "ef63124b1e4b02fe9ee611721d85d2aabbd285db8260fdc471e878e961c1d7cf"
     },
     {
+      "path": "capturas/Tacoma/1.webp",
+      "size": 13814,
+      "sha256": "14bd271f2c456826a1effb0ce433bf9be5ff800e07b324af4d4727352bfffa19"
+    },
+    {
+      "path": "capturas/Tacoma/2.webp",
+      "size": 29264,
+      "sha256": "249cbf95336dda5ab709979f4b6ca9835eb4f57bf1d8984d8cdac726664d3098"
+    },
+    {
+      "path": "capturas/Tacoma/3.webp",
+      "size": 11010,
+      "sha256": "5f4b622609ffe690d766386a635cf0f9c9532750f68265effc800bb68544ee78"
+    },
+    {
+      "path": "capturas/Tacoma/4.webp",
+      "size": 14432,
+      "sha256": "d0b999b3a16bfa26503a69a61080f3e49abc9b66d37590ebc8b33a385b030957"
+    },
+    {
+      "path": "capturas/Tacoma/5.webp",
+      "size": 16986,
+      "sha256": "7a0e0a09c789e0ab85648be36fc02cad394688c2c5ddcda0948c233fda6b5481"
+    },
+    {
+      "path": "capturas/Tacoma/6.webp",
+      "size": 8190,
+      "sha256": "5d3629e487ea7132ecece586dac634fb0948644812fcfc3387936188ac8b2562"
+    },
+    {
       "path": "capturas/Tekken 7 Ultimate Edition/1.webp",
       "size": 33442,
       "sha256": "b02ecf6d479a2ab4ec74fba3a7261bd7bd42299231a747841784633463d77161"
@@ -10302,6 +10337,11 @@
       "sha256": "e8f626b80b064bd8913a3033620577eab82eb048902d88534a36c31d287e7ab7"
     },
     {
+      "path": "sinopsis/Tacoma.txt",
+      "size": 1222,
+      "sha256": "9d310932623cb621933ede274ce6448291463906f7877c969b2e87a61e3cf1f1"
+    },
+    {
       "path": "sinopsis/Tekken 7 Ultimate Edition.txt",
       "size": 1010,
       "sha256": "1d9f32792423965dc722eb1edaae4dbf7a86a0a29c0b6f2cc0a1b6e0ac76eeb0"
@@ -11635,6 +11675,11 @@
       "path": "datos/Taboo Trial.txt",
       "size": 186,
       "sha256": "e7df8dc6ea004776d33b415a873e52b9e41d6aa9b1375d50eaf7afa769336eca"
+    },
+    {
+      "path": "datos/Tacoma.txt",
+      "size": 172,
+      "sha256": "4a47b5c2b353161dedefceda34623f3f53639646980d2fb1005edb98c9039dad"
     },
     {
       "path": "datos/Tekken 7 Ultimate Edition.txt",

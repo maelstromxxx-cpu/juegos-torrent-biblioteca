@@ -137,6 +137,11 @@
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
     },
     {
+      "path": "imagenes/Beyond These Stars.webp",
+      "size": 56384,
+      "sha256": "c3660f87fff4d164352a243c63950544b31b3e392aa941ce6ab3f9d0a4723d9d"
+    },
+    {
       "path": "imagenes/Black Myth Wukong.webp",
       "size": 20164,
       "sha256": "fd49ad02170176587bde8ba20d53989ed8b72fc848dc6f73a9f06c0b7b1432cd"
@@ -427,6 +432,11 @@
       "sha256": "735603fee10715f2d1f52b1fe679984973dda5bd4ca7c3a6a8cd634a5ecff69d"
     },
     {
+      "path": "imagenes/Escape Academy 2 Back 2 School.webp",
+      "size": 35554,
+      "sha256": "5d7aa354628225cd3256cbaf43485c450915a969bcb7e7fc47ce40577d26cf72"
+    },
+    {
       "path": "imagenes/Euro Truck Simulator 2.webp",
       "size": 52488,
       "sha256": "c172a9fa10c097637fb1d2666963fb5b065d168e6137a8c2f496a0a6938b50be"
@@ -677,6 +687,11 @@
       "sha256": "559d3f1f3d94487a8345f4b07efcf56c39722aaee9690e991e75d9cb58170521"
     },
     {
+      "path": "imagenes/Knights of Honor II Sovereign.webp",
+      "size": 51472,
+      "sha256": "eda701514827a0d4603d86faf36c577a8e9a05aad12aa20e8adf1e69cd553794"
+    },
+    {
       "path": "imagenes/Lego Batman Legacy of the Dark Knight.webp",
       "size": 22944,
       "sha256": "b09ed752e43f28b93753f6ebf7efa586f9db928075c58791e2eb90684948af47"
@@ -835,6 +850,11 @@
       "path": "imagenes/Playrooms.webp",
       "size": 12524,
       "sha256": "794f24d4b82785113901a74566bcd8837323a695a4ee098baf5a63ef922f5c43"
+    },
+    {
+      "path": "imagenes/Pokémon Pokopia.webp",
+      "size": 41424,
+      "sha256": "4ab80069e076f7e5aad8ce721a6f628a20ca041018c11439636eae3797bd8f1f"
     },
     {
       "path": "imagenes/Pragmata Deluxe Edition.webp",
@@ -2105,6 +2125,36 @@
       "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
       "size": 29418,
       "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
+    },
+    {
+      "path": "capturas/Beyond These Stars/1.webp",
+      "size": 18682,
+      "sha256": "8e8d25808d0523e13a47574e6d09a3f34d825684e4298d875994d14e568876f3"
+    },
+    {
+      "path": "capturas/Beyond These Stars/2.webp",
+      "size": 40122,
+      "sha256": "1c46a657a19c29a0bac6c1d325a1cb49e9c9c0567b41a488e21f09c506883e82"
+    },
+    {
+      "path": "capturas/Beyond These Stars/3.webp",
+      "size": 29012,
+      "sha256": "bc98b3c1d4ba6b264c8b16cfd4404e9f3daae05d1c0a4c3a59973d4c9fb99951"
+    },
+    {
+      "path": "capturas/Beyond These Stars/4.webp",
+      "size": 12208,
+      "sha256": "a1fe95416cf4691a1de895fe7af9562faf6e20bc29abcf5d75df89c59bec9689"
+    },
+    {
+      "path": "capturas/Beyond These Stars/5.webp",
+      "size": 15842,
+      "sha256": "72fc7eba0f651b6be00609050e1f1e12ee27bf87bb14ae257bac0be96a49bee8"
+    },
+    {
+      "path": "capturas/Beyond These Stars/6.webp",
+      "size": 25166,
+      "sha256": "cce4e2254c02b91615212e3d04119440421e52f1eefcebed3d2f27048b48de1b"
     },
     {
       "path": "capturas/Black Myth Wukong/1.webp",
@@ -3817,6 +3867,36 @@
       "sha256": "71fe6da15f086c443f088124711233b85be2392d51d3a3ebd446aede4b602ddb"
     },
     {
+      "path": "capturas/Escape Academy 2 Back 2 School/1.webp",
+      "size": 18488,
+      "sha256": "d34578b888d727d573d0da9fbe86c0fa67f032978557582c5b7ba0fc92e23e09"
+    },
+    {
+      "path": "capturas/Escape Academy 2 Back 2 School/2.webp",
+      "size": 27284,
+      "sha256": "0a1fbdae399f2ab5c15a4232a0acf2f94c534e37ef1f21f132d19549d76926fd"
+    },
+    {
+      "path": "capturas/Escape Academy 2 Back 2 School/3.webp",
+      "size": 27144,
+      "sha256": "869a4520f02162874c6d3b18f7d52abf4786f542d5b296cb33de193e015adbd3"
+    },
+    {
+      "path": "capturas/Escape Academy 2 Back 2 School/4.webp",
+      "size": 16022,
+      "sha256": "8d2d2ff98688e14e36e9ed3bdda3202cacc05ce9de2933be89b100af77cb1965"
+    },
+    {
+      "path": "capturas/Escape Academy 2 Back 2 School/5.webp",
+      "size": 16592,
+      "sha256": "35a046a1903e5ea01b5eda054eb04325789d86d0f8fd82642942f423de77a4f0"
+    },
+    {
+      "path": "capturas/Escape Academy 2 Back 2 School/6.webp",
+      "size": 26768,
+      "sha256": "9ef03e1ddc2420139c362d7bce763180d42af91e76ffc187f25abd89558b2961"
+    },
+    {
       "path": "capturas/Euro Truck Simulator 2/1.webp",
       "size": 21580,
       "sha256": "e86627a9f3f0154f943ad6dc7cc7e591bb1867d13f9127b2545e457a27a85097"
@@ -5312,6 +5392,36 @@
       "sha256": "cd93a16f6b45304b9eb2fe4d66084e9ae4a11a788d35d6cd5cfb6ef02035ea9b"
     },
     {
+      "path": "capturas/Knights of Honor II Sovereign/1.webp",
+      "size": 48802,
+      "sha256": "b8ff73c2ddaf471717e0071286341f116838955703620bbb30f1e1deecd1509c"
+    },
+    {
+      "path": "capturas/Knights of Honor II Sovereign/2.webp",
+      "size": 42604,
+      "sha256": "61ae03ed5441f48f372f1a2a5b631514fc4de26a676e2d833754ce6f403a05b1"
+    },
+    {
+      "path": "capturas/Knights of Honor II Sovereign/3.webp",
+      "size": 56842,
+      "sha256": "1135016fe73c359e67d90942c3d3b4b6d2ce339ee788bb69540b655ced085b38"
+    },
+    {
+      "path": "capturas/Knights of Honor II Sovereign/4.webp",
+      "size": 35752,
+      "sha256": "23df3975c2ee34b118ca4d4717d2c2a24f946b87ee49b32522ff226268fe56fa"
+    },
+    {
+      "path": "capturas/Knights of Honor II Sovereign/5.webp",
+      "size": 37390,
+      "sha256": "6494f9590bbe20744aab9c884d77baf918729520a46bf9cb507d8389f0326b66"
+    },
+    {
+      "path": "capturas/Knights of Honor II Sovereign/6.webp",
+      "size": 40414,
+      "sha256": "aec66fae0540dc8528f31cfca8d852f62756a6702ade2dffba4fae8052b01870"
+    },
+    {
       "path": "capturas/Lego Batman Legacy of the Dark Knight/1.webp",
       "size": 21252,
       "sha256": "6db269f7ae8a4473167483603ed2fbaca24f65d6137b9e4d3d5d874ae9ba39ea"
@@ -6245,6 +6355,31 @@
       "path": "capturas/Playrooms/6.webp",
       "size": 10874,
       "sha256": "6c1d7d241adacc5910d2e83d71d64e581787d73c3cfc0d83e2b900152d71930e"
+    },
+    {
+      "path": "capturas/Pokémon Pokopia/1.webp",
+      "size": 25960,
+      "sha256": "99ae32ab221aec12e56ab9b076c7882a8356e02e9e3685de7dbf4853fa06418c"
+    },
+    {
+      "path": "capturas/Pokémon Pokopia/2.webp",
+      "size": 9162,
+      "sha256": "0bc36b63deb5f0fbc1e64ded8bd872229f19533d87a857a51a241de75e6c8c7f"
+    },
+    {
+      "path": "capturas/Pokémon Pokopia/3.webp",
+      "size": 27044,
+      "sha256": "d7d13b5dcb5e8ed318b8dee8a1e95c23e29bceb97612c7237adf679b1ecced8f"
+    },
+    {
+      "path": "capturas/Pokémon Pokopia/4.webp",
+      "size": 34476,
+      "sha256": "5603bf0d7b787780a0cdfecad0136bd4f6da8bef474891847b364c569caae367"
+    },
+    {
+      "path": "capturas/Pokémon Pokopia/5.webp",
+      "size": 19192,
+      "sha256": "42264a3777d0177b62261211e98bae7c42575f38fc57f4f23c1d1fe3fe0b7afc"
     },
     {
       "path": "capturas/Pragmata Deluxe Edition/1.webp",
@@ -9067,6 +9202,11 @@
       "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
     },
     {
+      "path": "sinopsis/Beyond These Stars.txt",
+      "size": 841,
+      "sha256": "64ccf928910204a82a05cdbd1a185b72fa4c7b068e5802a500a5ef6a1c51a354"
+    },
+    {
       "path": "sinopsis/Black Myth Wukong.txt",
       "size": 833,
       "sha256": "728b262924be972a5bfcaed652f208577465727bafe467f0d9a7a8ffad1e2830"
@@ -9357,6 +9497,11 @@
       "sha256": "ce4e4d869674195b10ec912cca15266be9817132ed9d3a6621279475584aa0d0"
     },
     {
+      "path": "sinopsis/Escape Academy 2 Back 2 School.txt",
+      "size": 641,
+      "sha256": "7b60bbb9d4bae85b9fdf9783b8430eac04727065ffc5b30728810a263766f418"
+    },
+    {
       "path": "sinopsis/Euro Truck Simulator 2.txt",
       "size": 439,
       "sha256": "236409cf8157aba9dbe850277bbed585c1b1937d92fea5a3445de5e1695f91ef"
@@ -9607,6 +9752,11 @@
       "sha256": "6114d3064d106c1d5b521634ad08674c0f8bbd7d7c3b956fa26f3e40af60bc6b"
     },
     {
+      "path": "sinopsis/Knights of Honor II Sovereign.txt",
+      "size": 697,
+      "sha256": "82a47fe9e3b1fc860dcfc40da7053d078bfb83b6a966ad189f28cb5117cb6bf4"
+    },
+    {
       "path": "sinopsis/Lego Batman Legacy of the Dark Knight.txt",
       "size": 501,
       "sha256": "c064e2c27f90fdf44f39e7c9ed1cd57712e2fb78c487e4f947baf83a138b0509"
@@ -9765,6 +9915,11 @@
       "path": "sinopsis/Playrooms.txt",
       "size": 755,
       "sha256": "1412b13dc9e611e521500bfe6f6ba65a109489d52a9db287c82f8431b513d345"
+    },
+    {
+      "path": "sinopsis/Pokémon Pokopia.txt",
+      "size": 424,
+      "sha256": "fa80865670b6052bc9ce7d30bfca5ec2aef00886e7956de1b30dc855da569884"
     },
     {
       "path": "sinopsis/Pragmata Deluxe Edition.txt",
@@ -10362,6 +10517,11 @@
       "sha256": "75ea0c48eaa2797a4ada4954e9481ad6cff368288d30bf5eda773f5df421792a"
     },
     {
+      "path": "datos/Beyond These Stars.txt",
+      "size": 178,
+      "sha256": "286906769d4994b47af7dc64f7e2ca8f6fb6a8b134a8c22ec8098226254a9f1b"
+    },
+    {
       "path": "datos/Black Myth Wukong.txt",
       "size": 195,
       "sha256": "95316cb90056ba8a381ba78f5183ed71c2872e273d9005b81bd16cb72dcc1b5c"
@@ -10652,6 +10812,11 @@
       "sha256": "e54d52f53c7e77fca3cbdad55d089bc38246477a03171e7f7040f0dec1a2666b"
     },
     {
+      "path": "datos/Escape Academy 2 Back 2 School.txt",
+      "size": 218,
+      "sha256": "3b08bbd44b21c722be669bc37c4fc2b13088112ea6ba25015649db9d2e8a88b5"
+    },
+    {
       "path": "datos/Euro Truck Simulator 2.txt",
       "size": 188,
       "sha256": "5a6376e6d8f50a14ab359ae6bf8a282e02383297ed4bc66a34a7645ba927b19f"
@@ -10902,6 +11067,11 @@
       "sha256": "21c053df736c4e5250dc70fc19c5fd99b196d1460e853ae63645dc47918e3b6d"
     },
     {
+      "path": "datos/Knights of Honor II Sovereign.txt",
+      "size": 194,
+      "sha256": "fb8e0fa8da37444f1602cf40008b81be2e293deef4303733a9f5bd49a343eee6"
+    },
+    {
       "path": "datos/Lego Batman Legacy of the Dark Knight.txt",
       "size": 231,
       "sha256": "06e1000c393be1c5d09df5f1cc79b5be067ab80cc4d1eb8992b204456609ed6d"
@@ -11060,6 +11230,11 @@
       "path": "datos/Playrooms.txt",
       "size": 182,
       "sha256": "85e6e91151391666b76a1665c5fddf8193ff03546c5e2b3ee716737f66950a27"
+    },
+    {
+      "path": "datos/Pokémon Pokopia.txt",
+      "size": 208,
+      "sha256": "72e2a1c2522e41585812c5b71ac64c8b1276f170c0bbf1ddb8c0156e28aa9226"
     },
     {
       "path": "datos/Pragmata Deluxe Edition.txt",

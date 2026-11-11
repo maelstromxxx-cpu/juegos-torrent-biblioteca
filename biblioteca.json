@@ -22,6 +22,11 @@
       "sha256": "c980702bac78bb01b25a7c40bcdce136f5151c28e4d01c1f34a3c265003705f5"
     },
     {
+      "path": "imagenes/Afterparty.webp",
+      "size": 44454,
+      "sha256": "85c2f75b662963b2725576be8325cd4eaecbbfd00de475bd83786ffd7d06f18f"
+    },
+    {
       "path": "imagenes/Age of Wonders 4 2026 Collector’s Bundle.webp",
       "size": 47620,
       "sha256": "186af2aff7bc82b2f884827d733e32e94e85b286a316edb5d229ba0bc1b760bb"
@@ -475,6 +480,11 @@
       "path": "imagenes/Farming Simulator 25 Year 1 Bundle.webp",
       "size": 78776,
       "sha256": "f1e2ecaedbe99f6302f5f4f1b6eaf2a549aac0a004343a8fa09b2be48f7c185e"
+    },
+    {
+      "path": "imagenes/Forgotton Anne.webp",
+      "size": 51704,
+      "sha256": "ec09f0d59ab071cb4609cb4de3777e1e22a4916413f2e4781a35f7e8d76db0d9"
     },
     {
       "path": "imagenes/Forza Horizon 2 Ultimate Edition.webp",
@@ -1450,6 +1460,36 @@
       "path": "capturas/Ace Combat 8 Wings Of Theve/6.webp",
       "size": 17982,
       "sha256": "04692a4e9c291deff4925c9a17524ec30e645255a232f98e779f1b6be942e1c7"
+    },
+    {
+      "path": "capturas/Afterparty/1.webp",
+      "size": 14222,
+      "sha256": "75244ff3419e7ff6a974d1eac6ddff852efc7d3cfef54741ea9fae5fd304b1d5"
+    },
+    {
+      "path": "capturas/Afterparty/2.webp",
+      "size": 19330,
+      "sha256": "2430dd4f201f9e88e2ec5a053a7f6066485a123d79f52a80a3a8517438f3b3b1"
+    },
+    {
+      "path": "capturas/Afterparty/3.webp",
+      "size": 15584,
+      "sha256": "6df72a2511f938ea385bfb7bcd913110fbed8a7b18617a3959cd56028b9d4fe3"
+    },
+    {
+      "path": "capturas/Afterparty/4.webp",
+      "size": 15734,
+      "sha256": "285712353496268478b2e1f9d1703fe267127f2b180f2acfe8f93b48ab656e8d"
+    },
+    {
+      "path": "capturas/Afterparty/5.webp",
+      "size": 8138,
+      "sha256": "e078740b32267d34a7c94777c49c5b7ad7772cff0c052b188b288c7cffdf5175"
+    },
+    {
+      "path": "capturas/Afterparty/6.webp",
+      "size": 20288,
+      "sha256": "fee48635e537a7b0519efdf6e93d2731e83b4117f895ea987c85bd029da9c35d"
     },
     {
       "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/1.webp",
@@ -4155,6 +4195,36 @@
       "path": "capturas/Farming Simulator 25 Year 1 Bundle/5.webp",
       "size": 32248,
       "sha256": "60402172ac5930cf91b1b63b5ad05ec3872122a11c46b9ced03f0702de26570f"
+    },
+    {
+      "path": "capturas/Forgotton Anne/1.webp",
+      "size": 15668,
+      "sha256": "9c881e3e0ef677fe3f6b1e5dfd2457827321414a4c3f29ecb2000b45537c058a"
+    },
+    {
+      "path": "capturas/Forgotton Anne/2.webp",
+      "size": 16460,
+      "sha256": "1601abcd39cd90cb5284d4662c29930b36508bd5d41e8a1ebd4a5903514eb3b9"
+    },
+    {
+      "path": "capturas/Forgotton Anne/3.webp",
+      "size": 21192,
+      "sha256": "ede1847c83fb3bd2a9876d12c75ea1efe66305e8a532f488c779a92b726130ea"
+    },
+    {
+      "path": "capturas/Forgotton Anne/4.webp",
+      "size": 14794,
+      "sha256": "41f81515e2fcc80ae7f4098f41bd40bdd1082df72de9df68d86400653fe166ab"
+    },
+    {
+      "path": "capturas/Forgotton Anne/5.webp",
+      "size": 7144,
+      "sha256": "5496797b82d4b36701e5a77587df1bee691c962bcfa36c0c4e71db545633347a"
+    },
+    {
+      "path": "capturas/Forgotton Anne/6.webp",
+      "size": 18190,
+      "sha256": "13f89670e85d25f2e9755bcd960ff5aee49b89e59b49cf4709e278c1d8f632f7"
     },
     {
       "path": "capturas/Forza Horizon 2 Ultimate Edition/1.webp",
@@ -9257,6 +9327,11 @@
       "sha256": "ea9570a959cae9bf1de05bb9b6101cc21a05bf2a76b4f46230d959948ed71f8d"
     },
     {
+      "path": "sinopsis/Afterparty.txt",
+      "size": 650,
+      "sha256": "0bc0c894d5180d65f91a56bcad1097b6d9eccf3c031a713bef48c2f31b88fb51"
+    },
+    {
       "path": "sinopsis/Age of Wonders 4 2026 Collector’s Bundle.txt",
       "size": 972,
       "sha256": "2b005edfaf619c4d2842bea145a55b67dce6a0725207a47bc537a7fa1656c40e"
@@ -9715,6 +9790,11 @@
       "path": "sinopsis/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 494,
       "sha256": "94d46bdfe03c00d0da05cff7ffe18bce131af18a03661cea92055e83e5e02a4e"
+    },
+    {
+      "path": "sinopsis/Forgotton Anne.txt",
+      "size": 505,
+      "sha256": "ff0d7a7aedcb102d5882937475a9f0a7eab011aad6c441632f92782b7a2841ce"
     },
     {
       "path": "sinopsis/Forza Horizon 2 Ultimate Edition.txt",
@@ -10592,6 +10672,11 @@
       "sha256": "23340862b72ab677b20bb9b7b134891c2779c695f9933fd0e2c51698e1f06865"
     },
     {
+      "path": "datos/Afterparty.txt",
+      "size": 183,
+      "sha256": "6431987c488145bf9f7e46ebf7a5ce63e775a5898046b92b68e5997e7ecb9d62"
+    },
+    {
       "path": "datos/Age of Wonders 4 2026 Collector’s Bundle.txt",
       "size": 194,
       "sha256": "96bf13b8ec37e06310ecee433066cc6024169b6dc7aa809508ba8e164cbdb8f7"
@@ -11055,6 +11140,11 @@
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 202,
       "sha256": "9066577474a45914d1f9630f80694fbb56d7089ab075494397e8de1ec2b0cc89"
+    },
+    {
+      "path": "datos/Forgotton Anne.txt",
+      "size": 211,
+      "sha256": "79fe96722327aef0d066a23530363e23e050f214900766702677e744ef1f5e8b"
     },
     {
       "path": "datos/Forza Horizon 2 Ultimate Edition.txt",

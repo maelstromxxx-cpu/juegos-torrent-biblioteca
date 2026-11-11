@@ -132,6 +132,11 @@
       "sha256": "232e0be233b349fbf341dd1a3a2bf6955d396f0072e008c9a8f3555b268a2905"
     },
     {
+      "path": "imagenes/Battlefield Hardline.webp",
+      "size": 59216,
+      "sha256": "2a05e928c5d68c10a78007db6505ddab559f7fe139e1620448cc7a276d68b3e4"
+    },
+    {
       "path": "imagenes/Battlefield V.webp",
       "size": 23576,
       "sha256": "5e4749a397be9c24eabad5cf4539a9d8f824736e8e14496e82f65a3dfc1d8269"
@@ -2185,6 +2190,31 @@
       "path": "capturas/Battlefield 6/6.webp",
       "size": 25054,
       "sha256": "93d35beefd1a62e770a2aedd1b188c83c4ef850bec7fdecf21d2c39c154e48ab"
+    },
+    {
+      "path": "capturas/Battlefield Hardline/1.webp",
+      "size": 13976,
+      "sha256": "d9e387903af095f153412a558a5e03fa4272037a5d40798835f29c6b62b4dbf9"
+    },
+    {
+      "path": "capturas/Battlefield Hardline/2.webp",
+      "size": 29104,
+      "sha256": "06a0d6648ffc21d4f42553549ee692070dc06e4ee8344373227d0a13634ae068"
+    },
+    {
+      "path": "capturas/Battlefield Hardline/3.webp",
+      "size": 23410,
+      "sha256": "b862b1a3f23b1f8569599029c8e631f6eac7c163db5f352f93758b24243c69ca"
+    },
+    {
+      "path": "capturas/Battlefield Hardline/4.webp",
+      "size": 21400,
+      "sha256": "845c3377f8bf77a8ccc6a99e2f19c3c95996e0633d05d4f6248cba9d2c525b54"
+    },
+    {
+      "path": "capturas/Battlefield Hardline/5.webp",
+      "size": 23916,
+      "sha256": "8c236994bea6f3294964b063fa5ca1ad9f44b7d56ba138fedeb1a56578e84400"
     },
     {
       "path": "capturas/Battlefield V/1.webp",
@@ -9822,6 +9852,11 @@
       "sha256": "8d9ecd0727e164ca0daac5a40976b2a3b4eed0bd079ffea88eb684fde672a17b"
     },
     {
+      "path": "sinopsis/Battlefield Hardline.txt",
+      "size": 623,
+      "sha256": "d52d7bd080e55b06a6feea3ff1f56b0627c455bc6427db3f2cfb8771b694e195"
+    },
+    {
       "path": "sinopsis/Battlefield V.txt",
       "size": 700,
       "sha256": "e03612225958e5495e0883d5a36759d8b4cf9ce7967a877c3d411943cad67553"
@@ -11220,6 +11255,11 @@
       "path": "datos/Battlefield 6.txt",
       "size": 192,
       "sha256": "72ac8a95723b67ce64b0b4ea36e8d17d9917e4831f4ed9663383e96ca274a227"
+    },
+    {
+      "path": "datos/Battlefield Hardline.txt",
+      "size": 176,
+      "sha256": "c19d944a2c3d26a351f4577255c7f5c00a87262b8523e034cb02d6fe275c71bb"
     },
     {
       "path": "datos/Battlefield I Ultimate Edition.txt",

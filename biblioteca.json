@@ -182,6 +182,11 @@
       "sha256": "c1931a85b5b52df9c0b02a3dcf1c50a72db009277b1c80dbae613a176c4a1087"
     },
     {
+      "path": "imagenes/Bulletstorm Full Clip Edition.webp",
+      "size": 120848,
+      "sha256": "688c416651ee7fa1ec54d944a419966a76071bea624e19c563fc569b5896c5c7"
+    },
+    {
       "path": "imagenes/Cairn Deluxe Edition.webp",
       "size": 93964,
       "sha256": "a493f835c4ccd098b00baf243bd3bfbd7132ad1fc1675bcfe9db754fa68cdff7"
@@ -2500,6 +2505,36 @@
       "path": "capturas/Breathedge/6.webp",
       "size": 13910,
       "sha256": "b1e9fcb0fc1e5755326e5d3d8561307c12d0b44f96da1fb2466c86ab556520da"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/1.webp",
+      "size": 40730,
+      "sha256": "4aaa3c34a4eda72e3fe223b5d6fcdeb14545837dd10951260706f0a18ffd0857"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/2.webp",
+      "size": 18918,
+      "sha256": "accca52f068a34bee3bb6596ef21f1db8b7fc75e38d5fee895b830c44045ea0e"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/3.webp",
+      "size": 29896,
+      "sha256": "c1426c9bf766fe04912548e788218fd8e8c6a9a366828eb619dab48b475182c9"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/4.webp",
+      "size": 17020,
+      "sha256": "d16802ec3c96d932b7a92ffc6264d92c14ed82980d4600cc378dcd75d9831aa9"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/5.webp",
+      "size": 23054,
+      "sha256": "0afde57a8b5ebcf770a1e4a6c8f8e0cecad9cbfd2939c47222af9a048c015889"
+    },
+    {
+      "path": "capturas/Bulletstorm Full Clip Edition/6.webp",
+      "size": 33212,
+      "sha256": "0a38c5cfc34fbed4148c15c5914c3cedb903ba8ca54355e3ca39576d87d45ad7"
     },
     {
       "path": "capturas/Cairn Deluxe Edition/1.webp",
@@ -9942,6 +9977,11 @@
       "sha256": "66d7903dcf1772ac2ab0b2fed04b9dcda2d46e94b2ec31f2282a1ebe34d57e66"
     },
     {
+      "path": "sinopsis/Bulletstorm Full Clip Edition.txt",
+      "size": 915,
+      "sha256": "eeb6538eb7697ea278458e94e4b54b1e8c6be8b9994c28ab3cb246d27947f32b"
+    },
+    {
       "path": "sinopsis/Cairn Deluxe Edition.txt",
       "size": 633,
       "sha256": "b2be09103a98ffc20f4b0a0ef93ecdae3f3348de6df10bb0ef8777552643a9f4"
@@ -11355,6 +11395,11 @@
       "path": "datos/Breathedge.txt",
       "size": 196,
       "sha256": "dde321590f01a32f17a7fae05d165185e99e4a860d049028b9153876eeff3bec"
+    },
+    {
+      "path": "datos/Bulletstorm Full Clip Edition.txt",
+      "size": 206,
+      "sha256": "50212152984fb3d03f6860c315acb44bb1cbb3d52049c2d9ef80f8998d7e217b"
     },
     {
       "path": "datos/Cairn Deluxe Edition.txt",

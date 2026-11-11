@@ -827,6 +827,11 @@
       "sha256": "855bf1e75e33d10bf58651427753f72de97ef2aa3d42848df9d73fc1540fb5ed"
     },
     {
+      "path": "imagenes/Mount & Blade II Bannerlord.webp",
+      "size": 63678,
+      "sha256": "de868ce62bc1c5fb61ce9ddc2b8918f306a93f0df1062099a520092ee6ca936d"
+    },
+    {
       "path": "imagenes/My Little Puppy.webp",
       "size": 24204,
       "sha256": "950ed76604299605833bdd3b4039373543d51c5057948779b8a41f688e112622"
@@ -6312,6 +6317,41 @@
       "sha256": "460d957e6d4af73a8f1ffc8c7ff2deac5102eb0872304c14017742f1b2ce94b3"
     },
     {
+      "path": "capturas/Mount & Blade II Bannerlord/1.webp",
+      "size": 30490,
+      "sha256": "6ff856b58a242c68af4413d45c89666e640c92cba0ab2898303782f6924d673a"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/2.webp",
+      "size": 19362,
+      "sha256": "a171af8f3537f156518ece0e0f1e782f1ecf919ed8eadf1c393e3f18213793d9"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/3.webp",
+      "size": 17512,
+      "sha256": "1b0f71cb3c94887318f49068ad7245d5b73854b1a806e6d29196313b5ed6f59c"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/4.webp",
+      "size": 47360,
+      "sha256": "8afc620d4b812e784d07d268499f640c97e3ee5be485445d8484636e294775d6"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/5.webp",
+      "size": 37250,
+      "sha256": "52db9d43768f3eb63e6ea58d669c8807827c41349057ed2ec2015d9f233f0b10"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/6.webp",
+      "size": 36602,
+      "sha256": "836299dc31f90056e5a06f1108564db8608bcc66fb833425bef8ec8a49067e92"
+    },
+    {
+      "path": "capturas/Mount & Blade II Bannerlord/7.webp",
+      "size": 33158,
+      "sha256": "7e64d3675eeee3345a4f8797c2651becbdeff6c8266ee7b5b3a6a9f376d20fce"
+    },
+    {
       "path": "capturas/My Little Puppy/1.webp",
       "size": 17680,
       "sha256": "49fbe8908e01f4260048bb3730227d014beb8a0c73ed649f6a3b6c79dbd34d3b"
@@ -10547,6 +10587,11 @@
       "sha256": "19825594c80d05e18295b27126801d8d9f6c73223af375dc23ab6c91df06cb3c"
     },
     {
+      "path": "sinopsis/Mount & Blade II Bannerlord.txt",
+      "size": 861,
+      "sha256": "2bdb99360ecd29baa75c3f5cdbdd004de6901fb0a476c657eca25ca4353db9e2"
+    },
+    {
       "path": "sinopsis/My Little Puppy.txt",
       "size": 476,
       "sha256": "8608461ea41445b6c75dd742aea391e0e9f5143253f327a1753f1cc3ec09d49a"
@@ -11955,6 +12000,11 @@
       "path": "datos/Mortal Shell II Devout Edition.txt",
       "size": 222,
       "sha256": "12b0e48df311db2ddeb5dd841bcfee650c470c3ad97f5b0de1199d1cceb6649c"
+    },
+    {
+      "path": "datos/Mount & Blade II Bannerlord.txt",
+      "size": 241,
+      "sha256": "01cf6fd58741bea9047c6054262c7d11334752e23c7e89aa826a9a07ea2c0f8a"
     },
     {
       "path": "datos/My Little Puppy.txt",

@@ -242,6 +242,11 @@
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
     {
+      "path": "imagenes/Carrion.webp",
+      "size": 51820,
+      "sha256": "6bf40bb55290570327db4a401450b029e0e5f4e6990750e236254a6677e26e51"
+    },
+    {
       "path": "imagenes/Castlevania Belmonts Curse Midnight Edition.webp",
       "size": 167886,
       "sha256": "7f8221708f7193e14866406f5c0eebb0bbfd6599ea21652488cac07b4b339efa"
@@ -732,6 +737,11 @@
       "sha256": "c10b59ded731b535a8a32421a1b2ec5a7d2f870b611a3591473e78464aeffbfc"
     },
     {
+      "path": "imagenes/Lost Words Beyond the Page.webp",
+      "size": 49438,
+      "sha256": "c7f861356fd1d8c1948ad09d4dbeb023ba9f6eb2e87b7ff5362a3b77c546ba3e"
+    },
+    {
       "path": "imagenes/Lust ‘n Dead.webp",
       "size": 21430,
       "sha256": "6b60b7159bac0d0c11bf2d4e3d7d7063dabb153158c93b2bf3b6dc16c8e68e99"
@@ -850,6 +860,11 @@
       "path": "imagenes/Palworld.webp",
       "size": 43834,
       "sha256": "a6e0d449e5b2c82a70a23e81b144638e8b4e34dbaf8180d07f5716f8c23097f2"
+    },
+    {
+      "path": "imagenes/Paper Beast Folded Edition.webp",
+      "size": 36942,
+      "sha256": "dff70470daf8c90acfa08596d2bd202aaa60c7e72eb6f91fcc929f8f761ecb86"
     },
     {
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
@@ -1000,6 +1015,11 @@
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
       "size": 31190,
       "sha256": "3d798d08bbadf66b8ee1a1a0986405d6d51b07558888b237a1dde9bd85774f6a"
+    },
+    {
+      "path": "imagenes/Shady Part of Me.webp",
+      "size": 26618,
+      "sha256": "7a4f8f6ac64c17e0e0b8121e8d934ec253d235d776ce3640897ba6e0e5a1b32f"
     },
     {
       "path": "imagenes/Silent Hill Townfall.webp",
@@ -1192,6 +1212,11 @@
       "sha256": "92a2a82bb5001f789af843b135e4f958308346474e15246995f78c230817e51e"
     },
     {
+      "path": "imagenes/The Pedestrian.webp",
+      "size": 68786,
+      "sha256": "212017f2afe00922004531411584e1231045ca737371ed819b59e1f098a951ed"
+    },
+    {
       "path": "imagenes/The Relic First Guardian.webp",
       "size": 44852,
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
@@ -1300,6 +1325,11 @@
       "path": "imagenes/Watch Dogs.webp",
       "size": 63928,
       "sha256": "16cd3ec6c4c954aeadf2270c4a296f4f3e185bea2d0141222f40b9d3d847b3d5"
+    },
+    {
+      "path": "imagenes/Wavey The Rocket.webp",
+      "size": 41466,
+      "sha256": "f954571414d60e5d4e425fc8c25120709558bcaf9abaf17e369a5efe8706434c"
     },
     {
       "path": "imagenes/Wicked Seed.webp",
@@ -2785,6 +2815,36 @@
       "path": "capturas/Call Of Duty WWII Full/06.webp",
       "size": 68992,
       "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
+    },
+    {
+      "path": "capturas/Carrion/1.webp",
+      "size": 18172,
+      "sha256": "f4d90d03887cca192519f7e9107ba1408c863652dba7d89314092780ccf5b535"
+    },
+    {
+      "path": "capturas/Carrion/2.webp",
+      "size": 31534,
+      "sha256": "7f07d86093dedb21c62a4bd8d23e77b9561737b9ffa6c5e2390f5c1dd0e911a8"
+    },
+    {
+      "path": "capturas/Carrion/3.webp",
+      "size": 26544,
+      "sha256": "a2b3704f172e83f883a31eeea11e94897017a71ef1ca882bd76406a956556881"
+    },
+    {
+      "path": "capturas/Carrion/4.webp",
+      "size": 31896,
+      "sha256": "c537ae1b08d717b9972fd096f06d1085cdd2d6a0fb0b48a25d957ca48ae2b214"
+    },
+    {
+      "path": "capturas/Carrion/5.webp",
+      "size": 28336,
+      "sha256": "48452ab578d994b459d9949d863fc899814d27bc78010ef141f0d187250f2008"
+    },
+    {
+      "path": "capturas/Carrion/6.webp",
+      "size": 18536,
+      "sha256": "1054586404f145e5d87473e564ada9b97dd00411bac54b82c2a67fd27b06ec38"
     },
     {
       "path": "capturas/Castlevania Belmonts Curse Midnight Edition/1.webp",
@@ -5692,6 +5752,36 @@
       "sha256": "5c5929de82d7f661b80ac56d02afcec4ef525a17e24eb9d10c14d0e0dea8d98a"
     },
     {
+      "path": "capturas/Lost Words Beyond the Page/1.webp",
+      "size": 20292,
+      "sha256": "2c695bf3b8fa5873cdaa40cd95e93d89fb0086f0e09317f83926eb1c485c4ab5"
+    },
+    {
+      "path": "capturas/Lost Words Beyond the Page/2.webp",
+      "size": 20090,
+      "sha256": "dc6e6d15b76705461aa271af56ea356cd2bf9797a2d51ce902f2a22ce18fb751"
+    },
+    {
+      "path": "capturas/Lost Words Beyond the Page/3.webp",
+      "size": 13028,
+      "sha256": "803dc690c3a9c5c18091ecac1393d8da5ae310306e943b775b497bbd2486c060"
+    },
+    {
+      "path": "capturas/Lost Words Beyond the Page/4.webp",
+      "size": 17632,
+      "sha256": "6a9814a309b0c51b6e3fb571bbd55b1a0e72a0d1c63beef1f08ed4d5630aea1b"
+    },
+    {
+      "path": "capturas/Lost Words Beyond the Page/5.webp",
+      "size": 19660,
+      "sha256": "4b4432c3b87bb02f4c0a8f2eba8f619bbb845c2dcdf5df7f33eaae86bd2370a5"
+    },
+    {
+      "path": "capturas/Lost Words Beyond the Page/6.webp",
+      "size": 11454,
+      "sha256": "6fd59704371ea777ff43e0724ca5399fc6e37290178a49467c18165fc1640abf"
+    },
+    {
       "path": "capturas/Lust ‘n Dead/1.webp",
       "size": 13564,
       "sha256": "de97399703d84a71fda2e10e4f73b2e07713eca7be2240b2a14e5ba822c98a8d"
@@ -6390,6 +6480,36 @@
       "path": "capturas/Palworld/6.webp",
       "size": 31428,
       "sha256": "6edbe37a7d2bbd915d6a3559722d3060f78669eb8bdb92cf44da01b8d14ac2f8"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/1.webp",
+      "size": 20760,
+      "sha256": "1bba24bf4ad841ced47290add62ea5de52f8eec487c06534a98c8cfee2962eb1"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/2.webp",
+      "size": 12784,
+      "sha256": "3e38eeb83789085ef1af907764faeb5dda6e59bfa371faf0f01fb9783eedec2e"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/3.webp",
+      "size": 18026,
+      "sha256": "5f0e834e225b32774fc442c118c443f26f5e38bf2da0a207f2da56d96ffb7ba1"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/4.webp",
+      "size": 19302,
+      "sha256": "d5a30e9d89e8d515ad74a0afe23de7d107387e6d46beaa1aaecf892a5410dc81"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/5.webp",
+      "size": 29102,
+      "sha256": "42eccae2b7b1373e7ae4e42ac02d786235281eb045438ca8ed9b2c8afa4ac4df"
+    },
+    {
+      "path": "capturas/Paper Beast Folded Edition/6.webp",
+      "size": 13528,
+      "sha256": "9e0e254a6117cabf956d53a9296236086e11cc9245613f76488c799e2f37170c"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
@@ -7285,6 +7405,36 @@
       "path": "capturas/Sexnatural MILFs Must Be Filled/6.webp",
       "size": 15834,
       "sha256": "16f5045a07f6de8154e08ed6b6a9c271ebf5cd2a190c5e3888b9fdb7cbd488a8"
+    },
+    {
+      "path": "capturas/Shady Part of Me/1.webp",
+      "size": 14952,
+      "sha256": "ecd2b907066357139fbf08eb8570bab6ded74d06483447ff86fd3982cc32e93f"
+    },
+    {
+      "path": "capturas/Shady Part of Me/2.webp",
+      "size": 14596,
+      "sha256": "d7c5d29035ce249f88785c35d762134590357fb5a7112c89a6678a5f601410db"
+    },
+    {
+      "path": "capturas/Shady Part of Me/3.webp",
+      "size": 23054,
+      "sha256": "11977a354b95cf69f78ed242d9e331806dc66b4a8c906feaf486f11eafc791a2"
+    },
+    {
+      "path": "capturas/Shady Part of Me/4.webp",
+      "size": 14138,
+      "sha256": "6f0d704583cad80b6264395a01df30a90db62280e496a6a328713204f9f93e8d"
+    },
+    {
+      "path": "capturas/Shady Part of Me/5.webp",
+      "size": 22674,
+      "sha256": "eca3a2b1c0d2ef7fe7c60747fa5c9dd6da16f70b107da50af9216e1c495eaf74"
+    },
+    {
+      "path": "capturas/Shady Part of Me/6.webp",
+      "size": 17196,
+      "sha256": "94b6cbebbc52e63ec9e7ebc5d9795b5064fedefc5801c52dce110ad3b76c1fd5"
     },
     {
       "path": "capturas/Silent Hill Townfall/1.webp",
@@ -8417,6 +8567,36 @@
       "sha256": "09acef651539d487e4010d458c1d23ffb9956799d255b6709523867435bd7c34"
     },
     {
+      "path": "capturas/The Pedestrian/1.webp",
+      "size": 22994,
+      "sha256": "bbbf10f1a8376c1a92848645d3bcb76e6bab568b49e119b749e4e5d1b579aa6d"
+    },
+    {
+      "path": "capturas/The Pedestrian/2.webp",
+      "size": 12708,
+      "sha256": "87178c3ddf8a1837e4336caafd5bd7d1acc2bcb05823de39570e7f720a8ac41f"
+    },
+    {
+      "path": "capturas/The Pedestrian/3.webp",
+      "size": 29338,
+      "sha256": "5a62ce0d8844130bab4db004e31050c5fc8a06253c9e7da46351e01b5720ca2d"
+    },
+    {
+      "path": "capturas/The Pedestrian/4.webp",
+      "size": 21574,
+      "sha256": "015d3cce89cffef4b588a0abc607e65ca51833793441ae61bac9c4493d57c513"
+    },
+    {
+      "path": "capturas/The Pedestrian/5.webp",
+      "size": 30288,
+      "sha256": "98727ad85b578673a1fb3128c1244cb5562c6685430cadbd3299961d62e7b6b2"
+    },
+    {
+      "path": "capturas/The Pedestrian/6.webp",
+      "size": 14682,
+      "sha256": "c91cafac90695ce0dd96d64929d26bcfc82c016f653680c5366686654f7752e8"
+    },
+    {
       "path": "capturas/The Relic First Guardian/1.webp",
       "size": 7608,
       "sha256": "a6df7268925942eaa2606429fecf8f760314212ae77a2202c1ff740b1250c6ac"
@@ -9067,6 +9247,36 @@
       "sha256": "08c3a8043eebdc9396b9f0bb675ae762d872f6080a151f4da53887f6aebc871b"
     },
     {
+      "path": "capturas/Wavey The Rocket/1.webp",
+      "size": 30152,
+      "sha256": "eeab2c29c7d58c7c147c6d52bfcd896b3fc98f3a7a7453d7dd7c28bc77cda171"
+    },
+    {
+      "path": "capturas/Wavey The Rocket/2.webp",
+      "size": 30958,
+      "sha256": "d303807cfa45de59579313265b088867af2f1843ff32061ed4494ee0f650beb1"
+    },
+    {
+      "path": "capturas/Wavey The Rocket/3.webp",
+      "size": 37778,
+      "sha256": "eba0534c5946755ea4aacf40d72f100c349068812cbeceef1dbf11b850ce62c2"
+    },
+    {
+      "path": "capturas/Wavey The Rocket/4.webp",
+      "size": 35884,
+      "sha256": "4f10d95522dc0ae0b88515491f5fe926dc58087c9add2dc600fb396d6aaab40b"
+    },
+    {
+      "path": "capturas/Wavey The Rocket/5.webp",
+      "size": 26894,
+      "sha256": "aee2e101df2239226b8a1ab3b887020d773b763d03b59a8fdb3be357460fcfae"
+    },
+    {
+      "path": "capturas/Wavey The Rocket/6.webp",
+      "size": 22746,
+      "sha256": "9444291c743de1b37ace6fd4ba1e45d03e444e2b3a25e079746be4c4e243d874"
+    },
+    {
       "path": "capturas/Wicked Seed/1.webp",
       "size": 14326,
       "sha256": "70aa960fd5a8d3af68ebee03cb92bf56c3117f3816bcb7331f785f1347b36895"
@@ -9550,6 +9760,11 @@
       "path": "sinopsis/Call Of Duty WWII.txt",
       "size": 794,
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
+    },
+    {
+      "path": "sinopsis/Carrion.txt",
+      "size": 373,
+      "sha256": "a69b6617bb4e234f7314bc4c017426d0bc1f6fde8b6aa652749770e0dc94730a"
     },
     {
       "path": "sinopsis/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -10042,6 +10257,11 @@
       "sha256": "33ef1d2ada5c15c0514304998a024bfa99367660e330130ce040297692a7d0c6"
     },
     {
+      "path": "sinopsis/Lost Words Beyond the Page.txt",
+      "size": 881,
+      "sha256": "d596efb7bb390d23a36adbd777090c67f56d4982b4b1efc387fb6e1d3951e919"
+    },
+    {
       "path": "sinopsis/Lust ‘n Dead.txt",
       "size": 1016,
       "sha256": "f23e4c9dd0b91e423de46a4759c755ab5fb5425d89f6726272317e177063d22f"
@@ -10160,6 +10380,11 @@
       "path": "sinopsis/Palworld.txt",
       "size": 572,
       "sha256": "2da64d5d2033c4684e2f7c0c815216f465c741b27c30114224b09ec934d3c993"
+    },
+    {
+      "path": "sinopsis/Paper Beast Folded Edition.txt",
+      "size": 367,
+      "sha256": "deb2a8f109082bf3f419612cbdcfe0a6dc42555b017fdfaac684b0eb55bae1b7"
     },
     {
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
@@ -10310,6 +10535,11 @@
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
       "size": 1896,
       "sha256": "f3ed473848931bd796acb0e6c6b286581f7806dd9146af7224a8498662eecfe4"
+    },
+    {
+      "path": "sinopsis/Shady Part of Me.txt",
+      "size": 449,
+      "sha256": "344546df88bdda2f4a29ac0337428f735da286129104c8ce32059788aa00fcd3"
     },
     {
       "path": "sinopsis/Silent Hill Townfall.txt",
@@ -10502,6 +10732,11 @@
       "sha256": "a463ddb9b0f0eefcafa435d0c26ded822ca6f2a151b849c1a3322f2f3fb7ac4d"
     },
     {
+      "path": "sinopsis/The Pedestrian.txt",
+      "size": 282,
+      "sha256": "69595dd454598ee289274c9bf92586f3faabacfbda0a4fce2c6a60bae1528bff"
+    },
+    {
       "path": "sinopsis/The Relic First Guardian.txt",
       "size": 304,
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
@@ -10610,6 +10845,11 @@
       "path": "sinopsis/Watch Dogs.txt",
       "size": 1237,
       "sha256": "eaa0c3ae20be5de2c4e1bbd8a8282a8d95d6ab211050461c4dbd92ba1c4a92c7"
+    },
+    {
+      "path": "sinopsis/Wavey The Rocket.txt",
+      "size": 430,
+      "sha256": "384dd6529cb958a4535f11e2d5feaf8e97a811f59699a217eef70d99a58f0649"
     },
     {
       "path": "sinopsis/Wicked Seed.txt",
@@ -10900,6 +11140,11 @@
       "path": "datos/Call Of Duty WWII.txt",
       "size": 200,
       "sha256": "e3ff75cc663f83194e976305e7d2c379d815de270ae66340269240d3727c74aa"
+    },
+    {
+      "path": "datos/Carrion.txt",
+      "size": 181,
+      "sha256": "8dceab1030f39358e6837ce476a80d46fccb8731a36474a6da78e7387665ad30"
     },
     {
       "path": "datos/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -11392,6 +11637,11 @@
       "sha256": "120c4ee15c13009b223027a22d3907ea7cfb204f9b9854098e776ba1b218a019"
     },
     {
+      "path": "datos/Lost Words Beyond the Page.txt",
+      "size": 180,
+      "sha256": "f976b499efe590f2a2b1fa24757bff4123ad392756af22e1426bd7d0114dc49c"
+    },
+    {
       "path": "datos/Lust ‘n Dead.txt",
       "size": 187,
       "sha256": "b6f3c823a4de4486484be13e34b5436e80e7e650d046ead391bbd88c65de7dce"
@@ -11510,6 +11760,11 @@
       "path": "datos/Palworld.txt",
       "size": 229,
       "sha256": "b3e91473e18ac006aec6b56a82da0c7a473661e7629fd4337263991c4faeae35"
+    },
+    {
+      "path": "datos/Paper Beast Folded Edition.txt",
+      "size": 224,
+      "sha256": "0bc43a5bfeefa354a074c1a95a7113fa7aa9440a60a814fb62df960b6a6890e1"
     },
     {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
@@ -11660,6 +11915,11 @@
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
       "size": 191,
       "sha256": "c9f016ab4ab4c57889406e5d8d8375b136a8c8d3382b559727ccbb53e0194582"
+    },
+    {
+      "path": "datos/Shady Part of Me.txt",
+      "size": 191,
+      "sha256": "f4014053c87ae5b46c3555e40c78f39ea2de578b0fb08fce4aa5b4a6e70bfa82"
     },
     {
       "path": "datos/Silent Hill Townfall.txt",
@@ -11852,6 +12112,11 @@
       "sha256": "46e6dbe6746c7f48c65b8d50f650a3ec27a1ed0218520af972d72dad6bc69464"
     },
     {
+      "path": "datos/The Pedestrian.txt",
+      "size": 201,
+      "sha256": "7212399bdebf56162692b8b7c7f2e3dd32d22393950002379ffc58c7f646271f"
+    },
+    {
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
@@ -11960,6 +12225,11 @@
       "path": "datos/Watch Dogs.txt",
       "size": 209,
       "sha256": "8e1078f8f731caee6074a82de7097c51b4d352bc3b47a75a0f6d521620a3a683"
+    },
+    {
+      "path": "datos/Wavey The Rocket.txt",
+      "size": 185,
+      "sha256": "8cdc10e3824ce7d77fc5511b0693d6cbc1617fa1b1ed364185adfd0638c46490"
     },
     {
       "path": "datos/Wicked Seed.txt",

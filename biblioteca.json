@@ -172,6 +172,11 @@
       "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
     },
     {
+      "path": "imagenes/Breathedge.webp",
+      "size": 45292,
+      "sha256": "c1931a85b5b52df9c0b02a3dcf1c50a72db009277b1c80dbae613a176c4a1087"
+    },
+    {
       "path": "imagenes/Cairn Deluxe Edition.webp",
       "size": 93964,
       "sha256": "a493f835c4ccd098b00baf243bd3bfbd7132ad1fc1675bcfe9db754fa68cdff7"
@@ -635,6 +640,11 @@
       "path": "imagenes/Hitman World of Assassination.webp",
       "size": 10338,
       "sha256": "97010317d7381ca8f9a4560fa802be4c849bf83466119e5097718b3df87195c9"
+    },
+    {
+      "path": "imagenes/Hoa.webp",
+      "size": 63530,
+      "sha256": "10607685b83b2407cf38f248e94f4ba400e52a181a4d8c6caac12afcc0ab241e"
     },
     {
       "path": "imagenes/Hogwarts Legacy Complete Edition.webp",
@@ -1162,6 +1172,11 @@
       "sha256": "a0d20a3a7c959e5d147afa202808f858088bcb29d8a406a18335a855365d35c2"
     },
     {
+      "path": "imagenes/The Artful Escape.webp",
+      "size": 47488,
+      "sha256": "d0b6940f0bb52b059a39316b9a55e2615f68678783286e3caffe5594dfd39864"
+    },
+    {
       "path": "imagenes/The Berlin Apartment.webp",
       "size": 34132,
       "sha256": "33b09628426bfe777048a5113ffb2a11e53fa76c728433074dc6461f222ce86d"
@@ -1230,6 +1245,11 @@
       "path": "imagenes/The Sinking City 2 Premium Edition.webp",
       "size": 63980,
       "sha256": "cf2b1d28ea4af30a3ab37394adde14384d29d3af6b9632631f8934f77b247d0b"
+    },
+    {
+      "path": "imagenes/The Vale Shadow of the Crown.webp",
+      "size": 22212,
+      "sha256": "d8487640bbd08e80232e87cc1312fcfcf6051d133c94354abdfa2cf27020d5c2"
     },
     {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
@@ -1370,6 +1390,11 @@
       "path": "imagenes/You Are Empty Absolute Edition Complete.webp",
       "size": 54262,
       "sha256": "d6b7473d96cfcc2312094b8b8aa9259971a7a8578d4ea766a5c4061aa68e6c54"
+    },
+    {
+      "path": "imagenes/Ziggurat 2 + Supporter Pack DLC.webp",
+      "size": 52550,
+      "sha256": "860c7b7dec6d01025ded8d33ed3c6bf9cd40a66dd02350c4a2671307a40751ce"
     },
     {
       "path": "capturas/007 First Light/1.webp",
@@ -2410,6 +2435,36 @@
       "path": "capturas/Bravely Default Flying Fairy HD Remaster/6.webp",
       "size": 23408,
       "sha256": "c5cd0dbe9217d63477e895d082f298b624692d46186b3b854b0a6b4d8f4bff94"
+    },
+    {
+      "path": "capturas/Breathedge/1.webp",
+      "size": 15094,
+      "sha256": "04911f2b4191c0ed44fee430a5e9da9e2bb6921c2529e5034680e67afcd3f342"
+    },
+    {
+      "path": "capturas/Breathedge/2.webp",
+      "size": 18916,
+      "sha256": "55b4c3ca40c0ca04b074a854b113bc9bd22a2e97b13eaa65073bc9d69e77cc6a"
+    },
+    {
+      "path": "capturas/Breathedge/3.webp",
+      "size": 22702,
+      "sha256": "8dad3d6c6d04c6151d4ac07256f285fbf7d14a1a65d768586388e916729fd0a7"
+    },
+    {
+      "path": "capturas/Breathedge/4.webp",
+      "size": 24312,
+      "sha256": "b4d2195412146937cf329333b8de7122ad71671b41293f6e12bbfd111fd40853"
+    },
+    {
+      "path": "capturas/Breathedge/5.webp",
+      "size": 30138,
+      "sha256": "297310447b48ffd1d810de331994a477a4d11ff68851abf00581e74db59d1c5f"
+    },
+    {
+      "path": "capturas/Breathedge/6.webp",
+      "size": 13910,
+      "sha256": "b1e9fcb0fc1e5755326e5d3d8561307c12d0b44f96da1fb2466c86ab556520da"
     },
     {
       "path": "capturas/Cairn Deluxe Edition/1.webp",
@@ -5155,6 +5210,31 @@
       "path": "capturas/Hitman World of Assassination/6.webp",
       "size": 12726,
       "sha256": "e1c0b238b7a8bac9d8f2e14991efbbc3a034b4c912855daa73a7378dd8e69b85"
+    },
+    {
+      "path": "capturas/Hoa/1.webp",
+      "size": 14356,
+      "sha256": "8fb2095e9aca583f27222382cedaecc3d9c509e617ed4c8401cf28fbaf3df835"
+    },
+    {
+      "path": "capturas/Hoa/2.webp",
+      "size": 16340,
+      "sha256": "3d512d5136958041d9beb569665dc4b035ca2f91524dd6a79ea8547159b5c804"
+    },
+    {
+      "path": "capturas/Hoa/3.webp",
+      "size": 8440,
+      "sha256": "64c28afda38e0284e5f7221e7d43192fd0cbd7eebf7af7bf3616981a9810681e"
+    },
+    {
+      "path": "capturas/Hoa/4.webp",
+      "size": 20982,
+      "sha256": "7c8ca583a18a219d2accce80aa89c7f926c1e8a8e8fc0757a281020e90a54bc9"
+    },
+    {
+      "path": "capturas/Hoa/5.webp",
+      "size": 19778,
+      "sha256": "8b19d2d2b0961b0bc4e368e1b160baa3b613bcb4a79eb4a987769a90e1447073"
     },
     {
       "path": "capturas/Hogwarts Legacy Complete Edition/1.webp",
@@ -8277,6 +8357,36 @@
       "sha256": "6da822ca7f1034ac622e87da9a8c1923ac9f3b6deaedd1c39f2941873362a596"
     },
     {
+      "path": "capturas/The Artful Escape/1.webp",
+      "size": 22112,
+      "sha256": "f033194ff783f1884d911afab410a3428330950e58b3f443562bd654fc4566f8"
+    },
+    {
+      "path": "capturas/The Artful Escape/2.webp",
+      "size": 12308,
+      "sha256": "0161f915d594f6fbf1e8cbc2257bf13a40f3a7c826b24f969e7cceb90be018c0"
+    },
+    {
+      "path": "capturas/The Artful Escape/3.webp",
+      "size": 12658,
+      "sha256": "358516135e88dedd1d28ce114807312c0971cd5755f6bfd882a5d3eedb481188"
+    },
+    {
+      "path": "capturas/The Artful Escape/4.webp",
+      "size": 17610,
+      "sha256": "e889a1fd754091c358cb4e641fab9a21b536e87a5748bac0de0511704da20b79"
+    },
+    {
+      "path": "capturas/The Artful Escape/5.webp",
+      "size": 18892,
+      "sha256": "4bd0fa900671b8a84eb0dee2a73f0117be3aa5f4e41052205323886063bc7a24"
+    },
+    {
+      "path": "capturas/The Artful Escape/6.webp",
+      "size": 44340,
+      "sha256": "27a11f08879f7d355811b673c157d1351bdc9bdffbeb3b832fe2f7941929ad04"
+    },
+    {
       "path": "capturas/The Berlin Apartment/1.webp",
       "size": 19756,
       "sha256": "7fe24810c99edd066d99d4ba233260000b89fdd248a40ac6acb5eec460227a60"
@@ -8680,6 +8790,36 @@
       "path": "capturas/The Sinking City 2 Premium Edition/6.webp",
       "size": 10478,
       "sha256": "ca6606ea6c6d53f7ba1c22e52b992a27df8949c223093e4eeb9693ab1c4b62a3"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/1.webp",
+      "size": 2304,
+      "sha256": "dd7f8638994614c680cb0eb2ff7f7c8b6e6c0e4ded382128e3e15cd12f7bc516"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/2.webp",
+      "size": 1536,
+      "sha256": "2b6e877d6a9c0c6aa39a867eb891ef562b33871b6daa0978811c20146cc61b1a"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/3.webp",
+      "size": 1980,
+      "sha256": "42aa357957ec5f35c8f244d0fd8b1d894a40a3c723a9c65715e369abde20284a"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/4.webp",
+      "size": 574,
+      "sha256": "5bd90c5bc9e7ea8ef7485a4e93fa26514f6359e508bb61754461d5e2a1a93160"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/5.webp",
+      "size": 15814,
+      "sha256": "dcf3953ddc1fc57103a635640c0c413e50269809ce6039c69ac54f6826f2f70d"
+    },
+    {
+      "path": "capturas/The Vale Shadow of the Crown/6.webp",
+      "size": 10314,
+      "sha256": "f384a682e3e44333c21492bdaa9125911daab896010bb1713fa2e05111584d56"
     },
     {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
@@ -9517,6 +9657,36 @@
       "sha256": "00f9ac61cb6411541f918a85111d73a74c6ccad9afd30f4744639e5ff880d346"
     },
     {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/1.webp",
+      "size": 17444,
+      "sha256": "d1038b6c8a2ddf28fd83b2b6077c70d6e2a8cb7a8f09d223ad7fdca34c00186a"
+    },
+    {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/2.webp",
+      "size": 24068,
+      "sha256": "ed4b3638e7bff8d2c55a1613d70588b2abd0a9151161e35888598ebde4edb457"
+    },
+    {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/3.webp",
+      "size": 10148,
+      "sha256": "dd43de5adf84f2a07d839a7f03cd2d069b0695f0a6dcafd79001ab65984782c5"
+    },
+    {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/4.webp",
+      "size": 24908,
+      "sha256": "a61ddb3e53e3e733827822fda4cd5a290b1c1760282f63fa4cb9bfeec53eb360"
+    },
+    {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/5.webp",
+      "size": 31994,
+      "sha256": "8aba0f24125fae1bf8c9c7fbba9aa8068c18aae4821fe92fbd9fac640542d9f0"
+    },
+    {
+      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/6.webp",
+      "size": 15522,
+      "sha256": "e86f4c73c397395a5deeb104bbe5feab17c4edecdcb54cc72b2fc8a0510af2ad"
+    },
+    {
       "path": "sinopsis/007 First Light.txt",
       "size": 383,
       "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
@@ -9690,6 +9860,11 @@
       "path": "sinopsis/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 328,
       "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
+    },
+    {
+      "path": "sinopsis/Breathedge.txt",
+      "size": 714,
+      "sha256": "66d7903dcf1772ac2ab0b2fed04b9dcda2d46e94b2ec31f2282a1ebe34d57e66"
     },
     {
       "path": "sinopsis/Cairn Deluxe Edition.txt",
@@ -10155,6 +10330,11 @@
       "path": "sinopsis/Hitman World of Assassination.txt",
       "size": 644,
       "sha256": "2dde71cfa16266a2348c8ef4c6e09b9a05444a49406f75bf0afb217eac5b506c"
+    },
+    {
+      "path": "sinopsis/Hoa.txt",
+      "size": 1261,
+      "sha256": "a1fe58d01676186aff814c28b5066a9a94fb583d2f76cd0fcfeae712aa3938e6"
     },
     {
       "path": "sinopsis/Hogwarts Legacy Complete Edition.txt",
@@ -10682,6 +10862,11 @@
       "sha256": "296b1c9e4ebdda7085697a492106ea66f8ba7517e6d02d0cfaf141ae173aab07"
     },
     {
+      "path": "sinopsis/The Artful Escape.txt",
+      "size": 517,
+      "sha256": "0315b275b9079427844067379f967440735e35de0015a7cb36d3969ec9f792e1"
+    },
+    {
       "path": "sinopsis/The Berlin Apartment.txt",
       "size": 623,
       "sha256": "c0a1fd12bc867fe711ba2362fbed22b8c2d862f8e3f8365615966840f399fb44"
@@ -10750,6 +10935,11 @@
       "path": "sinopsis/The Sinking City 2 Premium Edition.txt",
       "size": 347,
       "sha256": "574662752878e67f9939645d97533b7490b7426b5cd65ced39fd6842eef54b85"
+    },
+    {
+      "path": "sinopsis/The Vale Shadow of the Crown.txt",
+      "size": 719,
+      "sha256": "ef7d4d25f7fc4d69245176db6f129cfec4b00e7b5a025c5562c68c051b30ec00"
     },
     {
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
@@ -10890,6 +11080,11 @@
       "path": "sinopsis/You Are Empty Absolute Edition Complete.txt",
       "size": 442,
       "sha256": "c405cefdf46750a1c706a32ae696c01d951840298c36776de5fa7cd3f8301220"
+    },
+    {
+      "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
+      "size": 1076,
+      "sha256": "fa91088feda4d5dcb1a0a20b7dc3a5aefd200fc7e38e85457aec21e797e6a0cb"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -11070,6 +11265,11 @@
       "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 171,
       "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
+    },
+    {
+      "path": "datos/Breathedge.txt",
+      "size": 196,
+      "sha256": "dde321590f01a32f17a7fae05d165185e99e4a860d049028b9153876eeff3bec"
     },
     {
       "path": "datos/Cairn Deluxe Edition.txt",
@@ -11535,6 +11735,11 @@
       "path": "datos/Hitman World of Assassination.txt",
       "size": 186,
       "sha256": "91d470733ac5f8e496afb41f7e4e6e20612a7b1834a9046af0b02155a7513785"
+    },
+    {
+      "path": "datos/Hoa.txt",
+      "size": 188,
+      "sha256": "ec726cb8c7bfe70e2e76cde3691e01876709c070f489323e8cfa74f33b46e59d"
     },
     {
       "path": "datos/Hogwarts Legacy Complete Edition.txt",
@@ -12062,6 +12267,11 @@
       "sha256": "0db32f500225fe98f33f40430a155c18c5b116c0d4a58a6f1a2a40bd260c7b4f"
     },
     {
+      "path": "datos/The Artful Escape.txt",
+      "size": 191,
+      "sha256": "1627a98d607847ecb11a8c3762410d9e8f405d6e9b52f42e15f697ab52ff27d8"
+    },
+    {
       "path": "datos/The Berlin Apartment.txt",
       "size": 176,
       "sha256": "a83393d1bd409f696e84deb026f9dbac18fcfc11e19e6b14e96f7d5366460fd8"
@@ -12130,6 +12340,11 @@
       "path": "datos/The Sinking City 2 Premium Edition.txt",
       "size": 197,
       "sha256": "d74638b0552b799433e4c408d83053d6f9ec0b26a96b80f22f18d26cbeb09436"
+    },
+    {
+      "path": "datos/The Vale Shadow of the Crown.txt",
+      "size": 192,
+      "sha256": "dbeb022de982db095ea67ab74bf6656596d59e8707879577e423bca9bdd79b8d"
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
@@ -12270,6 +12485,11 @@
       "path": "datos/You Are Empty Absolute Edition Complete.txt",
       "size": 161,
       "sha256": "4d787ae33b7e9eaff6b7a793ffbd49265a8b04923a56a31ac299ba7d105ad950"
+    },
+    {
+      "path": "datos/Ziggurat 2 + Supporter Pack DLC.txt",
+      "size": 198,
+      "sha256": "51b7fee9ace926f08a55d1ecf2ff64f55a5a0d097559a61d1802b7403cb99bbd"
     }
   ]
 }

@@ -422,6 +422,11 @@
       "sha256": "3d1f34316706dc300b7f2bb1555b49340a71fff8ed6ae4fbb9c05485d96099ba"
     },
     {
+      "path": "imagenes/Dust & Courage Jake Bolton’s Journey.webp",
+      "size": 18226,
+      "sha256": "ec5661b8e1add0a92b5fee0e479c6051b06fd31bdf6407bbe7ebf8b167f18599"
+    },
+    {
       "path": "imagenes/Dying Light 2 Stay Human.webp",
       "size": 66860,
       "sha256": "1a79b4864dc490bb9613d0dcb7a38ce55fc2201d9f92a456ca8cded632f4aa85"
@@ -777,6 +782,11 @@
       "sha256": "e11df64f1f917b44b824d28cb79127945e625fbf4f4567d57a3e7d7fce297ea3"
     },
     {
+      "path": "imagenes/Magenta Horizon Neverending Harvest.webp",
+      "size": 50892,
+      "sha256": "4de12c45ab36623ae46a05b438f3c76af12a35fc3cd37076f1e2a2829457e327"
+    },
+    {
       "path": "imagenes/Marvels Spider-Man 2 Digital Deluxe Edition.webp",
       "size": 31106,
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
@@ -1032,9 +1042,19 @@
       "sha256": "2beced21966759262dcce88a0e6bd206f176110e316ccb4c378c5f6dd75f91e6"
     },
     {
+      "path": "imagenes/Romance Of The Three Kingdoms VIII Remake.webp",
+      "size": 72374,
+      "sha256": "393081d2badeea08d69665fa4a84a5a7d9103373d61a9d2ccb67617b7ca57326"
+    },
+    {
       "path": "imagenes/RoomGirl Paradise.webp",
       "size": 28824,
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
+    },
+    {
+      "path": "imagenes/Roots Devour.webp",
+      "size": 24690,
+      "sha256": "06f2a91b4ab1ce08b04a4ccf9a79c024faaa7fd8294bb2b1a80c5d0aa8630de9"
     },
     {
       "path": "imagenes/Save Amani.webp",
@@ -1405,6 +1425,11 @@
       "path": "imagenes/Woodo Endless Summer Edition.webp",
       "size": 25404,
       "sha256": "6c506860f2c1a7b8414241a6dffcb012eb03b391036a73cdd8b2e775146da999"
+    },
+    {
+      "path": "imagenes/World War Z Aftermath Deluxe Edition.webp",
+      "size": 48592,
+      "sha256": "0372e677b4743b832a4268e4e17a956cad2bf9746382323db5b2d310bd178d57"
     },
     {
       "path": "imagenes/Worship.webp",
@@ -3947,6 +3972,36 @@
       "sha256": "97f6190d650d7e7ef2cb4a04176f4368640f31cc046ee54d61695264e5e5477a"
     },
     {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/1.webp",
+      "size": 27468,
+      "sha256": "5af55af864980ab99281bedf05e3a734abf81886134e7423cc242a1ef01c4bf9"
+    },
+    {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/2.webp",
+      "size": 19998,
+      "sha256": "36ac0b5b9b2e869cb68c2ffc1fef3f37e75d6971ef4033b901f6438a0567f1d8"
+    },
+    {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/3.webp",
+      "size": 19706,
+      "sha256": "bd1c83d9288ce8eafb46de2b511ac2a1a4e438132be14c9dffeb51d82c3a2ae4"
+    },
+    {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/4.webp",
+      "size": 20100,
+      "sha256": "bb9efb1d47666553893d6b7699c12ab6bd501bc0910f0a4c8c869fdc890d02d6"
+    },
+    {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/5.webp",
+      "size": 25326,
+      "sha256": "863c8720646858c6a6faa79de35e67e2ad222785c7588abe56a15fe40c73033d"
+    },
+    {
+      "path": "capturas/Dust & Courage Jake Bolton’s Journey/6.webp",
+      "size": 17654,
+      "sha256": "58d233a253174a4fc2b963a5447b4eaac1f829ad9f7a13a9fddcd2272fe8f3df"
+    },
+    {
       "path": "capturas/Dying Light 2 Stay Human/1.webp",
       "size": 37928,
       "sha256": "d56c135e49a5823487923d601514c4a3bc6f0c9c756ccbed2eac15e22df08e73"
@@ -6037,6 +6092,36 @@
       "sha256": "ddaeb519732e040fb78f4afe5066f22623b73631f28592e65d4a4c08834100a1"
     },
     {
+      "path": "capturas/Magenta Horizon Neverending Harvest/1.webp",
+      "size": 26404,
+      "sha256": "0cb6e392a4ae3f10f491617197dbb702ee6a6389a3a51433538ec4f0a57b3597"
+    },
+    {
+      "path": "capturas/Magenta Horizon Neverending Harvest/2.webp",
+      "size": 31602,
+      "sha256": "733f219437feb6a55fec0c7227fb12998f9d3342d55f44d230dad7e6b4bc2b71"
+    },
+    {
+      "path": "capturas/Magenta Horizon Neverending Harvest/3.webp",
+      "size": 30942,
+      "sha256": "d5a79a7684d49103f3ec447ab877b8e6fa591b034927f17c3d8f98a6a309ba45"
+    },
+    {
+      "path": "capturas/Magenta Horizon Neverending Harvest/4.webp",
+      "size": 18286,
+      "sha256": "351e178e13038d52508a6766636dd2d2498cfb8ac093ac55945127f65c523464"
+    },
+    {
+      "path": "capturas/Magenta Horizon Neverending Harvest/5.webp",
+      "size": 22162,
+      "sha256": "e3bb41f836ce6f6c632a4791de4083960b3e3f56630ce73dc2c94b33db78a76a"
+    },
+    {
+      "path": "capturas/Magenta Horizon Neverending Harvest/6.webp",
+      "size": 25994,
+      "sha256": "04f94217fee1ee9089c557b15f1f86f76317e534c616b85800ca952d5248aaa2"
+    },
+    {
       "path": "capturas/Marvels Spider-Man 2 Digital Deluxe Edition/1.webp",
       "size": 23802,
       "sha256": "3778ccaa697422f19fe1fb1da3e7a6df22a9ca6195edc5f2f22036ebfce6f462"
@@ -7547,6 +7632,36 @@
       "sha256": "00fae03ac5d6290c9bf35117a59c9fd2915abe61c57226ae873c1e15f9c7d271"
     },
     {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/1.webp",
+      "size": 32472,
+      "sha256": "d096c2314723529a90dd739f0c003c7e99d5e48bb2602e14bb05898cfc917010"
+    },
+    {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/2.webp",
+      "size": 34592,
+      "sha256": "cdfff7decce720f7ffe18121817efe322009e74c2088f22720cfbfd62e872500"
+    },
+    {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/3.webp",
+      "size": 28100,
+      "sha256": "5ef1a929cdaab3c49e126e48ffce8c88c7f61c27cbc222aadc89c6a2786ee22c"
+    },
+    {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/4.webp",
+      "size": 40198,
+      "sha256": "49ceac2ca7d560b3a728cf5614bb40ab73e0b92867eaea0707adfd82dbf722ba"
+    },
+    {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/5.webp",
+      "size": 21638,
+      "sha256": "5d06e2e0630e6872e8aac20a97b1c9910fcccfb631271f333c519eaa3a8a80f0"
+    },
+    {
+      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/6.webp",
+      "size": 16796,
+      "sha256": "8703bbab2c56b04b46d19d742496d31ef94fbc4301cb1127005b75d434c0f970"
+    },
+    {
       "path": "capturas/RoomGirl Paradise/1.webp",
       "size": 27256,
       "sha256": "f7c8d1d3e6c6aed118c98f84ee00fcbf5ad35373547f93db10ed845f1089537b"
@@ -7575,6 +7690,36 @@
       "path": "capturas/RoomGirl Paradise/6.webp",
       "size": 15784,
       "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
+    },
+    {
+      "path": "capturas/Roots Devour/1.webp",
+      "size": 14980,
+      "sha256": "27cd26c14fda07b8e9c9f0190036189f02661adb7735c3233ca4aafeb0324615"
+    },
+    {
+      "path": "capturas/Roots Devour/2.webp",
+      "size": 9820,
+      "sha256": "6837cdacc98bf7f9099a111b6af72f42056686269156b39806a92eca0ab36109"
+    },
+    {
+      "path": "capturas/Roots Devour/3.webp",
+      "size": 13554,
+      "sha256": "f0f165f466e37dded58d2433630280198c70b94be868e4aba1a175a50c9e3b98"
+    },
+    {
+      "path": "capturas/Roots Devour/4.webp",
+      "size": 15164,
+      "sha256": "1359916d2e8781cb79d53ac6eb11ca8047c737857c759feba60cc3a3c360beec"
+    },
+    {
+      "path": "capturas/Roots Devour/5.webp",
+      "size": 12278,
+      "sha256": "26bf9077d0383cff5ca0132be13b5e08fed44f35dc62cad24e0a2351d43ff6bf"
+    },
+    {
+      "path": "capturas/Roots Devour/6.webp",
+      "size": 15238,
+      "sha256": "3cae4d9b86f5fc3e750fd6c1d8e5dbf09e405971943ae217d936aec86c26fc31"
     },
     {
       "path": "capturas/Save Amani/1.webp",
@@ -9777,6 +9922,36 @@
       "sha256": "e59b25035ab4c2a803d867e9178946816d96c51afa1a27815842878096292311"
     },
     {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/1.webp",
+      "size": 16022,
+      "sha256": "b50fc4f1a65130fabc424ad31822770866cd3cf434251b97c634f929d8de34db"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/2.webp",
+      "size": 25706,
+      "sha256": "c6bbc964f1d99de22731054dd3cdfc357d9170963572f761b6ea131596e89769"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/3.webp",
+      "size": 23210,
+      "sha256": "7b0b6d25e7133512128d740ec24d76520fc76b15456f85521eb200de37946bc2"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/4.webp",
+      "size": 30822,
+      "sha256": "ffce04887dcb2f60e8b4c576b2dd517f86314d53920529fd61d0f1234eb7d0f7"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/5.webp",
+      "size": 18778,
+      "sha256": "0b089f10a7c1ffde0cd67614152654d84ec265a5756efccb43c934d24046e6d4"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition/6.webp",
+      "size": 19854,
+      "sha256": "c290a690c9ed3ec71ebb3654c964f057395af7784ec6b8c405bdc4107c3e6047"
+    },
+    {
       "path": "capturas/Worship/1.webp",
       "size": 26576,
       "sha256": "ca278cfccd1d81f67b2197c64556abbb9e0209f3b7b1e4edb8716ff3bdd6181a"
@@ -10322,6 +10497,11 @@
       "sha256": "48912c9de5e241260ce0d42528e2b3b91004e9a48b73cebe52d191a8803ab93f"
     },
     {
+      "path": "sinopsis/Dust & Courage Jake Bolton’s Journey.txt",
+      "size": 976,
+      "sha256": "341f5479d8b753ef45c522d7413002d4b6d72695237d92ebfcf4580a17204fef"
+    },
+    {
       "path": "sinopsis/Dying Light 2 Stay Human.txt",
       "size": 1029,
       "sha256": "48933653b5c604773a9dbc4434755835f41ac9c268d3c2faa013d96d72c1b174"
@@ -10677,6 +10857,11 @@
       "sha256": "7fc349c80aebfda4d3df5a52cfcd6e0c51d86ab624f66c098e4f6f6ce31faaf5"
     },
     {
+      "path": "sinopsis/Magenta Horizon Neverending Harvest.txt",
+      "size": 398,
+      "sha256": "35d4f988b3303e6d3d757209b715c450f689ca2eb0e9a4199e6ef14f6adf2c27"
+    },
+    {
       "path": "sinopsis/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 964,
       "sha256": "4849e60e5f3b20e99241203e17ce4e77920830b1142cc3f1196d6c4cf350f465"
@@ -10932,9 +11117,19 @@
       "sha256": "f5c420c64878de49e9f3bf8b704c92bbdd892c9472b6940282b7e49cb9439d13"
     },
     {
+      "path": "sinopsis/Romance Of The Three Kingdoms VIII Remake.txt",
+      "size": 585,
+      "sha256": "1f82df9e118e05280a7797f5a3aba57477a9b5ad351c140ab6593d3a27742936"
+    },
+    {
       "path": "sinopsis/RoomGirl Paradise.txt",
       "size": 465,
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
+    },
+    {
+      "path": "sinopsis/Roots Devour.txt",
+      "size": 1248,
+      "sha256": "b33c37bdce9627a9e08a3c110ddd9eb7770e42c2ca846be7088488fbca637d48"
     },
     {
       "path": "sinopsis/Save Amani.txt",
@@ -11305,6 +11500,11 @@
       "path": "sinopsis/Woodo Endless Summer Edition.txt",
       "size": 886,
       "sha256": "7140d33e4106acb4b81d52cf324e4745a673bd4e97f65521a1cf24cf2dcec3af"
+    },
+    {
+      "path": "sinopsis/World War Z Aftermath Deluxe Edition.txt",
+      "size": 1861,
+      "sha256": "03978db4cf078e3d5d8ff4579a84dc5bdc5b6f1bcf6ab7c1c38c0b3fc2fdf10d"
     },
     {
       "path": "sinopsis/Worship.txt",
@@ -11757,6 +11957,11 @@
       "sha256": "732da07a87ff041ed4ffffe35db685172acb36d0f286a8e52308acb8ea5e3b7e"
     },
     {
+      "path": "datos/Dust & Courage Jake Bolton’s Journey.txt",
+      "size": 202,
+      "sha256": "9ad932f7d331aebf152b3702ebc909404ddda46d1a4f7297a54443e9dee9d850"
+    },
+    {
       "path": "datos/Dying Light 2 Stay Human.txt",
       "size": 213,
       "sha256": "c4ad90645805f2ef4e700fa27a2bffd7044e58ce572c7abdc76ee122a3a8a709"
@@ -12112,6 +12317,11 @@
       "sha256": "1340b660d3be2060daaf3f11930d7bd288cf5a78f3910db95f746a8f4bb6ade2"
     },
     {
+      "path": "datos/Magenta Horizon Neverending Harvest.txt",
+      "size": 204,
+      "sha256": "e91e38871795679285238d1de3fc5aa959341fed4780294a2a31501905f551da"
+    },
+    {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 227,
       "sha256": "df14abd5dcdef949697785998cd5658ba74ef40f075f69c93648906358516ee6"
@@ -12367,9 +12577,19 @@
       "sha256": "c0c931586934d43a5523b973850d4a9d9d911a4ce6574a3331e2e66d9a576690"
     },
     {
+      "path": "datos/Romance Of The Three Kingdoms VIII Remake.txt",
+      "size": 176,
+      "sha256": "9a15f72cb81e686caea0a184ae7bd1d522d988b69813dde3d4917c667328e6e6"
+    },
+    {
       "path": "datos/RoomGirl Paradise.txt",
       "size": 182,
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
+    },
+    {
+      "path": "datos/Roots Devour.txt",
+      "size": 207,
+      "sha256": "17cfa1214390ea7bece5b9ad82dcd1ccc1b5282248cb9f3f14a9610aed1a909a"
     },
     {
       "path": "datos/Save Amani.txt",
@@ -12740,6 +12960,11 @@
       "path": "datos/Woodo Endless Summer Edition.txt",
       "size": 186,
       "sha256": "e3866568a9506af80f51882e8781e1a8f0ba8771ec25d55522571d11e540f3a0"
+    },
+    {
+      "path": "datos/World War Z Aftermath Deluxe Edition.txt",
+      "size": 211,
+      "sha256": "7e3858e972205d48889c8da6558c3f64b4e7f16eecfe1d25204aefc7c3eabe1c"
     },
     {
       "path": "datos/Worship.txt",

@@ -1,9 +1,9 @@
 Año: 2012
 Género: Indie / Simuladores
-Tamaño: 16 GB
+Tamaño: 17 GB
 Modo: Singleplayer / Multiplayer
 Idioma: MULTI
-Fecha de incorporación: 01/11/2026
-Puntuación: 9,7
+Fecha de incorporación: 11/11/2026
+Puntuación: 8,0
 Metacritic: 79
 Repacker: FitGirl

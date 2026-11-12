@@ -1002,6 +1002,11 @@
       "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
     },
     {
+      "path": "imagenes/Rent A Car Simulator 24.webp",
+      "size": 17500,
+      "sha256": "e29fb7e7c6c50fd3a4c149e0c748bd2887b13a39cd1f330792c1b3f63726f696"
+    },
+    {
       "path": "imagenes/Replaced Supporter Edition.webp",
       "size": 55458,
       "sha256": "b76aa1aa6f249435ed0afc5b8a48667af0710b5849062d4824e9d3496bef5e26"
@@ -1070,6 +1075,11 @@
       "path": "imagenes/RoomGirl Paradise.webp",
       "size": 28824,
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
+    },
+    {
+      "path": "imagenes/Roots Devour.webp",
+      "size": 24690,
+      "sha256": "06f2a91b4ab1ce08b04a4ccf9a79c024faaa7fd8294bb2b1a80c5d0aa8630de9"
     },
     {
       "path": "imagenes/S.E.M.I. Side Effects May Include….webp",
@@ -1235,6 +1245,11 @@
       "path": "imagenes/Terminator Resistance.webp",
       "size": 57564,
       "sha256": "3d92fa0decb6f6d3b677fa5cf393881c1d4763ae0813bed1ad75c706a966730f"
+    },
+    {
+      "path": "imagenes/Terraria.webp",
+      "size": 23800,
+      "sha256": "01b3770a7c9560b1e53eaed4ce55465dd0f5268f920bb9433db4f26170eac169"
     },
     {
       "path": "imagenes/The Alters Deluxe Edition.webp",
@@ -7422,6 +7437,36 @@
       "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
     },
     {
+      "path": "capturas/Rent A Car Simulator 24/1.webp",
+      "size": 27466,
+      "sha256": "2b82dd940ad2103b91162539fe2f5b19aaa6aaa206071c65430c073d1d357c2f"
+    },
+    {
+      "path": "capturas/Rent A Car Simulator 24/2.webp",
+      "size": 17508,
+      "sha256": "46d3b75f9a17238629fd8871eac0802e5570e9294063a26a83b277dd68987e54"
+    },
+    {
+      "path": "capturas/Rent A Car Simulator 24/3.webp",
+      "size": 25258,
+      "sha256": "c8338525876e6cb3847aeb5a5c653bb09e8a072459bcbfdd81b1de40ac4ed046"
+    },
+    {
+      "path": "capturas/Rent A Car Simulator 24/4.webp",
+      "size": 27576,
+      "sha256": "58929c4106a02e0a24c2db07f5df78dd1ad8420df9712aebb9f45fd6539f9000"
+    },
+    {
+      "path": "capturas/Rent A Car Simulator 24/5.webp",
+      "size": 26176,
+      "sha256": "f8506ee04f0adeef58b01ca9db65841f181991e9de10d46238dc3f86c94ba74f"
+    },
+    {
+      "path": "capturas/Rent A Car Simulator 24/6.webp",
+      "size": 15140,
+      "sha256": "acc26d425cb329e9dccfec45401ff021d14e076da311545f7893684b6540fdda"
+    },
+    {
       "path": "capturas/Replaced Supporter Edition/1.webp",
       "size": 8942,
       "sha256": "a2c36d31344e530db0b5452e46a2a6c7d0c4d36a8373db4df5235ae7e74c75a0"
@@ -7840,6 +7885,36 @@
       "path": "capturas/RoomGirl Paradise/6.webp",
       "size": 15784,
       "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
+    },
+    {
+      "path": "capturas/Roots Devour/1.webp",
+      "size": 14980,
+      "sha256": "27cd26c14fda07b8e9c9f0190036189f02661adb7735c3233ca4aafeb0324615"
+    },
+    {
+      "path": "capturas/Roots Devour/2.webp",
+      "size": 9820,
+      "sha256": "6837cdacc98bf7f9099a111b6af72f42056686269156b39806a92eca0ab36109"
+    },
+    {
+      "path": "capturas/Roots Devour/3.webp",
+      "size": 13554,
+      "sha256": "f0f165f466e37dded58d2433630280198c70b94be868e4aba1a175a50c9e3b98"
+    },
+    {
+      "path": "capturas/Roots Devour/4.webp",
+      "size": 15164,
+      "sha256": "1359916d2e8781cb79d53ac6eb11ca8047c737857c759feba60cc3a3c360beec"
+    },
+    {
+      "path": "capturas/Roots Devour/5.webp",
+      "size": 12278,
+      "sha256": "26bf9077d0383cff5ca0132be13b5e08fed44f35dc62cad24e0a2351d43ff6bf"
+    },
+    {
+      "path": "capturas/Roots Devour/6.webp",
+      "size": 15238,
+      "sha256": "3cae4d9b86f5fc3e750fd6c1d8e5dbf09e405971943ae217d936aec86c26fc31"
     },
     {
       "path": "capturas/S.E.M.I. Side Effects May Include…/1.webp",
@@ -8830,6 +8905,36 @@
       "path": "capturas/Terminator Resistance/6.webp",
       "size": 16332,
       "sha256": "8d72b1596c2780b938df4d8233285744fcb90ba50fed258519240ac43e3c27ee"
+    },
+    {
+      "path": "capturas/Terraria/1.webp",
+      "size": 24918,
+      "sha256": "ca520869af54d2c6f6062821a8429b77a7e3574784eae22fd8b1f308b57ed1ee"
+    },
+    {
+      "path": "capturas/Terraria/2.webp",
+      "size": 20570,
+      "sha256": "82e5e475f2a3f76a73554baaf7a74349e59cb117a26c29687e15b416d2e85124"
+    },
+    {
+      "path": "capturas/Terraria/3.webp",
+      "size": 19458,
+      "sha256": "b55c842466340ce3f5dbc69459d1727ebe42ca92fc5fb5e35d04981cf6d3bb2f"
+    },
+    {
+      "path": "capturas/Terraria/4.webp",
+      "size": 21692,
+      "sha256": "58a65ac02fd4b4a909170264401ee1961911f494c5f88b4badae67da2339b469"
+    },
+    {
+      "path": "capturas/Terraria/5.webp",
+      "size": 16428,
+      "sha256": "7a8a491c368ee664a3d754a1fcdbaf6e13bfeddec06c766e1dd4e23e74033048"
+    },
+    {
+      "path": "capturas/Terraria/6.webp",
+      "size": 23378,
+      "sha256": "7e46839d349515998750252172f15b1c02e072824645d0ae7fe09eb8185e8a57"
     },
     {
       "path": "capturas/The Alters Deluxe Edition/1.webp",
@@ -11287,6 +11392,11 @@
       "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
     },
     {
+      "path": "sinopsis/Rent A Car Simulator 24.txt",
+      "size": 812,
+      "sha256": "acb57bd95a69642a8eb0861f15e25d6cc6a92504db4d70efb75e7de49c013a5e"
+    },
+    {
       "path": "sinopsis/Replaced Supporter Edition.txt",
       "size": 476,
       "sha256": "db58f201b0cb279afe05c87068b1f9e4d5cd8448446dc3cc6d134eda62b27ad6"
@@ -11355,6 +11465,11 @@
       "path": "sinopsis/RoomGirl Paradise.txt",
       "size": 465,
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
+    },
+    {
+      "path": "sinopsis/Roots Devour.txt",
+      "size": 1248,
+      "sha256": "b33c37bdce9627a9e08a3c110ddd9eb7770e42c2ca846be7088488fbca637d48"
     },
     {
       "path": "sinopsis/S.E.M.I. Side Effects May Include….txt",
@@ -11520,6 +11635,11 @@
       "path": "sinopsis/Terminator Resistance.txt",
       "size": 381,
       "sha256": "44f3c8b0954e15e5964fc0736126f3255114cccc3fcb8651628329404297fd74"
+    },
+    {
+      "path": "sinopsis/Terraria.txt",
+      "size": 700,
+      "sha256": "9f17a2e1f9e864b5cc6ded71559b1a041f2a53edbb5c7d983224e47a9a136509"
     },
     {
       "path": "sinopsis/The Alters Deluxe Edition.txt",
@@ -12777,6 +12897,11 @@
       "sha256": "95d0afe06ffc6f95dd00dc67f14210600cc8b4e4adf2f50d84c3a6589a8f4f14"
     },
     {
+      "path": "datos/Rent A Car Simulator 24.txt",
+      "size": 237,
+      "sha256": "4b5e8e43b9eb1fcedf6c089a3f14a5820d77c44ff6057023a23d6b60c8de750d"
+    },
+    {
       "path": "datos/Replaced Supporter Edition.txt",
       "size": 216,
       "sha256": "bceaccb90929a0d100ff36434e78ddbbe2ed7d218a73ea66656bd42adeeeba74"
@@ -12845,6 +12970,11 @@
       "path": "datos/RoomGirl Paradise.txt",
       "size": 182,
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
+    },
+    {
+      "path": "datos/Roots Devour.txt",
+      "size": 207,
+      "sha256": "17cfa1214390ea7bece5b9ad82dcd1ccc1b5282248cb9f3f14a9610aed1a909a"
     },
     {
       "path": "datos/S.E.M.I. Side Effects May Include….txt",
@@ -13010,6 +13140,11 @@
       "path": "datos/Terminator Resistance.txt",
       "size": 246,
       "sha256": "bcfce3a430c2742923320784c5178a8f938ecd6368f3bc741e14f3772d1c253b"
+    },
+    {
+      "path": "datos/Terraria.txt",
+      "size": 229,
+      "sha256": "0abf0381b7b992ee3b4ff1fe33561179ea1c9cbe025df0846d5cb27d22b7d381"
     },
     {
       "path": "datos/The Alters Deluxe Edition.txt",

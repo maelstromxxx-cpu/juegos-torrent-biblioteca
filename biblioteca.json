@@ -47,6 +47,11 @@
       "sha256": "9e275b5cb811d0539c7fde787b6f535ed36eaf4d66a4752f60a9bda3a6964f0f"
     },
     {
+      "path": "imagenes/Anno Mutationem Collectors Edition.webp",
+      "size": 55310,
+      "sha256": "ccfc6a53f9a090e7443dad7bcb14d6aef2b74922e463493822db2a9ef7d90fae"
+    },
+    {
       "path": "imagenes/Anomalith Digital Deluxe Edition.webp",
       "size": 37758,
       "sha256": "b45d6e752ff4a706f9212184124ce2454e955bfff5f6acbbd7b632bcb29fe166"
@@ -657,6 +662,11 @@
       "sha256": "e6a721f03c37ca6d02ccd7e0674117c1a75d3ba5a12d7e982ef80d74c97fbf55"
     },
     {
+      "path": "imagenes/Hellmart.webp",
+      "size": 74270,
+      "sha256": "f503cf399738bf00d64470f30b9be8c253e5fd0e633a65a0e33ddbc241361507"
+    },
+    {
       "path": "imagenes/Hitman World of Assassination.webp",
       "size": 10338,
       "sha256": "97010317d7381ca8f9a4560fa802be4c849bf83466119e5097718b3df87195c9"
@@ -1115,6 +1125,11 @@
       "path": "imagenes/Songs of Conquest Complete Bundle.webp",
       "size": 96360,
       "sha256": "d8edec1038dd3150a6051bbd8091bf176f6ca988807c18dd77e8fc4e6c6c45a8"
+    },
+    {
+      "path": "imagenes/Sonic Frontiers Digital Deluxe Edition.webp",
+      "size": 46012,
+      "sha256": "7480ee59930b7016a494552330024274793f16ce4bc48e30fd29549c6e630795"
     },
     {
       "path": "imagenes/Sort The Capybaras.webp",
@@ -1720,6 +1735,36 @@
       "path": "capturas/Angry Birds Ultimate Collection/6.webp",
       "size": 12522,
       "sha256": "57f72da6b63eb3290553a32b6d808ac391a3c904614b15d5da22e798cf8210e0"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/1.webp",
+      "size": 16778,
+      "sha256": "3e35b085af3e52601976d464908755bd3580afed1eda772ee0f0f24de803fc9e"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/2.webp",
+      "size": 25046,
+      "sha256": "cb2ee6721a92672b244f9e7f1645f728a452f99d68919fd83f1942e12cbcc505"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/3.webp",
+      "size": 24506,
+      "sha256": "3f10205e3ae644600277eb6c3cd2a55b9153734db2a8b57903f6d34333dd8f83"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/4.webp",
+      "size": 13652,
+      "sha256": "d60c1ab35df2a83959d0fa58cf21d2ddac22a634a1c1abe587c47d362305218c"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/5.webp",
+      "size": 19890,
+      "sha256": "a67f11dcbd4cec923d398d64ac34d27f142c6b7cc37ea45fd67bfe3ade6ed60d"
+    },
+    {
+      "path": "capturas/Anno Mutationem Collectors Edition/6.webp",
+      "size": 17300,
+      "sha256": "b9e06836466a8a75cad599e7877d6f06d7471bdabb21ca8cdf7f634b9becbf50"
     },
     {
       "path": "capturas/Anomalith Digital Deluxe Edition/1.webp",
@@ -5352,6 +5397,36 @@
       "sha256": "6b85980106cfdb476a3095aef7465d33b2d623ce59a43fec2b050d34299c63b0"
     },
     {
+      "path": "capturas/Hellmart/1.webp",
+      "size": 19824,
+      "sha256": "882070235ffbfe53621a93fc9d9be7af36e9d4a7c48699706c23aa5124f3e75f"
+    },
+    {
+      "path": "capturas/Hellmart/2.webp",
+      "size": 16418,
+      "sha256": "e7ed5e508f19044326f529fbbcc215e4cff97cba341b9e7a20d3efb8fd955978"
+    },
+    {
+      "path": "capturas/Hellmart/3.webp",
+      "size": 9030,
+      "sha256": "768dc8a30cf22547d04d3cc03cb5336229cf3666604ba47e15f3c5bf29046130"
+    },
+    {
+      "path": "capturas/Hellmart/4.webp",
+      "size": 19484,
+      "sha256": "baa7e9715202b9339498705ea0d17bd029be053adef63254018221764f20be22"
+    },
+    {
+      "path": "capturas/Hellmart/5.webp",
+      "size": 11418,
+      "sha256": "ea0c6357b2c7509c2461723e1ef093f3e7523e237edc48f5cb657d8abb4d7f05"
+    },
+    {
+      "path": "capturas/Hellmart/6.webp",
+      "size": 17358,
+      "sha256": "a0b973fff4133a6987f9344e8f2b3ad1aa9151c350e04ae9e30a6e01636c5fd5"
+    },
+    {
       "path": "capturas/Hitman World of Assassination/1.webp",
       "size": 7732,
       "sha256": "689c50223e0b1eb00fd488780a2bd9a516696157bd2361ec2e3c0caa61487ce5"
@@ -8082,6 +8157,36 @@
       "sha256": "cd6258701aa52d994728a37c047c83f4c90c3ef5f8791c0daf3e4c341262b323"
     },
     {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/1.webp",
+      "size": 29002,
+      "sha256": "511082eca74373aa2026472be521a2a4200aca768b6ea36a0f18da5f73b82810"
+    },
+    {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/2.webp",
+      "size": 23778,
+      "sha256": "2c3021d7fb8722cc5a32ac9b6632da6583e5378285cbf346925cfe086477be06"
+    },
+    {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/3.webp",
+      "size": 30748,
+      "sha256": "fdf951062d9bed03a3f4cf3f89fb3e1fb0437183eac15085403b8b26f4b7940b"
+    },
+    {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/4.webp",
+      "size": 27798,
+      "sha256": "5ecd26ab2544a54515d7c685201064ed4ee27875f06d48dde46d72f6662b8c95"
+    },
+    {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/5.webp",
+      "size": 26516,
+      "sha256": "fa9af61e44a8745b96c3998a2d95f649c85a28bd750f30a5c9bad9d5009d9b22"
+    },
+    {
+      "path": "capturas/Sonic Frontiers Digital Deluxe Edition/6.webp",
+      "size": 17438,
+      "sha256": "ac7fab77e21bbd0157b21737938252b0015ad6d2747db6a08d08a3da08991df6"
+    },
+    {
       "path": "capturas/Sort The Capybaras/1.webp",
       "size": 38560,
       "sha256": "757e0e0f341bb93a8ecc209d6f989032658f829488eae6aaf2bbb634511e168b"
@@ -10117,6 +10222,11 @@
       "sha256": "0349560042fb515c0f17477245c6e5d6dc159619b3948d3a77fbf19c4cd73277"
     },
     {
+      "path": "sinopsis/Anno Mutationem Collectors Edition.txt",
+      "size": 466,
+      "sha256": "2547cbcfa12fc48156bdfa48e4213a0c3f8dff4021e7b0e96249e7f4cc307143"
+    },
+    {
       "path": "sinopsis/Anomalith Digital Deluxe Edition.txt",
       "size": 704,
       "sha256": "c00ca187c38bad77b60b7be57a2f50ee9c690fe5685bed0804e6d26f7bba0400"
@@ -10732,6 +10842,11 @@
       "sha256": "dd5ca8a70255ab1a190703675f4ee189ecb171ab95524742bf5f0be0e83093d3"
     },
     {
+      "path": "sinopsis/Hellmart.txt",
+      "size": 943,
+      "sha256": "8b81aaf441260b276096688186a92215614b3008162330ddefd8b067d4dc7262"
+    },
+    {
       "path": "sinopsis/Hitman World of Assassination.txt",
       "size": 644,
       "sha256": "2dde71cfa16266a2348c8ef4c6e09b9a05444a49406f75bf0afb217eac5b506c"
@@ -11192,6 +11307,11 @@
       "sha256": "37ad0c2077ac465c26bb7e44ec92d6ba669bfb5c55f2af7f6e895f852493f814"
     },
     {
+      "path": "sinopsis/Sonic Frontiers Digital Deluxe Edition.txt",
+      "size": 395,
+      "sha256": "b1628fdaa707369420674adc86d24c5c8db55972eea3ba7cd4b5fa1c098c8c14"
+    },
+    {
       "path": "sinopsis/Sort The Capybaras.txt",
       "size": 471,
       "sha256": "05c246d7218d0da238b896f8c33a1841151ddbcfba0a672543ec6eefb0a738e0"
@@ -11570,6 +11690,11 @@
       "path": "datos/Angry Birds Ultimate Collection.txt",
       "size": 187,
       "sha256": "5ffee417d59653d7e5d1ee35f6fea2fa1ff0304115dfc8eac6fb4410089b876d"
+    },
+    {
+      "path": "datos/Anno Mutationem Collectors Edition.txt",
+      "size": 211,
+      "sha256": "930124e624c8fee3a92ac4528993b76df15bfa0a599d164c0b10cde478d4c775"
     },
     {
       "path": "datos/Anomalith Digital Deluxe Edition.txt",
@@ -12192,6 +12317,11 @@
       "sha256": "f911b325b9fc9ea43bb2791868e33ba6e0fe7abbefcc982ec0ef4f63f00420f9"
     },
     {
+      "path": "datos/Hellmart.txt",
+      "size": 184,
+      "sha256": "4e31422571afe5db98a36d736e542f9208b3bb7c0d905752e82d5b669d9cbf1e"
+    },
+    {
       "path": "datos/Hitman World of Assassination.txt",
       "size": 186,
       "sha256": "91d470733ac5f8e496afb41f7e4e6e20612a7b1834a9046af0b02155a7513785"
@@ -12650,6 +12780,11 @@
       "path": "datos/Songs of Conquest Complete Bundle.txt",
       "size": 195,
       "sha256": "6f08e2281e87a1a605734c6cdff411fd58ffd6b2ecf5a15a86e2935ffb122008"
+    },
+    {
+      "path": "datos/Sonic Frontiers Digital Deluxe Edition.txt",
+      "size": 171,
+      "sha256": "706686d0f2a13b477d8c67fcbd7cc85051da05d86324cc7b34e529adf3ef1a01"
     },
     {
       "path": "datos/Sort The Capybaras.txt",

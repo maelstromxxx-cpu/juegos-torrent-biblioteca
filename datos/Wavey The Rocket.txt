@@ -1,9 +1,0 @@
-Año: 2020
-Género: Acción / Indie / Arcade / Side
-Tamaño: 1 GB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 11/11/2026
-Puntuación: 6,2
-Metacritic: 62
-Repacker: FitGirl

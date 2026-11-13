@@ -1,9 +1,0 @@
-Año: 2026
-Género: Aventura / Indie / Simuladores
-Tamaño: 2.8 GB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 12/11/2026
-Puntuación: 7,8
-Metacritic: 
-Repacker: FitGirl

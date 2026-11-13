@@ -1,9 +1,0 @@
-Año: 2025
-Género: Acción / Aventura
-Tamaño: 53 GB
-Modo: Multiplayer
-Idioma: MULTI
-Fecha de incorporación: 09/11/2026
-Puntuación: 8,5
-Metacritic: 
-Repacker: FitGirl

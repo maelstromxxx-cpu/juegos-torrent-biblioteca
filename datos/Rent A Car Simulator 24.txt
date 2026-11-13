@@ -1,9 +1,0 @@
-Año: 2026
-Género: Casual / Carreras / Simuladores / Lifestyle / Gestión / First-person
-Tamaño: 2.7 GB
-Modo: Singleplayer / Multiplayer
-Idioma: MULTI
-Fecha de incorporación: 12/11/2026
-Puntuación: 6,5
-Metacritic: 
-Repacker: FitGirl

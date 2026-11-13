@@ -102,6 +102,11 @@
       "sha256": "0d0b17fcc530c4a4e120b5ae9f835a8f3c0082041d8b88c2126f0bdf8ef00bbb"
     },
     {
+      "path": "imagenes/ATOM RPG Post-apocalyptic Indie Game.webp",
+      "size": 39212,
+      "sha256": "4bd619c31e9aa131c03239c59afe10ab513da553b335c17d850750dc019a40c8"
+    },
+    {
       "path": "imagenes/Atomic Heart Ultimate Edition.webp",
       "size": 76358,
       "sha256": "7a50d4d32944753da127023214fc82262753ba93da3f7ba45599c03562d42d62"
@@ -155,11 +160,6 @@
       "path": "imagenes/Beast of Reincarnation Deluxe Edition.webp",
       "size": 395938,
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
-    },
-    {
-      "path": "imagenes/Beyond These Stars.webp",
-      "size": 56384,
-      "sha256": "c3660f87fff4d164352a243c63950544b31b3e392aa941ce6ab3f9d0a4723d9d"
     },
     {
       "path": "imagenes/Black Myth Wukong.webp",
@@ -265,11 +265,6 @@
       "path": "imagenes/Call Of Duty WWII.webp",
       "size": 43320,
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
-    },
-    {
-      "path": "imagenes/Carrion.webp",
-      "size": 51820,
-      "sha256": "6bf40bb55290570327db4a401450b029e0e5f4e6990750e236254a6677e26e51"
     },
     {
       "path": "imagenes/Castlevania Belmonts Curse Midnight Edition.webp",
@@ -417,6 +412,11 @@
       "sha256": "e0695451d5f1e7390fc6f9eed73f525cf65feffd5bce883c33af1b94d40cabc9"
     },
     {
+      "path": "imagenes/DreamWorks Shrek 2 Remastered.webp",
+      "size": 29436,
+      "sha256": "762cd54b315bca186883da46e669e9d4a5172d30c3fc96443f93791f2f04f38e"
+    },
+    {
       "path": "imagenes/Driveclub.webp",
       "size": 20784,
       "sha256": "cdd30254cc456659ef8fe16eae248220f8363c1d0abadc78c6558ee9a77cf568"
@@ -425,11 +425,6 @@
       "path": "imagenes/Dune Awakening Ultimate Edition.webp",
       "size": 21876,
       "sha256": "3d1f34316706dc300b7f2bb1555b49340a71fff8ed6ae4fbb9c05485d96099ba"
-    },
-    {
-      "path": "imagenes/Dust & Courage Jake Bolton’s Journey.webp",
-      "size": 18226,
-      "sha256": "ec5661b8e1add0a92b5fee0e479c6051b06fd31bdf6407bbe7ebf8b167f18599"
     },
     {
       "path": "imagenes/Dying Light 2 Stay Human.webp",
@@ -450,11 +445,6 @@
       "path": "imagenes/EA SPORTS FIFA 23.webp",
       "size": 69110,
       "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
-    },
-    {
-      "path": "imagenes/Earth Must Die.webp",
-      "size": 44484,
-      "sha256": "8691713248d81418eaf5f4d33a9327f688fdbc0a27bf48e17499b05cb87ee785"
     },
     {
       "path": "imagenes/Ecstatica Remastered.webp",
@@ -520,6 +510,11 @@
       "path": "imagenes/Farming Simulator 25 Year 1 Bundle.webp",
       "size": 78776,
       "sha256": "f1e2ecaedbe99f6302f5f4f1b6eaf2a549aac0a004343a8fa09b2be48f7c185e"
+    },
+    {
+      "path": "imagenes/FIFA EA SPORTS FC 27.webp",
+      "size": 35976,
+      "sha256": "848342663f871dd77436f4b3bb08acdf2bfb1efacc29113263079fff5c487998"
     },
     {
       "path": "imagenes/Forgotton Anne.webp",
@@ -652,11 +647,6 @@
       "sha256": "9f10f2f4358725318aac46c0160b16ca949a4f7a3b7ef1d94e4d032e6128b8df"
     },
     {
-      "path": "imagenes/Harold Halibut.webp",
-      "size": 33604,
-      "sha256": "e8936f5f2903234b81dcb009797d6d17136feeef3f2d0510888ae161dfb24a30"
-    },
-    {
       "path": "imagenes/Harvest Moon Echoes of Teradea.webp",
       "size": 48910,
       "sha256": "02c8c0c36d83ab03cd9a7cc5e53b561cfcc0ffc878fed589765f3dafc159eb06"
@@ -665,11 +655,6 @@
       "path": "imagenes/Heart of the Machine.webp",
       "size": 29936,
       "sha256": "e6a721f03c37ca6d02ccd7e0674117c1a75d3ba5a12d7e982ef80d74c97fbf55"
-    },
-    {
-      "path": "imagenes/Hellmart.webp",
-      "size": 74270,
-      "sha256": "f503cf399738bf00d64470f30b9be8c253e5fd0e633a65a0e33ddbc241361507"
     },
     {
       "path": "imagenes/Hitman World of Assassination.webp",
@@ -712,19 +697,9 @@
       "sha256": "760e6b63f7067aa8e7a35ee231870d6bd384d56d3f8d8193590f3c852e71e0fd"
     },
     {
-      "path": "imagenes/Hypnos.webp",
-      "size": 19970,
-      "sha256": "726c94f5f70bc7f80d073aa81e04ad97797f27eff6dd16db15449a8848f2c21f"
-    },
-    {
       "path": "imagenes/I Am Jesus Christ.webp",
       "size": 20594,
       "sha256": "ca8e0e1fffcfc5cf6e5a2ba1eeb89bc2bd0e03023589f1c2006797abb82969f7"
-    },
-    {
-      "path": "imagenes/I Am Your Beast Complete Edition.webp",
-      "size": 73874,
-      "sha256": "44cac273f28e904e3472e9bd24ae4ead6388e1e5da54cda6fc735dbce3a123d1"
     },
     {
       "path": "imagenes/Indiana Jones And The Great Circle.webp",
@@ -897,19 +872,9 @@
       "sha256": "c339365c1b63db6b0c3ae4b87765b1b8927409b92d65f1d6b1b9246f9309d982"
     },
     {
-      "path": "imagenes/Not For Broadcast Complete Edition.webp",
-      "size": 38766,
-      "sha256": "8144691242132e48fce3a35c3bdfe19394e5ef0fa5f749c92eea6c95746d0eef"
-    },
-    {
       "path": "imagenes/Nymphomaniac Sex Addict.webp",
       "size": 7686,
       "sha256": "b3ee14a752d8d247e3c09d285882cfcad45be7fc841f545be23f892dd616138f"
-    },
-    {
-      "path": "imagenes/Obey the Voice.webp",
-      "size": 24092,
-      "sha256": "e34756b7e8af8fed695acdc343f2d58c20581ff6a2d4f966eeb1deca94a09411"
     },
     {
       "path": "imagenes/Onimusha Way of the Sword Premium Deluxe Edition.webp",
@@ -922,19 +887,9 @@
       "sha256": "a6e0d449e5b2c82a70a23e81b144638e8b4e34dbaf8180d07f5716f8c23097f2"
     },
     {
-      "path": "imagenes/Paper Beast Folded Edition.webp",
-      "size": 36942,
-      "sha256": "dff70470daf8c90acfa08596d2bd202aaa60c7e72eb6f91fcc929f8f761ecb86"
-    },
-    {
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
       "size": 33536,
       "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
-    },
-    {
-      "path": "imagenes/Phonopolis.webp",
-      "size": 61516,
-      "sha256": "0169680015edbd34562e06f02dc6e8b2cbe39e6a11ed0c56f4fadb8cc4707ced"
     },
     {
       "path": "imagenes/Planet of Lana II Children Of The Lead.webp",
@@ -945,11 +900,6 @@
       "path": "imagenes/Planet of Lana.webp",
       "size": 25172,
       "sha256": "71e4754e51e5fe0ca421c84a8464451cec576b05eec9963cc2fcb4470b170b07"
-    },
-    {
-      "path": "imagenes/Playrooms.webp",
-      "size": 12524,
-      "sha256": "794f24d4b82785113901a74566bcd8837323a695a4ee098baf5a63ef922f5c43"
     },
     {
       "path": "imagenes/Pokémon Pokopia.webp",
@@ -1000,11 +950,6 @@
       "path": "imagenes/Remothered Red Nuns Legacy.webp",
       "size": 19106,
       "sha256": "d11b47b1517ca72f6b48d1f68afcd25e59fba9ad8c6505b9bb89082cb15efe3d"
-    },
-    {
-      "path": "imagenes/Rent A Car Simulator 24.webp",
-      "size": 17500,
-      "sha256": "e29fb7e7c6c50fd3a4c149e0c748bd2887b13a39cd1f330792c1b3f63726f696"
     },
     {
       "path": "imagenes/Replaced Supporter Edition.webp",
@@ -1067,19 +1012,9 @@
       "sha256": "2beced21966759262dcce88a0e6bd206f176110e316ccb4c378c5f6dd75f91e6"
     },
     {
-      "path": "imagenes/Romance Of The Three Kingdoms VIII Remake.webp",
-      "size": 72374,
-      "sha256": "393081d2badeea08d69665fa4a84a5a7d9103373d61a9d2ccb67617b7ca57326"
-    },
-    {
       "path": "imagenes/RoomGirl Paradise.webp",
       "size": 28824,
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
-    },
-    {
-      "path": "imagenes/Roots Devour.webp",
-      "size": 24690,
-      "sha256": "06f2a91b4ab1ce08b04a4ccf9a79c024faaa7fd8294bb2b1a80c5d0aa8630de9"
     },
     {
       "path": "imagenes/S.E.M.I. Side Effects May Include….webp",
@@ -1162,19 +1097,14 @@
       "sha256": "dc0247fddc9f0ebc1c35aaae134f75c06fd4d2aa4203f19824dc45cfc5cd8c0d"
     },
     {
-      "path": "imagenes/Split Fiction.webp",
-      "size": 67422,
-      "sha256": "83292d08095fb1d9dad25835378c2a24eed0c78992891f068ff5a6362e9dd52b"
-    },
-    {
       "path": "imagenes/Stalker 2 Heart Of Chornobyl.webp",
       "size": 46886,
       "sha256": "8d5576adfd9713074207fbea1907feb2e10e7996c19e2a9d1fb64acd5b154a4c"
     },
     {
       "path": "imagenes/Star Wars Galactic Racer Deluxe Edition.webp",
-      "size": 42682,
-      "sha256": "188765c3c4ee3125c70b12962783afccc40514b73a4f1d70831764b17c5bf205"
+      "size": 38864,
+      "sha256": "9357f7ccc27ed139380d26362c411f30ac5d7dc0650917161d13139a60d345f3"
     },
     {
       "path": "imagenes/Star Wars Jedi Survivor.webp",
@@ -1217,9 +1147,9 @@
       "sha256": "9a39ce73dbd5d84f388067ec4a677e84233a9b858645a80743f6eb2407f2d880"
     },
     {
-      "path": "imagenes/Tacoma.webp",
-      "size": 37824,
-      "sha256": "f9108dc7e314b4f10b649925bfbd21e2d8e03699248a7e6a7f24a3d4d7b10ea2"
+      "path": "imagenes/Takeover 2 Deluxe Edition.webp",
+      "size": 87494,
+      "sha256": "ce7ff4734fb64b2d57c22480a9737bcdbcd69585cbcf2e74ae7315ca906bb428"
     },
     {
       "path": "imagenes/Tekken 7 Ultimate Edition.webp",
@@ -1247,19 +1177,9 @@
       "sha256": "3d92fa0decb6f6d3b677fa5cf393881c1d4763ae0813bed1ad75c706a966730f"
     },
     {
-      "path": "imagenes/Terraria.webp",
-      "size": 23800,
-      "sha256": "01b3770a7c9560b1e53eaed4ce55465dd0f5268f920bb9433db4f26170eac169"
-    },
-    {
       "path": "imagenes/The Alters Deluxe Edition.webp",
       "size": 35198,
       "sha256": "a0d20a3a7c959e5d147afa202808f858088bcb29d8a406a18335a855365d35c2"
-    },
-    {
-      "path": "imagenes/The Artful Escape.webp",
-      "size": 47488,
-      "sha256": "d0b6940f0bb52b059a39316b9a55e2615f68678783286e3caffe5594dfd39864"
     },
     {
       "path": "imagenes/The Berlin Apartment.webp",
@@ -1312,11 +1232,6 @@
       "sha256": "92a2a82bb5001f789af843b135e4f958308346474e15246995f78c230817e51e"
     },
     {
-      "path": "imagenes/The Pedestrian.webp",
-      "size": 68786,
-      "sha256": "212017f2afe00922004531411584e1231045ca737371ed819b59e1f098a951ed"
-    },
-    {
       "path": "imagenes/The Relic First Guardian.webp",
       "size": 44852,
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
@@ -1330,11 +1245,6 @@
       "path": "imagenes/The Sinking City 2 Premium Edition.webp",
       "size": 63980,
       "sha256": "cf2b1d28ea4af30a3ab37394adde14384d29d3af6b9632631f8934f77b247d0b"
-    },
-    {
-      "path": "imagenes/The Vale Shadow of the Crown.webp",
-      "size": 22212,
-      "sha256": "d8487640bbd08e80232e87cc1312fcfcf6051d133c94354abdfa2cf27020d5c2"
     },
     {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
@@ -1382,19 +1292,9 @@
       "sha256": "93acbec514b478f682849f97b9de0015be70278f2d0bdef696445ce0ecafb2dd"
     },
     {
-      "path": "imagenes/Underground Garage.webp",
-      "size": 28154,
-      "sha256": "1d898fc40f84e7fe7d8282b77462fdfdb434b14f56f9eeb4050c3bb80b4e414b"
-    },
-    {
       "path": "imagenes/Until Then Deluxe Edition.webp",
       "size": 53344,
       "sha256": "335e3d0663d91285cca17b4d9bedf2ab2d9d34040a7b5470a4a1666bda0ab4d4"
-    },
-    {
-      "path": "imagenes/Vampire Survivors Game.webp",
-      "size": 35166,
-      "sha256": "283e024090f370bfffdecb38127b97973ca6dbd490f867f263c5abfacf996b8a"
     },
     {
       "path": "imagenes/Victoria 3.webp",
@@ -1437,11 +1337,6 @@
       "sha256": "16cd3ec6c4c954aeadf2270c4a296f4f3e185bea2d0141222f40b9d3d847b3d5"
     },
     {
-      "path": "imagenes/Wavey The Rocket.webp",
-      "size": 41466,
-      "sha256": "f954571414d60e5d4e425fc8c25120709558bcaf9abaf17e369a5efe8706434c"
-    },
-    {
       "path": "imagenes/Wicked Seed.webp",
       "size": 14916,
       "sha256": "a2d87d05dbe340f1d854f13fc5d052debdefac656f4a9d89a93af7c9814755ea"
@@ -1475,11 +1370,6 @@
       "path": "imagenes/World War Z Aftermath Deluxe Edition.webp",
       "size": 48592,
       "sha256": "0372e677b4743b832a4268e4e17a956cad2bf9746382323db5b2d310bd178d57"
-    },
-    {
-      "path": "imagenes/Worship.webp",
-      "size": 69550,
-      "sha256": "7a96d1714e1111eb981988395eea6ad688608e56e200a270f00bb3a9916f4749"
     },
     {
       "path": "imagenes/WWE 2K26.webp",
@@ -2097,6 +1987,36 @@
       "sha256": "9c3a84f9c09152721b0128712d0d2cb0cb856fb123752ab97bc425dca418b0bb"
     },
     {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/1.webp",
+      "size": 45054,
+      "sha256": "cea896b352e8d99698b5b8d28a6772dcce93ea13b01693d58932ff7e707ff6c2"
+    },
+    {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/2.webp",
+      "size": 44594,
+      "sha256": "46a0153a542ae1a1f8cadb202dbb32378c6f4b3a2b26aacd85e13cf4f00e3133"
+    },
+    {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/3.webp",
+      "size": 11558,
+      "sha256": "834ba380b1eddd26a794fac559e464fa1d94c7706235337ce189f81893c10992"
+    },
+    {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/4.webp",
+      "size": 44594,
+      "sha256": "46a0153a542ae1a1f8cadb202dbb32378c6f4b3a2b26aacd85e13cf4f00e3133"
+    },
+    {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/5.webp",
+      "size": 49270,
+      "sha256": "c40581535ee292c0a7d6602a608c896db19d52a9acf425f2e0ac0094882bdb06"
+    },
+    {
+      "path": "capturas/ATOM RPG Post-apocalyptic Indie Game/6.webp",
+      "size": 45242,
+      "sha256": "f801e5587f2e9e892b2322cb9b0ea3fa1afc64859f54749afa026cdde8cedf22"
+    },
+    {
       "path": "capturas/Atomic Heart/1.webp",
       "size": 32964,
       "sha256": "6a45f66898fb41381acbd70d73f8a3e79197dde1ae25f318a67ea7a3fb8c4881"
@@ -2430,36 +2350,6 @@
       "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
       "size": 29418,
       "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
-    },
-    {
-      "path": "capturas/Beyond These Stars/1.webp",
-      "size": 18682,
-      "sha256": "8e8d25808d0523e13a47574e6d09a3f34d825684e4298d875994d14e568876f3"
-    },
-    {
-      "path": "capturas/Beyond These Stars/2.webp",
-      "size": 40122,
-      "sha256": "1c46a657a19c29a0bac6c1d325a1cb49e9c9c0567b41a488e21f09c506883e82"
-    },
-    {
-      "path": "capturas/Beyond These Stars/3.webp",
-      "size": 29012,
-      "sha256": "bc98b3c1d4ba6b264c8b16cfd4404e9f3daae05d1c0a4c3a59973d4c9fb99951"
-    },
-    {
-      "path": "capturas/Beyond These Stars/4.webp",
-      "size": 12208,
-      "sha256": "a1fe95416cf4691a1de895fe7af9562faf6e20bc29abcf5d75df89c59bec9689"
-    },
-    {
-      "path": "capturas/Beyond These Stars/5.webp",
-      "size": 15842,
-      "sha256": "72fc7eba0f651b6be00609050e1f1e12ee27bf87bb14ae257bac0be96a49bee8"
-    },
-    {
-      "path": "capturas/Beyond These Stars/6.webp",
-      "size": 25166,
-      "sha256": "cce4e2254c02b91615212e3d04119440421e52f1eefcebed3d2f27048b48de1b"
     },
     {
       "path": "capturas/Black Myth Wukong/1.webp",
@@ -3085,36 +2975,6 @@
       "path": "capturas/Call Of Duty WWII Full/06.webp",
       "size": 68992,
       "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
-    },
-    {
-      "path": "capturas/Carrion/1.webp",
-      "size": 18172,
-      "sha256": "f4d90d03887cca192519f7e9107ba1408c863652dba7d89314092780ccf5b535"
-    },
-    {
-      "path": "capturas/Carrion/2.webp",
-      "size": 31534,
-      "sha256": "7f07d86093dedb21c62a4bd8d23e77b9561737b9ffa6c5e2390f5c1dd0e911a8"
-    },
-    {
-      "path": "capturas/Carrion/3.webp",
-      "size": 26544,
-      "sha256": "a2b3704f172e83f883a31eeea11e94897017a71ef1ca882bd76406a956556881"
-    },
-    {
-      "path": "capturas/Carrion/4.webp",
-      "size": 31896,
-      "sha256": "c537ae1b08d717b9972fd096f06d1085cdd2d6a0fb0b48a25d957ca48ae2b214"
-    },
-    {
-      "path": "capturas/Carrion/5.webp",
-      "size": 28336,
-      "sha256": "48452ab578d994b459d9949d863fc899814d27bc78010ef141f0d187250f2008"
-    },
-    {
-      "path": "capturas/Carrion/6.webp",
-      "size": 18536,
-      "sha256": "1054586404f145e5d87473e564ada9b97dd00411bac54b82c2a67fd27b06ec38"
     },
     {
       "path": "capturas/Castlevania Belmonts Curse Midnight Edition/1.webp",
@@ -3987,6 +3847,36 @@
       "sha256": "f3e5d87efb1918d6d572976861dd8cee5146f5172516b2fac9d9132f59675cf6"
     },
     {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/1.webp",
+      "size": 16474,
+      "sha256": "a389e2fb5cb2779b5e96243406915bc1e0f5d123c7100f34aa3a97ab96208985"
+    },
+    {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/2.webp",
+      "size": 17724,
+      "sha256": "6618ea2da17016eebd8af4d915a45e76743c86725c873658ed17634cc331344d"
+    },
+    {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/3.webp",
+      "size": 20034,
+      "sha256": "faf3ff8edbc67ba03cc9140b239042fa1924d26f3797eddcc2f965ba8a900969"
+    },
+    {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/4.webp",
+      "size": 30764,
+      "sha256": "1da6d5a8a877e08cfee0167ee23ae5ac7b9469c9bee304285448c444718bc0a4"
+    },
+    {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/5.webp",
+      "size": 34078,
+      "sha256": "cab7ce476e4c2df6e9e964330d07281e2e766b332c5669dd1d0ab7bac80945b6"
+    },
+    {
+      "path": "capturas/DreamWorks Shrek 2 Remastered/6.webp",
+      "size": 22448,
+      "sha256": "ae4eefce67b291cb5edb8dde24d0a57caff5de6a9841d4408f73c9fffd766658"
+    },
+    {
       "path": "capturas/Driveclub/1.webp",
       "size": 19232,
       "sha256": "de55ff5e2c1beafb7fadb604b8e4c970e10aa78cbbc94ad4dad29221ac37e9fd"
@@ -4045,36 +3935,6 @@
       "path": "capturas/Dune Awakening Ultimate Edition/6.webp",
       "size": 14790,
       "sha256": "97f6190d650d7e7ef2cb4a04176f4368640f31cc046ee54d61695264e5e5477a"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/1.webp",
-      "size": 27468,
-      "sha256": "5af55af864980ab99281bedf05e3a734abf81886134e7423cc242a1ef01c4bf9"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/2.webp",
-      "size": 19998,
-      "sha256": "36ac0b5b9b2e869cb68c2ffc1fef3f37e75d6971ef4033b901f6438a0567f1d8"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/3.webp",
-      "size": 19706,
-      "sha256": "bd1c83d9288ce8eafb46de2b511ac2a1a4e438132be14c9dffeb51d82c3a2ae4"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/4.webp",
-      "size": 20100,
-      "sha256": "bb9efb1d47666553893d6b7699c12ab6bd501bc0910f0a4c8c869fdc890d02d6"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/5.webp",
-      "size": 25326,
-      "sha256": "863c8720646858c6a6faa79de35e67e2ad222785c7588abe56a15fe40c73033d"
-    },
-    {
-      "path": "capturas/Dust & Courage Jake Bolton’s Journey/6.webp",
-      "size": 17654,
-      "sha256": "58d233a253174a4fc2b963a5447b4eaac1f829ad9f7a13a9fddcd2272fe8f3df"
     },
     {
       "path": "capturas/Dying Light 2 Stay Human/1.webp",
@@ -4195,36 +4055,6 @@
       "path": "capturas/EA SPORTS FIFA 23/6.webp",
       "size": 21184,
       "sha256": "32523a1eef6581babf8a59fe05eae73bdb352483192555614c5dbec7dc04d9cf"
-    },
-    {
-      "path": "capturas/Earth Must Die/1.webp",
-      "size": 30916,
-      "sha256": "9296bde6f212a2ec5b24659f7519425f20b29c8be52c03070d1c0c9680b08f22"
-    },
-    {
-      "path": "capturas/Earth Must Die/2.webp",
-      "size": 12170,
-      "sha256": "f7204386c07b2b94c3746b67475fe767559168ec0837c47eb818a9bd34b99a90"
-    },
-    {
-      "path": "capturas/Earth Must Die/3.webp",
-      "size": 29396,
-      "sha256": "9ce331732b5bf8ddc7a398d3b72d37e22704c9bd501439393ac5fd6a810061b9"
-    },
-    {
-      "path": "capturas/Earth Must Die/4.webp",
-      "size": 20238,
-      "sha256": "b2860d643e01ab619d3e902ec239661092ac1f1056af42fc519aa9137f3b38c6"
-    },
-    {
-      "path": "capturas/Earth Must Die/5.webp",
-      "size": 33936,
-      "sha256": "82814482b699a16387ab5a17d3e023e8c4d192ff3ea284bbbb39d0722895f794"
-    },
-    {
-      "path": "capturas/Earth Must Die/6.webp",
-      "size": 24850,
-      "sha256": "9ed255dc8625e3bad18e43b7f7a8683081109553fc7f589467c2bf71d8ad7a0d"
     },
     {
       "path": "capturas/Ecstatica Remastered/1.webp",
@@ -4585,6 +4415,36 @@
       "path": "capturas/Farming Simulator 25 Year 1 Bundle/5.webp",
       "size": 32248,
       "sha256": "60402172ac5930cf91b1b63b5ad05ec3872122a11c46b9ced03f0702de26570f"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/1.webp",
+      "size": 18916,
+      "sha256": "5723a3c817d84531fff19aa85c4cb33ec65c74f594f99e47f07c3440279db3df"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/2.webp",
+      "size": 21248,
+      "sha256": "f380c1aea100e45a86479387c0dbe29352de44a6f00753eebbd9c1d430460b08"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/3.webp",
+      "size": 26322,
+      "sha256": "ac2f2f3aa604e3fc0c28993d951f287e0dea47b5fb25edcadc5778732ef62a58"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/4.webp",
+      "size": 16382,
+      "sha256": "7d3983744b65c2b7c3a381890f77f554a81fb6065f5c4dbd3959846978085cf9"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/5.webp",
+      "size": 22612,
+      "sha256": "385f5de7c5b7b834081ee0cb00ba9c091f0e88128ea1b444932ebcf4ed44e212"
+    },
+    {
+      "path": "capturas/FIFA EA SPORTS FC 27/6.webp",
+      "size": 19700,
+      "sha256": "8195392da932c0ddff86806d7edbd49de9c3df5954053a4de4f1d3a24131a1a0"
     },
     {
       "path": "capturas/Forgotton Anne/1.webp",
@@ -5367,36 +5227,6 @@
       "sha256": "6609a1d52c18fec74c321cac9e85f954ee1404b19e574260fabffd89446ba047"
     },
     {
-      "path": "capturas/Harold Halibut/1.webp",
-      "size": 12792,
-      "sha256": "fbe6bdb8c9b725451de90e70b00cd67fe7fd34b2a5be531d23b109ec4b7d9ac2"
-    },
-    {
-      "path": "capturas/Harold Halibut/2.webp",
-      "size": 21016,
-      "sha256": "799b88c273eaeda863dd6d52451e44b8ae98e8d4be07c84c41197906a2101454"
-    },
-    {
-      "path": "capturas/Harold Halibut/3.webp",
-      "size": 13060,
-      "sha256": "b1dcdaa7e3105db2582863a9c00ab67cfeb21282a22d0b8149e4945c6dcf415a"
-    },
-    {
-      "path": "capturas/Harold Halibut/4.webp",
-      "size": 20258,
-      "sha256": "ca8e88240db34a88252ea086994388056bb1ea6864f8ec92f89138b78921e79e"
-    },
-    {
-      "path": "capturas/Harold Halibut/5.webp",
-      "size": 18794,
-      "sha256": "d5201f75d1a3f8499e33df0090428e21bb9dbbdd512c12e01ff674f320fdb29b"
-    },
-    {
-      "path": "capturas/Harold Halibut/6.webp",
-      "size": 19836,
-      "sha256": "46bae1835d77127f74abdca01eb319f74f8b3d3d2248db6239767c8221cb1535"
-    },
-    {
       "path": "capturas/Harvest Moon Echoes of Teradea/1.webp",
       "size": 17842,
       "sha256": "4bdd37508cd7b5d5a0e625e40d7af75022be5d72037587b27a40b92b51d7aae1"
@@ -5455,36 +5285,6 @@
       "path": "capturas/Heart of the Machine/6.webp",
       "size": 31972,
       "sha256": "6b85980106cfdb476a3095aef7465d33b2d623ce59a43fec2b050d34299c63b0"
-    },
-    {
-      "path": "capturas/Hellmart/1.webp",
-      "size": 19824,
-      "sha256": "882070235ffbfe53621a93fc9d9be7af36e9d4a7c48699706c23aa5124f3e75f"
-    },
-    {
-      "path": "capturas/Hellmart/2.webp",
-      "size": 16418,
-      "sha256": "e7ed5e508f19044326f529fbbcc215e4cff97cba341b9e7a20d3efb8fd955978"
-    },
-    {
-      "path": "capturas/Hellmart/3.webp",
-      "size": 9030,
-      "sha256": "768dc8a30cf22547d04d3cc03cb5336229cf3666604ba47e15f3c5bf29046130"
-    },
-    {
-      "path": "capturas/Hellmart/4.webp",
-      "size": 19484,
-      "sha256": "baa7e9715202b9339498705ea0d17bd029be053adef63254018221764f20be22"
-    },
-    {
-      "path": "capturas/Hellmart/5.webp",
-      "size": 11418,
-      "sha256": "ea0c6357b2c7509c2461723e1ef093f3e7523e237edc48f5cb657d8abb4d7f05"
-    },
-    {
-      "path": "capturas/Hellmart/6.webp",
-      "size": 17358,
-      "sha256": "a0b973fff4133a6987f9344e8f2b3ad1aa9151c350e04ae9e30a6e01636c5fd5"
     },
     {
       "path": "capturas/Hitman World of Assassination/1.webp",
@@ -5722,36 +5522,6 @@
       "sha256": "e99552644efd1df84ecaec752cab6ad0c3828033bd2cb44852b49fd5d0470065"
     },
     {
-      "path": "capturas/Hypnos/1.webp",
-      "size": 20278,
-      "sha256": "9fc395aa25596b2576ae3790638ad0da67ef0c265104de67053b1799aa3191e6"
-    },
-    {
-      "path": "capturas/Hypnos/2.webp",
-      "size": 16854,
-      "sha256": "9b8fc46c36a4166830c4c89579ff7ca9aba6be732d8449c269501fb15499b73f"
-    },
-    {
-      "path": "capturas/Hypnos/3.webp",
-      "size": 12560,
-      "sha256": "aec380c54e0f2f126f357f6a21114b9b9c9ae401989a9394def50b8e8a1b7a7b"
-    },
-    {
-      "path": "capturas/Hypnos/4.webp",
-      "size": 24272,
-      "sha256": "fdd03c2b58a3c9f729f9feae3a7e5cfdd179ef31ba1f96f6c8da7a433d8dae5b"
-    },
-    {
-      "path": "capturas/Hypnos/5.webp",
-      "size": 21618,
-      "sha256": "848bf6f2df5518ee4553ec78e6af27a4873b0574c5c11941f7eca06b99e9037e"
-    },
-    {
-      "path": "capturas/Hypnos/6.webp",
-      "size": 20876,
-      "sha256": "599306721922fe38ddc9a5cdd193f562cedce005980b02438c7e07b710d5f2f4"
-    },
-    {
       "path": "capturas/I Am Jesus Christ/1.webp",
       "size": 51892,
       "sha256": "23497a72bbb4b97d26c8275e0d75dfd849b07410aed20644a1899f070069feec"
@@ -5780,36 +5550,6 @@
       "path": "capturas/I Am Jesus Christ/6.webp",
       "size": 30124,
       "sha256": "4e3e6512a9648413ee3836773172202aa8f3bedc31be95a1c50d8ef99825ecca"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/1.webp",
-      "size": 19756,
-      "sha256": "c8e46666f6072385bda1ddf557acf1129acf21c6ef4c89c6ff4d07e2c7aff8e7"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/2.webp",
-      "size": 18276,
-      "sha256": "d42f12e57978c80b58fe5e9f992b49f2591d743a9d023eb4c75eb9d13a29ad66"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/3.webp",
-      "size": 31364,
-      "sha256": "d98b8d37f6a781dfa503a2eb4230094879b5d754d7c4ad686d64c495ef657314"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/4.webp",
-      "size": 26144,
-      "sha256": "6974b2061df3aef1886fd2f9526b3671cfcd283a112c1853b9f855acc9c21016"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/5.webp",
-      "size": 18014,
-      "sha256": "34451ba8729d2a571863b91e70721bc8cfddbdb37d879fc0854cb02ef79f6005"
-    },
-    {
-      "path": "capturas/I Am Your Beast Complete Edition/6.webp",
-      "size": 12094,
-      "sha256": "07a2ddf9965f29c91554392e13b3e43ae98d3f732913d6ba72bcebf60406638d"
     },
     {
       "path": "capturas/Indiana Jones And The Great Circle/1.webp",
@@ -6812,36 +6552,6 @@
       "sha256": "9d42816f46d549963de37eea714c239851826ebb04097dd056a3202c1437ce89"
     },
     {
-      "path": "capturas/Not For Broadcast Complete Edition/1.webp",
-      "size": 27180,
-      "sha256": "560a7c5609547b4b4280e3b3cd06c86aa6b16359b8cc6d589e34a4d700a34a9a"
-    },
-    {
-      "path": "capturas/Not For Broadcast Complete Edition/2.webp",
-      "size": 12594,
-      "sha256": "798bb74796c7b8e13e4c7969e4f2a79fb0f6a02f331602d77e7a9b056e2ca929"
-    },
-    {
-      "path": "capturas/Not For Broadcast Complete Edition/3.webp",
-      "size": 28810,
-      "sha256": "09c66f813978a757d1043e571b5b67af2720ba03a09889afe96734b3fb2b8b3f"
-    },
-    {
-      "path": "capturas/Not For Broadcast Complete Edition/4.webp",
-      "size": 27650,
-      "sha256": "5517e1756eb6d45b32815bde1d8dfed3baca3fc4f35397143e402e05b720ea23"
-    },
-    {
-      "path": "capturas/Not For Broadcast Complete Edition/5.webp",
-      "size": 19300,
-      "sha256": "0bc0b85c72ff1ed7b521acb7baf8f5118abbf02f99e4a29d331026e98b23f24f"
-    },
-    {
-      "path": "capturas/Not For Broadcast Complete Edition/6.webp",
-      "size": 28854,
-      "sha256": "1b6b0962d5ec620f6c20715f880fba473a04d2ffce41edfa105f668d7d971f0d"
-    },
-    {
       "path": "capturas/Nymphomaniac Sex Addict/1.webp",
       "size": 5146,
       "sha256": "1d82b2e5f30eac3b8841e37990cc360e7981d6563528f32fcea737a9dd772ea7"
@@ -6870,36 +6580,6 @@
       "path": "capturas/Nymphomaniac Sex Addict/6.webp",
       "size": 17650,
       "sha256": "6fbc7a49f58edf11f1a956c88b9e8b5495f1aa2951bc51c3eb9b5de593f35659"
-    },
-    {
-      "path": "capturas/Obey the Voice/1.webp",
-      "size": 12166,
-      "sha256": "553cddeaa540cbb7e781872c9ca8c1e164925f8ba8160eba9484f0ae9a6573a8"
-    },
-    {
-      "path": "capturas/Obey the Voice/2.webp",
-      "size": 9360,
-      "sha256": "ba45e328c579469def7d0395e4753825984b7f52b487a4dd0413f9037764f259"
-    },
-    {
-      "path": "capturas/Obey the Voice/3.webp",
-      "size": 7070,
-      "sha256": "8bed3716ab29d9c6bf64384c4f1913d4e41dbebc6389d177ceea8f1196d12d6c"
-    },
-    {
-      "path": "capturas/Obey the Voice/4.webp",
-      "size": 9084,
-      "sha256": "fd1c40b4b59c4efb851a8d4eb7fac75d376ca150ec51abdf4d7eff1cb1ed20c8"
-    },
-    {
-      "path": "capturas/Obey the Voice/5.webp",
-      "size": 20302,
-      "sha256": "c7fa36ddb7bf693afda4221829709ce16da32f68d23c35b52d946643e0df42be"
-    },
-    {
-      "path": "capturas/Obey the Voice/6.webp",
-      "size": 8146,
-      "sha256": "687c75a1a736d1fa6f31aaea3be82c6c366949dd836149055ee39246a5213aa3"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/1.webp",
@@ -6962,36 +6642,6 @@
       "sha256": "6edbe37a7d2bbd915d6a3559722d3060f78669eb8bdb92cf44da01b8d14ac2f8"
     },
     {
-      "path": "capturas/Paper Beast Folded Edition/1.webp",
-      "size": 20760,
-      "sha256": "1bba24bf4ad841ced47290add62ea5de52f8eec487c06534a98c8cfee2962eb1"
-    },
-    {
-      "path": "capturas/Paper Beast Folded Edition/2.webp",
-      "size": 12784,
-      "sha256": "3e38eeb83789085ef1af907764faeb5dda6e59bfa371faf0f01fb9783eedec2e"
-    },
-    {
-      "path": "capturas/Paper Beast Folded Edition/3.webp",
-      "size": 18026,
-      "sha256": "5f0e834e225b32774fc442c118c443f26f5e38bf2da0a207f2da56d96ffb7ba1"
-    },
-    {
-      "path": "capturas/Paper Beast Folded Edition/4.webp",
-      "size": 19302,
-      "sha256": "d5a30e9d89e8d515ad74a0afe23de7d107387e6d46beaa1aaecf892a5410dc81"
-    },
-    {
-      "path": "capturas/Paper Beast Folded Edition/5.webp",
-      "size": 29102,
-      "sha256": "42eccae2b7b1373e7ae4e42ac02d786235281eb045438ca8ed9b2c8afa4ac4df"
-    },
-    {
-      "path": "capturas/Paper Beast Folded Edition/6.webp",
-      "size": 13528,
-      "sha256": "9e0e254a6117cabf956d53a9296236086e11cc9245613f76488c799e2f37170c"
-    },
-    {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
       "size": 21054,
       "sha256": "5d552eda4733cfa6eb6833890f5eb36a5811208ccd6c3f4d21536494137828fb"
@@ -7020,36 +6670,6 @@
       "path": "capturas/Phantom Blade Zero Deluxe Edition/6.webp",
       "size": 23156,
       "sha256": "db116b5fd7a576650b3964c719ceceb08a378cd1e14d29f5c7ca402e602329dc"
-    },
-    {
-      "path": "capturas/Phonopolis/1.webp",
-      "size": 38022,
-      "sha256": "2deaa3ec677b278a500ee61e8f92c77c4c150f2917ab6ce82778a0ee85141146"
-    },
-    {
-      "path": "capturas/Phonopolis/2.webp",
-      "size": 32622,
-      "sha256": "60e80d38e75893edd9377c2f42ac626b5f3406a1685b592b23246c5b1a225e1a"
-    },
-    {
-      "path": "capturas/Phonopolis/3.webp",
-      "size": 17514,
-      "sha256": "ee62cc2febd98ec21effcb754e1da3fe3de902fb3db568f366e54f83d7dd6e2e"
-    },
-    {
-      "path": "capturas/Phonopolis/4.webp",
-      "size": 41640,
-      "sha256": "b71d65542ce8108773b82ecda9dc48093044875b68aae10f8f27d8f82a889df3"
-    },
-    {
-      "path": "capturas/Phonopolis/5.webp",
-      "size": 21404,
-      "sha256": "4e0452c466aaf86db2a74e6e8a2c4b5cd08da7d1dd7977cc9fac351863efff59"
-    },
-    {
-      "path": "capturas/Phonopolis/6.webp",
-      "size": 28588,
-      "sha256": "c71401217816eeda7776b850f573411a2c5037aab24224bff12ee9061a95c354"
     },
     {
       "path": "capturas/Planet of Lana/1.webp",
@@ -7110,36 +6730,6 @@
       "path": "capturas/Planet of Lana II Children Of The Lead/6.webp",
       "size": 11288,
       "sha256": "b389643a3b1083276309c93a34fd069347cd2172329eefd9244ec879ca6605e7"
-    },
-    {
-      "path": "capturas/Playrooms/1.webp",
-      "size": 24580,
-      "sha256": "7150a04bffc0397b62ccd60d084f6f616c83e4ba01682a84c0b78381639db2bc"
-    },
-    {
-      "path": "capturas/Playrooms/2.webp",
-      "size": 8164,
-      "sha256": "d8cd9c73f24087177cb2a69537169513a4a03d96e693eaa72ded0e6939c1c969"
-    },
-    {
-      "path": "capturas/Playrooms/3.webp",
-      "size": 10476,
-      "sha256": "cf86fdacc98bfe11aa20b33659d6d77096f4f71366edf714e57a1106bb4a8b07"
-    },
-    {
-      "path": "capturas/Playrooms/4.webp",
-      "size": 20902,
-      "sha256": "6054a396925342f8a6c9f82f4a78a3d6c9148f8fec585a559b4967524dbec75b"
-    },
-    {
-      "path": "capturas/Playrooms/5.webp",
-      "size": 14622,
-      "sha256": "f606f370e710b5119067fea2b32af0008f11c9fbb33aba5692a75e37a349390a"
-    },
-    {
-      "path": "capturas/Playrooms/6.webp",
-      "size": 10874,
-      "sha256": "6c1d7d241adacc5910d2e83d71d64e581787d73c3cfc0d83e2b900152d71930e"
     },
     {
       "path": "capturas/Pokémon Pokopia/1.webp",
@@ -7435,36 +7025,6 @@
       "path": "capturas/Remothered Red Nuns Legacy/6.webp",
       "size": 8334,
       "sha256": "3666d05e975457922986e17659434a3b9caae0291bba9aba0f81a5e04aa52adc"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/1.webp",
-      "size": 27466,
-      "sha256": "2b82dd940ad2103b91162539fe2f5b19aaa6aaa206071c65430c073d1d357c2f"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/2.webp",
-      "size": 17508,
-      "sha256": "46d3b75f9a17238629fd8871eac0802e5570e9294063a26a83b277dd68987e54"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/3.webp",
-      "size": 25258,
-      "sha256": "c8338525876e6cb3847aeb5a5c653bb09e8a072459bcbfdd81b1de40ac4ed046"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/4.webp",
-      "size": 27576,
-      "sha256": "58929c4106a02e0a24c2db07f5df78dd1ad8420df9712aebb9f45fd6539f9000"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/5.webp",
-      "size": 26176,
-      "sha256": "f8506ee04f0adeef58b01ca9db65841f181991e9de10d46238dc3f86c94ba74f"
-    },
-    {
-      "path": "capturas/Rent A Car Simulator 24/6.webp",
-      "size": 15140,
-      "sha256": "acc26d425cb329e9dccfec45401ff021d14e076da311545f7893684b6540fdda"
     },
     {
       "path": "capturas/Replaced Supporter Edition/1.webp",
@@ -7827,36 +7387,6 @@
       "sha256": "00fae03ac5d6290c9bf35117a59c9fd2915abe61c57226ae873c1e15f9c7d271"
     },
     {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/1.webp",
-      "size": 32472,
-      "sha256": "d096c2314723529a90dd739f0c003c7e99d5e48bb2602e14bb05898cfc917010"
-    },
-    {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/2.webp",
-      "size": 34592,
-      "sha256": "cdfff7decce720f7ffe18121817efe322009e74c2088f22720cfbfd62e872500"
-    },
-    {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/3.webp",
-      "size": 28100,
-      "sha256": "5ef1a929cdaab3c49e126e48ffce8c88c7f61c27cbc222aadc89c6a2786ee22c"
-    },
-    {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/4.webp",
-      "size": 40198,
-      "sha256": "49ceac2ca7d560b3a728cf5614bb40ab73e0b92867eaea0707adfd82dbf722ba"
-    },
-    {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/5.webp",
-      "size": 21638,
-      "sha256": "5d06e2e0630e6872e8aac20a97b1c9910fcccfb631271f333c519eaa3a8a80f0"
-    },
-    {
-      "path": "capturas/Romance Of The Three Kingdoms VIII Remake/6.webp",
-      "size": 16796,
-      "sha256": "8703bbab2c56b04b46d19d742496d31ef94fbc4301cb1127005b75d434c0f970"
-    },
-    {
       "path": "capturas/RoomGirl Paradise/1.webp",
       "size": 27256,
       "sha256": "f7c8d1d3e6c6aed118c98f84ee00fcbf5ad35373547f93db10ed845f1089537b"
@@ -7885,36 +7415,6 @@
       "path": "capturas/RoomGirl Paradise/6.webp",
       "size": 15784,
       "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
-    },
-    {
-      "path": "capturas/Roots Devour/1.webp",
-      "size": 14980,
-      "sha256": "27cd26c14fda07b8e9c9f0190036189f02661adb7735c3233ca4aafeb0324615"
-    },
-    {
-      "path": "capturas/Roots Devour/2.webp",
-      "size": 9820,
-      "sha256": "6837cdacc98bf7f9099a111b6af72f42056686269156b39806a92eca0ab36109"
-    },
-    {
-      "path": "capturas/Roots Devour/3.webp",
-      "size": 13554,
-      "sha256": "f0f165f466e37dded58d2433630280198c70b94be868e4aba1a175a50c9e3b98"
-    },
-    {
-      "path": "capturas/Roots Devour/4.webp",
-      "size": 15164,
-      "sha256": "1359916d2e8781cb79d53ac6eb11ca8047c737857c759feba60cc3a3c360beec"
-    },
-    {
-      "path": "capturas/Roots Devour/5.webp",
-      "size": 12278,
-      "sha256": "26bf9077d0383cff5ca0132be13b5e08fed44f35dc62cad24e0a2351d43ff6bf"
-    },
-    {
-      "path": "capturas/Roots Devour/6.webp",
-      "size": 15238,
-      "sha256": "3cae4d9b86f5fc3e750fd6c1d8e5dbf09e405971943ae217d936aec86c26fc31"
     },
     {
       "path": "capturas/S.E.M.I. Side Effects May Include…/1.webp",
@@ -8397,36 +7897,6 @@
       "sha256": "548835347e305acd77a20c4e2b435eb6289c8fcce6d0a464805580d0d469e2ac"
     },
     {
-      "path": "capturas/Split Fiction/1.webp",
-      "size": 32266,
-      "sha256": "0dc210ae50113ffc086e64a09f8cf8e8884041eecd28aeacf16348b258d5d513"
-    },
-    {
-      "path": "capturas/Split Fiction/2.webp",
-      "size": 30686,
-      "sha256": "c5261ae546d526c693f9f045350e58ca01e34df2301e9faca21118e925e42ab4"
-    },
-    {
-      "path": "capturas/Split Fiction/3.webp",
-      "size": 31428,
-      "sha256": "4d88ce3d4710d4414a024a182813dce26f46d6d291a1faa76b8da855a0d58a7c"
-    },
-    {
-      "path": "capturas/Split Fiction/4.webp",
-      "size": 28648,
-      "sha256": "e87c6a96ee9370c070156d8a208c532ee0e198f1857597c4594ea2ad8a0e9446"
-    },
-    {
-      "path": "capturas/Split Fiction/5.webp",
-      "size": 39884,
-      "sha256": "c655c7a18ccf760cab6eed0cb07a8c5cfe834597332d3db345800d0fbd795a85"
-    },
-    {
-      "path": "capturas/Split Fiction/6.webp",
-      "size": 29968,
-      "sha256": "10dc343395465faebef5176d4862ca15b70d9d45adf02f0c9bf7ea173c7113b6"
-    },
-    {
       "path": "capturas/Stalker 2 Heart Of Chornobyl/1.webp",
       "size": 46060,
       "sha256": "c1a9554b4c67092967570c14dd6ed932b6660528316fb5433fb01babe322a5ad"
@@ -8458,33 +7928,33 @@
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/1.webp",
-      "size": 17850,
-      "sha256": "7ff5efe2b5d2bbc9e784947cb45fd9a6247c584662931cc457ee2ab2aab62897"
+      "size": 9514,
+      "sha256": "946ac6815dd8e629375629b1b4c31a2bb7f1b1f27f36571828e2aaf566183aee"
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/2.webp",
-      "size": 28708,
-      "sha256": "a4ec787fda3d1454a57914da2bb712a609837f9764e6ad3a66a7bb611b72f8eb"
+      "size": 30482,
+      "sha256": "6febeaa1366fe50c29f1916f426627942701f3f34cbe346316299ed3ee426ab2"
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/3.webp",
-      "size": 8854,
-      "sha256": "ef50b1fc7f808036f0bc3e71eee1e72104cdec1b36b0d08ac4e9fcf42e3f9258"
+      "size": 31828,
+      "sha256": "beeca202baba9f76cafc67c0674302fca26942d3ae9739c60a708a7eeddad600"
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/4.webp",
-      "size": 17848,
-      "sha256": "5ed3c25f358e55202de6ec62e3283841d9d2ddec2ed8f2ee91aa88da93b1a952"
+      "size": 37238,
+      "sha256": "2207ca2d0e9adad1bd284be651db30e9d56aaec76afba93587a32f3acad2d135"
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/5.webp",
-      "size": 17898,
-      "sha256": "58b930a86611beeed07aa5d8a5ac758ef9ba7453a66f0cb129fbd86712a54427"
+      "size": 28022,
+      "sha256": "321c1b4d77916faac14a386ac8270e7d628fd509fac235d1361ed6c409c8dbe3"
     },
     {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/6.webp",
-      "size": 26906,
-      "sha256": "148e78a7bba9c24cb309631e17bee5d310358d3da139351c3d361676d6493831"
+      "size": 37938,
+      "sha256": "fcd33ef5dcc415a64d11691166c118c6c196764019eb2444daca73ca155abdf0"
     },
     {
       "path": "capturas/Star Wars Jedi Survivor/1.webp",
@@ -8727,34 +8197,34 @@
       "sha256": "ef63124b1e4b02fe9ee611721d85d2aabbd285db8260fdc471e878e961c1d7cf"
     },
     {
-      "path": "capturas/Tacoma/1.webp",
-      "size": 13814,
-      "sha256": "14bd271f2c456826a1effb0ce433bf9be5ff800e07b324af4d4727352bfffa19"
+      "path": "capturas/Takeover 2 Deluxe Edition/1.webp",
+      "size": 52502,
+      "sha256": "7fdb583a4818b08ce7b8dfab7bff31bebe30ccaf5c3eb929e987fcb2e095ba86"
     },
     {
-      "path": "capturas/Tacoma/2.webp",
-      "size": 29264,
-      "sha256": "249cbf95336dda5ab709979f4b6ca9835eb4f57bf1d8984d8cdac726664d3098"
+      "path": "capturas/Takeover 2 Deluxe Edition/2.webp",
+      "size": 37394,
+      "sha256": "25ea4ca99ac824d943442c9d93a7893ba409de11c53641e2f6218f8891c76dc1"
     },
     {
-      "path": "capturas/Tacoma/3.webp",
-      "size": 11010,
-      "sha256": "5f4b622609ffe690d766386a635cf0f9c9532750f68265effc800bb68544ee78"
+      "path": "capturas/Takeover 2 Deluxe Edition/3.webp",
+      "size": 40678,
+      "sha256": "502122ce8df8110cc9b3ad8f6c55fe578ca2948de625e306148b9d32fda78a0f"
     },
     {
-      "path": "capturas/Tacoma/4.webp",
-      "size": 14432,
-      "sha256": "d0b999b3a16bfa26503a69a61080f3e49abc9b66d37590ebc8b33a385b030957"
+      "path": "capturas/Takeover 2 Deluxe Edition/4.webp",
+      "size": 65722,
+      "sha256": "dc56331d8b0fce6c7fc5d2fbb6d78cd2a1dac22d0ae85478037b857229d9fe62"
     },
     {
-      "path": "capturas/Tacoma/5.webp",
-      "size": 16986,
-      "sha256": "7a0e0a09c789e0ab85648be36fc02cad394688c2c5ddcda0948c233fda6b5481"
+      "path": "capturas/Takeover 2 Deluxe Edition/5.webp",
+      "size": 65702,
+      "sha256": "8ae661d94d5a16fe2b6cf801dd54bc665af2b7a4be7e5b037d8f17a742ada5df"
     },
     {
-      "path": "capturas/Tacoma/6.webp",
-      "size": 8190,
-      "sha256": "5d3629e487ea7132ecece586dac634fb0948644812fcfc3387936188ac8b2562"
+      "path": "capturas/Takeover 2 Deluxe Edition/6.webp",
+      "size": 60668,
+      "sha256": "3820f99c10d78fa2d0ca81a0af09c78a7e9de2e50741bd0b452c8bed1cbea30b"
     },
     {
       "path": "capturas/Tekken 7 Ultimate Edition/1.webp",
@@ -8907,36 +8377,6 @@
       "sha256": "8d72b1596c2780b938df4d8233285744fcb90ba50fed258519240ac43e3c27ee"
     },
     {
-      "path": "capturas/Terraria/1.webp",
-      "size": 24918,
-      "sha256": "ca520869af54d2c6f6062821a8429b77a7e3574784eae22fd8b1f308b57ed1ee"
-    },
-    {
-      "path": "capturas/Terraria/2.webp",
-      "size": 20570,
-      "sha256": "82e5e475f2a3f76a73554baaf7a74349e59cb117a26c29687e15b416d2e85124"
-    },
-    {
-      "path": "capturas/Terraria/3.webp",
-      "size": 19458,
-      "sha256": "b55c842466340ce3f5dbc69459d1727ebe42ca92fc5fb5e35d04981cf6d3bb2f"
-    },
-    {
-      "path": "capturas/Terraria/4.webp",
-      "size": 21692,
-      "sha256": "58a65ac02fd4b4a909170264401ee1961911f494c5f88b4badae67da2339b469"
-    },
-    {
-      "path": "capturas/Terraria/5.webp",
-      "size": 16428,
-      "sha256": "7a8a491c368ee664a3d754a1fcdbaf6e13bfeddec06c766e1dd4e23e74033048"
-    },
-    {
-      "path": "capturas/Terraria/6.webp",
-      "size": 23378,
-      "sha256": "7e46839d349515998750252172f15b1c02e072824645d0ae7fe09eb8185e8a57"
-    },
-    {
       "path": "capturas/The Alters Deluxe Edition/1.webp",
       "size": 10954,
       "sha256": "5ee2ee787c756ff2bdccc78818d65492dcebdfb64289b4a706a9d114c4e6dea1"
@@ -8965,36 +8405,6 @@
       "path": "capturas/The Alters Deluxe Edition/6.webp",
       "size": 25676,
       "sha256": "6da822ca7f1034ac622e87da9a8c1923ac9f3b6deaedd1c39f2941873362a596"
-    },
-    {
-      "path": "capturas/The Artful Escape/1.webp",
-      "size": 22112,
-      "sha256": "f033194ff783f1884d911afab410a3428330950e58b3f443562bd654fc4566f8"
-    },
-    {
-      "path": "capturas/The Artful Escape/2.webp",
-      "size": 12308,
-      "sha256": "0161f915d594f6fbf1e8cbc2257bf13a40f3a7c826b24f969e7cceb90be018c0"
-    },
-    {
-      "path": "capturas/The Artful Escape/3.webp",
-      "size": 12658,
-      "sha256": "358516135e88dedd1d28ce114807312c0971cd5755f6bfd882a5d3eedb481188"
-    },
-    {
-      "path": "capturas/The Artful Escape/4.webp",
-      "size": 17610,
-      "sha256": "e889a1fd754091c358cb4e641fab9a21b536e87a5748bac0de0511704da20b79"
-    },
-    {
-      "path": "capturas/The Artful Escape/5.webp",
-      "size": 18892,
-      "sha256": "4bd0fa900671b8a84eb0dee2a73f0117be3aa5f4e41052205323886063bc7a24"
-    },
-    {
-      "path": "capturas/The Artful Escape/6.webp",
-      "size": 44340,
-      "sha256": "27a11f08879f7d355811b673c157d1351bdc9bdffbeb3b832fe2f7941929ad04"
     },
     {
       "path": "capturas/The Berlin Apartment/1.webp",
@@ -9287,36 +8697,6 @@
       "sha256": "09acef651539d487e4010d458c1d23ffb9956799d255b6709523867435bd7c34"
     },
     {
-      "path": "capturas/The Pedestrian/1.webp",
-      "size": 22994,
-      "sha256": "bbbf10f1a8376c1a92848645d3bcb76e6bab568b49e119b749e4e5d1b579aa6d"
-    },
-    {
-      "path": "capturas/The Pedestrian/2.webp",
-      "size": 12708,
-      "sha256": "87178c3ddf8a1837e4336caafd5bd7d1acc2bcb05823de39570e7f720a8ac41f"
-    },
-    {
-      "path": "capturas/The Pedestrian/3.webp",
-      "size": 29338,
-      "sha256": "5a62ce0d8844130bab4db004e31050c5fc8a06253c9e7da46351e01b5720ca2d"
-    },
-    {
-      "path": "capturas/The Pedestrian/4.webp",
-      "size": 21574,
-      "sha256": "015d3cce89cffef4b588a0abc607e65ca51833793441ae61bac9c4493d57c513"
-    },
-    {
-      "path": "capturas/The Pedestrian/5.webp",
-      "size": 30288,
-      "sha256": "98727ad85b578673a1fb3128c1244cb5562c6685430cadbd3299961d62e7b6b2"
-    },
-    {
-      "path": "capturas/The Pedestrian/6.webp",
-      "size": 14682,
-      "sha256": "c91cafac90695ce0dd96d64929d26bcfc82c016f653680c5366686654f7752e8"
-    },
-    {
       "path": "capturas/The Relic First Guardian/1.webp",
       "size": 7608,
       "sha256": "a6df7268925942eaa2606429fecf8f760314212ae77a2202c1ff740b1250c6ac"
@@ -9400,36 +8780,6 @@
       "path": "capturas/The Sinking City 2 Premium Edition/6.webp",
       "size": 10478,
       "sha256": "ca6606ea6c6d53f7ba1c22e52b992a27df8949c223093e4eeb9693ab1c4b62a3"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/1.webp",
-      "size": 2304,
-      "sha256": "dd7f8638994614c680cb0eb2ff7f7c8b6e6c0e4ded382128e3e15cd12f7bc516"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/2.webp",
-      "size": 1536,
-      "sha256": "2b6e877d6a9c0c6aa39a867eb891ef562b33871b6daa0978811c20146cc61b1a"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/3.webp",
-      "size": 1980,
-      "sha256": "42aa357957ec5f35c8f244d0fd8b1d894a40a3c723a9c65715e369abde20284a"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/4.webp",
-      "size": 574,
-      "sha256": "5bd90c5bc9e7ea8ef7485a4e93fa26514f6359e508bb61754461d5e2a1a93160"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/5.webp",
-      "size": 15814,
-      "sha256": "dcf3953ddc1fc57103a635640c0c413e50269809ce6039c69ac54f6826f2f70d"
-    },
-    {
-      "path": "capturas/The Vale Shadow of the Crown/6.webp",
-      "size": 10314,
-      "sha256": "f384a682e3e44333c21492bdaa9125911daab896010bb1713fa2e05111584d56"
     },
     {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
@@ -9702,36 +9052,6 @@
       "sha256": "37be151215e4d0b829c3c60d9ae7f128f463a7e1677366731ec420d595ca709f"
     },
     {
-      "path": "capturas/Underground Garage/1.webp",
-      "size": 25694,
-      "sha256": "beea1dce4563ef2ea9fcceb1f457578450dc0d698c8849fa1691213418bf6a33"
-    },
-    {
-      "path": "capturas/Underground Garage/2.webp",
-      "size": 22432,
-      "sha256": "a6e31114979cdd6e57808374e38d716ec34aaccfa73f95a4d8f5f502d7922cfe"
-    },
-    {
-      "path": "capturas/Underground Garage/3.webp",
-      "size": 31678,
-      "sha256": "923c8fcf62f8a8bc98735c77faa3aec34c65f86edcd3606748f11a37657c1c6e"
-    },
-    {
-      "path": "capturas/Underground Garage/4.webp",
-      "size": 19354,
-      "sha256": "5ca5b1a36d922e6a829081f2a81061d4ce1ee1d5cd9c4d4c6b63bdcf0c674172"
-    },
-    {
-      "path": "capturas/Underground Garage/5.webp",
-      "size": 32378,
-      "sha256": "c8075824187063aa3e1846fa2be3cdd2a315e943b66ded4c708c107d8cd52967"
-    },
-    {
-      "path": "capturas/Underground Garage/6.webp",
-      "size": 25406,
-      "sha256": "a9942f7e93092dea095ba2e218b7a2dd5e54ad40cd40c7d66b5d11da05fc3e1f"
-    },
-    {
       "path": "capturas/Until Then Deluxe Edition/1.webp",
       "size": 32094,
       "sha256": "67fa28cabfeee9a9ac87b56de58a8399f124633f06df339e08a57dab42cbbc0e"
@@ -9760,36 +9080,6 @@
       "path": "capturas/Until Then Deluxe Edition/6.webp",
       "size": 15314,
       "sha256": "61663de1a552ef24d67a00b1ae22e5f36099fa1d2ef22e6cc94cb9b98c1a2022"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/1.webp",
-      "size": 62042,
-      "sha256": "3e10a6afb251396f51ff3e9d981fe922a2bad39f0ddefc8f77566156473e332b"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/2.webp",
-      "size": 46832,
-      "sha256": "7e4593204b60528114896b68529a1a2481eb1d438057bf7ba32701cfd90ba928"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/3.webp",
-      "size": 76866,
-      "sha256": "2ce62e2a56e4424aebbe7927806a23ec110c21bc1a26af0ad94b6a6cc0e93011"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/4.webp",
-      "size": 36262,
-      "sha256": "d59676355c75637e87be28cc23b01c4df6f12cf85c3e1ed5e1efa4034dd7abeb"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/5.webp",
-      "size": 41776,
-      "sha256": "2959998dc6a92fd0d6234e0c34e852f2cc970c3e1c008f5944a97c5951653280"
-    },
-    {
-      "path": "capturas/Vampire Survivors Game/6.webp",
-      "size": 29142,
-      "sha256": "cdbfe12c24efa1d3cc7f3264e7d7f61e8c1b102032e8e9d1eb5f310f5e59739d"
     },
     {
       "path": "capturas/Victoria 3/1.webp",
@@ -10027,36 +9317,6 @@
       "sha256": "08c3a8043eebdc9396b9f0bb675ae762d872f6080a151f4da53887f6aebc871b"
     },
     {
-      "path": "capturas/Wavey The Rocket/1.webp",
-      "size": 30152,
-      "sha256": "eeab2c29c7d58c7c147c6d52bfcd896b3fc98f3a7a7453d7dd7c28bc77cda171"
-    },
-    {
-      "path": "capturas/Wavey The Rocket/2.webp",
-      "size": 30958,
-      "sha256": "d303807cfa45de59579313265b088867af2f1843ff32061ed4494ee0f650beb1"
-    },
-    {
-      "path": "capturas/Wavey The Rocket/3.webp",
-      "size": 37778,
-      "sha256": "eba0534c5946755ea4aacf40d72f100c349068812cbeceef1dbf11b850ce62c2"
-    },
-    {
-      "path": "capturas/Wavey The Rocket/4.webp",
-      "size": 35884,
-      "sha256": "4f10d95522dc0ae0b88515491f5fe926dc58087c9add2dc600fb396d6aaab40b"
-    },
-    {
-      "path": "capturas/Wavey The Rocket/5.webp",
-      "size": 26894,
-      "sha256": "aee2e101df2239226b8a1ab3b887020d773b763d03b59a8fdb3be357460fcfae"
-    },
-    {
-      "path": "capturas/Wavey The Rocket/6.webp",
-      "size": 22746,
-      "sha256": "9444291c743de1b37ace6fd4ba1e45d03e444e2b3a25e079746be4c4e243d874"
-    },
-    {
       "path": "capturas/Wicked Seed/1.webp",
       "size": 14326,
       "sha256": "70aa960fd5a8d3af68ebee03cb92bf56c3117f3816bcb7331f785f1347b36895"
@@ -10267,36 +9527,6 @@
       "sha256": "c290a690c9ed3ec71ebb3654c964f057395af7784ec6b8c405bdc4107c3e6047"
     },
     {
-      "path": "capturas/Worship/1.webp",
-      "size": 26576,
-      "sha256": "ca278cfccd1d81f67b2197c64556abbb9e0209f3b7b1e4edb8716ff3bdd6181a"
-    },
-    {
-      "path": "capturas/Worship/2.webp",
-      "size": 27970,
-      "sha256": "b91fbe126a34426abb9c7a5666878f520363413912b3dbae02996b0338119f0a"
-    },
-    {
-      "path": "capturas/Worship/3.webp",
-      "size": 42340,
-      "sha256": "416656b7375e6b98f9e5cae6330e5c1c0986c26dc925754618b226385a424cff"
-    },
-    {
-      "path": "capturas/Worship/4.webp",
-      "size": 35526,
-      "sha256": "46c14e1d375bafa1f8b359ba97755aecc699a46adec668e23397eed428fd3216"
-    },
-    {
-      "path": "capturas/Worship/5.webp",
-      "size": 52492,
-      "sha256": "33e7f92ffb9bb8a479716fa34e6140a5bccd54c35699c4239019824e287dde11"
-    },
-    {
-      "path": "capturas/Worship/6.webp",
-      "size": 41116,
-      "sha256": "3cb209d9ffeb0d841521b6a268db4a4355aaa35cca356fe1caf25c4827d5f147"
-    },
-    {
       "path": "capturas/WWE 2K26/1.webp",
       "size": 16426,
       "sha256": "502692dadc41430cbe84522f82c1c50449a3775ea8732317de3baf7b3eba07c6"
@@ -10487,6 +9717,11 @@
       "sha256": "d7548744591bf97a7e4cb7d03893fe55ee2f357b0f1bfd6b302afc61d25a6b4d"
     },
     {
+      "path": "sinopsis/ATOM RPG Post-apocalyptic Indie Game.txt",
+      "size": 510,
+      "sha256": "691413fb8e87ccfa4e8fc92f0ae2c83a2d10d5b3524df55c7b49010436054266"
+    },
+    {
       "path": "sinopsis/Atomic Heart Ultimate Edition.txt",
       "size": 1005,
       "sha256": "bab63478e6ccd995be4b3792b46187cb40a333d2d2cacc876aea77b332147046"
@@ -10545,11 +9780,6 @@
       "path": "sinopsis/Beast of Reincarnation Deluxe Edition.txt",
       "size": 246,
       "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
-    },
-    {
-      "path": "sinopsis/Beyond These Stars.txt",
-      "size": 841,
-      "sha256": "64ccf928910204a82a05cdbd1a185b72fa4c7b068e5802a500a5ef6a1c51a354"
     },
     {
       "path": "sinopsis/Black Myth Wukong.txt",
@@ -10655,11 +9885,6 @@
       "path": "sinopsis/Call Of Duty WWII.txt",
       "size": 794,
       "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
-    },
-    {
-      "path": "sinopsis/Carrion.txt",
-      "size": 373,
-      "sha256": "a69b6617bb4e234f7314bc4c017426d0bc1f6fde8b6aa652749770e0dc94730a"
     },
     {
       "path": "sinopsis/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -10807,6 +10032,11 @@
       "sha256": "808cbc56f74d839e82bbd20904dfe8957899f4d7664d389a34dd532e99a5dd03"
     },
     {
+      "path": "sinopsis/DreamWorks Shrek 2 Remastered.txt",
+      "size": 758,
+      "sha256": "afa25b0b015be008e1b1f13fe8294ec9c41a690f1d4a2c28bce0fbe0ea2d56ff"
+    },
+    {
       "path": "sinopsis/Driveclub.txt",
       "size": 385,
       "sha256": "920300b93d796427a074df7e506c1d7d87b08ce1e7b392faedd32bdea13b8c97"
@@ -10815,11 +10045,6 @@
       "path": "sinopsis/Dune Awakening Ultimate Edition.txt",
       "size": 309,
       "sha256": "48912c9de5e241260ce0d42528e2b3b91004e9a48b73cebe52d191a8803ab93f"
-    },
-    {
-      "path": "sinopsis/Dust & Courage Jake Bolton’s Journey.txt",
-      "size": 976,
-      "sha256": "341f5479d8b753ef45c522d7413002d4b6d72695237d92ebfcf4580a17204fef"
     },
     {
       "path": "sinopsis/Dying Light 2 Stay Human.txt",
@@ -10840,11 +10065,6 @@
       "path": "sinopsis/EA SPORTS FIFA 23.txt",
       "size": 332,
       "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
-    },
-    {
-      "path": "sinopsis/Earth Must Die.txt",
-      "size": 982,
-      "sha256": "2139c87ba7448a407156ead77f7c7811f258428a059b9c8e9a481f5f23868d73"
     },
     {
       "path": "sinopsis/Ecstatica Remastered.txt",
@@ -10910,6 +10130,11 @@
       "path": "sinopsis/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 494,
       "sha256": "94d46bdfe03c00d0da05cff7ffe18bce131af18a03661cea92055e83e5e02a4e"
+    },
+    {
+      "path": "sinopsis/FIFA EA SPORTS FC 27.txt",
+      "size": 769,
+      "sha256": "e7ca0d1f9cce76c81e6373ffa4aca4d16ea7f14b9246e9b105a5d163e42d812a"
     },
     {
       "path": "sinopsis/Forgotton Anne.txt",
@@ -11042,11 +10267,6 @@
       "sha256": "6c119e0db17c63568663429077bcc972c9e5072cd945c95d6e3bdad5749e5695"
     },
     {
-      "path": "sinopsis/Harold Halibut.txt",
-      "size": 698,
-      "sha256": "ee19c2540703bc12fa3e661c328bf01dd6be40263bbf94897ccba16710679752"
-    },
-    {
       "path": "sinopsis/Harvest Moon Echoes of Teradea.txt",
       "size": 907,
       "sha256": "32911f961521d9d01f4a7e9593020dec393966effff9e10033787e55b79ef176"
@@ -11055,11 +10275,6 @@
       "path": "sinopsis/Heart of the Machine.txt",
       "size": 1519,
       "sha256": "dd5ca8a70255ab1a190703675f4ee189ecb171ab95524742bf5f0be0e83093d3"
-    },
-    {
-      "path": "sinopsis/Hellmart.txt",
-      "size": 943,
-      "sha256": "8b81aaf441260b276096688186a92215614b3008162330ddefd8b067d4dc7262"
     },
     {
       "path": "sinopsis/Hitman World of Assassination.txt",
@@ -11102,19 +10317,9 @@
       "sha256": "692eea391e78988db976855d1512942acfc6e4109e555118550fec7b792e59ea"
     },
     {
-      "path": "sinopsis/Hypnos.txt",
-      "size": 400,
-      "sha256": "e649b4408fc295b58c55a5c7dab95ab2879401fac7d3f5daa21512a77ce5fe2d"
-    },
-    {
       "path": "sinopsis/I Am Jesus Christ.txt",
       "size": 2092,
       "sha256": "1ab24730e6c659e5dfb4bf136a1aea943f970be1d7171823f1e7584698a1bb49"
-    },
-    {
-      "path": "sinopsis/I Am Your Beast Complete Edition.txt",
-      "size": 754,
-      "sha256": "61432934a1c731e47e9d61ae1edfa96741a47f4a978f7c951aaa9c633411335e"
     },
     {
       "path": "sinopsis/Indiana Jones And The Great Circle.txt",
@@ -11287,19 +10492,9 @@
       "sha256": "ff8a2f020138511ce1b5eedb9883b9949ef13f0e41ac002127440bc8e6c4e6bb"
     },
     {
-      "path": "sinopsis/Not For Broadcast Complete Edition.txt",
-      "size": 986,
-      "sha256": "55e10dac522bf40f366a612cf8410d1e8ba767f98865f067e6d3cfba2cb11a15"
-    },
-    {
       "path": "sinopsis/Nymphomaniac Sex Addict.txt",
       "size": 418,
       "sha256": "7902b5b91b7e0d9469860eaf0734d8495fbb4c9999abfcf971577bf7d3fe0181"
-    },
-    {
-      "path": "sinopsis/Obey the Voice.txt",
-      "size": 427,
-      "sha256": "837b6fc8a12011ace26e3deab58a5230a8b0a9be6b01b16687f654cd9a680b97"
     },
     {
       "path": "sinopsis/Onimusha Way of the Sword Premium Deluxe Edition.txt",
@@ -11312,19 +10507,9 @@
       "sha256": "2da64d5d2033c4684e2f7c0c815216f465c741b27c30114224b09ec934d3c993"
     },
     {
-      "path": "sinopsis/Paper Beast Folded Edition.txt",
-      "size": 367,
-      "sha256": "deb2a8f109082bf3f419612cbdcfe0a6dc42555b017fdfaac684b0eb55bae1b7"
-    },
-    {
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
       "size": 834,
       "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
-    },
-    {
-      "path": "sinopsis/Phonopolis.txt",
-      "size": 452,
-      "sha256": "18a37dd22bf6584fca3082a63f0bb61fcd5f2d8067d041f58b6f805ed20dbd14"
     },
     {
       "path": "sinopsis/Planet of Lana II Children Of The Lead.txt",
@@ -11335,11 +10520,6 @@
       "path": "sinopsis/Planet of Lana.txt",
       "size": 485,
       "sha256": "5965c77f29de6bbfe9c4f509ebfd6f0741f0c2684f4aeb1e099d6351caf2023c"
-    },
-    {
-      "path": "sinopsis/Playrooms.txt",
-      "size": 755,
-      "sha256": "1412b13dc9e611e521500bfe6f6ba65a109489d52a9db287c82f8431b513d345"
     },
     {
       "path": "sinopsis/Pokémon Pokopia.txt",
@@ -11390,11 +10570,6 @@
       "path": "sinopsis/Remothered Red Nuns Legacy.txt",
       "size": 263,
       "sha256": "e1d9daecf8e401e23498caa7ad71ebc58db114d0ef5d863f2f70f0ee60e2d186"
-    },
-    {
-      "path": "sinopsis/Rent A Car Simulator 24.txt",
-      "size": 812,
-      "sha256": "acb57bd95a69642a8eb0861f15e25d6cc6a92504db4d70efb75e7de49c013a5e"
     },
     {
       "path": "sinopsis/Replaced Supporter Edition.txt",
@@ -11457,19 +10632,9 @@
       "sha256": "f5c420c64878de49e9f3bf8b704c92bbdd892c9472b6940282b7e49cb9439d13"
     },
     {
-      "path": "sinopsis/Romance Of The Three Kingdoms VIII Remake.txt",
-      "size": 585,
-      "sha256": "1f82df9e118e05280a7797f5a3aba57477a9b5ad351c140ab6593d3a27742936"
-    },
-    {
       "path": "sinopsis/RoomGirl Paradise.txt",
       "size": 465,
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
-    },
-    {
-      "path": "sinopsis/Roots Devour.txt",
-      "size": 1248,
-      "sha256": "b33c37bdce9627a9e08a3c110ddd9eb7770e42c2ca846be7088488fbca637d48"
     },
     {
       "path": "sinopsis/S.E.M.I. Side Effects May Include….txt",
@@ -11552,19 +10717,14 @@
       "sha256": "2ed37c8c4f6970bb680ea48bf5e2c66c70884a9852b7f615fda94e48b4439dd4"
     },
     {
-      "path": "sinopsis/Split Fiction.txt",
-      "size": 1210,
-      "sha256": "663893b7ef15e37c72a4c5d1450e38649649b3aafff4f5d827f5d01448f29340"
-    },
-    {
       "path": "sinopsis/Stalker 2 Heart Of Chornobyl.txt",
       "size": 706,
       "sha256": "a59f0c379679dc14e6d62786c20f0f3165c4dbdf73801684085059ee508494b5"
     },
     {
       "path": "sinopsis/Star Wars Galactic Racer Deluxe Edition.txt",
-      "size": 370,
-      "sha256": "27cb6e8b674b63dcbcc0ca8256b4b846027d4fb38776a3b003170b781c1835a6"
+      "size": 725,
+      "sha256": "2bf7a896a70cf887fa4a742f56ed347c34fea2e92d84628eb4ff31158e1b6a58"
     },
     {
       "path": "sinopsis/Star Wars Jedi Survivor.txt",
@@ -11607,9 +10767,9 @@
       "sha256": "e8f626b80b064bd8913a3033620577eab82eb048902d88534a36c31d287e7ab7"
     },
     {
-      "path": "sinopsis/Tacoma.txt",
-      "size": 1222,
-      "sha256": "9d310932623cb621933ede274ce6448291463906f7877c969b2e87a61e3cf1f1"
+      "path": "sinopsis/Takeover 2 Deluxe Edition.txt",
+      "size": 626,
+      "sha256": "1cbb082f76dc628b33863fa7346c54b4c7e1888271e2dcbe061f9070eeb738c5"
     },
     {
       "path": "sinopsis/Tekken 7 Ultimate Edition.txt",
@@ -11637,19 +10797,9 @@
       "sha256": "44f3c8b0954e15e5964fc0736126f3255114cccc3fcb8651628329404297fd74"
     },
     {
-      "path": "sinopsis/Terraria.txt",
-      "size": 700,
-      "sha256": "9f17a2e1f9e864b5cc6ded71559b1a041f2a53edbb5c7d983224e47a9a136509"
-    },
-    {
       "path": "sinopsis/The Alters Deluxe Edition.txt",
       "size": 1198,
       "sha256": "296b1c9e4ebdda7085697a492106ea66f8ba7517e6d02d0cfaf141ae173aab07"
-    },
-    {
-      "path": "sinopsis/The Artful Escape.txt",
-      "size": 517,
-      "sha256": "0315b275b9079427844067379f967440735e35de0015a7cb36d3969ec9f792e1"
     },
     {
       "path": "sinopsis/The Berlin Apartment.txt",
@@ -11702,11 +10852,6 @@
       "sha256": "a463ddb9b0f0eefcafa435d0c26ded822ca6f2a151b849c1a3322f2f3fb7ac4d"
     },
     {
-      "path": "sinopsis/The Pedestrian.txt",
-      "size": 282,
-      "sha256": "69595dd454598ee289274c9bf92586f3faabacfbda0a4fce2c6a60bae1528bff"
-    },
-    {
       "path": "sinopsis/The Relic First Guardian.txt",
       "size": 304,
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
@@ -11720,11 +10865,6 @@
       "path": "sinopsis/The Sinking City 2 Premium Edition.txt",
       "size": 347,
       "sha256": "574662752878e67f9939645d97533b7490b7426b5cd65ced39fd6842eef54b85"
-    },
-    {
-      "path": "sinopsis/The Vale Shadow of the Crown.txt",
-      "size": 719,
-      "sha256": "ef7d4d25f7fc4d69245176db6f129cfec4b00e7b5a025c5562c68c051b30ec00"
     },
     {
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
@@ -11772,19 +10912,9 @@
       "sha256": "b0c013f33235ef60f6122816510757d9b0668622a40f8e408988d68da4b6171f"
     },
     {
-      "path": "sinopsis/Underground Garage.txt",
-      "size": 1084,
-      "sha256": "239fe9c22703ec0338aaf35e92024f8e4e1287db24400c852fd42f874368beb5"
-    },
-    {
       "path": "sinopsis/Until Then Deluxe Edition.txt",
       "size": 1204,
       "sha256": "99fedbb2f3a0af4b0ae01a17e6cb906ed7f864f95c68ec72dd5507c95887ce22"
-    },
-    {
-      "path": "sinopsis/Vampire Survivors Game.txt",
-      "size": 589,
-      "sha256": "d9e8537d4460fdeac10a6ece09c34428576e6e167f1ddd61dd541e8cd88a5914"
     },
     {
       "path": "sinopsis/Victoria 3.txt",
@@ -11827,11 +10957,6 @@
       "sha256": "eaa0c3ae20be5de2c4e1bbd8a8282a8d95d6ab211050461c4dbd92ba1c4a92c7"
     },
     {
-      "path": "sinopsis/Wavey The Rocket.txt",
-      "size": 430,
-      "sha256": "384dd6529cb958a4535f11e2d5feaf8e97a811f59699a217eef70d99a58f0649"
-    },
-    {
       "path": "sinopsis/Wicked Seed.txt",
       "size": 260,
       "sha256": "61e22a81fa8495d67bf03bae98b679071f61f1e27535180eda2516e1cd88664f"
@@ -11865,11 +10990,6 @@
       "path": "sinopsis/World War Z Aftermath Deluxe Edition.txt",
       "size": 1861,
       "sha256": "03978db4cf078e3d5d8ff4579a84dc5bdc5b6f1bcf6ab7c1c38c0b3fc2fdf10d"
-    },
-    {
-      "path": "sinopsis/Worship.txt",
-      "size": 1181,
-      "sha256": "9a430f9f094773294413f018dd846b66155c5fa11fd756d838d42c482e7632b5"
     },
     {
       "path": "sinopsis/WWE 2K26.txt",
@@ -11987,6 +11107,11 @@
       "sha256": "c1052597e3ad7b61d1ec5211e5cd571dafbaf1cec61724b0e0d77278580f0857"
     },
     {
+      "path": "datos/ATOM RPG Post-apocalyptic Indie Game.txt",
+      "size": 206,
+      "sha256": "a8678174cf4f13fbb9cc88aa8f28f9ce4e973ab99253d323c91b0cbcd2228d1d"
+    },
+    {
       "path": "datos/Atomic Heart Ultimate Edition.txt",
       "size": 205,
       "sha256": "dd887c6f8c38e4eb69b82b33f0427271d3873fff119787e5fb9aee45305be3ae"
@@ -12050,11 +11175,6 @@
       "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
       "size": 264,
       "sha256": "75ea0c48eaa2797a4ada4954e9481ad6cff368288d30bf5eda773f5df421792a"
-    },
-    {
-      "path": "datos/Beyond These Stars.txt",
-      "size": 178,
-      "sha256": "286906769d4994b47af7dc64f7e2ca8f6fb6a8b134a8c22ec8098226254a9f1b"
     },
     {
       "path": "datos/Black Myth Wukong.txt",
@@ -12160,11 +11280,6 @@
       "path": "datos/Call Of Duty WWII.txt",
       "size": 200,
       "sha256": "e3ff75cc663f83194e976305e7d2c379d815de270ae66340269240d3727c74aa"
-    },
-    {
-      "path": "datos/Carrion.txt",
-      "size": 181,
-      "sha256": "8dceab1030f39358e6837ce476a80d46fccb8731a36474a6da78e7387665ad30"
     },
     {
       "path": "datos/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -12312,6 +11427,11 @@
       "sha256": "c9d04a42ac81a353a026fdf48d8a8c8f1a8b75cdfa92b459bf90382f2490b2a0"
     },
     {
+      "path": "datos/DreamWorks Shrek 2 Remastered.txt",
+      "size": 176,
+      "sha256": "8cd2902333f9a09abe169bd18ec5ab29cc04f73a12e645cb0c841038c9b70abd"
+    },
+    {
       "path": "datos/Driveclub.txt",
       "size": 209,
       "sha256": "0d15cda08fc60bc86a0a258057df54872cfcc8c975f9ba3a1b967374cc72c00c"
@@ -12320,11 +11440,6 @@
       "path": "datos/Dune Awakening Ultimate Edition.txt",
       "size": 207,
       "sha256": "732da07a87ff041ed4ffffe35db685172acb36d0f286a8e52308acb8ea5e3b7e"
-    },
-    {
-      "path": "datos/Dust & Courage Jake Bolton’s Journey.txt",
-      "size": 202,
-      "sha256": "9ad932f7d331aebf152b3702ebc909404ddda46d1a4f7297a54443e9dee9d850"
     },
     {
       "path": "datos/Dying Light 2 Stay Human.txt",
@@ -12345,11 +11460,6 @@
       "path": "datos/EA SPORTS FIFA 23.txt",
       "size": 228,
       "sha256": "f80d067cc158aa13a83f15381839be78d00965eee364b786f4bf0434a96ba5a6"
-    },
-    {
-      "path": "datos/Earth Must Die.txt",
-      "size": 191,
-      "sha256": "5b1ebce881474454a3f28f6249518e27a870079bc56f2ff972242f482125c185"
     },
     {
       "path": "datos/Ecstatica Remastered.txt",
@@ -12415,6 +11525,11 @@
       "path": "datos/Farming Simulator 25 Year 1 Bundle.txt",
       "size": 202,
       "sha256": "9066577474a45914d1f9630f80694fbb56d7089ab075494397e8de1ec2b0cc89"
+    },
+    {
+      "path": "datos/FIFA EA SPORTS FC 27.txt",
+      "size": 189,
+      "sha256": "3aed9d081c4e3d0ec9c0434082520102bd68f778c5d4fc96e515c50d16b5a9c4"
     },
     {
       "path": "datos/Forgotton Anne.txt",
@@ -12547,11 +11662,6 @@
       "sha256": "7496bf28b4e6d048c0c896f195325483999138e72dfd0fb0e0d8fe98eb0505ab"
     },
     {
-      "path": "datos/Harold Halibut.txt",
-      "size": 181,
-      "sha256": "e0ded160056426532eab9f56928645e5a8bef57bc1351c0536f90863ebcf49ea"
-    },
-    {
       "path": "datos/Harvest Moon Echoes of Teradea.txt",
       "size": 176,
       "sha256": "e1de278e9602d2764f78a4547aa823771e2ecc4bbd830f2e1106ff5f29dac724"
@@ -12560,11 +11670,6 @@
       "path": "datos/Heart of the Machine.txt",
       "size": 184,
       "sha256": "f911b325b9fc9ea43bb2791868e33ba6e0fe7abbefcc982ec0ef4f63f00420f9"
-    },
-    {
-      "path": "datos/Hellmart.txt",
-      "size": 184,
-      "sha256": "4e31422571afe5db98a36d736e542f9208b3bb7c0d905752e82d5b669d9cbf1e"
     },
     {
       "path": "datos/Hitman World of Assassination.txt",
@@ -12607,19 +11712,9 @@
       "sha256": "ecc882267f5f6c48be2fa2cb5f882bedaf2ef52f57ad682f6d6a274401c44950"
     },
     {
-      "path": "datos/Hypnos.txt",
-      "size": 200,
-      "sha256": "191683290b85af94ec3666e3e0ff38d7f6e16e68433fbe3e86dac3c5723aea7d"
-    },
-    {
       "path": "datos/I Am Jesus Christ.txt",
       "size": 198,
       "sha256": "d98c2811f4c28c9cac0e5ce1102661d16f9e8fdc2a8b417ec6bfd0edd67a696a"
-    },
-    {
-      "path": "datos/I Am Your Beast Complete Edition.txt",
-      "size": 161,
-      "sha256": "422a7be4af7e0c01c24b89416a2a10417dfd0b9e82834be6032a9d0f110a6377"
     },
     {
       "path": "datos/Indiana Jones And The Great Circle.txt",
@@ -12792,19 +11887,9 @@
       "sha256": "b8764692d5a3dd3c29c899daf4216927ec76ad3f45b85a93b77cbb24c07d46c8"
     },
     {
-      "path": "datos/Not For Broadcast Complete Edition.txt",
-      "size": 185,
-      "sha256": "5e796206dd41dacb7b79b0ddb82ab0490b0a437e0e12ad83b01a675b3bd91367"
-    },
-    {
       "path": "datos/Nymphomaniac Sex Addict.txt",
       "size": 178,
       "sha256": "b929f5f3af0779a0ea1407eff0d44c867b75759ddd644070f0d5c5d56f77c432"
-    },
-    {
-      "path": "datos/Obey the Voice.txt",
-      "size": 209,
-      "sha256": "ec00fbc0a80e4a8fdd9cbf9011dccc72745c919bc7e106fb59e3af72dbb4c069"
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
@@ -12817,19 +11902,9 @@
       "sha256": "b3e91473e18ac006aec6b56a82da0c7a473661e7629fd4337263991c4faeae35"
     },
     {
-      "path": "datos/Paper Beast Folded Edition.txt",
-      "size": 224,
-      "sha256": "0bc43a5bfeefa354a074c1a95a7113fa7aa9440a60a814fb62df960b6a6890e1"
-    },
-    {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
       "size": 268,
       "sha256": "105ce54e86a59f5d8b49e934e356a4a95d2da0af47e161b2c72a07a4cf1ae0e2"
-    },
-    {
-      "path": "datos/Phonopolis.txt",
-      "size": 181,
-      "sha256": "248e836804f9dc15cf5c2f612cdcf9850744ecb0d89b3834b94a5942fd7fd1ae"
     },
     {
       "path": "datos/Planet of Lana II Children Of The Lead.txt",
@@ -12840,11 +11915,6 @@
       "path": "datos/Planet of Lana.txt",
       "size": 210,
       "sha256": "07e83cd07760427a1c615ac2ba6ff50fb68a25c805521aea3743c655fcb3183d"
-    },
-    {
-      "path": "datos/Playrooms.txt",
-      "size": 182,
-      "sha256": "85e6e91151391666b76a1665c5fddf8193ff03546c5e2b3ee716737f66950a27"
     },
     {
       "path": "datos/Pokémon Pokopia.txt",
@@ -12895,11 +11965,6 @@
       "path": "datos/Remothered Red Nuns Legacy.txt",
       "size": 201,
       "sha256": "95d0afe06ffc6f95dd00dc67f14210600cc8b4e4adf2f50d84c3a6589a8f4f14"
-    },
-    {
-      "path": "datos/Rent A Car Simulator 24.txt",
-      "size": 237,
-      "sha256": "4b5e8e43b9eb1fcedf6c089a3f14a5820d77c44ff6057023a23d6b60c8de750d"
     },
     {
       "path": "datos/Replaced Supporter Edition.txt",
@@ -12962,19 +12027,9 @@
       "sha256": "c0c931586934d43a5523b973850d4a9d9d911a4ce6574a3331e2e66d9a576690"
     },
     {
-      "path": "datos/Romance Of The Three Kingdoms VIII Remake.txt",
-      "size": 176,
-      "sha256": "9a15f72cb81e686caea0a184ae7bd1d522d988b69813dde3d4917c667328e6e6"
-    },
-    {
       "path": "datos/RoomGirl Paradise.txt",
       "size": 182,
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
-    },
-    {
-      "path": "datos/Roots Devour.txt",
-      "size": 207,
-      "sha256": "17cfa1214390ea7bece5b9ad82dcd1ccc1b5282248cb9f3f14a9610aed1a909a"
     },
     {
       "path": "datos/S.E.M.I. Side Effects May Include….txt",
@@ -13057,19 +12112,14 @@
       "sha256": "6649dd47e11d436f7889141bab572bab7d6813b918ff7b984578464016568e27"
     },
     {
-      "path": "datos/Split Fiction.txt",
-      "size": 170,
-      "sha256": "6621eee907f2840effca6d78996bb7668871a647142f1f9cbe4d6add76d98ea6"
-    },
-    {
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
       "size": 240,
       "sha256": "8756713dc36e44be66d99939fe65a554e0701a0e05eb894a0ff22850c4b1ef67"
     },
     {
       "path": "datos/Star Wars Galactic Racer Deluxe Edition.txt",
-      "size": 246,
-      "sha256": "70dfb89c785ad256a2f664f36cab3666a4ebe8d0c1f4052184f3c4650ffbe5c8"
+      "size": 280,
+      "sha256": "234b636b8ed8c3f48025b5f8a420b93a82c7d74787133e87a85739004e978721"
     },
     {
       "path": "datos/Star Wars Jedi Survivor.txt",
@@ -13112,9 +12162,9 @@
       "sha256": "e7df8dc6ea004776d33b415a873e52b9e41d6aa9b1375d50eaf7afa769336eca"
     },
     {
-      "path": "datos/Tacoma.txt",
-      "size": 172,
-      "sha256": "4a47b5c2b353161dedefceda34623f3f53639646980d2fb1005edb98c9039dad"
+      "path": "datos/Takeover 2 Deluxe Edition.txt",
+      "size": 223,
+      "sha256": "01d1dfde7be20f6716d182c95c1116d0f46a3578392da778cb22dece274b6657"
     },
     {
       "path": "datos/Tekken 7 Ultimate Edition.txt",
@@ -13142,19 +12192,9 @@
       "sha256": "bcfce3a430c2742923320784c5178a8f938ecd6368f3bc741e14f3772d1c253b"
     },
     {
-      "path": "datos/Terraria.txt",
-      "size": 229,
-      "sha256": "0abf0381b7b992ee3b4ff1fe33561179ea1c9cbe025df0846d5cb27d22b7d381"
-    },
-    {
       "path": "datos/The Alters Deluxe Edition.txt",
       "size": 206,
       "sha256": "0db32f500225fe98f33f40430a155c18c5b116c0d4a58a6f1a2a40bd260c7b4f"
-    },
-    {
-      "path": "datos/The Artful Escape.txt",
-      "size": 191,
-      "sha256": "1627a98d607847ecb11a8c3762410d9e8f405d6e9b52f42e15f697ab52ff27d8"
     },
     {
       "path": "datos/The Berlin Apartment.txt",
@@ -13207,11 +12247,6 @@
       "sha256": "46e6dbe6746c7f48c65b8d50f650a3ec27a1ed0218520af972d72dad6bc69464"
     },
     {
-      "path": "datos/The Pedestrian.txt",
-      "size": 201,
-      "sha256": "7212399bdebf56162692b8b7c7f2e3dd32d22393950002379ffc58c7f646271f"
-    },
-    {
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
@@ -13225,11 +12260,6 @@
       "path": "datos/The Sinking City 2 Premium Edition.txt",
       "size": 197,
       "sha256": "d74638b0552b799433e4c408d83053d6f9ec0b26a96b80f22f18d26cbeb09436"
-    },
-    {
-      "path": "datos/The Vale Shadow of the Crown.txt",
-      "size": 192,
-      "sha256": "dbeb022de982db095ea67ab74bf6656596d59e8707879577e423bca9bdd79b8d"
     },
     {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
@@ -13277,19 +12307,9 @@
       "sha256": "5fa25caa6f54df0ee3ef266ab25d9f6c09f21ac797af6bd9312499fe18fa8e2a"
     },
     {
-      "path": "datos/Underground Garage.txt",
-      "size": 239,
-      "sha256": "a613c9284006a94a3e7fe93c66f86d0f11244764c42698545e4ee620ee90ba85"
-    },
-    {
       "path": "datos/Until Then Deluxe Edition.txt",
       "size": 179,
       "sha256": "09e36f5677dbc6f5f53beedf65f83b54093397cbfab980f84eb4d10e5cabb607"
-    },
-    {
-      "path": "datos/Vampire Survivors Game.txt",
-      "size": 235,
-      "sha256": "dd250c2692b3e1998768ff0d8270a3f426267cf9fa66d712e3c347851ad0a6db"
     },
     {
       "path": "datos/Victoria 3.txt",
@@ -13332,11 +12352,6 @@
       "sha256": "8e1078f8f731caee6074a82de7097c51b4d352bc3b47a75a0f6d521620a3a683"
     },
     {
-      "path": "datos/Wavey The Rocket.txt",
-      "size": 185,
-      "sha256": "8cdc10e3824ce7d77fc5511b0693d6cbc1617fa1b1ed364185adfd0638c46490"
-    },
-    {
       "path": "datos/Wicked Seed.txt",
       "size": 187,
       "sha256": "bef2dbca5b9f8724e85606481579b2c2cf56c8311d53e9c0921bae57f1536211"
@@ -13370,11 +12385,6 @@
       "path": "datos/World War Z Aftermath Deluxe Edition.txt",
       "size": 211,
       "sha256": "7e3858e972205d48889c8da6558c3f64b4e7f16eecfe1d25204aefc7c3eabe1c"
-    },
-    {
-      "path": "datos/Worship.txt",
-      "size": 191,
-      "sha256": "0bb608d8c68d6941bd7792c7adbf748c74118fef72c20b2604d0fa71501ca58e"
     },
     {
       "path": "datos/WWE 2K26.txt",

@@ -1,9 +1,0 @@
-Año: 2020
-Género: Aventura / Indie / Logic / Puzles / Side / 2D
-Tamaño: 565 MB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 11/11/2026
-Puntuación: 8,1
-Metacritic: 81
-Repacker: FitGirl

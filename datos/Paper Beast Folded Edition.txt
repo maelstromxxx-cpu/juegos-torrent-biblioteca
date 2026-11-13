@@ -1,9 +1,0 @@
-Año: 2020
-Género: Aventura / Casual / Indie / Simuladores / Exploración / Mundo abierto
-Tamaño: 2.6 GB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 11/11/2026
-Puntuación: 7,4
-Metacritic: 
-Repacker: FitGirl

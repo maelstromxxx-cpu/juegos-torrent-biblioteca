@@ -1,9 +1,0 @@
-Año: 2026
-Género: Simuladores / Conducción / Lifestyle / Carreras / First-person / Third-person / Cars
-Tamaño: 6.2 GB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 12/11/2026
-Puntuación: 6,7
-Metacritic: 
-Repacker: FitGirl

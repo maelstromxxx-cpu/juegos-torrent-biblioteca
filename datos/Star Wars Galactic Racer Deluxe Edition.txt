@@ -1,10 +1,9 @@
 Año: 2026
-Género: Carreras / Acción / Arcade / Ciencia ficción / Multijugador
-Tamaño: 27GB
+Género: Acción / Aventura / Carreras / Simuladores / Deportes / Arcade / Vehicular combat / First-person / Third-person
+Tamaño: 26 G	B
 Modo: Singleplayer / Multiplayer
 Idioma: MULTI
-Fecha de incorporación: 30/10/2026
+Fecha de incorporación: 13/11/2026
 Puntuación: 8,8
-Metacritic: 86
+Metacritic: 
 Repacker: FitGirl
-Crack: Hypervisor

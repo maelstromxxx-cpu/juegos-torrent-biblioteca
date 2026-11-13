@@ -1,9 +1,0 @@
-Año: 2026
-Género: Aventura / Casual / Arcade / Niños / 2D
-Tamaño: 2 GB
-Modo: Singleplayer / Multiplayer
-Idioma: MULTI
-Fecha de incorporación: 09/11/2026
-Puntuación: 7,1
-Metacritic: 
-Repacker: FitGirl

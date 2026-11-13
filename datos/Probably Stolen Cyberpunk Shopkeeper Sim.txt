@@ -1,9 +1,0 @@
-Año: 2026
-Género: Indie / Rol / Simuladores / Estrategia
-Tamaño: 600 MB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 04/11/2026
-Puntuación: 9,7
-Metacritic: 
-Repacker: FitGirl

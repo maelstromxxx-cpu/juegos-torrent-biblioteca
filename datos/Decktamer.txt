@@ -1,9 +1,0 @@
-Año: 2025
-Género: Estrategia por turno / Cartas
-Tamaño: 600 MB
-Modo: Singleplayer
-Idioma: MULTI
-Fecha de incorporación: 08/11/2026
-Puntuación: 8,6
-Metacritic: 
-Repacker: FitGirl

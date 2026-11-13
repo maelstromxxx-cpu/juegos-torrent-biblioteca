@@ -1,9 +1,0 @@
-Año: 2026
-Género: Casual / Simuladores / FP / Logica
-Tamaño: 1.5 GB
-Modo: Singleplayer / Multiplayer
-Idioma: MULTI
-Fecha de incorporación: 08/11/2026
-Puntuación: 9,3
-Metacritic: 
-Repacker: FitGirl

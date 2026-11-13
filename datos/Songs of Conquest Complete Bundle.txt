@@ -1,9 +1,0 @@
-Año: 2024
-Género: Aventura / Rol / Estrategia
-Tamaño: 1.5 GB
-Modo: Singleplayer / Multiplayer
-Idioma: MULTI
-Fecha de incorporación: 09/11/2026
-Puntuación: 8,6
-Metacritic: 
-Repacker: FitGirl

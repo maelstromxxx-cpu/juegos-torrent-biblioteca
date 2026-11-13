@@ -1,3 +1,0 @@
-Cada escena de Ecstatica II se ve a través de una cámara fija. En el modo Software, el relanzamiento representa esos fondos en vivo, en su CPU, a la resolución de su pantalla. Parece nítido, pero mantiene el procesador ocupado.
-
-Este DLC hace ese trabajo por adelantado. Todos los fondos se han renderizado a 8K y se envían como imágenes terminadas, para que veas la mejor versión de cada escena mientras tu CPU no tiene casi nada que hacer. Sin embargo, hay un cavaet: estos fondos ocupan MUCHO espacio.

@@ -177,11 +177,6 @@
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
     },
     {
-      "path": "imagenes/Blueys Happy Snaps.webp",
-      "size": 28158,
-      "sha256": "3b0a68e82a1e7884dbc8beba5a43332104baa93b17b7f5d9ffa3bed96ffdda91"
-    },
-    {
       "path": "imagenes/Bravely Default Flying Fairy HD Remaster.webp",
       "size": 79658,
       "sha256": "5d4dcda6a49bef436811a31571c5e67534f1dde3d40c34711fbde681deb4cc1f"
@@ -347,11 +342,6 @@
       "sha256": "616c4047fd2ae40f0f915074dee498ad225fcfe25dc912b37d57bcec8c35ae6e"
     },
     {
-      "path": "imagenes/Decktamer.webp",
-      "size": 49906,
-      "sha256": "c15f1c2849df43685b3727639f6088548babac2a0a7daf2441207494b538ebc0"
-    },
-    {
       "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
       "size": 54612,
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
@@ -435,11 +425,6 @@
       "path": "imagenes/EA SPORTS FIFA 23.webp",
       "size": 69110,
       "sha256": "a46321383ce5e3b35da82418387ceea0849d529eaaeb64ae6e81857cd88b4bb4"
-    },
-    {
-      "path": "imagenes/Ecstatica Remastered.webp",
-      "size": 67144,
-      "sha256": "3572e72d0610286a9dbb1d8a0133fb62a7d04be3ec17f489bb9971ce08d8cd80"
     },
     {
       "path": "imagenes/Elden Ring Nightreign Deluxe Edition.webp",
@@ -635,16 +620,6 @@
       "path": "imagenes/Halo Wars 2 Complete Edition.webp",
       "size": 42200,
       "sha256": "9f10f2f4358725318aac46c0160b16ca949a4f7a3b7ef1d94e4d032e6128b8df"
-    },
-    {
-      "path": "imagenes/Harvest Moon Echoes of Teradea.webp",
-      "size": 48910,
-      "sha256": "02c8c0c36d83ab03cd9a7cc5e53b561cfcc0ffc878fed589765f3dafc159eb06"
-    },
-    {
-      "path": "imagenes/Heart of the Machine.webp",
-      "size": 29936,
-      "sha256": "e6a721f03c37ca6d02ccd7e0674117c1a75d3ba5a12d7e982ef80d74c97fbf55"
     },
     {
       "path": "imagenes/Hitman World of Assassination.webp",
@@ -902,11 +877,6 @@
       "sha256": "030902fc18c9bb5888e4e08aed85a8ba372de38b7b41adecf1f651e47a681275"
     },
     {
-      "path": "imagenes/Probably Stolen Cyberpunk Shopkeeper Sim.webp",
-      "size": 59700,
-      "sha256": "9029309320c7126d345a5a6de686c45d6e27089369d92954316e9f6b50dbf15a"
-    },
-    {
       "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
       "size": 14344,
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
@@ -1067,19 +1037,9 @@
       "sha256": "7c2bbb7dd99bae52419a42d2cf8bd189213d0a2e6f9d68284e90ef7165f73d07"
     },
     {
-      "path": "imagenes/Songs of Conquest Complete Bundle.webp",
-      "size": 96360,
-      "sha256": "d8edec1038dd3150a6051bbd8091bf176f6ca988807c18dd77e8fc4e6c6c45a8"
-    },
-    {
       "path": "imagenes/Sonic Frontiers Digital Deluxe Edition.webp",
       "size": 46012,
       "sha256": "7480ee59930b7016a494552330024274793f16ce4bc48e30fd29549c6e630795"
-    },
-    {
-      "path": "imagenes/Sort The Capybaras.webp",
-      "size": 26534,
-      "sha256": "8f0e300b9b1af9ad1e9f5c53c6f479cb1529e9970ee941cab8050be909e0c34b"
     },
     {
       "path": "imagenes/Spider-Man Shattered Dimensions.webp",
@@ -1285,11 +1245,6 @@
       "path": "imagenes/Until Then Deluxe Edition.webp",
       "size": 53344,
       "sha256": "335e3d0663d91285cca17b4d9bedf2ab2d9d34040a7b5470a4a1666bda0ab4d4"
-    },
-    {
-      "path": "imagenes/Victoria 3.webp",
-      "size": 35216,
-      "sha256": "a79f83bb1cfb813c0173756a50e539d3282255a47095d0699f7536a3f1b2b2f8"
     },
     {
       "path": "imagenes/Violet.webp",
@@ -2442,36 +2397,6 @@
       "sha256": "bcdb8f01830963b5c2dc597e0e864c1507a45864a48f8be6dab9be7d4b5074e4"
     },
     {
-      "path": "capturas/Blueys Happy Snaps/1.webp",
-      "size": 25456,
-      "sha256": "ad1e84b3380cbfb76cdb3a15cb1955faa7ed7499f81174fd9fa53a6cda9c17d2"
-    },
-    {
-      "path": "capturas/Blueys Happy Snaps/2.webp",
-      "size": 18262,
-      "sha256": "8c32a5bbe9f22cbf3760fd71738c8d029009cf2695e727dea794b34e81fd44aa"
-    },
-    {
-      "path": "capturas/Blueys Happy Snaps/3.webp",
-      "size": 18596,
-      "sha256": "89992184bfe9d89120a8762d277b7141379e6b5de19780f03d472aabafa88704"
-    },
-    {
-      "path": "capturas/Blueys Happy Snaps/4.webp",
-      "size": 20126,
-      "sha256": "b7a3f0f17a41047b1b9c72d0f607b46f380c9a71030280bb977235c9eb95830b"
-    },
-    {
-      "path": "capturas/Blueys Happy Snaps/5.webp",
-      "size": 20196,
-      "sha256": "0eef5b7fc30be3826f0f661bf9404bade1d3a81174b9487c71c784508caa4d1f"
-    },
-    {
-      "path": "capturas/Blueys Happy Snaps/6.webp",
-      "size": 25972,
-      "sha256": "23dbd6762d001828ac5cec67afbbb9797791cc4342f5a0d96ecbfd70b136826e"
-    },
-    {
       "path": "capturas/Bravely Default Flying Fairy HD Remaster/1.webp",
       "size": 9926,
       "sha256": "57aa80e44e59ce49e31de9ac74678230a25fc168b4c2fe0841ccad63d7bee27c"
@@ -3462,36 +3387,6 @@
       "sha256": "9ef8a9af3ba8b62f75bf6f2b46a11e979f5df5a668971767bfb2caa4b3462aa2"
     },
     {
-      "path": "capturas/Decktamer/1.webp",
-      "size": 30798,
-      "sha256": "a342f49969e3df3112083a0b24f1f68518d1edbd985c77b0274b130d740c6e00"
-    },
-    {
-      "path": "capturas/Decktamer/2.webp",
-      "size": 29512,
-      "sha256": "1a89e44a7248d600968a4ba276a9d2e4456ede525ce0ed92ddc2f435105fb081"
-    },
-    {
-      "path": "capturas/Decktamer/3.webp",
-      "size": 14250,
-      "sha256": "3a73395f2d573ca19c4eaba51a9a8c2cccf7ae84020471aea469e0bfb1a3ecb5"
-    },
-    {
-      "path": "capturas/Decktamer/4.webp",
-      "size": 27772,
-      "sha256": "c6ee88b5cda752852603d96e7b4aa6a8e7ddbe072f4597292640cc630f93de4a"
-    },
-    {
-      "path": "capturas/Decktamer/5.webp",
-      "size": 24128,
-      "sha256": "dc51f9e14e9f08668f8a28217a59b3aab32d5b0620f8334642b0496f585616f8"
-    },
-    {
-      "path": "capturas/Decktamer/6.webp",
-      "size": 33730,
-      "sha256": "23a267a0958fdccfe96ac95b7397dd9950e02f954e454186855c40bfa2e1c0da"
-    },
-    {
       "path": "capturas/Deep Rock Galactic Deluxe Edition/1.webp",
       "size": 19300,
       "sha256": "fca9a07389e746d11c1d944a1c22453ec7c901040fa562c6bdbbc2480869b491"
@@ -4000,11 +3895,6 @@
       "path": "capturas/EA SPORTS FIFA 23/6.webp",
       "size": 21184,
       "sha256": "32523a1eef6581babf8a59fe05eae73bdb352483192555614c5dbec7dc04d9cf"
-    },
-    {
-      "path": "capturas/Ecstatica Remastered/1.webp",
-      "size": 50638,
-      "sha256": "a4fce6ba95f26cc92f31743bd74327a638beffbabd531179f11587301506f803"
     },
     {
       "path": "capturas/Elden Ring/1.webp",
@@ -5170,66 +5060,6 @@
       "path": "capturas/Halo Wars 2 Complete Edition/6.webp",
       "size": 27510,
       "sha256": "6609a1d52c18fec74c321cac9e85f954ee1404b19e574260fabffd89446ba047"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/1.webp",
-      "size": 17842,
-      "sha256": "4bdd37508cd7b5d5a0e625e40d7af75022be5d72037587b27a40b92b51d7aae1"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/2.webp",
-      "size": 18474,
-      "sha256": "4b053328c92aef2ec927dcf5279b3ed5680e41f90f08d1f7109fe41f97d65722"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/3.webp",
-      "size": 21472,
-      "sha256": "00e064a8e8ecf3ae9c54fd2ab673fb42f6a5adcc46b1008a8b61f035973a68c1"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/4.webp",
-      "size": 21706,
-      "sha256": "dcbe66568c184d6bd41a68bae5ea6fc0dd1a58a445b87b0a768af674103b7ef6"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/5.webp",
-      "size": 22272,
-      "sha256": "fa7a0cc8e2d7d6953b640a1e3f57869426003b6e4ddac6817f95b24a8bbf158d"
-    },
-    {
-      "path": "capturas/Harvest Moon Echoes of Teradea/6.webp",
-      "size": 29728,
-      "sha256": "33d38996fb8eeaab16599c838b20d54b5a9b30915b21d6b65e1bafebfa9b37a7"
-    },
-    {
-      "path": "capturas/Heart of the Machine/1.webp",
-      "size": 19596,
-      "sha256": "d37c6843d654cc4378be61e208b8e30dd19297604f6bedae398f88dc112bf68e"
-    },
-    {
-      "path": "capturas/Heart of the Machine/2.webp",
-      "size": 23468,
-      "sha256": "12432af3a116d8037a5c8b328f4c283387271a1447c3e92e8187501b1604258b"
-    },
-    {
-      "path": "capturas/Heart of the Machine/3.webp",
-      "size": 39184,
-      "sha256": "36f4bdae4e8e2646dc84a7955bec7bf98d89fc8195bd5db7f4232071a0390c78"
-    },
-    {
-      "path": "capturas/Heart of the Machine/4.webp",
-      "size": 35548,
-      "sha256": "3cf94658a4e5abea3011e21f3624f07cedf46ca83d48e9e2e7a9ef8f132795d0"
-    },
-    {
-      "path": "capturas/Heart of the Machine/5.webp",
-      "size": 42700,
-      "sha256": "a8f210dc27188e4c75416c70e905b50bd3b483588d9c4dc3e673b44a61f92e62"
-    },
-    {
-      "path": "capturas/Heart of the Machine/6.webp",
-      "size": 31972,
-      "sha256": "6b85980106cfdb476a3095aef7465d33b2d623ce59a43fec2b050d34299c63b0"
     },
     {
       "path": "capturas/Hitman World of Assassination/1.webp",
@@ -6732,36 +6562,6 @@
       "sha256": "a21d8bdf9a3f27b113bdfb8a9dbd2c7e2d65ca52881833f2068abd0f6701d214"
     },
     {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/1.webp",
-      "size": 27936,
-      "sha256": "eb04d5671eae62068890452e60da65f81f6349582839d4e36252dc3635267919"
-    },
-    {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/2.webp",
-      "size": 23066,
-      "sha256": "fb20311eaf3e831aa7e5905af74c1ecfb05725d631d3ea3600ddcbda07fb9a4d"
-    },
-    {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/3.webp",
-      "size": 22856,
-      "sha256": "93afe1eeeb74dd4fbcf7330c11c5f8e0f4a5dad50799a1af6f508b674cc59b64"
-    },
-    {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/4.webp",
-      "size": 23730,
-      "sha256": "8da925d2cf1cda945eb12ee976cd770368e4fced300389c15735f25280bcc129"
-    },
-    {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/5.webp",
-      "size": 39020,
-      "sha256": "eb64ef26043fabac5cf971fcde71d932709a5dc223615f1c90803fb2976c03e9"
-    },
-    {
-      "path": "capturas/Probably Stolen Cyberpunk Shopkeeper Sim/6.webp",
-      "size": 14306,
-      "sha256": "f8fd144dd1af9704830a5cc3307bf17c2fd8b196cdfe2c66317da0c702b924d3"
-    },
-    {
       "path": "capturas/Project Hunt Maps & Weapons Bundle/1.webp",
       "size": 15134,
       "sha256": "f2a1465ffd5d3a55efd366090069746054fb4cbf3a16bbc49f072d4f2906c9ec"
@@ -7722,36 +7522,6 @@
       "sha256": "6f231ca0b2f21098662b28c3418dee5a89811823bada6444a0e1c2e704337ecd"
     },
     {
-      "path": "capturas/Songs of Conquest Complete Bundle/1.webp",
-      "size": 51086,
-      "sha256": "b28c9331ca4edb88db852134a8824dc21a6bcd1c09eb51c6b913288782e6239f"
-    },
-    {
-      "path": "capturas/Songs of Conquest Complete Bundle/2.webp",
-      "size": 51378,
-      "sha256": "f397fe0b833c2cd6eeb9065bf58c3575c8636187448ffd131e524662cb1358af"
-    },
-    {
-      "path": "capturas/Songs of Conquest Complete Bundle/3.webp",
-      "size": 21654,
-      "sha256": "d2b1e23e4293a83bc136335838ef0d9fc27fdd0222d1019cf6ee2cf18fe6d88b"
-    },
-    {
-      "path": "capturas/Songs of Conquest Complete Bundle/4.webp",
-      "size": 51876,
-      "sha256": "62683759300991f4ec09bf195edb210edab4ff27ccc83a504d32a421cc5dc699"
-    },
-    {
-      "path": "capturas/Songs of Conquest Complete Bundle/5.webp",
-      "size": 29650,
-      "sha256": "2d8fb6b3059f393192d91b2a7a629ac6b48e49f49b01c54b8660d2c78d77cae0"
-    },
-    {
-      "path": "capturas/Songs of Conquest Complete Bundle/6.webp",
-      "size": 45004,
-      "sha256": "cd6258701aa52d994728a37c047c83f4c90c3ef5f8791c0daf3e4c341262b323"
-    },
-    {
       "path": "capturas/Sonic Frontiers Digital Deluxe Edition/1.webp",
       "size": 29002,
       "sha256": "511082eca74373aa2026472be521a2a4200aca768b6ea36a0f18da5f73b82810"
@@ -7780,36 +7550,6 @@
       "path": "capturas/Sonic Frontiers Digital Deluxe Edition/6.webp",
       "size": 17438,
       "sha256": "ac7fab77e21bbd0157b21737938252b0015ad6d2747db6a08d08a3da08991df6"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/1.webp",
-      "size": 38560,
-      "sha256": "757e0e0f341bb93a8ecc209d6f989032658f829488eae6aaf2bbb634511e168b"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/2.webp",
-      "size": 46422,
-      "sha256": "bc87a45b44d3f61808662818919c95ca72ff5f17d44c4c5fd50ee4b2e8e056b4"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/3.webp",
-      "size": 35510,
-      "sha256": "cc9ba11ce39f448339b832b7c20318d5cd02999828faa084d996567e8c9a85ae"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/4.webp",
-      "size": 37742,
-      "sha256": "899ae0516ef8bcb1fc662f9a8783b29246c0bfa5a416202753f866bcb8fe6ad8"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/5.webp",
-      "size": 41416,
-      "sha256": "0b2e84e19d5a64d17655bd5de85d9cce2690c68962cfcee2e2ec3a2b92f11203"
-    },
-    {
-      "path": "capturas/Sort The Capybaras/6.webp",
-      "size": 38088,
-      "sha256": "e03dcd5e55f7bbebad83616bb24cf0d8428197549b706d9e64e74af7d88c3eb4"
     },
     {
       "path": "capturas/Spider-Man Shattered Dimensions/1.webp",
@@ -9027,36 +8767,6 @@
       "sha256": "61663de1a552ef24d67a00b1ae22e5f36099fa1d2ef22e6cc94cb9b98c1a2022"
     },
     {
-      "path": "capturas/Victoria 3/1.webp",
-      "size": 30714,
-      "sha256": "1a907c2b79b1620ff81ece0b9d825b1a802f6530656f5d9b7aadfabb42fa955d"
-    },
-    {
-      "path": "capturas/Victoria 3/2.webp",
-      "size": 41932,
-      "sha256": "6168f342a13c377904bdbfff73ff1a88909614605b8913ffde91e29a788a1ebc"
-    },
-    {
-      "path": "capturas/Victoria 3/3.webp",
-      "size": 26030,
-      "sha256": "fedfbea72083af7f243ec9b06c11bc653404c04a31328a7dde038e60f4590f4a"
-    },
-    {
-      "path": "capturas/Victoria 3/4.webp",
-      "size": 16520,
-      "sha256": "2b9cde8cf7b4b1feec1445bfd2e204e803b3170596547a95caf93595883293e1"
-    },
-    {
-      "path": "capturas/Victoria 3/5.webp",
-      "size": 30594,
-      "sha256": "32054a1a91dd98f26b1c278118792b9d4d3d7b81f9950f601f4a3950ac1873f9"
-    },
-    {
-      "path": "capturas/Victoria 3/6.webp",
-      "size": 19472,
-      "sha256": "8bbaa5cc3fc421ecfd276853314bce76a582f0b5d883e9faec5037ec4893e294"
-    },
-    {
       "path": "capturas/Violet/1.webp",
       "size": 3984,
       "sha256": "a3ff30c9ab03effe418c8342937db45131b4e80879555b4461fa2b4b8f72e3ff"
@@ -9742,11 +9452,6 @@
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
     },
     {
-      "path": "sinopsis/Blueys Happy Snaps.txt",
-      "size": 607,
-      "sha256": "f9cf7b23890ca8eec9a78161290c1aeeb5f9485dfc244c6536d00ff5e2f5508d"
-    },
-    {
       "path": "sinopsis/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 328,
       "sha256": "4b000267751d1d13c17a61ef4ec6cffdd99fb9844ce519e06b506b662a59c36c"
@@ -9912,11 +9617,6 @@
       "sha256": "bdb083c2fd508d2cf3d814df504c87d4449edfdcf3e233ca0420db594517bd8e"
     },
     {
-      "path": "sinopsis/Decktamer.txt",
-      "size": 487,
-      "sha256": "a10891881c84537bd39886f7f1777d3f63d2ec18c3dc74bc59ad52e99836cbd8"
-    },
-    {
       "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
       "size": 529,
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
@@ -10000,11 +9700,6 @@
       "path": "sinopsis/EA SPORTS FIFA 23.txt",
       "size": 332,
       "sha256": "80baf801b53693691f8977f282fcf326e99d3dff2ce4415ecf97d5e25b1a08f5"
-    },
-    {
-      "path": "sinopsis/Ecstatica Remastered.txt",
-      "size": 511,
-      "sha256": "d08fdae5229b59532bc2198c04f579c20b4806763a4e97b54689d3b275c191e4"
     },
     {
       "path": "sinopsis/Elden Ring Nightreign Deluxe Edition.txt",
@@ -10200,16 +9895,6 @@
       "path": "sinopsis/Halo Wars 2 Complete Edition.txt",
       "size": 472,
       "sha256": "6c119e0db17c63568663429077bcc972c9e5072cd945c95d6e3bdad5749e5695"
-    },
-    {
-      "path": "sinopsis/Harvest Moon Echoes of Teradea.txt",
-      "size": 907,
-      "sha256": "32911f961521d9d01f4a7e9593020dec393966effff9e10033787e55b79ef176"
-    },
-    {
-      "path": "sinopsis/Heart of the Machine.txt",
-      "size": 1519,
-      "sha256": "dd5ca8a70255ab1a190703675f4ee189ecb171ab95524742bf5f0be0e83093d3"
     },
     {
       "path": "sinopsis/Hitman World of Assassination.txt",
@@ -10467,11 +10152,6 @@
       "sha256": "b3c81ca02e0e238961bb892cd635bc87e8aeb70d7bd6386a0fe6fe201753aeef"
     },
     {
-      "path": "sinopsis/Probably Stolen Cyberpunk Shopkeeper Sim.txt",
-      "size": 2079,
-      "sha256": "403863c91a6f69fb9439969ce438307f7ff0cd7d49643634a8086213837a41f0"
-    },
-    {
       "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
       "size": 760,
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
@@ -10632,19 +10312,9 @@
       "sha256": "82c6ab73a1a7efbb5fd43b8daf110bc86518c7653e84da6856e55ab443f82897"
     },
     {
-      "path": "sinopsis/Songs of Conquest Complete Bundle.txt",
-      "size": 355,
-      "sha256": "37ad0c2077ac465c26bb7e44ec92d6ba669bfb5c55f2af7f6e895f852493f814"
-    },
-    {
       "path": "sinopsis/Sonic Frontiers Digital Deluxe Edition.txt",
       "size": 395,
       "sha256": "b1628fdaa707369420674adc86d24c5c8db55972eea3ba7cd4b5fa1c098c8c14"
-    },
-    {
-      "path": "sinopsis/Sort The Capybaras.txt",
-      "size": 471,
-      "sha256": "05c246d7218d0da238b896f8c33a1841151ddbcfba0a672543ec6eefb0a738e0"
     },
     {
       "path": "sinopsis/Spider-Man Shattered Dimensions.txt",
@@ -10850,11 +10520,6 @@
       "path": "sinopsis/Until Then Deluxe Edition.txt",
       "size": 1204,
       "sha256": "99fedbb2f3a0af4b0ae01a17e6cb906ed7f864f95c68ec72dd5507c95887ce22"
-    },
-    {
-      "path": "sinopsis/Victoria 3.txt",
-      "size": 281,
-      "sha256": "2979f800cf5df9c389174bf1ce969403391b636144a43c331b3da1eb62a0919d"
     },
     {
       "path": "sinopsis/Violet.txt",
@@ -11127,11 +10792,6 @@
       "sha256": "d02c295030f5b35438bf7c6d14062ade791f400be58a3be3133de3fa2b8df881"
     },
     {
-      "path": "datos/Blueys Happy Snaps.txt",
-      "size": 206,
-      "sha256": "4a151f1b3e6ef75e6601359942b60d761b17b584d0c476b2a55882d833a754a6"
-    },
-    {
       "path": "datos/Bravely Default Flying Fairy HD Remaster.txt",
       "size": 171,
       "sha256": "c9b5e6a460fb89eeca50c59e399169d386113a20e1a9c3070d748f56f4efa671"
@@ -11297,11 +10957,6 @@
       "sha256": "85294fe93d12ea73971bafee002c3690b53e76ce867496ff9fbfdc940c395ce6"
     },
     {
-      "path": "datos/Decktamer.txt",
-      "size": 183,
-      "sha256": "a19d635d8c15a1db7fb074adc264d8e5bc74a6fda485abb2b3dc8fdbc86d8336"
-    },
-    {
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
       "size": 193,
       "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
@@ -11385,11 +11040,6 @@
       "path": "datos/EA SPORTS FIFA 23.txt",
       "size": 228,
       "sha256": "f80d067cc158aa13a83f15381839be78d00965eee364b786f4bf0434a96ba5a6"
-    },
-    {
-      "path": "datos/Ecstatica Remastered.txt",
-      "size": 196,
-      "sha256": "62e9c6568128a460378fef5c1f2a24f04ab024a4fa8020446996fc2bb041f225"
     },
     {
       "path": "datos/Elden Ring Nightreign Deluxe Edition.txt",
@@ -11585,16 +11235,6 @@
       "path": "datos/Halo Wars 2 Complete Edition.txt",
       "size": 228,
       "sha256": "7496bf28b4e6d048c0c896f195325483999138e72dfd0fb0e0d8fe98eb0505ab"
-    },
-    {
-      "path": "datos/Harvest Moon Echoes of Teradea.txt",
-      "size": 176,
-      "sha256": "e1de278e9602d2764f78a4547aa823771e2ecc4bbd830f2e1106ff5f29dac724"
-    },
-    {
-      "path": "datos/Heart of the Machine.txt",
-      "size": 184,
-      "sha256": "f911b325b9fc9ea43bb2791868e33ba6e0fe7abbefcc982ec0ef4f63f00420f9"
     },
     {
       "path": "datos/Hitman World of Assassination.txt",
@@ -11852,11 +11492,6 @@
       "sha256": "132c7e10fd3be54636dc27a6ca557d7c019d1338c0720f865b899f2879e941bf"
     },
     {
-      "path": "datos/Probably Stolen Cyberpunk Shopkeeper Sim.txt",
-      "size": 192,
-      "sha256": "38e7fd20b828871a5980c35daaa752b8f1f0a72a0d3ddb7625ad2ac2bb422a63"
-    },
-    {
       "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
       "size": 213,
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
@@ -12017,19 +11652,9 @@
       "sha256": "b0f7aeaa0c2687f916f7a5be2f066e75b284c8b43eb571a48da587469eb83edc"
     },
     {
-      "path": "datos/Songs of Conquest Complete Bundle.txt",
-      "size": 195,
-      "sha256": "6f08e2281e87a1a605734c6cdff411fd58ffd6b2ecf5a15a86e2935ffb122008"
-    },
-    {
       "path": "datos/Sonic Frontiers Digital Deluxe Edition.txt",
       "size": 171,
       "sha256": "706686d0f2a13b477d8c67fcbd7cc85051da05d86324cc7b34e529adf3ef1a01"
-    },
-    {
-      "path": "datos/Sort The Capybaras.txt",
-      "size": 202,
-      "sha256": "6520ab984ef8c8924413e41f0999d830283598f65973cd69e2bd3e2953d458f3"
     },
     {
       "path": "datos/Spider-Man Shattered Dimensions.txt",
@@ -12235,11 +11860,6 @@
       "path": "datos/Until Then Deluxe Edition.txt",
       "size": 179,
       "sha256": "09e36f5677dbc6f5f53beedf65f83b54093397cbfab980f84eb4d10e5cabb607"
-    },
-    {
-      "path": "datos/Victoria 3.txt",
-      "size": 190,
-      "sha256": "b023784f3382a40f9de855848883b77a125424ea2e19a3020c63d189edd5a74d"
     },
     {
       "path": "datos/Violet.txt",

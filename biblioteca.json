@@ -252,17 +252,7 @@
       "sha256": "2d755aafd5ff86eee10ab845adfbac0e053425bba86d5da1cd45d9840aed818e"
     },
     {
-      "path": "imagenes/Call Of Duty Vanguard.webp",
-      "size": 30410,
-      "sha256": "2d755aafd5ff86eee10ab845adfbac0e053425bba86d5da1cd45d9840aed818e"
-    },
-    {
       "path": "imagenes/Call Of Duty WWII Full.webp",
-      "size": 43320,
-      "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
-    },
-    {
-      "path": "imagenes/Call Of Duty WWII.webp",
       "size": 43320,
       "sha256": "59c1316cc9b20501d2a35c2da38923c0f1ea26a28d3f30a8d52f7e164f3dcfb6"
     },
@@ -2872,26 +2862,6 @@
       "sha256": "959a27d91607d2e49293d510db80407992e07479cd6d1330f93459a8b537836a"
     },
     {
-      "path": "capturas/Call Of Duty Vanguard/01.webp",
-      "size": 15928,
-      "sha256": "673a0d7271d22ab59713b0a59fcd0da71be52556f576e80dc8abf4d61d55b07a"
-    },
-    {
-      "path": "capturas/Call Of Duty Vanguard/02.webp",
-      "size": 18296,
-      "sha256": "e154a52c811a8c46b5c020969d5b311bcfa52dfb987ae8bdb712efc839087c18"
-    },
-    {
-      "path": "capturas/Call Of Duty Vanguard/03.webp",
-      "size": 9042,
-      "sha256": "248f30c2b7b7c5c284951b731b26bd237a278e27aebba00786e771fb7f0d900c"
-    },
-    {
-      "path": "capturas/Call Of Duty Vanguard/04.webp",
-      "size": 34662,
-      "sha256": "3c67e322615e6ee3c2a63612654fa64cb944335796b6e2e1b0af16ee767385e3"
-    },
-    {
       "path": "capturas/Call Of Duty Vanguard Full/01.webp",
       "size": 35614,
       "sha256": "6d4045ec18fab833a6ff404c55bcdbebc8d99519352311084731221b601a89d7"
@@ -2920,31 +2890,6 @@
       "path": "capturas/Call Of Duty Vanguard Full/06.webp",
       "size": 38130,
       "sha256": "a89a9b926e6a245090ba2cff5ae063f109de921efb0a2f0d494472a02a12766c"
-    },
-    {
-      "path": "capturas/Call Of Duty WWII/00.webp",
-      "size": 12504,
-      "sha256": "bc24927b872df7790089b3cf64d7f426f2fbdea3cd8c9c2069fa6dbda20f5638"
-    },
-    {
-      "path": "capturas/Call Of Duty WWII/01.webp",
-      "size": 12598,
-      "sha256": "57ec0e5d49fb54bd33bfe14cc9d482c096a7f781cec382eb5a5063a247024d0e"
-    },
-    {
-      "path": "capturas/Call Of Duty WWII/02.webp",
-      "size": 19240,
-      "sha256": "3a992f7865496f29c373c951a7a1fc4d7fe0cea787bd637a6db1fb7bede8f1d9"
-    },
-    {
-      "path": "capturas/Call Of Duty WWII/03.webp",
-      "size": 20176,
-      "sha256": "d87994a6714f5ea9bc9ac97ba4b13b9de16f253301a24f4662b5bbafee16301c"
-    },
-    {
-      "path": "capturas/Call Of Duty WWII/06.webp",
-      "size": 68992,
-      "sha256": "0676e0fc9a03db1f14b8eafc4b2f898fc69340bfc0013bd0e3e07e4f5f3388dc"
     },
     {
       "path": "capturas/Call Of Duty WWII Full/00.webp",
@@ -9872,19 +9817,9 @@
       "sha256": "5a39a3a395c3ded2e1c3513c8c4876f4f57aeeb98bff50ecd8a82374679dc765"
     },
     {
-      "path": "sinopsis/Call Of Duty Vanguard.txt",
-      "size": 554,
-      "sha256": "eda14af173db5227d4c0c0a7814fdb234eb8aef7631ad75d5244d543fef9b8ea"
-    },
-    {
       "path": "sinopsis/Call Of Duty WWII Full.txt",
       "size": 1708,
       "sha256": "c16128485b478675a4990a28d7ed14168d9f2cb999bf7fa6fb05b28072896228"
-    },
-    {
-      "path": "sinopsis/Call Of Duty WWII.txt",
-      "size": 794,
-      "sha256": "ddace97804ad1c230f5c42184cc5f3f8e936e9663c30993922b81a11936b3fd3"
     },
     {
       "path": "sinopsis/Castlevania Belmonts Curse Midnight Edition.txt",
@@ -11267,19 +11202,9 @@
       "sha256": "28da1e2f7086113ef4d72714737309e254241114e4a3cf3abe8955e5289eff7f"
     },
     {
-      "path": "datos/Call Of Duty Vanguard.txt",
-      "size": 200,
-      "sha256": "6437b0fd357a083211175ae379503a1725a613976d5033366412b7b56b4c2ceb"
-    },
-    {
       "path": "datos/Call Of Duty WWII Full.txt",
       "size": 199,
       "sha256": "5a596d5ff78760d836ead7ac1087ef53534b0fc8d5725617b85cea93b65d8cb0"
-    },
-    {
-      "path": "datos/Call Of Duty WWII.txt",
-      "size": 200,
-      "sha256": "e3ff75cc663f83194e976305e7d2c379d815de270ae66340269240d3727c74aa"
     },
     {
       "path": "datos/Castlevania Belmonts Curse Midnight Edition.txt",

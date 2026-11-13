@@ -852,6 +852,11 @@
       "sha256": "a6e0d449e5b2c82a70a23e81b144638e8b4e34dbaf8180d07f5716f8c23097f2"
     },
     {
+      "path": "imagenes/Papetura.webp",
+      "size": 30384,
+      "sha256": "7f31419974d37ebeb370ccfd85a912415eb5da53154398db77caffea496ce14e"
+    },
+    {
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
       "size": 33536,
       "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
@@ -6417,6 +6422,36 @@
       "sha256": "6edbe37a7d2bbd915d6a3559722d3060f78669eb8bdb92cf44da01b8d14ac2f8"
     },
     {
+      "path": "capturas/Papetura/1.webp",
+      "size": 16708,
+      "sha256": "1077f2a7f9b05ed1002b13be5fd9323ce8f0b17ceaee7d66e9f4c0804b1e2172"
+    },
+    {
+      "path": "capturas/Papetura/2.webp",
+      "size": 11230,
+      "sha256": "92f303f7a1abeb147c6b8ea59a63e19835baa41d2d0448919580561a89971d6a"
+    },
+    {
+      "path": "capturas/Papetura/3.webp",
+      "size": 13092,
+      "sha256": "4c64943380b066c18ab3fc5eba739a70dfce745c374c9a143565c713576c733e"
+    },
+    {
+      "path": "capturas/Papetura/4.webp",
+      "size": 6972,
+      "sha256": "e910c3662d5668b3e4e12d12df4e6e10c10e98321de8be2dd6b35857c9b96141"
+    },
+    {
+      "path": "capturas/Papetura/5.webp",
+      "size": 15780,
+      "sha256": "cff3d9284e1b93c9b0b7a0d72a2f8a870385e6ab173265551be360d9438176c8"
+    },
+    {
+      "path": "capturas/Papetura/6.webp",
+      "size": 6330,
+      "sha256": "1b03d5deca3377e325bb550e17e44beaec1f42f0e2ac8c2c537746258453584d"
+    },
+    {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
       "size": 21054,
       "sha256": "5d552eda4733cfa6eb6833890f5eb36a5811208ccd6c3f4d21536494137828fb"
@@ -10127,6 +10162,11 @@
       "sha256": "2da64d5d2033c4684e2f7c0c815216f465c741b27c30114224b09ec934d3c993"
     },
     {
+      "path": "sinopsis/Papetura.txt",
+      "size": 497,
+      "sha256": "1213394cc5d4aa75b387fcd753088813b60f427e6611d435d8f8a3d10de21e17"
+    },
+    {
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
       "size": 834,
       "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
@@ -11465,6 +11505,11 @@
       "path": "datos/Palworld.txt",
       "size": 229,
       "sha256": "b3e91473e18ac006aec6b56a82da0c7a473661e7629fd4337263991c4faeae35"
+    },
+    {
+      "path": "datos/Papetura.txt",
+      "size": 181,
+      "sha256": "a337dfe028a2001660c09d0642f2de8a67b86d6e582181288a194d51f2fae144"
     },
     {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",

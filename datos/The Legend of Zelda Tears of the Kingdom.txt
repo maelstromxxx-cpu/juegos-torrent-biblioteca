@@ -7,3 +7,4 @@ Fecha de incorporación: 09/11/2026
 Puntuación: 9.8
 Metacritic: 96
 Repacker: FitGirl
+Port: Switch 2

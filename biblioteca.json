@@ -742,6 +742,11 @@
       "sha256": "4de12c45ab36623ae46a05b438f3c76af12a35fc3cd37076f1e2a2829457e327"
     },
     {
+      "path": "imagenes/Mario Kart World.webp",
+      "size": 52312,
+      "sha256": "a007d377eebba3702293d0a0f576fe4dc371aa238638b248f4e283fc1ad55964"
+    },
+    {
       "path": "imagenes/Marvels Spider-Man 2 Digital Deluxe Edition.webp",
       "size": 31106,
       "sha256": "bf7bd2d4ae82095c3e5a9b43544dd4809287e9039da43517655aef0875b15bc0"
@@ -847,6 +852,16 @@
       "sha256": "8f623411a549b71b49a9cff39800c857204d92cca560db4b920b4e502af710cd"
     },
     {
+      "path": "imagenes/Painkiller Complete Pack.webp",
+      "size": 38558,
+      "sha256": "561a64df6fe49763ffd575aa5386a735bc97de698302efadb9ca597c52aa908e"
+    },
+    {
+      "path": "imagenes/Painkiller.webp",
+      "size": 76688,
+      "sha256": "8b0d2cdadd565eef0da3072ee75dfd592dbabb46feabd9fd8304a170aa5f1233"
+    },
+    {
       "path": "imagenes/Palworld.webp",
       "size": 43834,
       "sha256": "a6e0d449e5b2c82a70a23e81b144638e8b4e34dbaf8180d07f5716f8c23097f2"
@@ -885,6 +900,16 @@
       "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
       "size": 14344,
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
+    },
+    {
+      "path": "imagenes/Quake Enhanced.webp",
+      "size": 60420,
+      "sha256": "3f57ddb2e5520c50a2fb70e7a51cfa253d2f33cb6780ccb9bc352ccc17288508"
+    },
+    {
+      "path": "imagenes/Quake II Enhanced.webp",
+      "size": 43836,
+      "sha256": "d2569407ea1ac18ac697af9ee9ca51b994819de3a684bea38205def2a72c83c5"
     },
     {
       "path": "imagenes/Ravenswatch Year One Edition.webp",
@@ -1132,6 +1157,11 @@
       "sha256": "3d92fa0decb6f6d3b677fa5cf393881c1d4763ae0813bed1ad75c706a966730f"
     },
     {
+      "path": "imagenes/Terrible Lizards.webp",
+      "size": 25250,
+      "sha256": "1f24e091d7a8e6ab435d0d24ceb182fdfdc419b7c173c7ccf50b2fbeb79cc22f"
+    },
+    {
       "path": "imagenes/The Alters Deluxe Edition.webp",
       "size": 35198,
       "sha256": "a0d20a3a7c959e5d147afa202808f858088bcb29d8a406a18335a855365d35c2"
@@ -1270,6 +1300,11 @@
       "path": "imagenes/Warhammer 40000 Dawn of War Definitive Edition.webp",
       "size": 74468,
       "sha256": "0c5c6010bcfcda41d0cacb10e050bd35b615c955afba49f219878a9425535f54"
+    },
+    {
+      "path": "imagenes/WARNO Gold Edition.webp",
+      "size": 89708,
+      "sha256": "2ef0b04836113595a82d990f325f52972f72e95d6b40046f64b358c1c7fd3c41"
     },
     {
       "path": "imagenes/Warrior Cats Clans of the Forest.webp",
@@ -5777,6 +5812,36 @@
       "sha256": "04f94217fee1ee9089c557b15f1f86f76317e534c616b85800ca952d5248aaa2"
     },
     {
+      "path": "capturas/Mario Kart World/1.webp",
+      "size": 22902,
+      "sha256": "8ca377825cd06f66beafa4e5e162de1bd7e9f56b30c7d277f18e2de3acda0ed9"
+    },
+    {
+      "path": "capturas/Mario Kart World/2.webp",
+      "size": 38468,
+      "sha256": "a38b2f682cbc46121101e6237d8281ed26b886390a44ba611afc273c77a8b367"
+    },
+    {
+      "path": "capturas/Mario Kart World/3.webp",
+      "size": 18796,
+      "sha256": "03115696ed2cdcf2470e43cdf7e4d5a259eb18355383ad4015ce4071c13b29b2"
+    },
+    {
+      "path": "capturas/Mario Kart World/4.webp",
+      "size": 39092,
+      "sha256": "82c3a4e7a51981c8040fc32b5f61fc78261809cda06af05c8d873515344c4f73"
+    },
+    {
+      "path": "capturas/Mario Kart World/5.webp",
+      "size": 29272,
+      "sha256": "2a729cf7512a1d64ac7912007423a70c5872f23f959139da7b728c9e7a3365d6"
+    },
+    {
+      "path": "capturas/Mario Kart World/6.webp",
+      "size": 30950,
+      "sha256": "6d0385035eee3265638a14f84bd2af2b50b31baac7f29ff7aeeb953b58b33b1b"
+    },
+    {
       "path": "capturas/Marvels Spider-Man 2 Digital Deluxe Edition/1.webp",
       "size": 23802,
       "sha256": "3778ccaa697422f19fe1fb1da3e7a6df22a9ca6195edc5f2f22036ebfce6f462"
@@ -6392,6 +6457,66 @@
       "sha256": "183033aa5b37f774657ac0f4823c3de18571f436384ed0f9351d979b336cef09"
     },
     {
+      "path": "capturas/Painkiller/1.webp",
+      "size": 21882,
+      "sha256": "f4cad660b871146f24e9d1faca71cf81f9b52afc456fa87cd26909765969672f"
+    },
+    {
+      "path": "capturas/Painkiller/2.webp",
+      "size": 26874,
+      "sha256": "c1ab761bdd53fbc2e6d31003b7e6b28a288d5af4ca779d27bd305403fc77cb79"
+    },
+    {
+      "path": "capturas/Painkiller/3.webp",
+      "size": 14258,
+      "sha256": "35d74938ef614ca9677599bb62dfc896ada77f7ade42d3d5359001954f10bc7a"
+    },
+    {
+      "path": "capturas/Painkiller/4.webp",
+      "size": 22620,
+      "sha256": "84759bb354e24d349027e758cdc7e1077b99d0f698a4452a9eae76c4bd9b1d9a"
+    },
+    {
+      "path": "capturas/Painkiller/5.webp",
+      "size": 21958,
+      "sha256": "a820c07bc0df40ef86d84d3b8e1bebc5c1aa7cc74200a3f0eaf4e01e1b72c558"
+    },
+    {
+      "path": "capturas/Painkiller/6.webp",
+      "size": 18108,
+      "sha256": "8ba4974dfade86eb8ba5ef4dc6f6e462874d9c361c395863cf22b9ad2512138e"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/1.webp",
+      "size": 21882,
+      "sha256": "f4cad660b871146f24e9d1faca71cf81f9b52afc456fa87cd26909765969672f"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/2.webp",
+      "size": 26874,
+      "sha256": "c1ab761bdd53fbc2e6d31003b7e6b28a288d5af4ca779d27bd305403fc77cb79"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/3.webp",
+      "size": 14258,
+      "sha256": "35d74938ef614ca9677599bb62dfc896ada77f7ade42d3d5359001954f10bc7a"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/4.webp",
+      "size": 22620,
+      "sha256": "84759bb354e24d349027e758cdc7e1077b99d0f698a4452a9eae76c4bd9b1d9a"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/5.webp",
+      "size": 21958,
+      "sha256": "a820c07bc0df40ef86d84d3b8e1bebc5c1aa7cc74200a3f0eaf4e01e1b72c558"
+    },
+    {
+      "path": "capturas/Painkiller Complete Pack/6.webp",
+      "size": 18108,
+      "sha256": "8ba4974dfade86eb8ba5ef4dc6f6e462874d9c361c395863cf22b9ad2512138e"
+    },
+    {
       "path": "capturas/Palworld/1.webp",
       "size": 18378,
       "sha256": "6e849d7f7aae2d3757422f2e2a79b914227c90a49e60e010d2aee36aef8f9d54"
@@ -6625,6 +6750,66 @@
       "path": "capturas/Project Hunt Maps & Weapons Bundle/6.webp",
       "size": 26486,
       "sha256": "043b0d5b021c1cfd1570c0e06899f59008abaa78a255340f8b2078efaca16dc6"
+    },
+    {
+      "path": "capturas/Quake Enhanced/1.webp",
+      "size": 37492,
+      "sha256": "cc1f4288663dee877012ec2f1323c50ee8403a04ec64e3cde670bb7a708132d7"
+    },
+    {
+      "path": "capturas/Quake Enhanced/2.webp",
+      "size": 24390,
+      "sha256": "724e1f31ae91621824c8ad68fb4261175a2a969ed67d344f7e029548fdb569c6"
+    },
+    {
+      "path": "capturas/Quake Enhanced/3.webp",
+      "size": 23502,
+      "sha256": "6ba57afb5504d7443bfcf52938a2ba3eeebcb2f97cf9fd56b090a0213a44099f"
+    },
+    {
+      "path": "capturas/Quake Enhanced/4.webp",
+      "size": 27202,
+      "sha256": "f121aa289bfc8be04ecd8b6d08fa4e439c046dbc4f4f71d3e2c1ae6c41364605"
+    },
+    {
+      "path": "capturas/Quake Enhanced/5.webp",
+      "size": 15582,
+      "sha256": "0f67fd9b02bbe59d7c1e202a0a3b2277a828ccffddf956dc0d0158d18a7c9fd1"
+    },
+    {
+      "path": "capturas/Quake Enhanced/6.webp",
+      "size": 25400,
+      "sha256": "b8833cb4ddcaf548cf1b696226027664fe176c138de71063420038a23bd53626"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/1.webp",
+      "size": 9974,
+      "sha256": "761eeeee6ac9b10d90b9573def48328842af916bf00aa9a26ff6d8074c651614"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/2.webp",
+      "size": 31476,
+      "sha256": "8ac5b939c036a870c504565a2940bf05e642207fe2dcda8c02e7bdec87ef723c"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/3.webp",
+      "size": 16572,
+      "sha256": "534481f1aee45e65021fbb96eaa26ee191820c4533247749801f581d9a29601c"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/4.webp",
+      "size": 11040,
+      "sha256": "7799f4a4211766f94a32dd7ecd78302e461d8fff0a4aff95c7d27a0db4d5d9b9"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/5.webp",
+      "size": 14168,
+      "sha256": "1bd8b51e9dd7642a3d439c6aa5d9e4065676d909d76063a60fcc8b295221a0b3"
+    },
+    {
+      "path": "capturas/Quake II Enhanced/6.webp",
+      "size": 17014,
+      "sha256": "d1b4802d9904a32ac605e52ff1b249da1656c90c38a836d96903ee583f28f10d"
     },
     {
       "path": "capturas/Ravenswatch Year One Edition/1.webp",
@@ -8097,6 +8282,36 @@
       "sha256": "8d72b1596c2780b938df4d8233285744fcb90ba50fed258519240ac43e3c27ee"
     },
     {
+      "path": "capturas/Terrible Lizards/1.webp",
+      "size": 9402,
+      "sha256": "e78235498f70fd9b7ff3c307b79aae19fdb341c3427a2d1e492b99a90a8a4737"
+    },
+    {
+      "path": "capturas/Terrible Lizards/2.webp",
+      "size": 12440,
+      "sha256": "ca583ea26b9d43a693ddc50e27eefa189762af3bf7af673ae433b3a56fc8fb21"
+    },
+    {
+      "path": "capturas/Terrible Lizards/3.webp",
+      "size": 18014,
+      "sha256": "f526d120179e638627789e4e78a5fbc7c1a27805c7ffb855f6d8f992fcb81463"
+    },
+    {
+      "path": "capturas/Terrible Lizards/4.webp",
+      "size": 13048,
+      "sha256": "ad92d550aec74c1c8eee72a108eb1e14fbd1a5fdfe12deab6cdb9c731077c4df"
+    },
+    {
+      "path": "capturas/Terrible Lizards/5.webp",
+      "size": 9368,
+      "sha256": "b616a74a8991334ae307f839a1a571d47aba897e495c019b4851f86d5c601129"
+    },
+    {
+      "path": "capturas/Terrible Lizards/6.webp",
+      "size": 15206,
+      "sha256": "03bebd75aca9b13c8634396cf5e8640851b160e504144d7f690772fd46aca19d"
+    },
+    {
       "path": "capturas/The Alters Deluxe Edition/1.webp",
       "size": 10954,
       "sha256": "5ee2ee787c756ff2bdccc78818d65492dcebdfb64289b4a706a9d114c4e6dea1"
@@ -8920,6 +9135,36 @@
       "path": "capturas/Warhammer 40000 Dawn of War Definitive Edition/6.webp",
       "size": 42580,
       "sha256": "00a14a608c2435aad7ccb8de3b706f1f2124324e2a8d845214deb4e564e435fd"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/1.webp",
+      "size": 34882,
+      "sha256": "241f71f29d0fe916659df6bc5334f2aa16acc5458be06e0d83d2a2efde23dd8d"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/2.webp",
+      "size": 32942,
+      "sha256": "3908e1fcf01078cab0a98512bd969fbf9ee66a85538c0c5e39dcfde1e239c1c2"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/3.webp",
+      "size": 28760,
+      "sha256": "ee3403f209c3173bb43723c5ba397a730189629a4150848a310a6ca787d32754"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/4.webp",
+      "size": 24632,
+      "sha256": "92ce9e29abdc2f0da27586cf9d9ac65f9a585945a19c74104cf078140aed78ee"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/5.webp",
+      "size": 46528,
+      "sha256": "09c1c7d4ad98da590be8cade66e5b9d645be2cd59a5ffda25a3295dbe3df4e24"
+    },
+    {
+      "path": "capturas/WARNO Gold Edition/6.webp",
+      "size": 36756,
+      "sha256": "f4c39411ad6bcbd0b79ffe14455d2411609e36adc51b4b536335bc8e4b34e3a6"
     },
     {
       "path": "capturas/Warrior Cats Clans of the Forest/1.webp",
@@ -10052,6 +10297,11 @@
       "sha256": "35d4f988b3303e6d3d757209b715c450f689ca2eb0e9a4199e6ef14f6adf2c27"
     },
     {
+      "path": "sinopsis/Mario Kart World.txt",
+      "size": 468,
+      "sha256": "07edc4e5a92aecbefa99d4c5f9c97a33b2265163f28bb0418133cdbcf8696de6"
+    },
+    {
       "path": "sinopsis/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 964,
       "sha256": "4849e60e5f3b20e99241203e17ce4e77920830b1142cc3f1196d6c4cf350f465"
@@ -10157,6 +10407,16 @@
       "sha256": "23ba4029b5bd158d21ca06141901c9c6ee9e92c2350c23009504bc66d289fa46"
     },
     {
+      "path": "sinopsis/Painkiller Complete Pack.txt",
+      "size": 1119,
+      "sha256": "a8ff28d068fcaea8be69b9648fbc6eacec8570902ea42be47a302a161b4ad880"
+    },
+    {
+      "path": "sinopsis/Painkiller.txt",
+      "size": 1003,
+      "sha256": "56e4f2c959a02443162510a24cee2ac190dd14dab52d09491168d20803cbf142"
+    },
+    {
       "path": "sinopsis/Palworld.txt",
       "size": 572,
       "sha256": "2da64d5d2033c4684e2f7c0c815216f465c741b27c30114224b09ec934d3c993"
@@ -10195,6 +10455,16 @@
       "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
       "size": 760,
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
+    },
+    {
+      "path": "sinopsis/Quake Enhanced.txt",
+      "size": 1197,
+      "sha256": "430299aad43b05e0fd668837fa33a8cdf881b4e6c6e5416619475027a9d2d960"
+    },
+    {
+      "path": "sinopsis/Quake II Enhanced.txt",
+      "size": 1140,
+      "sha256": "2d2010dd5bc0db13f257c434128f03cf9083574d0b8005fa2b816e2320a1d135"
     },
     {
       "path": "sinopsis/Ravenswatch Year One Edition.txt",
@@ -10442,6 +10712,11 @@
       "sha256": "44f3c8b0954e15e5964fc0736126f3255114cccc3fcb8651628329404297fd74"
     },
     {
+      "path": "sinopsis/Terrible Lizards.txt",
+      "size": 758,
+      "sha256": "f9fa2e082822df0a0c9d63791a42d4e01bb8294f185197477b0a4137f78dabca"
+    },
+    {
       "path": "sinopsis/The Alters Deluxe Edition.txt",
       "size": 1198,
       "sha256": "296b1c9e4ebdda7085697a492106ea66f8ba7517e6d02d0cfaf141ae173aab07"
@@ -10580,6 +10855,11 @@
       "path": "sinopsis/Warhammer 40000 Dawn of War Definitive Edition.txt",
       "size": 627,
       "sha256": "eb026865b376c03b574b9c280c6e5da8fbb455c5064622e4739d3b3a3df50884"
+    },
+    {
+      "path": "sinopsis/WARNO Gold Edition.txt",
+      "size": 792,
+      "sha256": "3efc4c1979fb3a1ff781aaeb4aa854e9c490528b1332e2269db839d0d7104857"
     },
     {
       "path": "sinopsis/Warrior Cats Clans of the Forest.txt",
@@ -11397,6 +11677,11 @@
       "sha256": "e91e38871795679285238d1de3fc5aa959341fed4780294a2a31501905f551da"
     },
     {
+      "path": "datos/Mario Kart World.txt",
+      "size": 243,
+      "sha256": "9d3e313924bec779e3f844ac8f89fcdf48259d6f2f0b2f1b4aac1f771f086a21"
+    },
+    {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
       "size": 227,
       "sha256": "df14abd5dcdef949697785998cd5658ba74ef40f075f69c93648906358516ee6"
@@ -11502,6 +11787,16 @@
       "sha256": "becc34628010a333ae02bda918ed1503ee95f3452363dbb37a012c8bc5d54b17"
     },
     {
+      "path": "datos/Painkiller Complete Pack.txt",
+      "size": 212,
+      "sha256": "d7452242b48379b57b27fd3067c44399a9b1b58742867cb14d3ef73c1122ded7"
+    },
+    {
+      "path": "datos/Painkiller.txt",
+      "size": 201,
+      "sha256": "2ea4877bed3c0d117dd4ed1cab4b8d9c04934b3eb5509389d5d9ccc48a1835ce"
+    },
+    {
       "path": "datos/Palworld.txt",
       "size": 229,
       "sha256": "b3e91473e18ac006aec6b56a82da0c7a473661e7629fd4337263991c4faeae35"
@@ -11540,6 +11835,16 @@
       "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
       "size": 213,
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
+    },
+    {
+      "path": "datos/Quake Enhanced.txt",
+      "size": 204,
+      "sha256": "89d01f7530f8258703eba2d3b8fa4a3e8bb2dbc79be5dd67c555599cec837d90"
+    },
+    {
+      "path": "datos/Quake II Enhanced.txt",
+      "size": 202,
+      "sha256": "a71cb3be7d54877d4cd262b72a4fbec941ecaad0af1f84d9ea8bfdc2abbb7b93"
     },
     {
       "path": "datos/Ravenswatch Year One Edition.txt",
@@ -11787,6 +12092,11 @@
       "sha256": "bcfce3a430c2742923320784c5178a8f938ecd6368f3bc741e14f3772d1c253b"
     },
     {
+      "path": "datos/Terrible Lizards.txt",
+      "size": 254,
+      "sha256": "eed4c8d64e21295e276974a127c49385c28e97cba60f3bae7527731529c9207c"
+    },
+    {
       "path": "datos/The Alters Deluxe Edition.txt",
       "size": 206,
       "sha256": "0db32f500225fe98f33f40430a155c18c5b116c0d4a58a6f1a2a40bd260c7b4f"
@@ -11925,6 +12235,11 @@
       "path": "datos/Warhammer 40000 Dawn of War Definitive Edition.txt",
       "size": 183,
       "sha256": "7a221cb5a5e87edecd4547bf4952b688637e1d8a7c3d2dda4871a764eb214513"
+    },
+    {
+      "path": "datos/WARNO Gold Edition.txt",
+      "size": 216,
+      "sha256": "3034b957e2f291153ac51711aa9923311598ae1a7155d611178dc0eec991203b"
     },
     {
       "path": "datos/Warrior Cats Clans of the Forest.txt",

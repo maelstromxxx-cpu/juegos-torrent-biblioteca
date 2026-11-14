@@ -1027,6 +1027,11 @@
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
     },
     {
+      "path": "imagenes/Routine.webp",
+      "size": 43758,
+      "sha256": "45f268587519aa35d52748e24f6701e95919e8bb9a5d05272e77c087ddd5723c"
+    },
+    {
       "path": "imagenes/S.E.M.I. Side Effects May Include….webp",
       "size": 28298,
       "sha256": "8ba34eb345c18827ed8835cfa2f958d99642912e2b0f5905b2a70afa207eb686"
@@ -1045,6 +1050,21 @@
       "path": "imagenes/Shady Part of Me.webp",
       "size": 26618,
       "sha256": "7a4f8f6ac64c17e0e0b8121e8d934ec253d235d776ce3640897ba6e0e5a1b32f"
+    },
+    {
+      "path": "imagenes/Silent Hill 2 Digital Deluxe Edition.webp",
+      "size": 50532,
+      "sha256": "6da102a30377f0c179fbed1d1af85a031ff2a24a4084d4f31bbb7be8cd32f897"
+    },
+    {
+      "path": "imagenes/Silent Hill 4 The Room.webp",
+      "size": 38984,
+      "sha256": "a323710463fb2b7d0bc4b3e4a16b81db68552c535cfa0b3899a0ce0863b93d8d"
+    },
+    {
+      "path": "imagenes/Silent Hill f Digital Deluxe Edition.webp",
+      "size": 54934,
+      "sha256": "e9d701263461ebf29a447b544483dbb871dacec28dcc540d8b6f1603c9613d0e"
     },
     {
       "path": "imagenes/Silent Hill Townfall.webp",
@@ -7522,6 +7542,36 @@
       "sha256": "d18f731adb08f9ab682f92676ef383452c9011c4444ad50a30180c2e361b7656"
     },
     {
+      "path": "capturas/Routine/1.webp",
+      "size": 6102,
+      "sha256": "ea22b7defb4bcd572598581cebbb36f8f7a3b5c313754a434c84a9441bcfc8bf"
+    },
+    {
+      "path": "capturas/Routine/2.webp",
+      "size": 11894,
+      "sha256": "cb13e9270cebdf9f9036484c97260b12813473617555a6168f808af68f9139b6"
+    },
+    {
+      "path": "capturas/Routine/3.webp",
+      "size": 8470,
+      "sha256": "4f472228b7a34210a5fa920c561cdefd1617ec62de85a94add39c4f335e1c00f"
+    },
+    {
+      "path": "capturas/Routine/4.webp",
+      "size": 14850,
+      "sha256": "cf91ae41eebc49bfc4b7a5d370f6f133ba1b5aff0a51eed4075db64bdcd8b001"
+    },
+    {
+      "path": "capturas/Routine/5.webp",
+      "size": 9156,
+      "sha256": "f8346cd38888b79758237bb6ef62d5df53fc8524c5c96162ab553fc8c6d2e49c"
+    },
+    {
+      "path": "capturas/Routine/6.webp",
+      "size": 8922,
+      "sha256": "99c5ac2cabdcfc3a3cd1e854d8c3029c0dc548a26bad868be84efcf4d4a03bbd"
+    },
+    {
       "path": "capturas/S.E.M.I. Side Effects May Include…/1.webp",
       "size": 36100,
       "sha256": "49687f3e53301adb477d0e45b2c388b2169edbf12524e76677ce9c1cbd0c2e11"
@@ -7640,6 +7690,96 @@
       "path": "capturas/Shady Part of Me/6.webp",
       "size": 17196,
       "sha256": "94b6cbebbc52e63ec9e7ebc5d9795b5064fedefc5801c52dce110ad3b76c1fd5"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/1.webp",
+      "size": 6948,
+      "sha256": "17ce6ce2fdd4826099b7f567ec0ce79b3e52bd54fcc9d22af8ec2b0e9a478179"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/2.webp",
+      "size": 17504,
+      "sha256": "9b34259f28322d38cc95276a40f67210697dc45f6e0d1b9128a3b2d44cff4fa8"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/3.webp",
+      "size": 14760,
+      "sha256": "0914cffcfe441f3cad4f19d2abbecc3b269421f083697603f988b34d94e2e417"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/4.webp",
+      "size": 8320,
+      "sha256": "7ac77dc48a6574687af6b89dbfed0f3ed7f9bfc37664539e4bd76df46bbfa410"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/5.webp",
+      "size": 3208,
+      "sha256": "3e9b29cf98d8fcbaa9716e92862acbfe744da4e5d7d6124a6eb11f7eb0a69f6f"
+    },
+    {
+      "path": "capturas/Silent Hill 2 Digital Deluxe Edition/6.webp",
+      "size": 11674,
+      "sha256": "cc0974c35bac1d60914c6cdb98fba84473b9f3a135dee3eea0f23a909a65ba29"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/1.webp",
+      "size": 21700,
+      "sha256": "61015c96adeb1b9d4f348207f9150d9ef757e690240bbb4dd0f06056b5c5d715"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/2.webp",
+      "size": 15388,
+      "sha256": "2cf3db2142c09543d9c0ba19639f81dcc55d184b799393a073c1879d3641fb7c"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/3.webp",
+      "size": 9956,
+      "sha256": "ac513049df475fc09a55b37351b22b72cc3aaf0265edbd415a386d4455853e40"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/4.webp",
+      "size": 10524,
+      "sha256": "940152d343ce3632128986d8de9ab8bf7742267df9a10bf22cd2c3fb71cee29e"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/5.webp",
+      "size": 11968,
+      "sha256": "d66ffb32e4951a9332ee03f86bc39a93ec1d23dccb390dbd68d15471f66d904e"
+    },
+    {
+      "path": "capturas/Silent Hill 4 The Room/6.webp",
+      "size": 18492,
+      "sha256": "43c7c8841de34ea77d826e0dedc3f989f163da442ca1694deceffac449dec512"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/1.webp",
+      "size": 4770,
+      "sha256": "528c57cf1f3a6eecc8c65d2b0b7176c6e55a3b90592ec06a7bae40372420c794"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/2.webp",
+      "size": 10680,
+      "sha256": "4c22db4406cac25e596220e782c561682dffddcca34dd1c2ae42fcbc3abb6580"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/3.webp",
+      "size": 30912,
+      "sha256": "c21f3562a6c1457054cc5c24969a5809b7c72c1ff146843d3a5bf74c177ef4ca"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/4.webp",
+      "size": 12030,
+      "sha256": "a783e628c4d6da56263a28062f76fc103083999dc7bed512485b72bb61857804"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/5.webp",
+      "size": 9358,
+      "sha256": "544dc5af63c0850404d1fa8027f38ef7b33b468433be55788b14ff6e8e1bd8b3"
+    },
+    {
+      "path": "capturas/Silent Hill f Digital Deluxe Edition/6.webp",
+      "size": 8844,
+      "sha256": "c2b25c6f7347f3247d95618364921e69acc7891830b9a755c6e6ed2a518ada9d"
     },
     {
       "path": "capturas/Silent Hill Townfall/1.webp",
@@ -10722,6 +10862,11 @@
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
     },
     {
+      "path": "sinopsis/Routine.txt",
+      "size": 798,
+      "sha256": "0a04a19bd5bb82195f13d966b03ecb3e9d348512222eb24bd67b2794d7cbfa69"
+    },
+    {
       "path": "sinopsis/S.E.M.I. Side Effects May Include….txt",
       "size": 726,
       "sha256": "5391ae654a7d842f9fd5e16dfd1e8e710d85474b2fa2e44c5e2dfc2a5a0014dd"
@@ -10740,6 +10885,21 @@
       "path": "sinopsis/Shady Part of Me.txt",
       "size": 449,
       "sha256": "344546df88bdda2f4a29ac0337428f735da286129104c8ce32059788aa00fcd3"
+    },
+    {
+      "path": "sinopsis/Silent Hill 2 Digital Deluxe Edition.txt",
+      "size": 542,
+      "sha256": "026257374cccbc5779a5fdd71fbdca995e5fcddb3287b788a7365253accdcc89"
+    },
+    {
+      "path": "sinopsis/Silent Hill 4 The Room.txt",
+      "size": 512,
+      "sha256": "1070d0c353b3cf432647974a257c409eed2f115196831d628112437e2488cc84"
+    },
+    {
+      "path": "sinopsis/Silent Hill f Digital Deluxe Edition.txt",
+      "size": 757,
+      "sha256": "24b714eaf37fcf9f3f5837cc1673ac91f51fca1f812180a9cc616f7bca9d2492"
     },
     {
       "path": "sinopsis/Silent Hill Townfall.txt",
@@ -12122,6 +12282,11 @@
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
     },
     {
+      "path": "datos/Routine.txt",
+      "size": 206,
+      "sha256": "a5f08bcab04127bafc7415fba1c5e8388b61651c9ad7cb68e64886a4f8db281f"
+    },
+    {
       "path": "datos/S.E.M.I. Side Effects May Include….txt",
       "size": 238,
       "sha256": "8d77794e3ac5b4a8cffa101476d13621375d5f3235f0ad24748ad4d207ad709e"
@@ -12140,6 +12305,21 @@
       "path": "datos/Shady Part of Me.txt",
       "size": 191,
       "sha256": "f4014053c87ae5b46c3555e40c78f39ea2de578b0fb08fce4aa5b4a6e70bfa82"
+    },
+    {
+      "path": "datos/Silent Hill 2 Digital Deluxe Edition.txt",
+      "size": 216,
+      "sha256": "5b97081dc714eba3889476f130a54bfbaec86e7a7f786bb7f67d881e91aa8cf6"
+    },
+    {
+      "path": "datos/Silent Hill 4 The Room.txt",
+      "size": 206,
+      "sha256": "5a60f0d3c2c14666b685665c0e12c11a2b1f160fa500f1d3fb61e528cbdb00cf"
+    },
+    {
+      "path": "datos/Silent Hill f Digital Deluxe Edition.txt",
+      "size": 195,
+      "sha256": "bb9231535653f5f3793a3556f8f8cf934e7255015ef9c3ab32ffc4124ea43d77"
     },
     {
       "path": "datos/Silent Hill Townfall.txt",

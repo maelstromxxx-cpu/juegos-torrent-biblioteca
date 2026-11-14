@@ -1,10 +1,9 @@
 Año: 2026
-Género: Acción / Aventura / Hack and slash / Survival Horror
-Tamaño: 39GB
+Género: Acción / Aventura / Third-person
+Tamaño: 40GB
 Modo: Singleplayer
 Idioma: MULTI
-Fecha de incorporación: 30/10/2026
-Puntuación: 8,9
-Metacritic: 87
+Fecha de incorporación: 14/11/2026
+Puntuación: 8,8
+Metacritic: 83
 Repacker: FitGirl
-Crack: Hypervisor

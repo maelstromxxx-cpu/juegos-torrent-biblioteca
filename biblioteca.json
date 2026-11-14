@@ -863,8 +863,8 @@
     },
     {
       "path": "imagenes/Onimusha Way of the Sword Premium Deluxe Edition.webp",
-      "size": 81516,
-      "sha256": "8f623411a549b71b49a9cff39800c857204d92cca560db4b920b4e502af710cd"
+      "size": 65376,
+      "sha256": "a12a34ef68188b038db67a8becc1a372688c35fa6c9c4c4bb9ed742ea36afb9d"
     },
     {
       "path": "imagenes/Painkiller Complete Pack.webp",
@@ -6538,33 +6538,33 @@
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/1.webp",
-      "size": 26172,
-      "sha256": "f34a1806172e1d3798651b5a8f3f29577edb341cec250d5ba7d154918c656681"
+      "size": 43240,
+      "sha256": "e1855c679ab2d30cfd5966e0b64335f7a3904a713ceb75cf3fdb618a95294ff2"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/2.webp",
-      "size": 14108,
-      "sha256": "98d794f962554d4409ad3eefc823648970f65102172a8515bcf75bd9d30bdc4e"
+      "size": 10490,
+      "sha256": "f7a49eeaf5d110d748d726e53d16e9548e1e9cd9639b70c683cab955bec76f5e"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/3.webp",
-      "size": 14464,
-      "sha256": "62fec18e204d8ab5b3264813d476f69c5dc59bc58a184323d90e8a1d37b80996"
+      "size": 30614,
+      "sha256": "7bdf68e20122d60b7a36c2bfe66706f8427083ac99d315f63fbf6cbffcb4dd39"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/4.webp",
-      "size": 22526,
-      "sha256": "357a0f0b523dbfd9daad3623f813409590ec9cdc6677b9201bb050b95fd94b03"
+      "size": 14080,
+      "sha256": "4c71f59aeaf8d2e0062196c3b8f73b43c55f1230b0be662f665ee256c268a189"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/5.webp",
-      "size": 43212,
-      "sha256": "2b1cd122f77aacb43fd18f17f25ebfee2643827e522e2a01e6e32f417c935a11"
+      "size": 13230,
+      "sha256": "2cee77f03cad3f7f78088b4a5b95f0cb60130e81aed71b5c4066677be98bed61"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/6.webp",
-      "size": 13266,
-      "sha256": "183033aa5b37f774657ac0f4823c3de18571f436384ed0f9351d979b336cef09"
+      "size": 26092,
+      "sha256": "8a187a3897298f65354104cbc247cae19be0346d791e73436c4f086fcc9b960e"
     },
     {
       "path": "capturas/Painkiller/1.webp",
@@ -10558,8 +10558,8 @@
     },
     {
       "path": "sinopsis/Onimusha Way of the Sword Premium Deluxe Edition.txt",
-      "size": 539,
-      "sha256": "23ba4029b5bd158d21ca06141901c9c6ee9e92c2350c23009504bc66d289fa46"
+      "size": 959,
+      "sha256": "68c6423c84eedac29a797e9b12b627f1813c925215cdc7bb9036db6cdccd6fb5"
     },
     {
       "path": "sinopsis/Painkiller Complete Pack.txt",
@@ -11493,8 +11493,8 @@
     },
     {
       "path": "datos/Driveclub.txt",
-      "size": 209,
-      "sha256": "0d15cda08fc60bc86a0a258057df54872cfcc8c975f9ba3a1b967374cc72c00c"
+      "size": 219,
+      "sha256": "95e3b4f636481d3451af54696bf56aa8c7bb58f1a4b34a530710c452b092ddb0"
     },
     {
       "path": "datos/Dune Awakening Ultimate Edition.txt",
@@ -11848,8 +11848,8 @@
     },
     {
       "path": "datos/Mario Kart World.txt",
-      "size": 243,
-      "sha256": "9d3e313924bec779e3f844ac8f89fcdf48259d6f2f0b2f1b4aac1f771f086a21"
+      "size": 258,
+      "sha256": "ee8c9777055260012eecc9beb16336ec6456c27e0ff03289c864ff42634b9dc7"
     },
     {
       "path": "datos/Marvels Spider-Man 2 Digital Deluxe Edition.txt",
@@ -11958,8 +11958,8 @@
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",
-      "size": 224,
-      "sha256": "becc34628010a333ae02bda918ed1503ee95f3452363dbb37a012c8bc5d54b17"
+      "size": 187,
+      "sha256": "885b4061557eb9ecabf48b6d035f9d1d4a8ec2eae48ccb7ffa5899d7b356d279"
     },
     {
       "path": "datos/Painkiller Complete Pack.txt",
@@ -11998,8 +11998,8 @@
     },
     {
       "path": "datos/Pokémon Pokopia.txt",
-      "size": 208,
-      "sha256": "72e2a1c2522e41585812c5b71ac64c8b1276f170c0bbf1ddb8c0156e28aa9226"
+      "size": 223,
+      "sha256": "8e95afe99977ced1337dc511bf76cc534be99cce9f437feda1b7461da08bb1ad"
     },
     {
       "path": "datos/Pragmata Deluxe Edition.txt",
@@ -12318,8 +12318,8 @@
     },
     {
       "path": "datos/The Legend of Zelda Tears of the Kingdom.txt",
-      "size": 210,
-      "sha256": "d81e08241525a9a3d70d89dae8b12b491f25cb85c93f7ce02e74a617f6c24449"
+      "size": 225,
+      "sha256": "884b395c89297dd3ffa5da295f685c8034673121829554baa348ec0ff7ff2cc9"
     },
     {
       "path": "datos/The Lord of the Rings War in the North Legacy Edition.txt",

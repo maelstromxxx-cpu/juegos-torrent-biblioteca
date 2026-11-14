@@ -612,6 +612,16 @@
       "sha256": "0131b91df2d3752d75ac472d4c3284dd1e24f35ebe021a35c4c10ce82d9f0c21"
     },
     {
+      "path": "imagenes/Half-Life 2 20th Anniversary Edition.webp",
+      "size": 32200,
+      "sha256": "2c2e903fecbe1b341dcb8c3819a8fbdfd50c967f739e1ef58434a7bf7cae1839"
+    },
+    {
+      "path": "imagenes/Half-Life Source Quadrilogy.webp",
+      "size": 24752,
+      "sha256": "cec24278c2842a0888d4796e3deb6ce5b2cdb52051d44ef538fb4a40ba8dc4a7"
+    },
+    {
       "path": "imagenes/Halo Campaign Evolved.webp",
       "size": 34462,
       "sha256": "a379ac4af1e296784a540756fb938e2302be6f7048ba48a0206a83ef8a60c1a0"
@@ -5050,6 +5060,66 @@
       "path": "capturas/Gym Manager/6.webp",
       "size": 22324,
       "sha256": "1ce368bf982bb68192a5a3acf67e9981a02eca386091119038d89e2d8efd2c98"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/1.webp",
+      "size": 19586,
+      "sha256": "7d579179408310e656e5ff754177fa6e5a7c36977372e68e80e368c9c5636fbf"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/2.webp",
+      "size": 20240,
+      "sha256": "a811577788d643b5557039b6ef21a742e7169cef92380c2ca6d95540a00214c8"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/3.webp",
+      "size": 19834,
+      "sha256": "c0873d020e2dc04644edd80b2a7499e29d5320e384ab3b26f318f75d179e05a3"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/4.webp",
+      "size": 17748,
+      "sha256": "1c72cbb0a9c2af18b5fb8e228995ae732d006ac448c8cc3df793f99c2577bc71"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/5.webp",
+      "size": 18204,
+      "sha256": "029c85463353125e0a0727be7a24b5cfba37a08cfadcc81b5f7b22b75134a259"
+    },
+    {
+      "path": "capturas/Half-Life 2 20th Anniversary Edition/6.webp",
+      "size": 38466,
+      "sha256": "52ec642559723d0e81693ed4d0c7d7d1718fd064c75ee6feb134b7891b5aa597"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/1.webp",
+      "size": 23336,
+      "sha256": "3fcfb6e16e23cbd98f13e75c1c5ac741272d064253c711a3ceb12df6cdc67668"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/2.webp",
+      "size": 32832,
+      "sha256": "08ecc8c39fcece423db76359c18679b900668ec3331c8498191b415865d136d0"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/3.webp",
+      "size": 17980,
+      "sha256": "fe767598e29727ebf8ac7fcdab68750428ce04583139bd31d29624b89695078f"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/4.webp",
+      "size": 13774,
+      "sha256": "2b90a4cdcaa44ba463850551e0fb27a6e1e0820448ee404ee4525b50370ae5fa"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/5.webp",
+      "size": 13628,
+      "sha256": "2344ec442196f78b852f4e5e989c9a2c9fa6795a0191c8f272ad271b906e9f61"
+    },
+    {
+      "path": "capturas/Half-Life Source Quadrilogy/6.webp",
+      "size": 20102,
+      "sha256": "9f2438945763a71d2f82661f7b18bfe3c865182b250838e63b4ea812591d6621"
     },
     {
       "path": "capturas/Halo Campaign Evolved/1.webp",
@@ -10237,6 +10307,16 @@
       "sha256": "4d279037a914eb857d7d8fcaa1f7135980dbc0cab919ca7e5dd3755d5cca6cc8"
     },
     {
+      "path": "sinopsis/Half-Life 2 20th Anniversary Edition.txt",
+      "size": 798,
+      "sha256": "7cfcbd94c4a70fc7afd7e026d940c5173984112a0b245faf06ac831b7ed94f49"
+    },
+    {
+      "path": "sinopsis/Half-Life Source Quadrilogy.txt",
+      "size": 990,
+      "sha256": "47d9d4f2367da97c8ca3d475934850f50995c442d94f46fe4e9be89335ebd387"
+    },
+    {
       "path": "sinopsis/Halo Campaign Evolved.txt",
       "size": 928,
       "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
@@ -11625,6 +11705,16 @@
       "path": "datos/Gym Manager.txt",
       "size": 193,
       "sha256": "6126f0f1e407afa6f81e4ed771f4f82515d07ca4851c9affdd5dd2924a86be2c"
+    },
+    {
+      "path": "datos/Half-Life 2 20th Anniversary Edition.txt",
+      "size": 189,
+      "sha256": "e2f45f975acf6eb8f30aeefe689b36f403f42a100ff0cd527858e677d62eb906"
+    },
+    {
+      "path": "datos/Half-Life Source Quadrilogy.txt",
+      "size": 202,
+      "sha256": "220268379113396d3f0de40e7abc539b1c38ce1d803935d02a43e3132c666459"
     },
     {
       "path": "datos/Halo Campaign Evolved.txt",

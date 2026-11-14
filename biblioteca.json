@@ -807,6 +807,11 @@
       "sha256": "855bf1e75e33d10bf58651427753f72de97ef2aa3d42848df9d73fc1540fb5ed"
     },
     {
+      "path": "imagenes/Motorcycle Ride Infinity.webp",
+      "size": 31264,
+      "sha256": "65159fe40008e62efab1d9c68a1ec85fe2ae17f58b53b2dd090ce3367ec945a8"
+    },
+    {
       "path": "imagenes/Mount & Blade II Bannerlord.webp",
       "size": 63678,
       "sha256": "de868ce62bc1c5fb61ce9ddc2b8918f306a93f0df1062099a520092ee6ca936d"
@@ -900,6 +905,11 @@
       "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
       "size": 14344,
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
+    },
+    {
+      "path": "imagenes/Project Motor Racing Year 1 Bundle.webp",
+      "size": 63784,
+      "sha256": "2fc7fc3669fcfad559650a83f6fec9e19f73bb007cdef573b31310b0091c714d"
     },
     {
       "path": "imagenes/Quake Enhanced.webp",
@@ -6202,6 +6212,36 @@
       "sha256": "460d957e6d4af73a8f1ffc8c7ff2deac5102eb0872304c14017742f1b2ce94b3"
     },
     {
+      "path": "capturas/Motorcycle Ride Infinity/1.webp",
+      "size": 9992,
+      "sha256": "396a8320a07eadb85345abd37f567410d0d2e1709d4c14e7ab98750eebd7fdd4"
+    },
+    {
+      "path": "capturas/Motorcycle Ride Infinity/2.webp",
+      "size": 13380,
+      "sha256": "5aa76860df01b69a1248f926679982d04d27d5fb77a168964a999222695049c7"
+    },
+    {
+      "path": "capturas/Motorcycle Ride Infinity/3.webp",
+      "size": 16442,
+      "sha256": "e73ef077f8a9e0345c87b71efc590f6bfa1850289e6d88bd245bbfd62f04fdd7"
+    },
+    {
+      "path": "capturas/Motorcycle Ride Infinity/4.webp",
+      "size": 22584,
+      "sha256": "0c1685c62a2f513d5830827a8e16e6a2a43c6d079f8dcdd04f40b6fc407ae44c"
+    },
+    {
+      "path": "capturas/Motorcycle Ride Infinity/5.webp",
+      "size": 12044,
+      "sha256": "3954248c73e23e09943ac5baad6e9ff5c52df3d391f9c2db73432e6907e2d897"
+    },
+    {
+      "path": "capturas/Motorcycle Ride Infinity/6.webp",
+      "size": 14648,
+      "sha256": "8a872a3d051954a4584025840ec4a8dfb76e1ec4c20bd1290ea5ffe27ec84d80"
+    },
+    {
       "path": "capturas/Mount & Blade II Bannerlord/1.webp",
       "size": 30490,
       "sha256": "6ff856b58a242c68af4413d45c89666e640c92cba0ab2898303782f6924d673a"
@@ -6750,6 +6790,36 @@
       "path": "capturas/Project Hunt Maps & Weapons Bundle/6.webp",
       "size": 26486,
       "sha256": "043b0d5b021c1cfd1570c0e06899f59008abaa78a255340f8b2078efaca16dc6"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/1.webp",
+      "size": 15004,
+      "sha256": "0905d5af35afc761b78c631a72ae3865ddae763ad347a5cdde7224dd6f633e8d"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/2.webp",
+      "size": 15074,
+      "sha256": "a94b4966127fe92de4b5cb74b5d528418436d8b6daadb2ccda8a6f32c1226b66"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/3.webp",
+      "size": 12972,
+      "sha256": "a86630e49a2d021fa82eb9a8b771eb12c53d17f02826fe3f9de976891ee0ba0c"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/4.webp",
+      "size": 10526,
+      "sha256": "7a786eea9fca6f3427af8fe7b22a861781b7ead6f5a7d63337a77dd8b45ae5cd"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/5.webp",
+      "size": 18602,
+      "sha256": "a519367d4252bea1f2dee1c974746a564ca357a4d8505489dc6aa44833756e61"
+    },
+    {
+      "path": "capturas/Project Motor Racing Year 1 Bundle/6.webp",
+      "size": 18772,
+      "sha256": "e36ff922aadee10677913fb88cfeedd0507e0bea9590b3b86924adbabbf89e23"
     },
     {
       "path": "capturas/Quake Enhanced/1.webp",
@@ -10362,6 +10432,11 @@
       "sha256": "19825594c80d05e18295b27126801d8d9f6c73223af375dc23ab6c91df06cb3c"
     },
     {
+      "path": "sinopsis/Motorcycle Ride Infinity.txt",
+      "size": 1236,
+      "sha256": "c754c8a68bd22272234cf5628bc9728839c6d4f277c9f0795ab4db980b2f4935"
+    },
+    {
       "path": "sinopsis/Mount & Blade II Bannerlord.txt",
       "size": 861,
       "sha256": "2bdb99360ecd29baa75c3f5cdbdd004de6901fb0a476c657eca25ca4353db9e2"
@@ -10455,6 +10530,11 @@
       "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
       "size": 760,
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
+    },
+    {
+      "path": "sinopsis/Project Motor Racing Year 1 Bundle.txt",
+      "size": 300,
+      "sha256": "bcea31cbb8b8cf4b66b35b495e6f87908c4ab5c530ba780769dac6f8fc5c9b4a"
     },
     {
       "path": "sinopsis/Quake Enhanced.txt",
@@ -10923,8 +11003,8 @@
     },
     {
       "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
-      "size": 1076,
-      "sha256": "fa91088feda4d5dcb1a0a20b7dc3a5aefd200fc7e38e85457aec21e797e6a0cb"
+      "size": 1074,
+      "sha256": "5ef37ffd057b7b7ddf5b1510086da7ffe96544152d1c3937556c477f9859187b"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -11742,6 +11822,11 @@
       "sha256": "12b0e48df311db2ddeb5dd841bcfee650c470c3ad97f5b0de1199d1cceb6649c"
     },
     {
+      "path": "datos/Motorcycle Ride Infinity.txt",
+      "size": 220,
+      "sha256": "7c4912e88578cda480616e27cad35005755b3b0be186ececaf2e51afd527c2fc"
+    },
+    {
       "path": "datos/Mount & Blade II Bannerlord.txt",
       "size": 241,
       "sha256": "01cf6fd58741bea9047c6054262c7d11334752e23c7e89aa826a9a07ea2c0f8a"
@@ -11835,6 +11920,11 @@
       "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
       "size": 213,
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
+    },
+    {
+      "path": "datos/Project Motor Racing Year 1 Bundle.txt",
+      "size": 219,
+      "sha256": "6bbba485341773384850cc408a637ad5572da6962ab6425426f744ae3f6f5814"
     },
     {
       "path": "datos/Quake Enhanced.txt",

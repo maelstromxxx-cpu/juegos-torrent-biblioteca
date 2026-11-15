@@ -1392,6 +1392,11 @@
       "sha256": "6c506860f2c1a7b8414241a6dffcb012eb03b391036a73cdd8b2e775146da999"
     },
     {
+      "path": "imagenes/World War Z Aftermath Deluxe Edition Viral State.webp",
+      "size": 47428,
+      "sha256": "13cbbe95d5b87e720f1bf8aa11427751992171c92c2ac0a3e68517e952d7ed7b"
+    },
+    {
       "path": "imagenes/World War Z Aftermath Deluxe Edition.webp",
       "size": 48592,
       "sha256": "0372e677b4743b832a4268e4e17a956cad2bf9746382323db5b2d310bd178d57"
@@ -9742,6 +9747,36 @@
       "sha256": "c290a690c9ed3ec71ebb3654c964f057395af7784ec6b8c405bdc4107c3e6047"
     },
     {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/1.webp",
+      "size": 23480,
+      "sha256": "7ba096a821b5382f96e8e515018a68e52f32586b931cfca294e816d35bf7d5d6"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/2.webp",
+      "size": 20828,
+      "sha256": "3bc5f5470bdc7014f074f88274db7b12e379fdc2012bb4c94d877a9b21ed4134"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/3.webp",
+      "size": 17048,
+      "sha256": "dcba93095907e4c02be34f6b3f8d6e6d967f945943e1db560253f75490e3cdde"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/4.webp",
+      "size": 15260,
+      "sha256": "17d516e4ecc90edfba97f2b40e7008d561626959d780565fef6d0549ff7c0ac1"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/5.webp",
+      "size": 19238,
+      "sha256": "ba37acd8f94d2bc4ff6771896175a1ad16d478b5bd00f9dd2abb1e262cfe6a06"
+    },
+    {
+      "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/6.webp",
+      "size": 28892,
+      "sha256": "fa6d2773bb4512cabef70ad93ea42eb5ac0d13613345f329e26f209d379560bf"
+    },
+    {
       "path": "capturas/WWE 2K26/1.webp",
       "size": 16426,
       "sha256": "502692dadc41430cbe84522f82c1c50449a3775ea8732317de3baf7b3eba07c6"
@@ -11227,6 +11262,11 @@
       "sha256": "7140d33e4106acb4b81d52cf324e4745a673bd4e97f65521a1cf24cf2dcec3af"
     },
     {
+      "path": "sinopsis/World War Z Aftermath Deluxe Edition Viral State.txt",
+      "size": 1052,
+      "sha256": "4bc110891e8188cf4c389e00dda714eec0619c439674732e936cf935dbe400b5"
+    },
+    {
       "path": "sinopsis/World War Z Aftermath Deluxe Edition.txt",
       "size": 1861,
       "sha256": "03978db4cf078e3d5d8ff4579a84dc5bdc5b6f1bcf6ab7c1c38c0b3fc2fdf10d"
@@ -12645,6 +12685,11 @@
       "path": "datos/Woodo Endless Summer Edition.txt",
       "size": 186,
       "sha256": "e3866568a9506af80f51882e8781e1a8f0ba8771ec25d55522571d11e540f3a0"
+    },
+    {
+      "path": "datos/World War Z Aftermath Deluxe Edition Viral State.txt",
+      "size": 174,
+      "sha256": "4856c202cd86c5b2b84b747ff0d7cc8981d12a13f875565d473436a6755abf8d"
     },
     {
       "path": "datos/World War Z Aftermath Deluxe Edition.txt",

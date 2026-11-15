@@ -1393,11 +1393,6 @@
     },
     {
       "path": "imagenes/World War Z Aftermath Deluxe Edition Viral State.webp",
-      "size": 47428,
-      "sha256": "13cbbe95d5b87e720f1bf8aa11427751992171c92c2ac0a3e68517e952d7ed7b"
-    },
-    {
-      "path": "imagenes/World War Z Aftermath Deluxe Edition.webp",
       "size": 48592,
       "sha256": "0372e677b4743b832a4268e4e17a956cad2bf9746382323db5b2d310bd178d57"
     },
@@ -9717,36 +9712,6 @@
       "sha256": "e59b25035ab4c2a803d867e9178946816d96c51afa1a27815842878096292311"
     },
     {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/1.webp",
-      "size": 16022,
-      "sha256": "b50fc4f1a65130fabc424ad31822770866cd3cf434251b97c634f929d8de34db"
-    },
-    {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/2.webp",
-      "size": 25706,
-      "sha256": "c6bbc964f1d99de22731054dd3cdfc357d9170963572f761b6ea131596e89769"
-    },
-    {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/3.webp",
-      "size": 23210,
-      "sha256": "7b0b6d25e7133512128d740ec24d76520fc76b15456f85521eb200de37946bc2"
-    },
-    {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/4.webp",
-      "size": 30822,
-      "sha256": "ffce04887dcb2f60e8b4c576b2dd517f86314d53920529fd61d0f1234eb7d0f7"
-    },
-    {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/5.webp",
-      "size": 18778,
-      "sha256": "0b089f10a7c1ffde0cd67614152654d84ec265a5756efccb43c934d24046e6d4"
-    },
-    {
-      "path": "capturas/World War Z Aftermath Deluxe Edition/6.webp",
-      "size": 19854,
-      "sha256": "c290a690c9ed3ec71ebb3654c964f057395af7784ec6b8c405bdc4107c3e6047"
-    },
-    {
       "path": "capturas/World War Z Aftermath Deluxe Edition Viral State/1.webp",
       "size": 23480,
       "sha256": "7ba096a821b5382f96e8e515018a68e52f32586b931cfca294e816d35bf7d5d6"
@@ -11267,11 +11232,6 @@
       "sha256": "4bc110891e8188cf4c389e00dda714eec0619c439674732e936cf935dbe400b5"
     },
     {
-      "path": "sinopsis/World War Z Aftermath Deluxe Edition.txt",
-      "size": 1861,
-      "sha256": "03978db4cf078e3d5d8ff4579a84dc5bdc5b6f1bcf6ab7c1c38c0b3fc2fdf10d"
-    },
-    {
       "path": "sinopsis/WWE 2K26.txt",
       "size": 7786,
       "sha256": "10e5c91592d29143d9636acf88386e3589e2b2b3c0972acc685765a17853387b"
@@ -12690,11 +12650,6 @@
       "path": "datos/World War Z Aftermath Deluxe Edition Viral State.txt",
       "size": 174,
       "sha256": "4856c202cd86c5b2b84b747ff0d7cc8981d12a13f875565d473436a6755abf8d"
-    },
-    {
-      "path": "datos/World War Z Aftermath Deluxe Edition.txt",
-      "size": 211,
-      "sha256": "7e3858e972205d48889c8da6558c3f64b4e7f16eecfe1d25204aefc7c3eabe1c"
     },
     {
       "path": "datos/WWE 2K26.txt",

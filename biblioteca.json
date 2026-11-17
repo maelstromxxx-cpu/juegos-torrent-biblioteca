@@ -122,6 +122,11 @@
       "sha256": "18f57aace6f75512e81c5064fbb48bb297e46ce2acd4f260e8150b8a7a52df0e"
     },
     {
+      "path": "imagenes/BALL x PIT The Rise and Fall of Ballbylon Bundle.webp",
+      "size": 47168,
+      "sha256": "ff1d053fcd3de7b033f2fde02f439582f19eabd205be95a0a847c3a555e32cdd"
+    },
+    {
       "path": "imagenes/Batman Arkham Knight Premium Edition.webp",
       "size": 67854,
       "sha256": "fd226b7525e9d4273ed7eb3c41d32292f3013d701ac743018b4c5e6780e04f19"
@@ -492,6 +497,11 @@
       "sha256": "848342663f871dd77436f4b3bb08acdf2bfb1efacc29113263079fff5c487998"
     },
     {
+      "path": "imagenes/Football Manager 27.webp",
+      "size": 89058,
+      "sha256": "b9ba08c4877db9f860efe6a6ecddce7cea0e538b96c381e2fec8e10174ce0387"
+    },
+    {
       "path": "imagenes/Forgotton Anne.webp",
       "size": 51704,
       "sha256": "ec09f0d59ab071cb4609cb4de3777e1e22a4916413f2e4781a35f7e8d76db0d9"
@@ -590,6 +600,11 @@
       "path": "imagenes/Grand Theft Auto V GTA.webp",
       "size": 86114,
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
+    },
+    {
+      "path": "imagenes/Ground Branch.webp",
+      "size": 40750,
+      "sha256": "be0044148b4059af8e87832fd5e1ba615287e351cc547c339b61be0b2d82abbe"
     },
     {
       "path": "imagenes/GTA 4 Grand Theft Auto IV The Complete Edition.webp",
@@ -1162,6 +1177,11 @@
       "sha256": "1d03a0480c8925ba4881d9ae2ad5ef3d2e666d3b84342452b0d7442f9dcab34c"
     },
     {
+      "path": "imagenes/Survival Fountain of Youth Captain’s Edition.webp",
+      "size": 50810,
+      "sha256": "7f8213e5b6e30c42642cb162f99b11bf55b70f4f2413beb5c546bb7b346e5100"
+    },
+    {
       "path": "imagenes/Taboo Trial.webp",
       "size": 55588,
       "sha256": "9a39ce73dbd5d84f388067ec4a677e84233a9b858645a80743f6eb2407f2d880"
@@ -1277,6 +1297,11 @@
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
     },
     {
+      "path": "imagenes/The Witchs Bakery.webp",
+      "size": 76112,
+      "sha256": "32e9b6a9d9d7fc3e01a5783b9667ad0238cf7b4275249842841ded8799e9d4a4"
+    },
+    {
       "path": "imagenes/The Wolf Among Us Remastered.webp",
       "size": 23594,
       "sha256": "ea0756581122def8376086648cb3bc534a529227cdad781a5bfb3a2f9f6ce8e9"
@@ -1385,6 +1410,11 @@
       "path": "imagenes/Wing Commander IV The Price of Freedom 30th Anniversary Edition.webp",
       "size": 45748,
       "sha256": "ba0a9bdd69d09d19e50154c6b8ca3bb372ec50df9f96a40fe40bba9fc00b59cf"
+    },
+    {
+      "path": "imagenes/Witch Cabin Cleanup.webp",
+      "size": 33692,
+      "sha256": "fa2285fb09851d82d5ff901b7c889effecd52731f80657f9ffc3e01e5e0f3084"
     },
     {
       "path": "imagenes/Woodo Endless Summer Edition.webp",
@@ -2160,6 +2190,36 @@
       "path": "capturas/Baldurs Gate 3 Deluxe Edition/6.webp",
       "size": 31778,
       "sha256": "8be5c29bfa5a384741fe4c7784c29e67ccb58d9e28b3bc3c3426403f0ee0cb1d"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/1.webp",
+      "size": 29768,
+      "sha256": "c27a4d46c1d5dd014bc41ad46a94cdee555502b5200cb94fd1e27fd41467dec9"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/2.webp",
+      "size": 28512,
+      "sha256": "af120834e2755b64b2a31d80e68dd1d86b4474363ac4ea030de60faa47cba7da"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/3.webp",
+      "size": 23326,
+      "sha256": "8cc796d307b33ffedeb02241e923343f69d4c9c2123ac85b589911811ac7fd23"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/4.webp",
+      "size": 42548,
+      "sha256": "4811e6c3efe40e63b43eee0bb61e03ff9f33480007c583e14aa0a1bd55297664"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/5.webp",
+      "size": 28352,
+      "sha256": "da89ab38270941cd459111725a6a05af025ca3b6a0669493de3f4fcea62455ae"
+    },
+    {
+      "path": "capturas/BALL x PIT The Rise and Fall of Ballbylon Bundle/6.webp",
+      "size": 23026,
+      "sha256": "e3d0e15ae0f6b179d001742e0ce50b8cd023c1161a4da2c6544ca0d63ede2967"
     },
     {
       "path": "capturas/Batman Arkham Knight Premium Edition/1.webp",
@@ -4362,6 +4422,41 @@
       "sha256": "8195392da932c0ddff86806d7edbd49de9c3df5954053a4de4f1d3a24131a1a0"
     },
     {
+      "path": "capturas/Football Manager 27/1.webp",
+      "size": 28594,
+      "sha256": "95ab0cfff38303fc26c4535d58917fe27fd1b2a71edca478215f908aca2ad3eb"
+    },
+    {
+      "path": "capturas/Football Manager 27/2.webp",
+      "size": 26336,
+      "sha256": "d251d7e6cc5ddd56c11baba7d23a4fc56028522ef20c2c650a3698e89ac4ea6f"
+    },
+    {
+      "path": "capturas/Football Manager 27/3.webp",
+      "size": 26610,
+      "sha256": "2fa7ebc7726ad1638ae549bf674476dc0500b1c0ae1a1faa2d1c43a6a165329b"
+    },
+    {
+      "path": "capturas/Football Manager 27/4.webp",
+      "size": 27464,
+      "sha256": "2a43032072e215b54c32c8348692644b43d819b6336df1104067740621d969ea"
+    },
+    {
+      "path": "capturas/Football Manager 27/5.webp",
+      "size": 29844,
+      "sha256": "b2443451ae3c8710173f3ffd1b082cefaae77606f173710f70973872a768f5bb"
+    },
+    {
+      "path": "capturas/Football Manager 27/6.webp",
+      "size": 42672,
+      "sha256": "a3bedd8172a17b598b8f978757b0c8d4edc40560c5056bcfbf8d018db5517284"
+    },
+    {
+      "path": "capturas/Football Manager 27/7.webp",
+      "size": 24866,
+      "sha256": "67ab5252e09ce43e3fc1391b0de385df3852b3b13557216c2d878fa4f5e91792"
+    },
+    {
       "path": "capturas/Forgotton Anne/1.webp",
       "size": 15668,
       "sha256": "9c881e3e0ef677fe3f6b1e5dfd2457827321414a4c3f29ecb2000b45537c058a"
@@ -4960,6 +5055,36 @@
       "path": "capturas/Grand Theft Auto V GTA/06.webp",
       "size": 30122,
       "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
+    },
+    {
+      "path": "capturas/Ground Branch/1.webp",
+      "size": 20332,
+      "sha256": "9d9d6dfb4435b6789bee212ece6b3e3d4cf07a452433c5165cba996ac851db6c"
+    },
+    {
+      "path": "capturas/Ground Branch/2.webp",
+      "size": 7820,
+      "sha256": "b65c18fdc50970d72c1dc512ca37315fd8e97e6e194e99e9a7a3b740221c934e"
+    },
+    {
+      "path": "capturas/Ground Branch/3.webp",
+      "size": 18466,
+      "sha256": "a8232d09c05530f68ec7f5eab6b0776575d0180d085789c9e436018a2a8adf90"
+    },
+    {
+      "path": "capturas/Ground Branch/4.webp",
+      "size": 14328,
+      "sha256": "b3526dac4f0d249192a472cf63184f32e4b433d1f3dea74facd396071f604f75"
+    },
+    {
+      "path": "capturas/Ground Branch/5.webp",
+      "size": 28510,
+      "sha256": "bd8791eebc24ae103706372c2eb8d3b5d2debbae235ef75138dc5fb2d978ebc3"
+    },
+    {
+      "path": "capturas/Ground Branch/6.webp",
+      "size": 29900,
+      "sha256": "d28f755e115e078e954be1f3700a582df9896aa10e5d8c852a232a437deaf56a"
     },
     {
       "path": "capturas/GTA 4 Grand Theft Auto IV The Complete Edition/1.webp",
@@ -8352,6 +8477,36 @@
       "sha256": "794b8781ebb3d495f73c27c430eef42a489ff6663f244034136fdba0f190eae8"
     },
     {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/1.webp",
+      "size": 32206,
+      "sha256": "d03231bc608e4f4804c759a573328a0d7aee2e2cb9c28b16683567e4b7f3e405"
+    },
+    {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/2.webp",
+      "size": 15026,
+      "sha256": "64f4aa9863dd56ffe8eabbdf69a2a527026e1fcbb28fbe23a23d090ae1b63fef"
+    },
+    {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/3.webp",
+      "size": 47682,
+      "sha256": "7b64ed7f231b16bebe7f8aec820c95feb0f401a232274f0a3098dc3d8ad90c3c"
+    },
+    {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/4.webp",
+      "size": 18432,
+      "sha256": "7867f8a7e0248cb68420116aa58bbe91d5044e5c0bb839ba60f15751008dcea9"
+    },
+    {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/5.webp",
+      "size": 16012,
+      "sha256": "23426fd5289767b6bfc2979d09fe9f460e25c0651d22126eaff77b0d73a16666"
+    },
+    {
+      "path": "capturas/Survival Fountain of Youth Captain’s Edition/6.webp",
+      "size": 20144,
+      "sha256": "45f7fd427e07e2e77c2eda4c16b8749e6742fad26462ac4943acd3df764d8360"
+    },
+    {
       "path": "capturas/Taboo Trial/1.webp",
       "size": 26066,
       "sha256": "dfc2281123f288f344c35d4e76a8671c070f68797488d6cd686362e681e6e0a6"
@@ -9027,6 +9182,36 @@
       "sha256": "10db72f56200ed42e7cafced539ae7a8c609160d648b9fa938d8f5c485c90405"
     },
     {
+      "path": "capturas/The Witchs Bakery/1.webp",
+      "size": 30664,
+      "sha256": "def24ff61e5ab3071be9172df1f0282ea7fb3a945581ce5cc444e9eb5f523b35"
+    },
+    {
+      "path": "capturas/The Witchs Bakery/2.webp",
+      "size": 19086,
+      "sha256": "f0f4e5e47b14ccd751749738e5580a37790c0756a6afcbd99ffdf368679ce61a"
+    },
+    {
+      "path": "capturas/The Witchs Bakery/3.webp",
+      "size": 28304,
+      "sha256": "59d3e1aad01a061146b97d1532fd61b347af54803826a7a96a706bd16fa6a225"
+    },
+    {
+      "path": "capturas/The Witchs Bakery/4.webp",
+      "size": 24570,
+      "sha256": "fda5866fa170cfba089d0f2c7e24c3f9f4a61f7caa684b6433234fd5b13733c4"
+    },
+    {
+      "path": "capturas/The Witchs Bakery/5.webp",
+      "size": 37818,
+      "sha256": "e55c2cf69d49f295d8d374583ebf6ee4c63756ed5ad1014ea221d815e76aafc5"
+    },
+    {
+      "path": "capturas/The Witchs Bakery/6.webp",
+      "size": 23458,
+      "sha256": "734e3f2ea2fa47eb5ed2b54b435fab25d086e48f2de2ea3af073c692a99bedcb"
+    },
+    {
       "path": "capturas/The Wolf Among Us Remastered/1.webp",
       "size": 16424,
       "sha256": "e00fc353adabc94722a736d1d0be43a9b2ee8f7f85df3642afd3bd7dae871b95"
@@ -9682,6 +9867,31 @@
       "sha256": "f08ee4b1b93141a6fd21a6c441aa78e3c913566367663590f6117fb2d5bb19ac"
     },
     {
+      "path": "capturas/Witch Cabin Cleanup/1.webp",
+      "size": 48262,
+      "sha256": "e496673f43758613b6644ac00dc491a571d5b17185534e9cad73a14aa3e428d6"
+    },
+    {
+      "path": "capturas/Witch Cabin Cleanup/2.webp",
+      "size": 39636,
+      "sha256": "69b86a6c11909a747e0c8f06738095de0011d0251003382e5c3f400ed788480a"
+    },
+    {
+      "path": "capturas/Witch Cabin Cleanup/3.webp",
+      "size": 34726,
+      "sha256": "7573a69760c248029efd40aa47f117a0cdb21d4f56f22338a1af172f2e22d618"
+    },
+    {
+      "path": "capturas/Witch Cabin Cleanup/4.webp",
+      "size": 47864,
+      "sha256": "9e2769d0b3b87781305e00e3a1934f10046cbab71df1f93456e03d315ec3ef86"
+    },
+    {
+      "path": "capturas/Witch Cabin Cleanup/5.webp",
+      "size": 54256,
+      "sha256": "bb645b33dae14502da421ccc3c6f225d2b3d66a8309f4c2906efb35fb12ead72"
+    },
+    {
       "path": "capturas/Woodo Endless Summer Edition/1.webp",
       "size": 21240,
       "sha256": "8c9afc43451fa03c0b65675fd455b9293116590cfc39b5add66828c68483b0a5"
@@ -9955,6 +10165,11 @@
       "path": "sinopsis/Baldurs Gate 3 Deluxe Edition.txt",
       "size": 1047,
       "sha256": "0a51b80c7124755fb609b6ac8bca9cbcc67e96b19b3a6be7b22d22de978bd230"
+    },
+    {
+      "path": "sinopsis/BALL x PIT The Rise and Fall of Ballbylon Bundle.txt",
+      "size": 418,
+      "sha256": "221baa1c080acd1127ccc620537e8f99f387242f20ea31ac3d7c34121f9a8c94"
     },
     {
       "path": "sinopsis/Batman Arkham Knight Premium Edition.txt",
@@ -10327,6 +10542,11 @@
       "sha256": "e7ca0d1f9cce76c81e6373ffa4aca4d16ea7f14b9246e9b105a5d163e42d812a"
     },
     {
+      "path": "sinopsis/Football Manager 27.txt",
+      "size": 714,
+      "sha256": "5a42a2b5bd26eeae5fa51e8036c86b6ee939594018945055c7e129dc82a04356"
+    },
+    {
       "path": "sinopsis/Forgotton Anne.txt",
       "size": 505,
       "sha256": "ff0d7a7aedcb102d5882937475a9f0a7eab011aad6c441632f92782b7a2841ce"
@@ -10425,6 +10645,11 @@
       "path": "sinopsis/Grand Theft Auto V GTA.txt",
       "size": 300,
       "sha256": "f6b14d786eee7e06fdd8b4c56161eb22dbcc01329daaf30eaabd3a1cff2998f3"
+    },
+    {
+      "path": "sinopsis/Ground Branch.txt",
+      "size": 1442,
+      "sha256": "024cb8ff5ce5b036a63969227ebb7890d86a6bc6a16551616fa092794cab5f82"
     },
     {
       "path": "sinopsis/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
@@ -10997,6 +11222,11 @@
       "sha256": "da5de943906c0f0bdfa7a25d2e9fc27a86dade48eded7cde0b36308fae990179"
     },
     {
+      "path": "sinopsis/Survival Fountain of Youth Captain’s Edition.txt",
+      "size": 775,
+      "sha256": "6811f93554fd1daad23797424993cc8734966217a7c6329b1ecb30c90f3de0a5"
+    },
+    {
       "path": "sinopsis/Taboo Trial.txt",
       "size": 385,
       "sha256": "e8f626b80b064bd8913a3033620577eab82eb048902d88534a36c31d287e7ab7"
@@ -11112,6 +11342,11 @@
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
     },
     {
+      "path": "sinopsis/The Witchs Bakery.txt",
+      "size": 902,
+      "sha256": "4730794984d01551518e08db636045efa3bbf4dc75ace7f31ac93dfbca96d6e5"
+    },
+    {
       "path": "sinopsis/The Wolf Among Us Remastered.txt",
       "size": 738,
       "sha256": "1e1cebfa7d2b9c68a53405b0186d5e527c6bcf7fc89de1751df4790e9f5be982"
@@ -11220,6 +11455,11 @@
       "path": "sinopsis/Wing Commander IV The Price of Freedom 30th Anniversary Edition.txt",
       "size": 1473,
       "sha256": "78efc9f24b754366061fab9b840849321aeaf631bc11945f5df9a744760c0137"
+    },
+    {
+      "path": "sinopsis/Witch Cabin Cleanup.txt",
+      "size": 491,
+      "sha256": "071e7dab218741eff43d6ec910865392033962f90f3cd03ae6f3a73b5aebf9c1"
     },
     {
       "path": "sinopsis/Woodo Endless Summer Edition.txt",
@@ -11370,6 +11610,11 @@
       "path": "datos/Baldurs Gate 3 Deluxe Edition.txt",
       "size": 234,
       "sha256": "01406bc289a528124063446e76f9a5f74fb46a18978e52404196b78d68a7f682"
+    },
+    {
+      "path": "datos/BALL x PIT The Rise and Fall of Ballbylon Bundle.txt",
+      "size": 206,
+      "sha256": "2c35d092f7eaee4eac35a1d8fab3940deb25c57bed12771f43e73bd044e0546a"
     },
     {
       "path": "datos/Batman Arkham Knight Premium Edition.txt",
@@ -11747,6 +11992,11 @@
       "sha256": "3aed9d081c4e3d0ec9c0434082520102bd68f778c5d4fc96e515c50d16b5a9c4"
     },
     {
+      "path": "datos/Football Manager 27.txt",
+      "size": 242,
+      "sha256": "3b5da2b75d980f9612e73ce7388ed1821e82855add1a63893ab989f49f94214b"
+    },
+    {
       "path": "datos/Forgotton Anne.txt",
       "size": 211,
       "sha256": "79fe96722327aef0d066a23530363e23e050f214900766702677e744ef1f5e8b"
@@ -11845,6 +12095,11 @@
       "path": "datos/Grand Theft Auto V GTA.txt",
       "size": 211,
       "sha256": "887413025e455e19d92130c183870ffd0e29260378585a2cc4bc57c62e113e43"
+    },
+    {
+      "path": "datos/Ground Branch.txt",
+      "size": 223,
+      "sha256": "da7df2ba446db2eceec9ba328ce6a7bfade14942cc8e7a2dd1fb517d85adfb49"
     },
     {
       "path": "datos/GTA 4 Grand Theft Auto IV The Complete Edition.txt",
@@ -12417,6 +12672,11 @@
       "sha256": "b7451f1a1885f55825ad0ab789c5bdf2145ae6f04e139a8bd534207b4f2f8333"
     },
     {
+      "path": "datos/Survival Fountain of Youth Captain’s Edition.txt",
+      "size": 253,
+      "sha256": "21c227c58150138a3eca43e33b5725d0364e2d36fc31159edbcd29dbe44194d4"
+    },
+    {
       "path": "datos/Taboo Trial.txt",
       "size": 186,
       "sha256": "e7df8dc6ea004776d33b415a873e52b9e41d6aa9b1375d50eaf7afa769336eca"
@@ -12532,6 +12792,11 @@
       "sha256": "d5dfdda6ba203da67672308e30e2fff5eab10ebdbc21c30ea4a097380f22eb72"
     },
     {
+      "path": "datos/The Witchs Bakery.txt",
+      "size": 174,
+      "sha256": "f2ce5fa66d837aa641136e65d59157b8e18201e8703929e405e1a865a318bbdb"
+    },
+    {
       "path": "datos/The Wolf Among Us Remastered.txt",
       "size": 201,
       "sha256": "27319eb850fda700d674cd49f33e053377a567073cc1e82003de624af6f8d221"
@@ -12640,6 +12905,11 @@
       "path": "datos/Wing Commander IV The Price of Freedom 30th Anniversary Edition.txt",
       "size": 188,
       "sha256": "a5e306fe7dd44f80c20fa98957575cf89a64f94b656d4b276da83254f4733fb7"
+    },
+    {
+      "path": "datos/Witch Cabin Cleanup.txt",
+      "size": 197,
+      "sha256": "aaaa4659f41c59d93f39778c15b5dd9ab57444df7cb455af97b311f5c0151f84"
     },
     {
       "path": "datos/Woodo Endless Summer Edition.txt",

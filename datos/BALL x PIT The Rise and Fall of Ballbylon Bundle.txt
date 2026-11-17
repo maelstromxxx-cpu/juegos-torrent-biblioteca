@@ -1,0 +1,9 @@
+Año: 2026
+Géneros: Acción / Indie / Roguelike / Aventura / Estrategia
+Tamaño: 2.1GB
+Modo: Singleplayer
+Idioma: MULTI
+Fecha de incorporación: 17/11/2026
+Puntuación: 8.5
+Metacritic: 80
+Repacker: FitGirl

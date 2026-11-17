@@ -872,6 +872,11 @@
       "sha256": "c339365c1b63db6b0c3ae4b87765b1b8927409b92d65f1d6b1b9246f9309d982"
     },
     {
+      "path": "imagenes/Nocturnal 2.webp",
+      "size": 28328,
+      "sha256": "f03d96b21cde0c0797eb7e07258a6a987c218c8edea639b1cdedf2e8755d7bd8"
+    },
+    {
       "path": "imagenes/Nymphomaniac Sex Addict.webp",
       "size": 7686,
       "sha256": "b3ee14a752d8d247e3c09d285882cfcad45be7fc841f545be23f892dd616138f"
@@ -1280,6 +1285,11 @@
       "path": "imagenes/The Relic First Guardian.webp",
       "size": 44852,
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
+    },
+    {
+      "path": "imagenes/The Rogue Prince of Persia.webp",
+      "size": 80738,
+      "sha256": "5af78f0fc566f69ca0c9090ef155d6882819029493f82c902921df0ed3650d29"
     },
     {
       "path": "imagenes/The Sims™ 4.webp",
@@ -6652,6 +6662,36 @@
       "sha256": "9d42816f46d549963de37eea714c239851826ebb04097dd056a3202c1437ce89"
     },
     {
+      "path": "capturas/Nocturnal 2/1.webp",
+      "size": 9046,
+      "sha256": "b6048a215dbc685c1f76605d503d01f51b1837b6af9e68419f3d5fc576793118"
+    },
+    {
+      "path": "capturas/Nocturnal 2/2.webp",
+      "size": 8172,
+      "sha256": "3da892e49d1a3381be07c517f0ad6f035c4aafb6ee928493b11d7ef13859a213"
+    },
+    {
+      "path": "capturas/Nocturnal 2/3.webp",
+      "size": 7226,
+      "sha256": "e498b03bbd451c24f0f76de1c9dadf7d7e1643420c4e85f422b6787c8ded8b53"
+    },
+    {
+      "path": "capturas/Nocturnal 2/4.webp",
+      "size": 7814,
+      "sha256": "e6934f03a9495be0f894439c67cf1333630120f8dfcc84375cb2088eb63959d6"
+    },
+    {
+      "path": "capturas/Nocturnal 2/5.webp",
+      "size": 5718,
+      "sha256": "c0ee4cceb0f51f4a06220ff905580c50e0b132f06c7754a8316948085f561b92"
+    },
+    {
+      "path": "capturas/Nocturnal 2/6.webp",
+      "size": 7646,
+      "sha256": "97344eb6e972b0c019200df9182d828b6498f251ef28598911c1bbbbe26189ba"
+    },
+    {
       "path": "capturas/Nymphomaniac Sex Addict/1.webp",
       "size": 5146,
       "sha256": "1d82b2e5f30eac3b8841e37990cc360e7981d6563528f32fcea737a9dd772ea7"
@@ -9097,6 +9137,36 @@
       "sha256": "91703944f98843479e92d147486c499603940117a956a57b7a334aec19488160"
     },
     {
+      "path": "capturas/The Rogue Prince of Persia/1.webp",
+      "size": 28582,
+      "sha256": "9351fccccd6ec08217d348ee61b89be9221117349772955162644f9a618c3082"
+    },
+    {
+      "path": "capturas/The Rogue Prince of Persia/2.webp",
+      "size": 17452,
+      "sha256": "132576a9dc888454bba934037859fb9b09718e62f02aabe0a1f7a80c449ae5db"
+    },
+    {
+      "path": "capturas/The Rogue Prince of Persia/3.webp",
+      "size": 29934,
+      "sha256": "f07e998b4e0adf984834b47d1bd605e532f519bcfbd94d66f2c5c724225ef6a2"
+    },
+    {
+      "path": "capturas/The Rogue Prince of Persia/4.webp",
+      "size": 29676,
+      "sha256": "2c59aaa0a5f4bb078bd78143194d3bb880348850e047f67d5d4367a1c1fbc9c5"
+    },
+    {
+      "path": "capturas/The Rogue Prince of Persia/5.webp",
+      "size": 30048,
+      "sha256": "716baf66d3f179af23677ac4d64e594984e37616500897ea1078bf85d08cb7c0"
+    },
+    {
+      "path": "capturas/The Rogue Prince of Persia/6.webp",
+      "size": 21228,
+      "sha256": "4970494e8356c68c9bfc0ae36447a9f9d21bb2f98108944600127fb5eb8c078a"
+    },
+    {
       "path": "capturas/The Sims™ 4/1.webp",
       "size": 26680,
       "sha256": "93abd6801b05414f5a890cefa9c8453348fbd1112ea57748afe936116057255c"
@@ -10917,6 +10987,11 @@
       "sha256": "ff8a2f020138511ce1b5eedb9883b9949ef13f0e41ac002127440bc8e6c4e6bb"
     },
     {
+      "path": "sinopsis/Nocturnal 2.txt",
+      "size": 599,
+      "sha256": "89b50d6e5d10f71c5cb944fbb61d2737e344d54e103848b76a8d0cb7fcd665d5"
+    },
+    {
       "path": "sinopsis/Nymphomaniac Sex Addict.txt",
       "size": 418,
       "sha256": "7902b5b91b7e0d9469860eaf0734d8495fbb4c9999abfcf971577bf7d3fe0181"
@@ -11325,6 +11400,11 @@
       "path": "sinopsis/The Relic First Guardian.txt",
       "size": 304,
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
+    },
+    {
+      "path": "sinopsis/The Rogue Prince of Persia.txt",
+      "size": 445,
+      "sha256": "9ddbe826400f375d5abf8494274e9f251507775160495b9a4d8d6e03fc4d3b49"
     },
     {
       "path": "sinopsis/The Sims™ 4.txt",
@@ -12367,6 +12447,11 @@
       "sha256": "b8764692d5a3dd3c29c899daf4216927ec76ad3f45b85a93b77cbb24c07d46c8"
     },
     {
+      "path": "datos/Nocturnal 2.txt",
+      "size": 204,
+      "sha256": "431d98d00f74d4622c89495acffa2a33ba9b04dc31f1c243fed13b6c1f9d2049"
+    },
+    {
       "path": "datos/Nymphomaniac Sex Addict.txt",
       "size": 178,
       "sha256": "b929f5f3af0779a0ea1407eff0d44c867b75759ddd644070f0d5c5d56f77c432"
@@ -12775,6 +12860,11 @@
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
+    },
+    {
+      "path": "datos/The Rogue Prince of Persia.txt",
+      "size": 294,
+      "sha256": "7dc95615db7a74499da3f4610de15ee2e0d6fad5465d14d19bd951e5fe100178"
     },
     {
       "path": "datos/The Sims™ 4.txt",

@@ -8,3 +8,4 @@ Puntuación: 8,3
 Metacritic: 
 Repacker: FitGirl
 Crack: Hypervisor
+Motivo instrucciones: Lee las intrucciones!

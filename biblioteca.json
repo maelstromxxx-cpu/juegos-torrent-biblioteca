@@ -557,6 +557,11 @@
       "sha256": "cabd417c7df7420b7b5a8b73d7c306cda05b657e038cfcc39cd3ee09ba7f0e2d"
     },
     {
+      "path": "imagenes/Full Metal Schoolgirl.webp",
+      "size": 87522,
+      "sha256": "b929bae7c295eee3b5a1b4faaaed6d9f677976e9195fd966558d14de6f077a22"
+    },
+    {
       "path": "imagenes/Gears Of War E-Days Online.webp",
       "size": 61216,
       "sha256": "81ebbdceab07068ee47f61a9a2bce8fdc14c42ec21757d2b6f7407679da378a6"
@@ -772,6 +777,11 @@
       "sha256": "6b60b7159bac0d0c11bf2d4e3d7d7063dabb153158c93b2bf3b6dc16c8e68e99"
     },
     {
+      "path": "imagenes/Mad Max.webp",
+      "size": 60700,
+      "sha256": "afbc54fa71823ca4355eb45a8578b08d489efda0d9c6673fc0a0332ac7a698c3"
+    },
+    {
       "path": "imagenes/Mafia The Old Country Definitive Edition.webp",
       "size": 32458,
       "sha256": "e11df64f1f917b44b824d28cb79127945e625fbf4f4567d57a3e7d7fce297ea3"
@@ -820,6 +830,11 @@
       "path": "imagenes/Metro Redux.webp",
       "size": 64298,
       "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
+    },
+    {
+      "path": "imagenes/Mirror’s Edge Catalyst.webp",
+      "size": 32728,
+      "sha256": "c55f7cce26088b8755a39253c94a178467875bc3df1be2b55540dcbf9375db6f"
     },
     {
       "path": "imagenes/Mixtape.webp",
@@ -887,6 +902,11 @@
       "sha256": "c339365c1b63db6b0c3ae4b87765b1b8927409b92d65f1d6b1b9246f9309d982"
     },
     {
+      "path": "imagenes/NieR Automata Game of the YoRHa Edition.webp",
+      "size": 51260,
+      "sha256": "776cc397d0d9dc9a31e52440dd5bda5321eaabbc9c97ec75b7442c2ccdf26634"
+    },
+    {
       "path": "imagenes/Nocturnal 2.webp",
       "size": 28328,
       "sha256": "f03d96b21cde0c0797eb7e07258a6a987c218c8edea639b1cdedf2e8755d7bd8"
@@ -947,6 +967,11 @@
       "sha256": "030902fc18c9bb5888e4e08aed85a8ba372de38b7b41adecf1f651e47a681275"
     },
     {
+      "path": "imagenes/Prey Digital Deluxe Edition.webp",
+      "size": 37598,
+      "sha256": "5205dd89941137e32166858e523e3a51631e4e94ad174eaf2bd78cad24d3bd37"
+    },
+    {
       "path": "imagenes/Project Hunt Maps & Weapons Bundle.webp",
       "size": 14344,
       "sha256": "88c5a0696151cef56ed1bba11e5c7696c908902badeda6cf5c4d8f076a21716b"
@@ -990,6 +1015,11 @@
       "path": "imagenes/Red Dead Redemption.webp",
       "size": 64474,
       "sha256": "3b17a89fe6e5349b2ee676a910e369edb7ae7e6637ad50af51508f1718a98e7c"
+    },
+    {
+      "path": "imagenes/Remember Me.webp",
+      "size": 63302,
+      "sha256": "b87cc496ae9a32fd70573a581c9aa4335e2eecc97e75edef51f8b46b177410b1"
     },
     {
       "path": "imagenes/Remothered Red Nuns Legacy.webp",
@@ -1110,6 +1140,11 @@
       "path": "imagenes/Silica.webp",
       "size": 27212,
       "sha256": "e23fcbd677a41462daedb6f0c09aa652e2da8adca82ed8743cb3041204022e01"
+    },
+    {
+      "path": "imagenes/Singularity.webp",
+      "size": 47830,
+      "sha256": "59de2af7e6722edb170e29e4284fe853410cadfd0c48b6df77cf71c026fa7b2c"
     },
     {
       "path": "imagenes/Sledders.webp",
@@ -1302,6 +1337,11 @@
       "sha256": "92a2a82bb5001f789af843b135e4f958308346474e15246995f78c230817e51e"
     },
     {
+      "path": "imagenes/The Order 1886.webp",
+      "size": 44880,
+      "sha256": "4c20420bcfa4a3b2b702884852c632c572ff0ded7f20938ccd01e70d9e62cd86"
+    },
+    {
       "path": "imagenes/The Relic First Guardian.webp",
       "size": 44852,
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
@@ -1335,6 +1375,11 @@
       "path": "imagenes/The Wolf Among Us Remastered.webp",
       "size": 23594,
       "sha256": "ea0756581122def8376086648cb3bc534a529227cdad781a5bfb3a2f9f6ce8e9"
+    },
+    {
+      "path": "imagenes/Titanfall 2.webp",
+      "size": 86640,
+      "sha256": "41baba3b44992a4d6211be1838f4947aa48a4c2048de816fcd24c027371cbeff"
     },
     {
       "path": "imagenes/Tom Clancys Ghost Recon Wildlands Definitive Edition.webp",
@@ -1375,6 +1420,11 @@
       "path": "imagenes/Until Then Deluxe Edition.webp",
       "size": 53344,
       "sha256": "335e3d0663d91285cca17b4d9bedf2ab2d9d34040a7b5470a4a1666bda0ab4d4"
+    },
+    {
+      "path": "imagenes/Vampyr.webp",
+      "size": 25892,
+      "sha256": "aaedc833d4402810258e28ff079406d7979f8b3280c576b6a87d27210877d143"
     },
     {
       "path": "imagenes/Vanquish.webp",
@@ -4817,6 +4867,36 @@
       "sha256": "6f0692df3aed27b50614f0adcfe202d77d3e9f0dcdd6a19fe52c8e2eec4678a9"
     },
     {
+      "path": "capturas/Full Metal Schoolgirl/1.webp",
+      "size": 27000,
+      "sha256": "9ab537696ba2ffc5b9ba5e91996f73d76bd633ee08349f4b29f62caf39df553c"
+    },
+    {
+      "path": "capturas/Full Metal Schoolgirl/2.webp",
+      "size": 26558,
+      "sha256": "35145a921b54e3821c607c4953b180e4a0288b46c06dbf5ab7d6c152e5a70d97"
+    },
+    {
+      "path": "capturas/Full Metal Schoolgirl/3.webp",
+      "size": 45578,
+      "sha256": "558ac68a173dc7efa8c5ce036a80e9dbd1767c556dd5866e9d6cfabcabfb7972"
+    },
+    {
+      "path": "capturas/Full Metal Schoolgirl/4.webp",
+      "size": 36418,
+      "sha256": "35bad267d69d5e64c011aed6d68f993bcd8f2a2c27649cf56445870cc8db231c"
+    },
+    {
+      "path": "capturas/Full Metal Schoolgirl/5.webp",
+      "size": 43016,
+      "sha256": "0588dea80e0f3e5d7fe178babd2486ae24160d2ee9559a636beca53375f4b1f1"
+    },
+    {
+      "path": "capturas/Full Metal Schoolgirl/6.webp",
+      "size": 29782,
+      "sha256": "0ea40a40d4832e9423a752b90bdc3c7184503e3c195c4a0cf5a5bf5b1667b0b8"
+    },
+    {
       "path": "capturas/Gears Of War E-Days/01.webp",
       "size": 36580,
       "sha256": "8c58c0117523f58e03c086ee3ceb9790b184ba746c8031620a6621af274ded33"
@@ -6102,6 +6182,36 @@
       "sha256": "85d1defc2f5900fd542334b646a38794252ba80de706273d59e14537538cf470"
     },
     {
+      "path": "capturas/Mad Max/1.webp",
+      "size": 14900,
+      "sha256": "85e767972331b5dd452d34cdcdb30d06e059a47ff433409cfe904a50bcb3ba4d"
+    },
+    {
+      "path": "capturas/Mad Max/2.webp",
+      "size": 19086,
+      "sha256": "8174bd7d8677e7d2563ab5b8bcb53746ade81e1d1c7e1d4e0445474ec8f6b888"
+    },
+    {
+      "path": "capturas/Mad Max/3.webp",
+      "size": 16288,
+      "sha256": "2b0fc35c471f4679e652ca9fc0d95f9ead4d201d43fd9625dbe0f7f1afa80c87"
+    },
+    {
+      "path": "capturas/Mad Max/4.webp",
+      "size": 25568,
+      "sha256": "d7d4125070fecc7ed95d5d5df0cd4bd0d9546f75069531793064af09336d7196"
+    },
+    {
+      "path": "capturas/Mad Max/5.webp",
+      "size": 20446,
+      "sha256": "a32d7ea86632422baaf88c2a6066f963ddc03ee3c9a888197da163c005000e2d"
+    },
+    {
+      "path": "capturas/Mad Max/6.webp",
+      "size": 19018,
+      "sha256": "ec96341a166e7c57396a915212d09958eba9a0b3d5a13b939a1690b144089dc9"
+    },
+    {
       "path": "capturas/Mafia The Old Country Definitive Edition/1.webp",
       "size": 36822,
       "sha256": "aaf41e0b66b36cbcf819bb2f35dde2810db9514e266db02b6b3d6ca1455c4137"
@@ -6400,6 +6510,36 @@
       "path": "capturas/Metro Redux/6.webp",
       "size": 28390,
       "sha256": "addc675f0612612eba7fd13780f11f4898a30166bc07b155965f4367275d96a5"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/1.webp",
+      "size": 17402,
+      "sha256": "3af849b89148544c74d5dee654255dc3573eec2b890cfe423d3c65a061f4280d"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/2.webp",
+      "size": 13236,
+      "sha256": "f766f2dfa026e67822a9df9b3702ada3d2655ecbf0cf20097c23eeba942d7df3"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/3.webp",
+      "size": 12064,
+      "sha256": "0e03834f63307a9c0fd55720e7c6d1cd2514c7decd89931fc3c5967bd2e815e3"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/4.webp",
+      "size": 14626,
+      "sha256": "074c5668e753f2dcddb5af587f45cef86e88b8129d8aefa0fd108d81452af464"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/5.webp",
+      "size": 18034,
+      "sha256": "b26b8576c76a2f507791125de60b58170a157ecb6390b1df9a7fdf6b91cffcd0"
+    },
+    {
+      "path": "capturas/Mirror’s Edge Catalyst/6.webp",
+      "size": 16622,
+      "sha256": "7b5a38aeed209c08c0bcab74f3c6c635fa6ac9a3cce23948473f271616f40d37"
     },
     {
       "path": "capturas/Mixtape/1.webp",
@@ -6777,6 +6917,41 @@
       "sha256": "9d42816f46d549963de37eea714c239851826ebb04097dd056a3202c1437ce89"
     },
     {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/1.webp",
+      "size": 27636,
+      "sha256": "7e928ef8746d7b6a915c853f04661d20247fdd013fd6bde2b753a9d4d29c294a"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/2.webp",
+      "size": 25016,
+      "sha256": "4aa1a201da421c84a5dc979e03c6070ea64b10c4931c0282c8ccba830e94830c"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/3.webp",
+      "size": 10242,
+      "sha256": "cf345b2863d5873909913710881e210ca5a6328fb5f7dda0590c3124f22cadf0"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/4.webp",
+      "size": 14676,
+      "sha256": "c8dc9feb0bcd16e7dcc578a224e5eb3df0f1caad11f7bfded17b4e3abc3b5ec4"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/5.webp",
+      "size": 30392,
+      "sha256": "ac02a52fd17558bca33fd4efa10d44eaecca31fef27f74fb5a10c4b19d22e0e0"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/6.webp",
+      "size": 27106,
+      "sha256": "7143ef25c9becd5e58e42eb2cf08f473499dc2a26aeaaf793e0072d99603a5cd"
+    },
+    {
+      "path": "capturas/NieR Automata Game of the YoRHa Edition/7.webp",
+      "size": 33294,
+      "sha256": "1e2d5a5c9b231f159cbec640e7dbfa267a095c33bf9c657595ae5ccaee8d71ca"
+    },
+    {
       "path": "capturas/Nocturnal 2/1.webp",
       "size": 9046,
       "sha256": "b6048a215dbc685c1f76605d503d01f51b1837b6af9e68419f3d5fc576793118"
@@ -7132,6 +7307,36 @@
       "sha256": "a21d8bdf9a3f27b113bdfb8a9dbd2c7e2d65ca52881833f2068abd0f6701d214"
     },
     {
+      "path": "capturas/Prey Digital Deluxe Edition/1.webp",
+      "size": 40938,
+      "sha256": "6c196234bb91964df4d61b8f5d51557eb0618f352e75d733592bea16a92213cc"
+    },
+    {
+      "path": "capturas/Prey Digital Deluxe Edition/2.webp",
+      "size": 23060,
+      "sha256": "00abccc59113ee313d9956f810f910cc622dade2ff1968b34560ef34c40129c9"
+    },
+    {
+      "path": "capturas/Prey Digital Deluxe Edition/3.webp",
+      "size": 29584,
+      "sha256": "669feb45498df9b5ed4bc30067a9d5fb101ddf03d81915dfafd54378b7a0538e"
+    },
+    {
+      "path": "capturas/Prey Digital Deluxe Edition/4.webp",
+      "size": 22600,
+      "sha256": "8f1dd508a205ac5f955e9d8654f19993d9fea38203948f9dd8d98f3d1bfe5c5e"
+    },
+    {
+      "path": "capturas/Prey Digital Deluxe Edition/5.webp",
+      "size": 31764,
+      "sha256": "158f16369f074d4a923cb14e6411867191547bedfb41d2aa08c7220166ff5a6b"
+    },
+    {
+      "path": "capturas/Prey Digital Deluxe Edition/6.webp",
+      "size": 26934,
+      "sha256": "a6d9cf5038c6dfe717fb271e58b3e15fe9f48f939100106c4e149049676d13ce"
+    },
+    {
       "path": "capturas/Project Hunt Maps & Weapons Bundle/1.webp",
       "size": 15134,
       "sha256": "f2a1465ffd5d3a55efd366090069746054fb4cbf3a16bbc49f072d4f2906c9ec"
@@ -7400,6 +7605,36 @@
       "path": "capturas/Red Dead Redemption 2 Ultimate Edition/6.webp",
       "size": 14604,
       "sha256": "b9a5a4e25d9837ff8ac56908f875ea6a7d76b65ac757007dbcf93a186a0177b6"
+    },
+    {
+      "path": "capturas/Remember Me/1.webp",
+      "size": 34482,
+      "sha256": "6a2c5773bf4cbbfc6e9a9098afc1fd8d53e8091550e58f2da283043aa1ac0f76"
+    },
+    {
+      "path": "capturas/Remember Me/2.webp",
+      "size": 24518,
+      "sha256": "1af984702073cc4e28e31996e617e7cbcb9338884eb1c9a0ff60fe7125b13cdb"
+    },
+    {
+      "path": "capturas/Remember Me/3.webp",
+      "size": 13442,
+      "sha256": "d8a3e6d3e3d8d3504e65c010fcd87cfcdc4b2d6c5634fbac36112a45c924ee71"
+    },
+    {
+      "path": "capturas/Remember Me/4.webp",
+      "size": 15654,
+      "sha256": "11ae79479b34bddcb497ac3c46c4f8c66d3b6f220f9c99d2087ecbe0d40c224f"
+    },
+    {
+      "path": "capturas/Remember Me/5.webp",
+      "size": 19260,
+      "sha256": "ee4a4c7c02ef12607de7f77edb2acf047615abaa30b0b30a862a1df1d282555c"
+    },
+    {
+      "path": "capturas/Remember Me/6.webp",
+      "size": 10256,
+      "sha256": "a4007783f7fa98f2db3000d92b903484607898429e33d2692c5a140769a82518"
     },
     {
       "path": "capturas/Remothered Red Nuns Legacy/1.webp",
@@ -8120,6 +8355,36 @@
       "path": "capturas/Silica/6.webp",
       "size": 13072,
       "sha256": "109e9d6dad049387668dd10a267759d4d6deade3f80beb99d2234b5cf2a87f97"
+    },
+    {
+      "path": "capturas/Singularity/1.webp",
+      "size": 25718,
+      "sha256": "6c9bd9c00d86ec01503a426c8abbac12b0846a85c30ca382ca5635da33f97eb2"
+    },
+    {
+      "path": "capturas/Singularity/2.webp",
+      "size": 28558,
+      "sha256": "bf1135b2a0d41b0e56de9f570a733c6b2537d44f3931b758059c09d16dcdf8da"
+    },
+    {
+      "path": "capturas/Singularity/3.webp",
+      "size": 25438,
+      "sha256": "4dfabce1345cff76f8c7e52130790358687bbf4ad438fc544f17c8ac7ed196b7"
+    },
+    {
+      "path": "capturas/Singularity/4.webp",
+      "size": 24788,
+      "sha256": "7eda3dffabf0eccbd26f098648af2f07589078dce061831bc174e5372986b0f5"
+    },
+    {
+      "path": "capturas/Singularity/5.webp",
+      "size": 35338,
+      "sha256": "62b8420c4632beaeb9fab94a2a7969da925c7a2786c9d3fffecff36ada3c7aaa"
+    },
+    {
+      "path": "capturas/Singularity/6.webp",
+      "size": 30254,
+      "sha256": "b3804ff571f608bb7992136ed58da9d161b693d2f28be6b1d9c07e69875cf7b8"
     },
     {
       "path": "capturas/Sledders/1.webp",
@@ -9252,6 +9517,36 @@
       "sha256": "09acef651539d487e4010d458c1d23ffb9956799d255b6709523867435bd7c34"
     },
     {
+      "path": "capturas/The Order 1886/1.webp",
+      "size": 8914,
+      "sha256": "883d8190cfc544cae627f83e34d09dc9fcdb6619c6c59d7ec7f79e3bada79afe"
+    },
+    {
+      "path": "capturas/The Order 1886/2.webp",
+      "size": 10928,
+      "sha256": "6ccddfad54a6441dd608435b50af3f2dc663be56f900c7944fc8948b14dce25f"
+    },
+    {
+      "path": "capturas/The Order 1886/3.webp",
+      "size": 10862,
+      "sha256": "d99562e47da1e038522bbe0c3452ae66286dd7229f4824291d83c88365dcab31"
+    },
+    {
+      "path": "capturas/The Order 1886/4.webp",
+      "size": 7940,
+      "sha256": "df8c29fa5b6ae3c51918c00ea4282fb3d60c858d41026f0aa65eab02db7510f9"
+    },
+    {
+      "path": "capturas/The Order 1886/5.webp",
+      "size": 9424,
+      "sha256": "e84b302524f10bf6d2b1c01b52bcfee1cc8d355f9cc78142b077840c53515580"
+    },
+    {
+      "path": "capturas/The Order 1886/6.webp",
+      "size": 35892,
+      "sha256": "abb1e73e1805c1627ff4b7b24b178ed7ade3c9e8b757339f79d85e4a2f7ae153"
+    },
+    {
       "path": "capturas/The Relic First Guardian/1.webp",
       "size": 7608,
       "sha256": "a6df7268925942eaa2606429fecf8f760314212ae77a2202c1ff740b1250c6ac"
@@ -9455,6 +9750,31 @@
       "path": "capturas/The Wolf Among Us Remastered/6.webp",
       "size": 30244,
       "sha256": "366199031fb63082b668e404deaf1efdc6c82b404703964867adb13794b23cfb"
+    },
+    {
+      "path": "capturas/Titanfall 2/1.webp",
+      "size": 30244,
+      "sha256": "15083d08dd3581ee86b8d6bdf1e20d3beb064c069f889f28db490d4fe9cfae89"
+    },
+    {
+      "path": "capturas/Titanfall 2/2.webp",
+      "size": 28298,
+      "sha256": "f2f5e343421a3c0352a6b5e219eec892a245f83c8ad8bc06ff8331349ecd24a8"
+    },
+    {
+      "path": "capturas/Titanfall 2/3.webp",
+      "size": 37276,
+      "sha256": "58822a17b608b5d8eb4262dca7c034350ac6598049ec400cd0aeab803a650c26"
+    },
+    {
+      "path": "capturas/Titanfall 2/4.webp",
+      "size": 25402,
+      "sha256": "ca1faebe81528219b8062e7cd8a62bd6d013684538f0bee02298db6d55c5fe40"
+    },
+    {
+      "path": "capturas/Titanfall 2/5.webp",
+      "size": 29296,
+      "sha256": "0fa29ede4adbdc7744cfb1e92e02708cb1e7b21fe392cac933fee91bcecf6d13"
     },
     {
       "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/1.webp",
@@ -9695,6 +10015,36 @@
       "path": "capturas/Until Then Deluxe Edition/6.webp",
       "size": 15314,
       "sha256": "61663de1a552ef24d67a00b1ae22e5f36099fa1d2ef22e6cc94cb9b98c1a2022"
+    },
+    {
+      "path": "capturas/Vampyr/1.webp",
+      "size": 12070,
+      "sha256": "992a036df1b0c3116a3b1027e7786b82ad8fb634eeb0e8eaee09ad36a210e402"
+    },
+    {
+      "path": "capturas/Vampyr/2.webp",
+      "size": 7716,
+      "sha256": "d2d6cb52587fdde08a9fd508ad034b486fefba6496207e09dd1227e43cf13a69"
+    },
+    {
+      "path": "capturas/Vampyr/3.webp",
+      "size": 16460,
+      "sha256": "d471bdfffd79aa004156c7de09f5cb45f5069004ea33473b1eaff08da7a6d290"
+    },
+    {
+      "path": "capturas/Vampyr/4.webp",
+      "size": 8054,
+      "sha256": "592a8e070778fb672bcb2edaa5673beb0f8cd406912229a2e51786fb92f3d6b1"
+    },
+    {
+      "path": "capturas/Vampyr/5.webp",
+      "size": 11764,
+      "sha256": "0ada8c5888e0729d983f4443e0341f52679c80555ba519ed1564b706ef700e26"
+    },
+    {
+      "path": "capturas/Vampyr/6.webp",
+      "size": 15894,
+      "sha256": "8da1fcee1fdeb5da0e23afe30d086d6e637799699ac4de3e1ca2706af52e9180"
     },
     {
       "path": "capturas/Vanquish/1.webp",
@@ -10852,6 +11202,11 @@
       "sha256": "e6911225399f59520cf9c5ad218118e9a26ecd411cdd57e497b6b14e3a50fd43"
     },
     {
+      "path": "sinopsis/Full Metal Schoolgirl.txt",
+      "size": 365,
+      "sha256": "43d40cf6c6e9b18fd0f30835dc08cf8ad3b1b12bd75b36c6c65ceeec464c6b92"
+    },
+    {
       "path": "sinopsis/Gears Of War E-Days Online.txt",
       "size": 500,
       "sha256": "945a62f8df8e35435d3dbaba805ab46f896d9e75313fa40fb91b5acfe7ec66cd"
@@ -11067,6 +11422,11 @@
       "sha256": "f23e4c9dd0b91e423de46a4759c755ab5fb5425d89f6726272317e177063d22f"
     },
     {
+      "path": "sinopsis/Mad Max.txt",
+      "size": 660,
+      "sha256": "845dbab5256a06c36e661e4ae1a53d2cc9a93b749239467a8243338c65b4d557"
+    },
+    {
       "path": "sinopsis/Mafia The Old Country Definitive Edition.txt",
       "size": 295,
       "sha256": "7fc349c80aebfda4d3df5a52cfcd6e0c51d86ab624f66c098e4f6f6ce31faaf5"
@@ -11115,6 +11475,11 @@
       "path": "sinopsis/Metro Redux.txt",
       "size": 471,
       "sha256": "4ff514fd0e019266373b042d39e6d3676f918a4f76717d489870d8b0fd118443"
+    },
+    {
+      "path": "sinopsis/Mirror’s Edge Catalyst.txt",
+      "size": 640,
+      "sha256": "20a66859b1380564ee435836f02330ee528956029b197c503cc97baa1469ba70"
     },
     {
       "path": "sinopsis/Mixtape.txt",
@@ -11182,6 +11547,11 @@
       "sha256": "ff8a2f020138511ce1b5eedb9883b9949ef13f0e41ac002127440bc8e6c4e6bb"
     },
     {
+      "path": "sinopsis/NieR Automata Game of the YoRHa Edition.txt",
+      "size": 1058,
+      "sha256": "65a7292b7abcaa585049d6089f5004518e36bfb44d090c96cebd764c79f510ad"
+    },
+    {
       "path": "sinopsis/Nocturnal 2.txt",
       "size": 599,
       "sha256": "89b50d6e5d10f71c5cb944fbb61d2737e344d54e103848b76a8d0cb7fcd665d5"
@@ -11242,6 +11612,11 @@
       "sha256": "b3c81ca02e0e238961bb892cd635bc87e8aeb70d7bd6386a0fe6fe201753aeef"
     },
     {
+      "path": "sinopsis/Prey Digital Deluxe Edition.txt",
+      "size": 963,
+      "sha256": "521656d3f8699dc42f152d3600e5a57b347ccbceadb672a443b1b68cd9f49295"
+    },
+    {
       "path": "sinopsis/Project Hunt Maps & Weapons Bundle.txt",
       "size": 760,
       "sha256": "48c3217558560e50a4cd4f18ebbbed7255c0a6ad6322c7fe2fe5bc98da6aac82"
@@ -11285,6 +11660,11 @@
       "path": "sinopsis/Red Dead Redemption.txt",
       "size": 747,
       "sha256": "a6d3346394b583530424a7271da32adddfad1eb4900cee06e40d33c7f21e5e8d"
+    },
+    {
+      "path": "sinopsis/Remember Me.txt",
+      "size": 1156,
+      "sha256": "d48433bb609361536fcdf0d2286eaeac5f9c9daea9c0ffdfe53929757d8c87c0"
     },
     {
       "path": "sinopsis/Remothered Red Nuns Legacy.txt",
@@ -11405,6 +11785,11 @@
       "path": "sinopsis/Silica.txt",
       "size": 1096,
       "sha256": "fdec081def928c9d210f309425b82e86bd96452443d5aec01ac24ec76dfe89af"
+    },
+    {
+      "path": "sinopsis/Singularity.txt",
+      "size": 971,
+      "sha256": "4782610d20a098df74bce5d17f9023700823fb9c7e82fa02238bd5664d27de4d"
     },
     {
       "path": "sinopsis/Sledders.txt",
@@ -11597,6 +11982,11 @@
       "sha256": "a463ddb9b0f0eefcafa435d0c26ded822ca6f2a151b849c1a3322f2f3fb7ac4d"
     },
     {
+      "path": "sinopsis/The Order 1886.txt",
+      "size": 485,
+      "sha256": "e0e36f55027ee7aa0d4fc4233fb9b3d4d77f05bd156d25fbea1724d5366683d5"
+    },
+    {
       "path": "sinopsis/The Relic First Guardian.txt",
       "size": 304,
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
@@ -11630,6 +12020,11 @@
       "path": "sinopsis/The Wolf Among Us Remastered.txt",
       "size": 738,
       "sha256": "1e1cebfa7d2b9c68a53405b0186d5e527c6bcf7fc89de1751df4790e9f5be982"
+    },
+    {
+      "path": "sinopsis/Titanfall 2.txt",
+      "size": 581,
+      "sha256": "9ecd4ecf2c5232ccc8702a781fe548019567d12e2ac3c03dc347320490f718b9"
     },
     {
       "path": "sinopsis/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
@@ -11670,6 +12065,11 @@
       "path": "sinopsis/Until Then Deluxe Edition.txt",
       "size": 1204,
       "sha256": "99fedbb2f3a0af4b0ae01a17e6cb906ed7f864f95c68ec72dd5507c95887ce22"
+    },
+    {
+      "path": "sinopsis/Vampyr.txt",
+      "size": 588,
+      "sha256": "d188518d74584d13c21f25841aff90248e6a0382b27e1ae9d8fe1848cf0b5f1b"
     },
     {
       "path": "sinopsis/Vanquish.txt",
@@ -12337,6 +12737,11 @@
       "sha256": "9cf7eaef9adac926dd6e951633b0ad850994a706542586b26ff806ca28867a4f"
     },
     {
+      "path": "datos/Full Metal Schoolgirl.txt",
+      "size": 187,
+      "sha256": "91ab2541f55f84b32e622ecfb46c7b2c7932c5134dd8d071732f530d0883bd0e"
+    },
+    {
       "path": "datos/Gears Of War E-Days Online.txt",
       "size": 195,
       "sha256": "1077b49e8b7a0d480f82e4ccc1912a2e82bbbda5884f521c1c69d2daf29c90c8"
@@ -12552,6 +12957,11 @@
       "sha256": "b6f3c823a4de4486484be13e34b5436e80e7e650d046ead391bbd88c65de7dce"
     },
     {
+      "path": "datos/Mad Max.txt",
+      "size": 218,
+      "sha256": "b6e29357d04f9cdc17495972f34274381ab14fa3844e74637404014a5337393c"
+    },
+    {
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
       "size": 252,
       "sha256": "1340b660d3be2060daaf3f11930d7bd288cf5a78f3910db95f746a8f4bb6ade2"
@@ -12600,6 +13010,11 @@
       "path": "datos/Metro Redux.txt",
       "size": 260,
       "sha256": "c76472bacd2f32adfb08b94913b8cdd98941b0b402329467e236cc3c4c251bbd"
+    },
+    {
+      "path": "datos/Mirror’s Edge Catalyst.txt",
+      "size": 213,
+      "sha256": "4e085152a657d77391e3a8210567238eaffe39af9b8dda6d5196a579b5e9d5d3"
     },
     {
       "path": "datos/Mixtape.txt",
@@ -12667,6 +13082,11 @@
       "sha256": "b8764692d5a3dd3c29c899daf4216927ec76ad3f45b85a93b77cbb24c07d46c8"
     },
     {
+      "path": "datos/NieR Automata Game of the YoRHa Edition.txt",
+      "size": 199,
+      "sha256": "dfc0165d06d91baad008f1bef031ec8f5a876cc7f53d0f069f28190b3053b307"
+    },
+    {
       "path": "datos/Nocturnal 2.txt",
       "size": 204,
       "sha256": "431d98d00f74d4622c89495acffa2a33ba9b04dc31f1c243fed13b6c1f9d2049"
@@ -12727,6 +13147,11 @@
       "sha256": "132c7e10fd3be54636dc27a6ca557d7c019d1338c0720f865b899f2879e941bf"
     },
     {
+      "path": "datos/Prey Digital Deluxe Edition.txt",
+      "size": 207,
+      "sha256": "9d2d86b81a3fe0e3a2549b4e485395551b6db4598f116da454f9419cd8be40a4"
+    },
+    {
       "path": "datos/Project Hunt Maps & Weapons Bundle.txt",
       "size": 213,
       "sha256": "3bb2f4c51ce4aa2c99591f989cf7f21bb24db053b4f5f64dd032bc7d57c1da41"
@@ -12770,6 +13195,11 @@
       "path": "datos/Red Dead Redemption.txt",
       "size": 159,
       "sha256": "968cccbae8f7fe2bc91a2a4c98afa30e7c7010e0430a425446217b15aa3b4a29"
+    },
+    {
+      "path": "datos/Remember Me.txt",
+      "size": 169,
+      "sha256": "09735cdf516ddb85083185931ab18aaafa1c77eca78a24ad1781f7c97e51ce36"
     },
     {
       "path": "datos/Remothered Red Nuns Legacy.txt",
@@ -12890,6 +13320,11 @@
       "path": "datos/Silica.txt",
       "size": 232,
       "sha256": "a1ccd26f814437c69b86ac493110c61fa1ab4f0b2cb9f198279c51123e8e70eb"
+    },
+    {
+      "path": "datos/Singularity.txt",
+      "size": 211,
+      "sha256": "b551ace65e5dd3beffa6c1214c70cfeef470f0d294f19d16c7dded6a84829e87"
     },
     {
       "path": "datos/Sledders.txt",
@@ -13082,6 +13517,11 @@
       "sha256": "46e6dbe6746c7f48c65b8d50f650a3ec27a1ed0218520af972d72dad6bc69464"
     },
     {
+      "path": "datos/The Order 1886.txt",
+      "size": 321,
+      "sha256": "d96ec01972bb663854445b18efc34fa3898b01c3cb768f84f36d891117c5d36b"
+    },
+    {
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
@@ -13115,6 +13555,11 @@
       "path": "datos/The Wolf Among Us Remastered.txt",
       "size": 201,
       "sha256": "27319eb850fda700d674cd49f33e053377a567073cc1e82003de624af6f8d221"
+    },
+    {
+      "path": "datos/Titanfall 2.txt",
+      "size": 176,
+      "sha256": "7039c5a94399ce7247077d8a682a5821416fb3badfcd0b1f706470c1165b6669"
     },
     {
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
@@ -13155,6 +13600,11 @@
       "path": "datos/Until Then Deluxe Edition.txt",
       "size": 179,
       "sha256": "09e36f5677dbc6f5f53beedf65f83b54093397cbfab980f84eb4d10e5cabb607"
+    },
+    {
+      "path": "datos/Vampyr.txt",
+      "size": 189,
+      "sha256": "bb85ac211afddcef4ec3ab2661dd0458db28b757c3c1dee5586b3a7ffbcf0905"
     },
     {
       "path": "datos/Vanquish.txt",

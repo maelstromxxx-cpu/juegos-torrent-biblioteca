@@ -647,6 +647,11 @@
       "sha256": "9f10f2f4358725318aac46c0160b16ca949a4f7a3b7ef1d94e4d032e6128b8df"
     },
     {
+      "path": "imagenes/Highway Police Simulator S.W.A.T. Edition.webp",
+      "size": 22380,
+      "sha256": "7d775106a1a7d9046b596c712da1cdcb55bf2c27a5e9d05dfcb5f0271616386e"
+    },
+    {
       "path": "imagenes/Hitman World of Assassination.webp",
       "size": 10338,
       "sha256": "97010317d7381ca8f9a4560fa802be4c849bf83466119e5097718b3df87195c9"
@@ -5335,6 +5340,41 @@
       "path": "capturas/Halo Wars 2 Complete Edition/6.webp",
       "size": 27510,
       "sha256": "6609a1d52c18fec74c321cac9e85f954ee1404b19e574260fabffd89446ba047"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/1.webp",
+      "size": 10648,
+      "sha256": "5ce94737ad92bb6c970ebd4ae66271f61ad7cae4fea15cbd69c7b3a6ebfa6354"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/2.webp",
+      "size": 20324,
+      "sha256": "1409c42fd798ff0aef7286f90e5b7af2ed75d6c536b1ccdd0d51a17ccc8204d0"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/3.webp",
+      "size": 16796,
+      "sha256": "097e0f6726eb6af345f976133db883c66c1f52d29b3e7a28c0b45e5c5e4f7b6e"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/4.webp",
+      "size": 16050,
+      "sha256": "b6e469ccdfb7d8a1cddde08f35b3ebcde999c8784d928ecc433e83b35c66f3b4"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/5.webp",
+      "size": 27104,
+      "sha256": "05c2703dfca39ffaf6535ecb749dd250495c2a7ce7b7b78c637142409fb7ceac"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/6.webp",
+      "size": 23052,
+      "sha256": "ac0c99a7e8f4a92ad9ace04715dea620f5f868f5c7f360a8d516fdbb976c106e"
+    },
+    {
+      "path": "capturas/Highway Police Simulator S.W.A.T. Edition/7.webp",
+      "size": 13224,
+      "sha256": "328603f531bb1dbda7426c8ede0b432aee4e9f0625d79c4dfbfd945928866ff2"
     },
     {
       "path": "capturas/Hitman World of Assassination/1.webp",
@@ -10762,6 +10802,11 @@
       "sha256": "6c119e0db17c63568663429077bcc972c9e5072cd945c95d6e3bdad5749e5695"
     },
     {
+      "path": "sinopsis/Highway Police Simulator S.W.A.T. Edition.txt",
+      "size": 1088,
+      "sha256": "57f7a1573f7d53baab18ae4927dca38c818efa0e38b44f3cf9025c67d9568b39"
+    },
+    {
       "path": "sinopsis/Hitman World of Assassination.txt",
       "size": 644,
       "sha256": "2dde71cfa16266a2348c8ef4c6e09b9a05444a49406f75bf0afb217eac5b506c"
@@ -12220,6 +12265,11 @@
       "path": "datos/Halo Wars 2 Complete Edition.txt",
       "size": 228,
       "sha256": "7496bf28b4e6d048c0c896f195325483999138e72dfd0fb0e0d8fe98eb0505ab"
+    },
+    {
+      "path": "datos/Highway Police Simulator S.W.A.T. Edition.txt",
+      "size": 285,
+      "sha256": "0b5b5d2ff3e13cd651f7ad703accf505718661491460835ba8efc72ed032b81e"
     },
     {
       "path": "datos/Hitman World of Assassination.txt",

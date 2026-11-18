@@ -32,6 +32,11 @@
       "sha256": "186af2aff7bc82b2f884827d733e32e94e85b286a316edb5d229ba0bc1b760bb"
     },
     {
+      "path": "imagenes/AI Limit Deluxe Edition.webp",
+      "size": 70386,
+      "sha256": "cd710f43e11be69419f8e6e81ee48a750713e73751a3341290dc02d91ab66b8c"
+    },
+    {
       "path": "imagenes/Alan Wake 2.webp",
       "size": 46236,
       "sha256": "878c49b7d8f442c39856aab500dd2e428e609231fbfaf285b088b763f326672c"
@@ -165,6 +170,11 @@
       "path": "imagenes/Beast of Reincarnation Deluxe Edition.webp",
       "size": 395938,
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
+    },
+    {
+      "path": "imagenes/Black Mesa Definitive Edition.webp",
+      "size": 40684,
+      "sha256": "8b5a6d1521485a974303cb106ec7076c5eb4de5c64bb6378aadb4f1aa14b695d"
     },
     {
       "path": "imagenes/Black Myth Wukong.webp",
@@ -1147,6 +1157,11 @@
       "sha256": "8d5576adfd9713074207fbea1907feb2e10e7996c19e2a9d1fb64acd5b154a4c"
     },
     {
+      "path": "imagenes/Star Fox.webp",
+      "size": 42490,
+      "sha256": "567fec8184ac52686b3dc07b29be75391bf4df097c93c8a9ec0b036ba8b0ad15"
+    },
+    {
       "path": "imagenes/Star Wars Galactic Racer Deluxe Edition.webp",
       "size": 38864,
       "sha256": "9357f7ccc27ed139380d26362c411f30ac5d7dc0650917161d13139a60d345f3"
@@ -1635,6 +1650,31 @@
       "path": "capturas/Age of Wonders 4 2026 Collector’s Bundle/6.webp",
       "size": 23498,
       "sha256": "de69dc4dadc1f9874ea0000ce006f8c232ee3fd4fce0e6610090143a891d0b08"
+    },
+    {
+      "path": "capturas/AI Limit Deluxe Edition/1.webp",
+      "size": 11030,
+      "sha256": "195b0eb777703eaebdcde7b33c4938cff7e11cad9def46e22172cf8f59cd82c1"
+    },
+    {
+      "path": "capturas/AI Limit Deluxe Edition/2.webp",
+      "size": 13990,
+      "sha256": "8d6649751effe97397f36c4f477960aa1c160277d8d323b389a4b2e1cd9a988e"
+    },
+    {
+      "path": "capturas/AI Limit Deluxe Edition/3.webp",
+      "size": 22170,
+      "sha256": "4a3f1895c6537a14feeba7f2e0810fbf6b1abdf0e305d815e3a4ee8aef8297a2"
+    },
+    {
+      "path": "capturas/AI Limit Deluxe Edition/4.webp",
+      "size": 14094,
+      "sha256": "b3a247dab922197c52d7496703371ce4b6ec0c4433e87b36d4ac9f8f9078ad09"
+    },
+    {
+      "path": "capturas/AI Limit Deluxe Edition/5.webp",
+      "size": 8808,
+      "sha256": "55d3d62dfb11358c61eec208b17fc663d367a117c7e4ea35bd07e2972bc8495b"
     },
     {
       "path": "capturas/Alan Wake 2/1.webp",
@@ -2450,6 +2490,36 @@
       "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
       "size": 29418,
       "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/1.webp",
+      "size": 12526,
+      "sha256": "0f4f54367f2b14eae37d0af175b24c446737598fdff011cfb81d20f03f728264"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/2.webp",
+      "size": 14300,
+      "sha256": "442e13918980f8b1e05299818c76323955029ab6d160d29ef0deb49d47aabf92"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/3.webp",
+      "size": 13414,
+      "sha256": "d5e8e00ee494375c45c3960b481f2d9bd0150f0cdc1aa62b2a40eb97fe1a2937"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/4.webp",
+      "size": 11998,
+      "sha256": "9652e3bcc063bd8c16628b2053afb767f48d9407e69fdf82d4cf5b87df106b3c"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/5.webp",
+      "size": 16186,
+      "sha256": "ebf384a93ee545983718f57650ee9470c5ca4fddcfe452c654e1f43f8064e469"
+    },
+    {
+      "path": "capturas/Black Mesa Definitive Edition/6.webp",
+      "size": 15030,
+      "sha256": "c79571dedf3721809ba103c30cefaad9c40f3853554d10739a05c8c51499e952"
     },
     {
       "path": "capturas/Black Myth Wukong/1.webp",
@@ -8317,6 +8387,36 @@
       "sha256": "4cc85ef3afff2e45adc96c3b7b52d183bea3371af1ba053036f48a030feae3ee"
     },
     {
+      "path": "capturas/Star Fox/1.webp",
+      "size": 15326,
+      "sha256": "5608e5a5f3613a87d3638ec9f7f1aa89a24945a36d37e27905f5b3d649468255"
+    },
+    {
+      "path": "capturas/Star Fox/2.webp",
+      "size": 32878,
+      "sha256": "9e0fe5a0fa933e067043b2f5cd25ee6d6da7c43647848afd744e76f14b8c53c6"
+    },
+    {
+      "path": "capturas/Star Fox/3.webp",
+      "size": 19426,
+      "sha256": "e288c27cadddd6750342b01831deb35dcb435e4cea2b5600abcd7d1763225b9c"
+    },
+    {
+      "path": "capturas/Star Fox/4.webp",
+      "size": 23108,
+      "sha256": "d4b01d7f838dcde0d9e590d0c74b8b14672b4bec97c72ed6062bbd90701167f6"
+    },
+    {
+      "path": "capturas/Star Fox/5.webp",
+      "size": 20072,
+      "sha256": "806d0fef23c2befa383f3991a7f1938512d2c88709e33979f38eeb4771a3d6b4"
+    },
+    {
+      "path": "capturas/Star Fox/6.webp",
+      "size": 17908,
+      "sha256": "a3eb9e07ea1e89049f1cd0cf6e56fc612de7b26bba8ab201325294a42d23a6b2"
+    },
+    {
       "path": "capturas/Star Wars Galactic Racer Deluxe Edition/1.webp",
       "size": 9514,
       "sha256": "946ac6815dd8e629375629b1b4c31a2bb7f1b1f27f36571828e2aaf566183aee"
@@ -10182,6 +10282,11 @@
       "sha256": "2b005edfaf619c4d2842bea145a55b67dce6a0725207a47bc537a7fa1656c40e"
     },
     {
+      "path": "sinopsis/AI Limit Deluxe Edition.txt",
+      "size": 852,
+      "sha256": "037613c1c93cc476707094fa517bb7a3a5e613d11840b68076a5a2259e0fda72"
+    },
+    {
       "path": "sinopsis/Alan Wake 2.txt",
       "size": 950,
       "sha256": "1856c4219d6277feadb011934bafc640c652eb5883c121e5ec7e6c7c21c7ad38"
@@ -10320,6 +10425,11 @@
       "path": "sinopsis/Beast of Reincarnation Deluxe Edition.txt",
       "size": 246,
       "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
+    },
+    {
+      "path": "sinopsis/Black Mesa Definitive Edition.txt",
+      "size": 1410,
+      "sha256": "c4d396134448806cacdad6f68911468926f14ca9e10efbe0e4480f3e690d39fc"
     },
     {
       "path": "sinopsis/Black Myth Wukong.txt",
@@ -11302,6 +11412,11 @@
       "sha256": "a59f0c379679dc14e6d62786c20f0f3165c4dbdf73801684085059ee508494b5"
     },
     {
+      "path": "sinopsis/Star Fox.txt",
+      "size": 539,
+      "sha256": "712d7e0d9c20145671f6e336441488318bf5fd80d5c338de09062f37782642f5"
+    },
+    {
       "path": "sinopsis/Star Wars Galactic Racer Deluxe Edition.txt",
       "size": 725,
       "sha256": "2bf7a896a70cf887fa4a742f56ed347c34fea2e92d84628eb4ff31158e1b6a58"
@@ -11642,6 +11757,11 @@
       "sha256": "96bf13b8ec37e06310ecee433066cc6024169b6dc7aa809508ba8e164cbdb8f7"
     },
     {
+      "path": "datos/AI Limit Deluxe Edition.txt",
+      "size": 206,
+      "sha256": "fb4ba3b73fe5b5d2b3274b207a647aba00ad1cf7b3eb41ed6388fcedbaecf367"
+    },
+    {
       "path": "datos/Alan Wake 2.txt",
       "size": 224,
       "sha256": "18f611129522f77c70f6b13b6dfa36dfe30dcb1b807e355d57ab395ce028999b"
@@ -11785,6 +11905,11 @@
       "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
       "size": 264,
       "sha256": "75ea0c48eaa2797a4ada4954e9481ad6cff368288d30bf5eda773f5df421792a"
+    },
+    {
+      "path": "datos/Black Mesa Definitive Edition.txt",
+      "size": 222,
+      "sha256": "c789cb2c575aa21ff6137a1456d13576d76316e92313c7288b75a463e2c7dad5"
     },
     {
       "path": "datos/Black Myth Wukong.txt",
@@ -12765,6 +12890,11 @@
       "path": "datos/Stalker 2 Heart Of Chornobyl.txt",
       "size": 240,
       "sha256": "8756713dc36e44be66d99939fe65a554e0701a0e05eb894a0ff22850c4b1ef67"
+    },
+    {
+      "path": "datos/Star Fox.txt",
+      "size": 374,
+      "sha256": "f81c6f101ad367091c0eb6a2ceff0c4892b4ff2d4c118027892059367c6fb77c"
     },
     {
       "path": "datos/Star Wars Galactic Racer Deluxe Edition.txt",

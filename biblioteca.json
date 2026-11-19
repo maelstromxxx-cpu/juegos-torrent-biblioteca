@@ -172,6 +172,11 @@
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
     },
     {
+      "path": "imagenes/Binary Domain.webp",
+      "size": 62556,
+      "sha256": "e1519faa6945a63ef3a09603110b75c4b10c94d9e3108974816081ac0135496f"
+    },
+    {
       "path": "imagenes/Black Mesa Definitive Edition.webp",
       "size": 40684,
       "sha256": "8b5a6d1521485a974303cb106ec7076c5eb4de5c64bb6378aadb4f1aa14b695d"
@@ -2545,6 +2550,36 @@
       "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
       "size": 29418,
       "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
+    },
+    {
+      "path": "capturas/Binary Domain/1.webp",
+      "size": 22216,
+      "sha256": "16c1df1ac5de61eecc2c81e3b57159429830914ed469744676d0a49f66f9c33c"
+    },
+    {
+      "path": "capturas/Binary Domain/2.webp",
+      "size": 17564,
+      "sha256": "41d1f9f1e0d1350e60289ffc36eb490df3d794ffd80dbf246ba49d1d5443d378"
+    },
+    {
+      "path": "capturas/Binary Domain/3.webp",
+      "size": 17474,
+      "sha256": "0b8f700a587a3e3b5329357e61113a81193eff42efea707a546cd094d5956331"
+    },
+    {
+      "path": "capturas/Binary Domain/4.webp",
+      "size": 21220,
+      "sha256": "fbd3f1c7b5c70a40dceb77ddc3d435daa85f919bff9aa1643c98b71657823fc2"
+    },
+    {
+      "path": "capturas/Binary Domain/5.webp",
+      "size": 16734,
+      "sha256": "86a7932cf82204ffe8ad7a6dca3c6dd32c1977c2e98de20e16775238ebb1a7dc"
+    },
+    {
+      "path": "capturas/Binary Domain/6.webp",
+      "size": 17732,
+      "sha256": "da8edd344963ee9699fddc6ee29f863dfcc100e261515b6871dd782fa3b30bce"
     },
     {
       "path": "capturas/Black Mesa Definitive Edition/1.webp",
@@ -10817,6 +10852,11 @@
       "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
     },
     {
+      "path": "sinopsis/Binary Domain.txt",
+      "size": 733,
+      "sha256": "50bd808633db07988c59386f4177b275d95ccaee9a2e74a03347d4190b96dcba"
+    },
+    {
       "path": "sinopsis/Black Mesa Definitive Edition.txt",
       "size": 1410,
       "sha256": "c4d396134448806cacdad6f68911468926f14ca9e10efbe0e4480f3e690d39fc"
@@ -12350,6 +12390,11 @@
       "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
       "size": 264,
       "sha256": "75ea0c48eaa2797a4ada4954e9481ad6cff368288d30bf5eda773f5df421792a"
+    },
+    {
+      "path": "datos/Binary Domain.txt",
+      "size": 202,
+      "sha256": "ed92b315bf3f890176932c2b345007d8abc2f4706e15ec71932d9ccff22d4f41"
     },
     {
       "path": "datos/Black Mesa Definitive Edition.txt",

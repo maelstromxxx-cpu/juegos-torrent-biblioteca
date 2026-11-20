@@ -377,6 +377,11 @@
       "sha256": "92cb95915842eeda2ffd6215c9902d71c1fd24468c68ced2f78e0d6169ed40af"
     },
     {
+      "path": "imagenes/Deus Ex Mankind Divided.webp",
+      "size": 40752,
+      "sha256": "e24efe1c505364374add915392a97f0095f98bd6265b76072a9d314ca08d8d05"
+    },
+    {
       "path": "imagenes/Directive 8020 Deluxe Edition.webp",
       "size": 42204,
       "sha256": "5158c5b938a454d88015e0c299b245b7907ab281ce38e4775a02443c0686923a"
@@ -1005,6 +1010,16 @@
       "path": "imagenes/Quake II Enhanced.webp",
       "size": 43836,
       "sha256": "d2569407ea1ac18ac697af9ee9ca51b994819de3a684bea38205def2a72c83c5"
+    },
+    {
+      "path": "imagenes/Rage 2 Deluxe Edition.webp",
+      "size": 87418,
+      "sha256": "d367ed92bf55f15d7f05fce840e98f92352d88e2e743c8fb0066d209de7f362b"
+    },
+    {
+      "path": "imagenes/Rage Anarchy Edition.webp",
+      "size": 98632,
+      "sha256": "1504315f6e8d79fe9c5e9c98da016e8ae375106b648c04d6d4bb7d63263013a1"
     },
     {
       "path": "imagenes/Ravenswatch Year One Edition.webp",
@@ -3805,6 +3820,36 @@
       "path": "capturas/Detroit Become Human/6.webp",
       "size": 11494,
       "sha256": "7b5b1cf6f975caec0b9a39910bcb795908321e16bc6bbcfce3f6f0449ee67da2"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/1.webp",
+      "size": 30586,
+      "sha256": "855767f86c33b15c87a83f660b60804f39016b28c0e8b44c48862ae038478ecc"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/2.webp",
+      "size": 24208,
+      "sha256": "9d9b252de272089a31e9ad179c2089991dba6c1e72f2798eb5bb4672f2b48a91"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/3.webp",
+      "size": 25336,
+      "sha256": "4b4f5d8e6952381c401ab3e93288de60330e99c071d1bedd375ccd03dbc4b023"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/4.webp",
+      "size": 34960,
+      "sha256": "7f07317beaf200517dbb94e6f9e3e059d9401185630b03dcec4454b32e4181cf"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/5.webp",
+      "size": 27044,
+      "sha256": "39ecb54c94658dc5b5c46def549321f749c70a9cc3ddddda8239bf22b36ed6ef"
+    },
+    {
+      "path": "capturas/Deus Ex Mankind Divided/6.webp",
+      "size": 30486,
+      "sha256": "6c7e18454cd64b55fe81ef067a9f06e8db4876ae48e1cc685fdec72f0ad4d732"
     },
     {
       "path": "capturas/Directive 8020 Deluxe Edition/1.webp",
@@ -7567,6 +7612,66 @@
       "sha256": "d1b4802d9904a32ac605e52ff1b249da1656c90c38a836d96903ee583f28f10d"
     },
     {
+      "path": "capturas/Rage 2 Deluxe Edition/1.webp",
+      "size": 19172,
+      "sha256": "ef18eedd06354f266283f3b9ad3282aef7ef4502584dfe77789f74cd629fc67c"
+    },
+    {
+      "path": "capturas/Rage 2 Deluxe Edition/2.webp",
+      "size": 23726,
+      "sha256": "ee1a5ae6360bef4cd8249a317f2b8cdedbf9ae5aa2c809f8ccfe8b546a323557"
+    },
+    {
+      "path": "capturas/Rage 2 Deluxe Edition/3.webp",
+      "size": 27496,
+      "sha256": "a347477c6cc7d0a26443e0411d176f95772f05380bc6d0fbc3f2a83f286645cd"
+    },
+    {
+      "path": "capturas/Rage 2 Deluxe Edition/4.webp",
+      "size": 24072,
+      "sha256": "ba16eb298a578c2fe49fe4d5ad772b6931e7d28f2b07775b186882f5caff8f8f"
+    },
+    {
+      "path": "capturas/Rage 2 Deluxe Edition/5.webp",
+      "size": 17158,
+      "sha256": "f5c97edd929abe8c5bf341902d31c32b1370e10d191cc3def0b55f92e9e4e672"
+    },
+    {
+      "path": "capturas/Rage 2 Deluxe Edition/6.webp",
+      "size": 14086,
+      "sha256": "3b5267328c50b1feef6481be531b8566d383d988beb70f9bfaec13077e26840c"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/1.webp",
+      "size": 20278,
+      "sha256": "b5c1e184346fdbf90d50a4fde34ba008e5d6038c786b9230b5780020769e7089"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/2.webp",
+      "size": 19246,
+      "sha256": "f85403e8c91dec1b65ce20ce685663cb165c5368215b4a0144fb79b8d7df18d5"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/3.webp",
+      "size": 28114,
+      "sha256": "96fb79951cfbd52a48bdeb6f48f2898daf851ccd9bde50703bc1ebe060fd0b55"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/4.webp",
+      "size": 22278,
+      "sha256": "8f8c58121279a0e6071202cf45e5be85803d9a0643ef3387fc885408d2485273"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/5.webp",
+      "size": 18292,
+      "sha256": "cc0d401c6ca2286c74d8cbe3ca40a6bbc893e4d1650fd3a7e8e3e0f2fb14c50e"
+    },
+    {
+      "path": "capturas/Rage Anarchy Edition/6.webp",
+      "size": 10072,
+      "sha256": "c4f21f7f97d4f814081a6ce2b5bd258ab8dddbbd8d8bd21ec73cfaebeb82ec89"
+    },
+    {
       "path": "capturas/Ravenswatch Year One Edition/1.webp",
       "size": 19000,
       "sha256": "240fa2557ed9bee661ad9d3435759e9509b8de6372ae719283d63711ad749ea8"
@@ -11162,6 +11267,11 @@
       "sha256": "0eb6b0cec436e920d74fd2c79ef3748648a670df484dff2df7d424f3077154e7"
     },
     {
+      "path": "sinopsis/Deus Ex Mankind Divided.txt",
+      "size": 845,
+      "sha256": "6dae115cbe7340343961474f51c448bded75fbd6c7958a7486b25e0124ab517a"
+    },
+    {
       "path": "sinopsis/Directive 8020 Deluxe Edition.txt",
       "size": 1789,
       "sha256": "214588aaa3e2790ce5ffeb8bec657e73b085f1841c16badc911665ab9eb8595b"
@@ -11790,6 +11900,16 @@
       "path": "sinopsis/Quake II Enhanced.txt",
       "size": 1140,
       "sha256": "2d2010dd5bc0db13f257c434128f03cf9083574d0b8005fa2b816e2320a1d135"
+    },
+    {
+      "path": "sinopsis/Rage 2 Deluxe Edition.txt",
+      "size": 476,
+      "sha256": "6a783ccd3f3eaad7ae2ae70695d2a165d0679f2f1ecea67ed856c927747e597b"
+    },
+    {
+      "path": "sinopsis/Rage Anarchy Edition.txt",
+      "size": 547,
+      "sha256": "d6df7e2f27a7bae4a917b9873ae84edef033eac2e01d098294ffad801170b3e7"
     },
     {
       "path": "sinopsis/Ravenswatch Year One Edition.txt",
@@ -12717,6 +12837,11 @@
       "sha256": "2b10585dcb3304e3fb90c8bda555c31b6edf6a523bd533e354fb4d8195a565d6"
     },
     {
+      "path": "datos/Deus Ex Mankind Divided.txt",
+      "size": 236,
+      "sha256": "ad04643382d28c7110cf29eb820355b969f3b98a254af6ef4f919eef42965d92"
+    },
+    {
       "path": "datos/Directive 8020 Deluxe Edition.txt",
       "size": 187,
       "sha256": "3705d536c7b5001f0c2f10feb0ea1660e100aae179ef37ca5ec9026dc9a2b2ee"
@@ -13345,6 +13470,16 @@
       "path": "datos/Quake II Enhanced.txt",
       "size": 202,
       "sha256": "a71cb3be7d54877d4cd262b72a4fbec941ecaad0af1f84d9ea8bfdc2abbb7b93"
+    },
+    {
+      "path": "datos/Rage 2 Deluxe Edition.txt",
+      "size": 189,
+      "sha256": "06dc12607a9d3c0250edd177bbf20eaf6459a2b9785d33b131f208c8aa8117ac"
+    },
+    {
+      "path": "datos/Rage Anarchy Edition.txt",
+      "size": 239,
+      "sha256": "d551acd5702b2e5cb85bc1dd13783d453d7cdffe48b8d09c47e4c9f785843cd0"
     },
     {
       "path": "datos/Ravenswatch Year One Edition.txt",

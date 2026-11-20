@@ -178,8 +178,8 @@
     },
     {
       "path": "imagenes/Black Mesa Definitive Edition.webp",
-      "size": 40684,
-      "sha256": "8b5a6d1521485a974303cb106ec7076c5eb4de5c64bb6378aadb4f1aa14b695d"
+      "size": 1534735,
+      "sha256": "6d76985116649e7c16ed384eb5f5f62d04f26f465fdbc26323356716e1bde7aa"
     },
     {
       "path": "imagenes/Black Myth Wukong.webp",
@@ -460,6 +460,11 @@
       "path": "imagenes/Elden Ring.webp",
       "size": 9244,
       "sha256": "ccdc90a5f4d5944a14e28fad5d2e016fb583e545930fec4500ae86244bc97b17"
+    },
+    {
+      "path": "imagenes/Enslaved Odyssey To The West Premium Edition.webp",
+      "size": 81102,
+      "sha256": "d1722b10150ff1aa2ea68c996d107fd1561ea8458dffb4dfeb3c20081c5f46ca"
     },
     {
       "path": "imagenes/Entity The Black Day.webp",
@@ -770,6 +775,11 @@
       "path": "imagenes/Lightyear Frontier.webp",
       "size": 50048,
       "sha256": "c10b59ded731b535a8a32421a1b2ec5a7d2f870b611a3591473e78464aeffbfc"
+    },
+    {
+      "path": "imagenes/Lost In Vivo.webp",
+      "size": 63152,
+      "sha256": "c6dce95e729d067b4bef924b00405e413a0c536e3bb8204166b2ae66fe528aa0"
     },
     {
       "path": "imagenes/Lost Words Beyond the Page.webp",
@@ -1355,6 +1365,11 @@
       "path": "imagenes/The Rogue Prince of Persia.webp",
       "size": 80738,
       "sha256": "5af78f0fc566f69ca0c9090ef155d6882819029493f82c902921df0ed3650d29"
+    },
+    {
+      "path": "imagenes/The Saboteur.webp",
+      "size": 73862,
+      "sha256": "c819d469054cbf90444f4ca0920ebd63551a34ea6e77661f90a6ab4129a471f0"
     },
     {
       "path": "imagenes/The Sims™ 4.webp",
@@ -4302,6 +4317,36 @@
       "sha256": "047218a38d56bceb65aa36d85d27c5392008af8e33e8a463e7c45ec40a261636"
     },
     {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/1.webp",
+      "size": 31520,
+      "sha256": "ec948d7eb6e9e65c55d2b7da0c6e28db1ff8adcf1b0b0d6f43b8f09a95eb4707"
+    },
+    {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/2.webp",
+      "size": 34900,
+      "sha256": "452258cad8774134aa96e7e5d904ecf7e98b58b03642f86e8b3d5711150ba50f"
+    },
+    {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/3.webp",
+      "size": 31832,
+      "sha256": "0c8552b9d1fd1767573bc32f98b211a1bb513ed40d8a0718b7f4aff759637268"
+    },
+    {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/4.webp",
+      "size": 10320,
+      "sha256": "b2d07be11571d6c79d8ff16f3da3e254e0ff51fe9ce04edfe156273c0b237db7"
+    },
+    {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/5.webp",
+      "size": 37284,
+      "sha256": "9a2bf7921ec973dc09929c4d21139d100ac28aab7d68b51dfff6afee5f538ede"
+    },
+    {
+      "path": "capturas/Enslaved Odyssey To The West Premium Edition/6.webp",
+      "size": 40952,
+      "sha256": "2b1e4253a67f1970986771d56ba6ea3506a603e958775e30f427d789520aade0"
+    },
+    {
       "path": "capturas/Entity The Black Day/1.webp",
       "size": 33098,
       "sha256": "acea11a9ad9720233800c503d3477548bf95074e57b73fda489726b64382cb44"
@@ -6155,6 +6200,36 @@
       "path": "capturas/Lightyear Frontier/6.webp",
       "size": 40546,
       "sha256": "5c5929de82d7f661b80ac56d02afcec4ef525a17e24eb9d10c14d0e0dea8d98a"
+    },
+    {
+      "path": "capturas/Lost In Vivo/1.webp",
+      "size": 6714,
+      "sha256": "c8173151e0c725e1fc90a9a9dcd8ff3959bb63a328cc1ac3d43677f630eec8d7"
+    },
+    {
+      "path": "capturas/Lost In Vivo/2.webp",
+      "size": 20654,
+      "sha256": "4f71d5d13d7cbec50a236ced55a845308449b1919e962eaad25da035802ae166"
+    },
+    {
+      "path": "capturas/Lost In Vivo/3.webp",
+      "size": 11982,
+      "sha256": "1b4ba387a021a56de8614fcbba416328f89276b083789da8b73fe68ba1c16918"
+    },
+    {
+      "path": "capturas/Lost In Vivo/4.webp",
+      "size": 13828,
+      "sha256": "5530e3b7eb0f347abd9f21705c3bc60a0d424dd33819e0ea14d034f60724f6a0"
+    },
+    {
+      "path": "capturas/Lost In Vivo/5.webp",
+      "size": 7970,
+      "sha256": "513c95ab3579f2825e473c4decba160c05065fe8f008b4b5b973649cfc0a5983"
+    },
+    {
+      "path": "capturas/Lost In Vivo/6.webp",
+      "size": 3966,
+      "sha256": "336fd55a28a596deaed5c882119867870d27a475cd2d3efb63ab57405a99ef7c"
     },
     {
       "path": "capturas/Lost Words Beyond the Page/1.webp",
@@ -9642,6 +9717,36 @@
       "sha256": "4970494e8356c68c9bfc0ae36447a9f9d21bb2f98108944600127fb5eb8c078a"
     },
     {
+      "path": "capturas/The Saboteur/1.webp",
+      "size": 15100,
+      "sha256": "79681f1e89de54d84fd54deee4db0e77767d298e15f7efafe2b6b85f4758323f"
+    },
+    {
+      "path": "capturas/The Saboteur/2.webp",
+      "size": 21292,
+      "sha256": "9b6c180de9eac1a7d83cbf24610462c6db8f2a91401956a0e27d7ebf23eb0cc4"
+    },
+    {
+      "path": "capturas/The Saboteur/3.webp",
+      "size": 12306,
+      "sha256": "ec9cc35d73ebc10a8210f2eb12dd7000a0c302ce00ef3fe5bf0472d9176cae95"
+    },
+    {
+      "path": "capturas/The Saboteur/4.webp",
+      "size": 24978,
+      "sha256": "4acf720bdc4089b8115aa2bbaa56def52afa1536de2ae7e69b1971c968af3b3c"
+    },
+    {
+      "path": "capturas/The Saboteur/5.webp",
+      "size": 23542,
+      "sha256": "396fa5a1ebcc43216842a370331c7950e37bba197a5cda0e8439165e06b23705"
+    },
+    {
+      "path": "capturas/The Saboteur/6.webp",
+      "size": 25028,
+      "sha256": "9f9764b65af9f9ca82f930cb25a424f6035bcd41bb47d7ab70464a8bca48fe51"
+    },
+    {
       "path": "capturas/The Sims™ 4/1.webp",
       "size": 26680,
       "sha256": "93abd6801b05414f5a890cefa9c8453348fbd1112ea57748afe936116057255c"
@@ -11142,6 +11247,11 @@
       "sha256": "292b1e71a61fc1543958eeb4a8a84f689fa27370150286e98ab139638122660d"
     },
     {
+      "path": "sinopsis/Enslaved Odyssey To The West Premium Edition.txt",
+      "size": 1291,
+      "sha256": "2d0576d4daf3e1fba332bc974ba4713d493c2b921d97b705a7ea3ebbbd302e6d"
+    },
+    {
       "path": "sinopsis/Entity The Black Day.txt",
       "size": 267,
       "sha256": "ce4e4d869674195b10ec912cca15266be9817132ed9d3a6621279475584aa0d0"
@@ -11450,6 +11560,11 @@
       "path": "sinopsis/Lightyear Frontier.txt",
       "size": 502,
       "sha256": "33ef1d2ada5c15c0514304998a024bfa99367660e330130ce040297692a7d0c6"
+    },
+    {
+      "path": "sinopsis/Lost In Vivo.txt",
+      "size": 814,
+      "sha256": "fa9d30440cd81263e89725d56fd5641558ad30d8dddda2b358d22cf9059b9ea2"
     },
     {
       "path": "sinopsis/Lost Words Beyond the Page.txt",
@@ -12035,6 +12150,11 @@
       "path": "sinopsis/The Rogue Prince of Persia.txt",
       "size": 445,
       "sha256": "9ddbe826400f375d5abf8494274e9f251507775160495b9a4d8d6e03fc4d3b49"
+    },
+    {
+      "path": "sinopsis/The Saboteur.txt",
+      "size": 1411,
+      "sha256": "a93d21ca89d5d0a99faed77059347433ab48b50b30142852d2a8b047cfa35a6f"
     },
     {
       "path": "sinopsis/The Sims™ 4.txt",
@@ -12682,6 +12802,11 @@
       "sha256": "5be8cd7d298a5cced2656dcbe705af14902a4ab9000addd4d29be5e1a1dbfb17"
     },
     {
+      "path": "datos/Enslaved Odyssey To The West Premium Edition.txt",
+      "size": 248,
+      "sha256": "e92cd4f9c7e085671e124249eba10000dd7d70c57a3979e177a5711143399aa8"
+    },
+    {
       "path": "datos/Entity The Black Day.txt",
       "size": 195,
       "sha256": "e54d52f53c7e77fca3cbdad55d089bc38246477a03171e7f7040f0dec1a2666b"
@@ -12990,6 +13115,11 @@
       "path": "datos/Lightyear Frontier.txt",
       "size": 228,
       "sha256": "120c4ee15c13009b223027a22d3907ea7cfb204f9b9854098e776ba1b218a019"
+    },
+    {
+      "path": "datos/Lost In Vivo.txt",
+      "size": 176,
+      "sha256": "e9a4e68d28c85a44b8e3e3034258e46bbccebc45733c7d3fd340743bbc1e1927"
     },
     {
       "path": "datos/Lost Words Beyond the Page.txt",
@@ -13575,6 +13705,11 @@
       "path": "datos/The Rogue Prince of Persia.txt",
       "size": 262,
       "sha256": "d06c81d44c2f880d6d0620141e0604c08fdf744cec9bf23e1de1996d5c89af78"
+    },
+    {
+      "path": "datos/The Saboteur.txt",
+      "size": 172,
+      "sha256": "b54172398d702caf899f4383232dcf944a5a8f7911aa33dc5cba788d3592ea42"
     },
     {
       "path": "datos/The Sims™ 4.txt",

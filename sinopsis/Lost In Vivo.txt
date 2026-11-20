@@ -1,0 +1,7 @@
+Un juego de terror sobre la claustrofobia.
+
+Durante una tormenta, tu perro de servicio es arrastrado por un desagüe de cloaca roto. Encontrás la entrada de cloaca más cercana y entrás corriendo tras él.
+
+En el camino te vas a encontrar con otros que también están afectados por miedos anormales o psicológicos. Quizás puedas ayudarlos, así como quizás puedas liberarte a vos mismo, pero es igual de probable que tanto ellos como vos ya no tengan salvación.
+
+Este juego tiene soporte para joystick, pero primero tenés que pasar las opciones gráficas haciendo clic. No reasignes ninguna tecla si pensás usar el joystick. Los menús están programados de forma fija para las entradas del joystick y no para las etiquetas de los botones, y actualmente no se puede abrir el Steam overlay con un joystick.

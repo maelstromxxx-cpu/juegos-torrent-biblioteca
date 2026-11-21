@@ -667,6 +667,11 @@
       "sha256": "cec24278c2842a0888d4796e3deb6ce5b2cdb52051d44ef538fb4a40ba8dc4a7"
     },
     {
+      "path": "imagenes/Halls of Torment.webp",
+      "size": 39718,
+      "sha256": "12b9f7174356ed2d30686a69473fb81045495905d936e36ff382abdc93737346"
+    },
+    {
       "path": "imagenes/Halo Campaign Evolved.webp",
       "size": 34462,
       "sha256": "a379ac4af1e296784a540756fb938e2302be6f7048ba48a0206a83ef8a60c1a0"
@@ -1000,6 +1005,11 @@
       "path": "imagenes/Project Motor Racing Year 1 Bundle.webp",
       "size": 63784,
       "sha256": "2fc7fc3669fcfad559650a83f6fec9e19f73bb007cdef573b31310b0091c714d"
+    },
+    {
+      "path": "imagenes/Psycho-Sleuth Deluxe Edition.webp",
+      "size": 32128,
+      "sha256": "f40ba469929097093190897e0d08305a0f917217b680da7a2314fbe6f722a5aa"
     },
     {
       "path": "imagenes/Quake Enhanced.webp",
@@ -5562,6 +5572,36 @@
       "sha256": "9f2438945763a71d2f82661f7b18bfe3c865182b250838e63b4ea812591d6621"
     },
     {
+      "path": "capturas/Halls of Torment/1.webp",
+      "size": 34648,
+      "sha256": "05bc8e36b1ed31f717d86c55b4828efcbe7d727aed6d646bfe9243dd9f415516"
+    },
+    {
+      "path": "capturas/Halls of Torment/2.webp",
+      "size": 27276,
+      "sha256": "304b0bbf30c6181e34e54f367dcd1784d296174b6305941925a9ffcbfaa32695"
+    },
+    {
+      "path": "capturas/Halls of Torment/3.webp",
+      "size": 32746,
+      "sha256": "3e52e40b1112e9ab0a62a5d8f41db74f83583b51019d6118b1193e051574812f"
+    },
+    {
+      "path": "capturas/Halls of Torment/4.webp",
+      "size": 48706,
+      "sha256": "6fcea91a01f88b94aae0bf09beb0902e674a639db705b55eec022d084c009663"
+    },
+    {
+      "path": "capturas/Halls of Torment/5.webp",
+      "size": 29506,
+      "sha256": "cfe86edaa463b5212afcdff19d63d21922b875e0031cf41b8f08c3d1ec398fcc"
+    },
+    {
+      "path": "capturas/Halls of Torment/6.webp",
+      "size": 48102,
+      "sha256": "d22957e430eca844dbcb6334d4b7cb8666200e92435bf049d2c262d34ac275f7"
+    },
+    {
       "path": "capturas/Halo Campaign Evolved/1.webp",
       "size": 39086,
       "sha256": "282146ffecbb72a96b695ed49100c8856d58d16ade6ddf77a8b055993e5799b3"
@@ -7550,6 +7590,36 @@
       "path": "capturas/Project Motor Racing Year 1 Bundle/6.webp",
       "size": 18772,
       "sha256": "e36ff922aadee10677913fb88cfeedd0507e0bea9590b3b86924adbabbf89e23"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/1.webp",
+      "size": 24638,
+      "sha256": "a3016a4f5fb9b5c060d8a3840c26cc6a922401d5b1719680f8a43945079f9bb6"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/2.webp",
+      "size": 22030,
+      "sha256": "6244d4405ef559540078e8e936201560b0965ac5152a1442490ae466c440b708"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/3.webp",
+      "size": 27654,
+      "sha256": "f069e219b2450eca77fb5774e070192c0d1c20a1627c5b6b50d6b2f4dee494bd"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/4.webp",
+      "size": 19786,
+      "sha256": "81f7ae1c6c477003e6fb1fd30f26b8b919319efc8011bac7c1303cc9a822612d"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/5.webp",
+      "size": 19128,
+      "sha256": "c26b331d1173be777f202aebdb040d1ccc2deabfd7df65ab8b98ba3fbffbb7de"
+    },
+    {
+      "path": "capturas/Psycho-Sleuth Deluxe Edition/6.webp",
+      "size": 20624,
+      "sha256": "cb871829e6911d0309c384d62b5e47bdc1fd2fe4b38bfe33a442dca05de655fb"
     },
     {
       "path": "capturas/Quake Enhanced/1.webp",
@@ -11557,6 +11627,11 @@
       "sha256": "47d9d4f2367da97c8ca3d475934850f50995c442d94f46fe4e9be89335ebd387"
     },
     {
+      "path": "sinopsis/Halls of Torment.txt",
+      "size": 586,
+      "sha256": "c48a2c225bf1f6548e4af35c4f1d41cd23d9b368e660f60cdcbfcd3e46b9cab7"
+    },
+    {
       "path": "sinopsis/Halo Campaign Evolved.txt",
       "size": 928,
       "sha256": "90881a5f9d4ef7368161f3fbe3c6754fa9f146932250c9e291ec529e3f55288e"
@@ -11890,6 +11965,11 @@
       "path": "sinopsis/Project Motor Racing Year 1 Bundle.txt",
       "size": 300,
       "sha256": "bcea31cbb8b8cf4b66b35b495e6f87908c4ab5c530ba780769dac6f8fc5c9b4a"
+    },
+    {
+      "path": "sinopsis/Psycho-Sleuth Deluxe Edition.txt",
+      "size": 558,
+      "sha256": "17430e166c24259348e36168823457e6d65a5157edf970b8e72ee0edf5390100"
     },
     {
       "path": "sinopsis/Quake Enhanced.txt",
@@ -12448,8 +12528,8 @@
     },
     {
       "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
-      "size": 1076,
-      "sha256": "fa91088feda4d5dcb1a0a20b7dc3a5aefd200fc7e38e85457aec21e797e6a0cb"
+      "size": 1074,
+      "sha256": "5ef37ffd057b7b7ddf5b1510086da7ffe96544152d1c3937556c477f9859187b"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -13127,6 +13207,11 @@
       "sha256": "220268379113396d3f0de40e7abc539b1c38ce1d803935d02a43e3132c666459"
     },
     {
+      "path": "datos/Halls of Torment.txt",
+      "size": 177,
+      "sha256": "ec30bb4398829af16152cff6228259d8a1708f916bf6a15128577951c4e8cfe1"
+    },
+    {
       "path": "datos/Halo Campaign Evolved.txt",
       "size": 194,
       "sha256": "7d06cefe49ee916c9f9f0758c95d0501eb067e9f50dea6cd5330efec89e50836"
@@ -13460,6 +13545,11 @@
       "path": "datos/Project Motor Racing Year 1 Bundle.txt",
       "size": 219,
       "sha256": "6bbba485341773384850cc408a637ad5572da6962ab6425426f744ae3f6f5814"
+    },
+    {
+      "path": "datos/Psycho-Sleuth Deluxe Edition.txt",
+      "size": 189,
+      "sha256": "ced537d883345e295375ec3acc5e07504146380441dd29c5f65d2687814ff3a7"
     },
     {
       "path": "datos/Quake Enhanced.txt",

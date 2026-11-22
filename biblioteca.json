@@ -12808,8 +12808,8 @@
     },
     {
       "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
-      "size": 1076,
-      "sha256": "fa91088feda4d5dcb1a0a20b7dc3a5aefd200fc7e38e85457aec21e797e6a0cb"
+      "size": 1072,
+      "sha256": "4e023a1cd42868866bafb304b978d12428e55d356400df169050967293e996d9"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -14424,7 +14424,7 @@
     {
       "path": "datos/Ziggurat 2 + Supporter Pack DLC.txt",
       "size": 198,
-      "sha256": "51b7fee9ace926f08a55d1ecf2ff64f55a5a0d097559a61d1802b7403cb99bbd"
+      "sha256": "f045e10b7c57c132a14d9722ce4b9b40819626fc93313850b829c983de426e37"
     }
   ]
 }

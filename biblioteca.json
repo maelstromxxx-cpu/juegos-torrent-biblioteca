@@ -887,6 +887,11 @@
       "sha256": "23541338d35b70b66b9c7f1b31ab92e32eb0e76c845fbbe88fe36cc7bfbad93f"
     },
     {
+      "path": "imagenes/Moadra.webp",
+      "size": 19644,
+      "sha256": "3cc534ab2b14e0e5e229eb1eb2305e35b1ad4d92686d7920ed7b2a18e33aae4e"
+    },
+    {
       "path": "imagenes/Monster Hunter Wild.webp",
       "size": 55228,
       "sha256": "b58d7dcc929fd9639b86965ab15c4bbd82ec4af4fbfbde401347d47ea0ae65ef"
@@ -6937,6 +6942,36 @@
       "sha256": "7170bbd22e64eadd4a4e89dda91a420685f4315e2adc4b97780de461a01c43c9"
     },
     {
+      "path": "capturas/Moadra/1.webp",
+      "size": 9942,
+      "sha256": "f6713903ab4e940184fb9de0a03748293551f66dddcaa773444a8de0c06b0134"
+    },
+    {
+      "path": "capturas/Moadra/2.webp",
+      "size": 11044,
+      "sha256": "03550c602228a89cd1fa61d87ff37034beed0cb5e100add3dac87838f7dd444a"
+    },
+    {
+      "path": "capturas/Moadra/3.webp",
+      "size": 8800,
+      "sha256": "bd20c5c17729ed0c64884d85c89ac4df2a6cac1ebc6a19be18de4902f03532ce"
+    },
+    {
+      "path": "capturas/Moadra/4.webp",
+      "size": 10934,
+      "sha256": "807648c413070cb7932f8ddd34dc965df14f86abf171cf409ca1460ac2f2226f"
+    },
+    {
+      "path": "capturas/Moadra/5.webp",
+      "size": 6052,
+      "sha256": "aeca26c370d8325160e94146bec200d9ab8794da7992339b452b4d84f5d8cfbe"
+    },
+    {
+      "path": "capturas/Moadra/6.webp",
+      "size": 5184,
+      "sha256": "fa4263479834b5d57cdfcbd49f032dd2dc81fd7bc4f82735a71fed9fc68bbb0a"
+    },
+    {
       "path": "capturas/Monster Hunter Wild/1.webp",
       "size": 41510,
       "sha256": "32f98083cbe8bae1d521ec9fee7f6711e51f3d8ab3fc5123a6a170315964e546"
@@ -7378,33 +7413,33 @@
     },
     {
       "path": "capturas/One More Night/1.webp",
-      "size": 30144,
-      "sha256": "467c6c6ee7135b664ea8f470d86d7b72ff03d4a176a1213d82afa2191ab087c2"
+      "size": 15170,
+      "sha256": "c80387ee0c15e195804ed92d7b983238ff04012c2b2224ccd9eb30b0591b9da3"
     },
     {
       "path": "capturas/One More Night/2.webp",
-      "size": 12330,
-      "sha256": "cccfbf758341f1dc9e846f5d64cec7523cac6fb61f4217d584bd3ccb8593e38f"
+      "size": 14520,
+      "sha256": "3c9e431c488c4955e5e4bded35676b37aeb61acacb2929b65eff35f70d9a2450"
     },
     {
       "path": "capturas/One More Night/3.webp",
-      "size": 39852,
-      "sha256": "b939e254bce2a5cfc397a35349601f54ed6f7a10b808d8faf7c673f7f6f1a8c7"
+      "size": 32714,
+      "sha256": "e59668a6d214c2b46311dfe87f346df62f9a6d44201af1caf6a4b83a5a48bacd"
     },
     {
       "path": "capturas/One More Night/4.webp",
-      "size": 19198,
-      "sha256": "88159729193c65ee0907ab3317b9018d527db146f51630140e0d92fc11ba6f43"
+      "size": 29488,
+      "sha256": "f1a5524e0ae87640d98b1bba5f27b9938f5e89b80425b9b52ffa647619a52228"
     },
     {
       "path": "capturas/One More Night/5.webp",
-      "size": 16004,
-      "sha256": "e3ba96940135cdfc06fa3f158650f52b1801ace8b4b73a3e5c39a31f4be6361a"
+      "size": 19976,
+      "sha256": "82dbfc13322c8f21e459a6791e4ceaffe83076544b38856cdeb48ba0aa5eeb1c"
     },
     {
       "path": "capturas/One More Night/6.webp",
-      "size": 19656,
-      "sha256": "dfa88ec491cc73dc140d47a63ebfde281f7f25be038c4ec6d2738bd9dc726431"
+      "size": 27040,
+      "sha256": "06f6608ddd591ed5b70fe339106040ee15acd0326a7e5db03ced8e8dcf06f4d6"
     },
     {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/1.webp",
@@ -12197,6 +12232,11 @@
       "sha256": "f6736c286fd2d17131707fb4592233493f99da40391c7ed4a961ef91964401e8"
     },
     {
+      "path": "sinopsis/Moadra.txt",
+      "size": 714,
+      "sha256": "5377d59877a75c2622aa1cb7b32154fa232db1bd5a90d4c4a8e52d0ba5c354e1"
+    },
+    {
       "path": "sinopsis/Monster Hunter Wild.txt",
       "size": 1088,
       "sha256": "9a4e7b5e145cadeb16dba3de462cf3d441c912b93a904ddf826f5a656d15b4a6"
@@ -13827,6 +13867,11 @@
       "sha256": "5f61ed7277d1fafa3fcc015c9c2cdc02bec4ae9546b6288bba6ff4dd051c9e43"
     },
     {
+      "path": "datos/Moadra.txt",
+      "size": 204,
+      "sha256": "9071f81bad16fa835049c5ed96e8feffd83ccff29e744292e0e7fea3cca8d534"
+    },
+    {
       "path": "datos/Monster Hunter Wild.txt",
       "size": 272,
       "sha256": "f7f24717cf637b3fe3f5814c3ed5ccb2c6bbebcf07a58fe938031427f8d7f23c"
@@ -13903,8 +13948,8 @@
     },
     {
       "path": "datos/One More Night.txt",
-      "size": 194,
-      "sha256": "7a5566338fc24df9cca718e18baf7bc4affc670550b323350129e32b40c3b3d8"
+      "size": 242,
+      "sha256": "8055b4fd71c6cd88b35b0f31ce055521c1efd8d68d59acb2abeb21260013965d"
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",

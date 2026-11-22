@@ -942,6 +942,11 @@
       "sha256": "b3ee14a752d8d247e3c09d285882cfcad45be7fc841f545be23f892dd616138f"
     },
     {
+      "path": "imagenes/One More Night.webp",
+      "size": 30106,
+      "sha256": "c755ce0f837c31340b132532c46e90e75f5a5d8885e545b30cd6baf23d2a7103"
+    },
+    {
       "path": "imagenes/Onimusha Way of the Sword Premium Deluxe Edition.webp",
       "size": 65376,
       "sha256": "a12a34ef68188b038db67a8becc1a372688c35fa6c9c4c4bb9ed742ea36afb9d"
@@ -7212,6 +7217,36 @@
       "sha256": "6fbc7a49f58edf11f1a956c88b9e8b5495f1aa2951bc51c3eb9b5de593f35659"
     },
     {
+      "path": "capturas/One More Night/1.webp",
+      "size": 30144,
+      "sha256": "467c6c6ee7135b664ea8f470d86d7b72ff03d4a176a1213d82afa2191ab087c2"
+    },
+    {
+      "path": "capturas/One More Night/2.webp",
+      "size": 12330,
+      "sha256": "cccfbf758341f1dc9e846f5d64cec7523cac6fb61f4217d584bd3ccb8593e38f"
+    },
+    {
+      "path": "capturas/One More Night/3.webp",
+      "size": 39852,
+      "sha256": "b939e254bce2a5cfc397a35349601f54ed6f7a10b808d8faf7c673f7f6f1a8c7"
+    },
+    {
+      "path": "capturas/One More Night/4.webp",
+      "size": 19198,
+      "sha256": "88159729193c65ee0907ab3317b9018d527db146f51630140e0d92fc11ba6f43"
+    },
+    {
+      "path": "capturas/One More Night/5.webp",
+      "size": 16004,
+      "sha256": "e3ba96940135cdfc06fa3f158650f52b1801ace8b4b73a3e5c39a31f4be6361a"
+    },
+    {
+      "path": "capturas/One More Night/6.webp",
+      "size": 19656,
+      "sha256": "dfa88ec491cc73dc140d47a63ebfde281f7f25be038c4ec6d2738bd9dc726431"
+    },
+    {
       "path": "capturas/Onimusha Way of the Sword Premium Deluxe Edition/1.webp",
       "size": 43240,
       "sha256": "e1855c679ab2d30cfd5966e0b64335f7a3904a713ceb75cf3fdb618a95294ff2"
@@ -11937,6 +11972,11 @@
       "sha256": "7902b5b91b7e0d9469860eaf0734d8495fbb4c9999abfcf971577bf7d3fe0181"
     },
     {
+      "path": "sinopsis/One More Night.txt",
+      "size": 1246,
+      "sha256": "2618fc1bf4962587c71c87bd376d76e31fd44cd29e17d42f134485b91f126fe1"
+    },
+    {
       "path": "sinopsis/Onimusha Way of the Sword Premium Deluxe Edition.txt",
       "size": 959,
       "sha256": "68c6423c84eedac29a797e9b12b627f1813c925215cdc7bb9036db6cdccd6fb5"
@@ -13520,6 +13560,11 @@
       "path": "datos/Nymphomaniac Sex Addict.txt",
       "size": 178,
       "sha256": "b929f5f3af0779a0ea1407eff0d44c867b75759ddd644070f0d5c5d56f77c432"
+    },
+    {
+      "path": "datos/One More Night.txt",
+      "size": 194,
+      "sha256": "7a5566338fc24df9cca718e18baf7bc4affc670550b323350129e32b40c3b3d8"
     },
     {
       "path": "datos/Onimusha Way of the Sword Premium Deluxe Edition.txt",

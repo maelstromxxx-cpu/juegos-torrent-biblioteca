@@ -1387,6 +1387,11 @@
       "sha256": "f03bba3c522ec3664351276c8e9d54581ec149265669d9e9c059ff0bd4129173"
     },
     {
+      "path": "imagenes/The Riftbreaker.webp",
+      "size": 72344,
+      "sha256": "0ac270711427c99cdc08016d137e646a0a2811e242d6050679eb882e0274b9c8"
+    },
+    {
       "path": "imagenes/The Rogue Prince of Persia.webp",
       "size": 80738,
       "sha256": "5af78f0fc566f69ca0c9090ef155d6882819029493f82c902921df0ed3650d29"
@@ -9862,6 +9867,36 @@
       "sha256": "91703944f98843479e92d147486c499603940117a956a57b7a334aec19488160"
     },
     {
+      "path": "capturas/The Riftbreaker/1.webp",
+      "size": 44082,
+      "sha256": "ee923d4a5fc55fb31c5a491a23c6d424de375c3c33e67640d5683dc1ac6c982d"
+    },
+    {
+      "path": "capturas/The Riftbreaker/2.webp",
+      "size": 48272,
+      "sha256": "7a567f58c6822c76ba1aebdf95d0a8eb6559c12f5f2ad0d069ed01588d551a4d"
+    },
+    {
+      "path": "capturas/The Riftbreaker/3.webp",
+      "size": 46420,
+      "sha256": "a92e27557b9f6f351ba131076c21f7f79f9e38e390d8c17afdd5b386f3ee237b"
+    },
+    {
+      "path": "capturas/The Riftbreaker/4.webp",
+      "size": 26576,
+      "sha256": "d2e0820b4e55b6c26c23425d87d473556bb0404691df728013cd82a881251288"
+    },
+    {
+      "path": "capturas/The Riftbreaker/5.webp",
+      "size": 43816,
+      "sha256": "be0578bc135a009820486b307b183b40069fe79bcd590bb8fc6520936ae9f647"
+    },
+    {
+      "path": "capturas/The Riftbreaker/6.webp",
+      "size": 35950,
+      "sha256": "933be31c8f859d7a7c96c5530245185627b5b0367fd3cbb42935e9698a1aa09e"
+    },
+    {
       "path": "capturas/The Rogue Prince of Persia/1.webp",
       "size": 28582,
       "sha256": "9351fccccd6ec08217d348ee61b89be9221117349772955162644f9a618c3082"
@@ -12347,6 +12382,11 @@
       "sha256": "72128795967f9354cfd019f7fae89a39dbc218303e8492989d7874f058537cd7"
     },
     {
+      "path": "sinopsis/The Riftbreaker.txt",
+      "size": 1331,
+      "sha256": "46339ecc1c0979c17ed6b5de81fdae48e072bbc9ff5dbff27a67b0a674b8a71d"
+    },
+    {
       "path": "sinopsis/The Rogue Prince of Persia.txt",
       "size": 445,
       "sha256": "9ddbe826400f375d5abf8494274e9f251507775160495b9a4d8d6e03fc4d3b49"
@@ -12528,8 +12568,8 @@
     },
     {
       "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
-      "size": 1074,
-      "sha256": "5ef37ffd057b7b7ddf5b1510086da7ffe96544152d1c3937556c477f9859187b"
+      "size": 1076,
+      "sha256": "fa91088feda4d5dcb1a0a20b7dc3a5aefd200fc7e38e85457aec21e797e6a0cb"
     },
     {
       "path": "datos/007 First Light.txt",
@@ -13925,6 +13965,11 @@
       "path": "datos/The Relic First Guardian.txt",
       "size": 190,
       "sha256": "92cca91d007f5900e750e9ea9f802134276778642cf805b100c6c2601a06e307"
+    },
+    {
+      "path": "datos/The Riftbreaker.txt",
+      "size": 229,
+      "sha256": "361cb201fd822a21d515305ef3e6eadfa8f1c5ce1b2c909d15963674f1e2007a"
     },
     {
       "path": "datos/The Rogue Prince of Persia.txt",

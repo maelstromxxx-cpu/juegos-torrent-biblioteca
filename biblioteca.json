@@ -847,6 +847,11 @@
       "sha256": "b3f26a7ac9bfbb7796a0d63144d031590651cf71a4bab2b20ade038d76149e3d"
     },
     {
+      "path": "imagenes/Medal of Honor Warfighter.webp",
+      "size": 51780,
+      "sha256": "8a5765abb3569f8ad22bad47f413be80641f69e6db98469a31a0264d493de0e8"
+    },
+    {
       "path": "imagenes/Metal Gear Solid 4 Guns of the Patriots Master Collection.webp",
       "size": 23068,
       "sha256": "3a9c148c7ca691300dc6c4fb50246d4bd040acff9e7af944f9d15d45eb7a7aaf"
@@ -6677,6 +6682,36 @@
       "sha256": "e58158a9db9f84901d0c1cbb888625e544db41e28a087c8355a2b93f0bfc4f99"
     },
     {
+      "path": "capturas/Medal of Honor Warfighter/1.webp",
+      "size": 16386,
+      "sha256": "ef1a1064803f112ba5d5edced2deeb22d0c7dd46230cc1846ec79ad39fe5a1a5"
+    },
+    {
+      "path": "capturas/Medal of Honor Warfighter/2.webp",
+      "size": 31202,
+      "sha256": "4241558f36eb9f1e8e03ab8782c9e08cc9fba4feff8d939bf2117b15b16b3ffb"
+    },
+    {
+      "path": "capturas/Medal of Honor Warfighter/3.webp",
+      "size": 31050,
+      "sha256": "b5649b8d79bd9be6d72fc5b0ff6905b482d1ae2151a8bbbd6ba7324b228e20aa"
+    },
+    {
+      "path": "capturas/Medal of Honor Warfighter/4.webp",
+      "size": 23178,
+      "sha256": "dc096b7edda87d5a821f0af4b9ef0fe66600b87ca798a53e5093a3977b5dc317"
+    },
+    {
+      "path": "capturas/Medal of Honor Warfighter/5.webp",
+      "size": 14036,
+      "sha256": "5aa2434136e26f8da579f4e4ef36470edb7f7dcdda2cf324bf9a078bff225f71"
+    },
+    {
+      "path": "capturas/Medal of Honor Warfighter/6.webp",
+      "size": 42528,
+      "sha256": "7d6642cbcb43a2e375f680ad492391347d7a8c020ba671aa7f48503b1d0269ae"
+    },
+    {
       "path": "capturas/Metal Gear Solid 4 Guns of the Patriots Master Collection/1.webp",
       "size": 15196,
       "sha256": "341f3c9936a5889ac83c71df6788fa039601b76583bf6f09afaeb08711edfaff"
@@ -12017,6 +12052,11 @@
       "sha256": "ea940dfb439a469d09c23a60c345155ef6232985c2fde604524f97b9c50cf01b"
     },
     {
+      "path": "sinopsis/Medal of Honor Warfighter.txt",
+      "size": 465,
+      "sha256": "57f89be4a76dfd2eb2feb08a2fee565d08aa2a24854869a37c069013bbf232c9"
+    },
+    {
       "path": "sinopsis/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",
       "size": 640,
       "sha256": "b86de7d6f8833f0d23c78e5cb52d853ac446d1fe3074a559f4e6aab1011d4c41"
@@ -13625,6 +13665,11 @@
       "path": "datos/Max Payne 3 Complete Edition.txt",
       "size": 192,
       "sha256": "00114428dcf19fe38a955d77afc93b799d124e43f23b9c0a85863bd67e09c49e"
+    },
+    {
+      "path": "datos/Medal of Honor Warfighter.txt",
+      "size": 215,
+      "sha256": "dfa0ce5acb3d08c70901ccc1cbb8836367421654483c75e3124ace80bc78a258"
     },
     {
       "path": "datos/Metal Gear Solid 4 Guns of the Patriots Master Collection.txt",

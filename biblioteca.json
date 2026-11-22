@@ -322,6 +322,11 @@
       "sha256": "a2960707b9b4607d4dcc38e82967d77c28a05ed1622846baaac7f2c75952ff43"
     },
     {
+      "path": "imagenes/Crown and Adventure.webp",
+      "size": 45752,
+      "sha256": "506238022544f2920ed927a533483a0b13f8215c06d82ef98d4993cf2e5a43e0"
+    },
+    {
       "path": "imagenes/Crysis 2 Remastered.webp",
       "size": 43106,
       "sha256": "49fb6b0530be189b919bf2944891c32c2c775b5bf6abf7afb3fe03c96ef3e452"
@@ -1037,6 +1042,11 @@
       "sha256": "1504315f6e8d79fe9c5e9c98da016e8ae375106b648c04d6d4bb7d63263013a1"
     },
     {
+      "path": "imagenes/Railway Empire 2 Deluxe Edition.webp",
+      "size": 88900,
+      "sha256": "247bb725cd09bf2903f855cea47e1a062d3e5d4371cb6de5ea80e32cfa78413e"
+    },
+    {
       "path": "imagenes/Ravenswatch Year One Edition.webp",
       "size": 63460,
       "sha256": "267e28aeeb94de245397e09a19d27ed081a295382d3ac371453139e72cb9449c"
@@ -1282,6 +1292,11 @@
       "sha256": "1d03a0480c8925ba4881d9ae2ad5ef3d2e666d3b84342452b0d7442f9dcab34c"
     },
     {
+      "path": "imagenes/Successor.webp",
+      "size": 23428,
+      "sha256": "a95ff84af5d245c2aedfdb621c77de2549b42bbde155fc18d87ee34b4d506bf8"
+    },
+    {
       "path": "imagenes/Survival Fountain of Youth Captain’s Edition.webp",
       "size": 50810,
       "sha256": "7f8213e5b6e30c42642cb162f99b11bf55b70f4f2413beb5c546bb7b346e5100"
@@ -1295,6 +1310,11 @@
       "path": "imagenes/Takeover 2 Deluxe Edition.webp",
       "size": 87494,
       "sha256": "ce7ff4734fb64b2d57c22480a9737bcdbcd69585cbcf2e74ae7315ca906bb428"
+    },
+    {
+      "path": "imagenes/Tales of Xillia Remastered.webp",
+      "size": 67190,
+      "sha256": "bbde02ff4326906d848380fb375a24142c68bad9c14db4cdd35e2ecb784f8cbe"
     },
     {
       "path": "imagenes/Tekken 7 Ultimate Edition.webp",
@@ -3510,6 +3530,36 @@
       "path": "capturas/Croc 2 Kingdom of the Gobbos/6.webp",
       "size": 13102,
       "sha256": "e120d244f51c9bd47795eff197d76a67d2022dba7202ae84e21555cc212afa76"
+    },
+    {
+      "path": "capturas/Crown and Adventure/1.webp",
+      "size": 33500,
+      "sha256": "d075ee571bcfbd2e31e2e9ecfdfaa78ea1be8f0f86591c5d332de6243a4887d2"
+    },
+    {
+      "path": "capturas/Crown and Adventure/2.webp",
+      "size": 19826,
+      "sha256": "844996e0213ebea3a38601de453bb2ab2a9110c3d272c6d5427ad35205fe187b"
+    },
+    {
+      "path": "capturas/Crown and Adventure/3.webp",
+      "size": 40550,
+      "sha256": "9c0d04cef2de97629ac57ebe81c579bc9ee9b502a632c1b504368b2d89280515"
+    },
+    {
+      "path": "capturas/Crown and Adventure/4.webp",
+      "size": 21770,
+      "sha256": "e63fa2be0f8432229924dc247335aa79954ff4d408d632b68b4d6340c7edf040"
+    },
+    {
+      "path": "capturas/Crown and Adventure/5.webp",
+      "size": 31788,
+      "sha256": "1df1e743209f5a9d4e2083b1928c0efba2799d510d27bd6255e4673abde75ac0"
+    },
+    {
+      "path": "capturas/Crown and Adventure/6.webp",
+      "size": 13624,
+      "sha256": "ad1a9c89a07ce00d13ea8092d74240560d5f5bbf83efcfcbff1cc2003abbe6c5"
     },
     {
       "path": "capturas/Crysis/1.webp",
@@ -7782,6 +7832,36 @@
       "sha256": "c4f21f7f97d4f814081a6ce2b5bd258ab8dddbbd8d8bd21ec73cfaebeb82ec89"
     },
     {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/1.webp",
+      "size": 29800,
+      "sha256": "659f8e0c19d53c2a2f468081fc2c7df3cb096dcfa040094ed032d2902a451e59"
+    },
+    {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/2.webp",
+      "size": 43612,
+      "sha256": "084688cbf734694514c7c3044b99ca49983ad5ed485f6a6b9108c092b1954bc9"
+    },
+    {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/3.webp",
+      "size": 26524,
+      "sha256": "7aa6466bc1b7ab25d14cfe7365be412dd3c5a263d4d6c53889d59ade02c49da9"
+    },
+    {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/4.webp",
+      "size": 33586,
+      "sha256": "856a6d623ce8e7439f0d62d4bed725b904043bbf12c535fd5aa97a691f07ff51"
+    },
+    {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/5.webp",
+      "size": 43018,
+      "sha256": "f4d7da3ce358316d29d58ee76593f6b7d6010ba0960b61cc421f77a940a0a9ff"
+    },
+    {
+      "path": "capturas/Railway Empire 2 Deluxe Edition/6.webp",
+      "size": 35056,
+      "sha256": "6aa958bc574127d3712fef70ffefe045ca0d83d0488caabe949c5ca38e7f1131"
+    },
+    {
       "path": "capturas/Ravenswatch Year One Edition/1.webp",
       "size": 19000,
       "sha256": "240fa2557ed9bee661ad9d3435759e9509b8de6372ae719283d63711ad749ea8"
@@ -9252,6 +9332,36 @@
       "sha256": "794b8781ebb3d495f73c27c430eef42a489ff6663f244034136fdba0f190eae8"
     },
     {
+      "path": "capturas/Successor/1.webp",
+      "size": 42018,
+      "sha256": "24c76ce093d713b2bad3eb83d7f9f4f3cd2f05631649165aa61e297ae6abb2f8"
+    },
+    {
+      "path": "capturas/Successor/2.webp",
+      "size": 24162,
+      "sha256": "b1ebb2e047baebbbc3468c4524c9f6a986307686b60cd249b51a8c0b5404f086"
+    },
+    {
+      "path": "capturas/Successor/3.webp",
+      "size": 21128,
+      "sha256": "5390933302bd5b8a092f7561e479cd49acf45d555b4a8986155137983e61a755"
+    },
+    {
+      "path": "capturas/Successor/4.webp",
+      "size": 41636,
+      "sha256": "e93335d08af8dde44f64cb2f669abf6a3a656799a9d4167466e49fd525850f1b"
+    },
+    {
+      "path": "capturas/Successor/5.webp",
+      "size": 20874,
+      "sha256": "5415a39922079543feff6f15b0103a3227f714bcb4ba312392337fa4bb2f6309"
+    },
+    {
+      "path": "capturas/Successor/6.webp",
+      "size": 20500,
+      "sha256": "0856b5807cef57a6d16bc094a358316e36c6dabfa1f360fb8f48743a6a373cb6"
+    },
+    {
       "path": "capturas/Survival Fountain of Youth Captain’s Edition/1.webp",
       "size": 32206,
       "sha256": "d03231bc608e4f4804c759a573328a0d7aee2e2cb9c28b16683567e4b7f3e405"
@@ -9340,6 +9450,36 @@
       "path": "capturas/Takeover 2 Deluxe Edition/6.webp",
       "size": 60668,
       "sha256": "3820f99c10d78fa2d0ca81a0af09c78a7e9de2e50741bd0b452c8bed1cbea30b"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/1.webp",
+      "size": 22072,
+      "sha256": "ac3897000175b0432156cac7eaf3a714c73dcd673e5ddb87d5be896c9d088aa5"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/2.webp",
+      "size": 28908,
+      "sha256": "c6ec5de653e1c05435ac9b82e5ee4094413edca42e9dc68b3a736685f9c93fb8"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/3.webp",
+      "size": 19306,
+      "sha256": "2a3d8c16a0d8aa405ad694f855e83716685adee670c69589dcd901744b0bfba9"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/4.webp",
+      "size": 22628,
+      "sha256": "d975ca5ab58ce887eb821aa8763083056321db28557757a51773d03c664ea24a"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/5.webp",
+      "size": 21530,
+      "sha256": "61ac1abb25a246e2fd04c561ff5925fc1a91d8ba57285581f1d0ce5acf7a60ca"
+    },
+    {
+      "path": "capturas/Tales of Xillia Remastered/6.webp",
+      "size": 32632,
+      "sha256": "66d424646bb4898df1cd398a24aad49f6911e154c3945edeb591d939a45eff5e"
     },
     {
       "path": "capturas/Tekken 7 Ultimate Edition/1.webp",
@@ -11352,6 +11492,11 @@
       "sha256": "3df4d85835ae23ecde330a9f26de59c044437d719bdde410215771f6f5a552f4"
     },
     {
+      "path": "sinopsis/Crown and Adventure.txt",
+      "size": 1065,
+      "sha256": "c11bd181dd1e8fe3fdce49a3238fbf040c63bc0614da535b8fd017de4d921fff"
+    },
+    {
       "path": "sinopsis/Crysis 2 Remastered.txt",
       "size": 386,
       "sha256": "c0f15e7e9a9361e702d3faad1c9b95150ae448a0c5b55b1463dddcec32183aa8"
@@ -12067,6 +12212,11 @@
       "sha256": "d6df7e2f27a7bae4a917b9873ae84edef033eac2e01d098294ffad801170b3e7"
     },
     {
+      "path": "sinopsis/Railway Empire 2 Deluxe Edition.txt",
+      "size": 1726,
+      "sha256": "88e870a7d1d822c0b0b5c2e852952c1d26a54d529e12b2f6dcae66147b50397b"
+    },
+    {
       "path": "sinopsis/Ravenswatch Year One Edition.txt",
       "size": 420,
       "sha256": "733de9c8fc2c35e18adac6436b7aa6505acc0ecbafe095758574842e2f2f8db4"
@@ -12312,6 +12462,11 @@
       "sha256": "da5de943906c0f0bdfa7a25d2e9fc27a86dade48eded7cde0b36308fae990179"
     },
     {
+      "path": "sinopsis/Successor.txt",
+      "size": 1120,
+      "sha256": "27a763a349f5c2f1863679a7b854123b201d1aa518419590d6be1f61c3cf72a0"
+    },
+    {
       "path": "sinopsis/Survival Fountain of Youth Captain’s Edition.txt",
       "size": 775,
       "sha256": "6811f93554fd1daad23797424993cc8734966217a7c6329b1ecb30c90f3de0a5"
@@ -12325,6 +12480,11 @@
       "path": "sinopsis/Takeover 2 Deluxe Edition.txt",
       "size": 626,
       "sha256": "1cbb082f76dc628b33863fa7346c54b4c7e1888271e2dcbe061f9070eeb738c5"
+    },
+    {
+      "path": "sinopsis/Tales of Xillia Remastered.txt",
+      "size": 893,
+      "sha256": "4a72b94095028d04bcdc457c11efcb059a93661bd6c01ff6027fbbbd11b9fd79"
     },
     {
       "path": "sinopsis/Tekken 7 Ultimate Edition.txt",
@@ -12940,6 +13100,11 @@
       "path": "datos/Croc 2 Kingdom of the Gobbos.txt",
       "size": 172,
       "sha256": "cfc8b31ffe0fa4825d9b2014b969a28253015d99975a61987dc7ef612946eae2"
+    },
+    {
+      "path": "datos/Crown and Adventure.txt",
+      "size": 179,
+      "sha256": "17b17a153567b8eafb5b3875f843a983686c99739a5dd7d4437fc32b7beacf4f"
     },
     {
       "path": "datos/Crysis 2 Remastered.txt",
@@ -13657,6 +13822,11 @@
       "sha256": "d551acd5702b2e5cb85bc1dd13783d453d7cdffe48b8d09c47e4c9f785843cd0"
     },
     {
+      "path": "datos/Railway Empire 2 Deluxe Edition.txt",
+      "size": 193,
+      "sha256": "c297b80d8cb943d6ad192b5e5bfcb3965e67dcc950fd5ad395db468b9b5110bd"
+    },
+    {
       "path": "datos/Ravenswatch Year One Edition.txt",
       "size": 209,
       "sha256": "e62468cbedce55dffcca712856ce5e3da4f0944066091835a7d8fb8784e125f5"
@@ -13902,6 +14072,11 @@
       "sha256": "b7451f1a1885f55825ad0ab789c5bdf2145ae6f04e139a8bd534207b4f2f8333"
     },
     {
+      "path": "datos/Successor.txt",
+      "size": 193,
+      "sha256": "6fa70729c43b883aa7ecf9a0cfd40e0bdbc7c2614f9bcc3b1ec747db7917b1b8"
+    },
+    {
       "path": "datos/Survival Fountain of Youth Captain’s Edition.txt",
       "size": 253,
       "sha256": "21c227c58150138a3eca43e33b5725d0364e2d36fc31159edbcd29dbe44194d4"
@@ -13915,6 +14090,11 @@
       "path": "datos/Takeover 2 Deluxe Edition.txt",
       "size": 223,
       "sha256": "01d1dfde7be20f6716d182c95c1116d0f46a3578392da778cb22dece274b6657"
+    },
+    {
+      "path": "datos/Tales of Xillia Remastered.txt",
+      "size": 227,
+      "sha256": "93e646cf9775b482907bd63b3f66d5d327a76c96ca6d4464764a5a69e41a49af"
     },
     {
       "path": "datos/Tekken 7 Ultimate Edition.txt",

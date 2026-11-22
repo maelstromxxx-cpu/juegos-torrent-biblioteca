@@ -172,6 +172,11 @@
       "sha256": "b0dbb9204d5fa7c15961d2ce2b9c376e7a5c6930acbb2e6edfa161b0e3b5002e"
     },
     {
+      "path": "imagenes/Bendy and the Dark Revival.webp",
+      "size": 62340,
+      "sha256": "d81263b38da242dbb08d8f67fa1a6bc8036b23e88acf3a31238a731bcffbae68"
+    },
+    {
       "path": "imagenes/Binary Domain.webp",
       "size": 62556,
       "sha256": "e1519faa6945a63ef3a09603110b75c4b10c94d9e3108974816081ac0135496f"
@@ -1055,6 +1060,11 @@
       "path": "imagenes/Railway Empire 2 Deluxe Edition.webp",
       "size": 88900,
       "sha256": "247bb725cd09bf2903f855cea47e1a062d3e5d4371cb6de5ea80e32cfa78413e"
+    },
+    {
+      "path": "imagenes/Ranger’s Path National Park Simulator.webp",
+      "size": 84826,
+      "sha256": "98e8bcb37a67b54bda012b3dbec26ff51be4bcd42201ec645808069cf3c86961"
     },
     {
       "path": "imagenes/Ravenswatch Year One Edition.webp",
@@ -2630,6 +2640,36 @@
       "path": "capturas/Beast of Reincarnation Deluxe Edition/6.webp",
       "size": 29418,
       "sha256": "df9d780f4258f6e7e26d2ce51177bafb9d812aab1d93db056ad9b686e96ea046"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/1.webp",
+      "size": 13658,
+      "sha256": "b5aced520b0b791679078a88bae6fcca107c5babde745903c8686bed9d3d7461"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/2.webp",
+      "size": 20704,
+      "sha256": "6eb059dcf19bf6e96e667469708271cd2241fae5a4ec5a592d3b9c39a721f84a"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/3.webp",
+      "size": 17528,
+      "sha256": "1b3f83b8aab65cf6feb126361a3498f2587ca240c8f9544d1b68537f0d902d0a"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/4.webp",
+      "size": 13778,
+      "sha256": "da606011090925a2fdc072d40e9edbd4861eac97a6ed2df29244d81748c92c3d"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/5.webp",
+      "size": 14576,
+      "sha256": "c3ed459e84b28d5dc70e3bf20310ec74077f2b203e3ed3d3a4e5c1f3b0b59655"
+    },
+    {
+      "path": "capturas/Bendy and the Dark Revival/6.webp",
+      "size": 13972,
+      "sha256": "a9c1535169dba32ebe8d3801339175aadbe225a92652d6ea5d38064efbb6e105"
     },
     {
       "path": "capturas/Binary Domain/1.webp",
@@ -7932,6 +7972,36 @@
       "sha256": "6aa958bc574127d3712fef70ffefe045ca0d83d0488caabe949c5ca38e7f1131"
     },
     {
+      "path": "capturas/Ranger’s Path National Park Simulator/1.webp",
+      "size": 12272,
+      "sha256": "d106ee99e651cb1cfe9520024c3f0d90982ab940c4aaee8382f4f01f87425e60"
+    },
+    {
+      "path": "capturas/Ranger’s Path National Park Simulator/2.webp",
+      "size": 31068,
+      "sha256": "bcbddf021b44ccf9a101f5ac3744e3d59ffbae8b74a379f3c843e54d9e5d30fa"
+    },
+    {
+      "path": "capturas/Ranger’s Path National Park Simulator/3.webp",
+      "size": 29018,
+      "sha256": "9ab03a895026445014c78839c7e73f42d9fbf18c7758155c42b59448eda987c6"
+    },
+    {
+      "path": "capturas/Ranger’s Path National Park Simulator/4.webp",
+      "size": 47026,
+      "sha256": "dbaec579b9f46a017bf3c72e16615688c00573f32590636febca5c4723c82806"
+    },
+    {
+      "path": "capturas/Ranger’s Path National Park Simulator/5.webp",
+      "size": 29586,
+      "sha256": "2d0720e7d5089bda88855b58fde37cc0e7097c625978fdfe6c7eaa6b83b4a6b1"
+    },
+    {
+      "path": "capturas/Ranger’s Path National Park Simulator/6.webp",
+      "size": 42698,
+      "sha256": "24c2829e3c22e8aa45449fb803b6f929b2c80e3acf3c2faba34db459baff1e04"
+    },
+    {
       "path": "capturas/Ravenswatch Year One Edition/1.webp",
       "size": 19000,
       "sha256": "240fa2557ed9bee661ad9d3435759e9509b8de6372ae719283d63711ad749ea8"
@@ -11412,6 +11482,11 @@
       "sha256": "a71b5aa5591a6c19e56792c772b22411e0d48598b9146c3ea79ad72857fa3b07"
     },
     {
+      "path": "sinopsis/Bendy and the Dark Revival.txt",
+      "size": 739,
+      "sha256": "8fa2ce9c551d5415b481ad7437260e17c4b5eedcfb397f58de21a3ec9667f522"
+    },
+    {
       "path": "sinopsis/Binary Domain.txt",
       "size": 733,
       "sha256": "50bd808633db07988c59386f4177b275d95ccaee9a2e74a03347d4190b96dcba"
@@ -12297,6 +12372,11 @@
       "sha256": "88e870a7d1d822c0b0b5c2e852952c1d26a54d529e12b2f6dcae66147b50397b"
     },
     {
+      "path": "sinopsis/Ranger’s Path National Park Simulator.txt",
+      "size": 1193,
+      "sha256": "bf07655833300a73dc27181f5bcd119b8e4429adeb2e1edd974da68a1be67b95"
+    },
+    {
       "path": "sinopsis/Ravenswatch Year One Edition.txt",
       "size": 420,
       "sha256": "733de9c8fc2c35e18adac6436b7aa6505acc0ecbafe095758574842e2f2f8db4"
@@ -13030,6 +13110,11 @@
       "path": "datos/Beast of Reincarnation Deluxe Edition.txt",
       "size": 264,
       "sha256": "75ea0c48eaa2797a4ada4954e9481ad6cff368288d30bf5eda773f5df421792a"
+    },
+    {
+      "path": "datos/Bendy and the Dark Revival.txt",
+      "size": 206,
+      "sha256": "746fccd8e4ed46bbab35817ff5ef52445cbb36271405d844e91947e2bfbcc7ba"
     },
     {
       "path": "datos/Binary Domain.txt",
@@ -13915,6 +14000,11 @@
       "path": "datos/Railway Empire 2 Deluxe Edition.txt",
       "size": 193,
       "sha256": "c297b80d8cb943d6ad192b5e5bfcb3965e67dcc950fd5ad395db468b9b5110bd"
+    },
+    {
+      "path": "datos/Ranger’s Path National Park Simulator.txt",
+      "size": 218,
+      "sha256": "960ba02db1082af38fbb43a53a64fd0cab99dcb2efa54039fec65e21e3c2f150"
     },
     {
       "path": "datos/Ravenswatch Year One Edition.txt",

@@ -577,6 +577,11 @@
       "sha256": "cabd417c7df7420b7b5a8b73d7c306cda05b657e038cfcc39cd3ee09ba7f0e2d"
     },
     {
+      "path": "imagenes/Frontier Tale.webp",
+      "size": 52858,
+      "sha256": "35c587edb76885989c6bb1b1b58fb9e5d7a419fbed4e613291fb99feeb9ffc8c"
+    },
+    {
       "path": "imagenes/Full Metal Schoolgirl.webp",
       "size": 87522,
       "sha256": "b929bae7c295eee3b5a1b4faaaed6d9f677976e9195fd966558d14de6f077a22"
@@ -5065,6 +5070,36 @@
       "path": "capturas/From Space Resistance Bundle/6.webp",
       "size": 18436,
       "sha256": "6f0692df3aed27b50614f0adcfe202d77d3e9f0dcdd6a19fe52c8e2eec4678a9"
+    },
+    {
+      "path": "capturas/Frontier Tale/1.webp",
+      "size": 18668,
+      "sha256": "0fd12e417a1ffde0b18861a6b9b9e1cb47cb59d69952336e835220981d905a17"
+    },
+    {
+      "path": "capturas/Frontier Tale/2.webp",
+      "size": 27118,
+      "sha256": "23b701f983a1e70461e032ba8ccf2d92b38f81cc5416d11b68795e7c17c3ccd4"
+    },
+    {
+      "path": "capturas/Frontier Tale/3.webp",
+      "size": 29768,
+      "sha256": "016be493fd81ea0ba01cdb1ff3bc1031b00fb92b35147fd2ba07aca4fa163c82"
+    },
+    {
+      "path": "capturas/Frontier Tale/4.webp",
+      "size": 43694,
+      "sha256": "2970d31a68693fd3fc4c72250d478bbf0b7d557db2d0bba625baed8a206c0044"
+    },
+    {
+      "path": "capturas/Frontier Tale/5.webp",
+      "size": 30108,
+      "sha256": "06135e6f3690e059bc089628fda5ed7810ed0287e891413590be0494bb965054"
+    },
+    {
+      "path": "capturas/Frontier Tale/6.webp",
+      "size": 28300,
+      "sha256": "f37b29112d9661c0e957b3050b5a35d589c6632575be20e77aaca8fbbda634fa"
     },
     {
       "path": "capturas/Full Metal Schoolgirl/1.webp",
@@ -11782,6 +11817,11 @@
       "sha256": "e6911225399f59520cf9c5ad218118e9a26ecd411cdd57e497b6b14e3a50fd43"
     },
     {
+      "path": "sinopsis/Frontier Tale.txt",
+      "size": 463,
+      "sha256": "24f08b3448d8589ac50c693621eea438856d007c19fa8c8fb5f9dfd108a6ac6a"
+    },
+    {
       "path": "sinopsis/Full Metal Schoolgirl.txt",
       "size": 365,
       "sha256": "43d40cf6c6e9b18fd0f30835dc08cf8ad3b1b12bd75b36c6c65ceeec464c6b92"
@@ -13395,6 +13435,11 @@
       "path": "datos/From Space Resistance Bundle.txt",
       "size": 193,
       "sha256": "9cf7eaef9adac926dd6e951633b0ad850994a706542586b26ff806ca28867a4f"
+    },
+    {
+      "path": "datos/Frontier Tale.txt",
+      "size": 199,
+      "sha256": "6a10a25aac3692eb33c9700f65e71bea8bd72ebd6d69326b62ca4d5dcf87ec75"
     },
     {
       "path": "datos/Full Metal Schoolgirl.txt",

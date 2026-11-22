@@ -1602,7 +1602,7 @@
       "sha256": "d6b7473d96cfcc2312094b8b8aa9259971a7a8578d4ea766a5c4061aa68e6c54"
     },
     {
-      "path": "imagenes/Ziggurat 2 + Supporter Pack DLC.webp",
+      "path": "imagenes/Ziggurat 2.webp",
       "size": 52550,
       "sha256": "860c7b7dec6d01025ded8d33ed3c6bf9cd40a66dd02350c4a2671307a40751ce"
     },
@@ -11172,32 +11172,32 @@
       "sha256": "00f9ac61cb6411541f918a85111d73a74c6ccad9afd30f4744639e5ff880d346"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/1.webp",
+      "path": "capturas/Ziggurat 2/1.webp",
       "size": 17444,
       "sha256": "d1038b6c8a2ddf28fd83b2b6077c70d6e2a8cb7a8f09d223ad7fdca34c00186a"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/2.webp",
+      "path": "capturas/Ziggurat 2/2.webp",
       "size": 24068,
       "sha256": "ed4b3638e7bff8d2c55a1613d70588b2abd0a9151161e35888598ebde4edb457"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/3.webp",
+      "path": "capturas/Ziggurat 2/3.webp",
       "size": 10148,
       "sha256": "dd43de5adf84f2a07d839a7f03cd2d069b0695f0a6dcafd79001ab65984782c5"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/4.webp",
+      "path": "capturas/Ziggurat 2/4.webp",
       "size": 24908,
       "sha256": "a61ddb3e53e3e733827822fda4cd5a290b1c1760282f63fa4cb9bfeec53eb360"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/5.webp",
+      "path": "capturas/Ziggurat 2/5.webp",
       "size": 31994,
       "sha256": "8aba0f24125fae1bf8c9c7fbba9aa8068c18aae4821fe92fbd9fac640542d9f0"
     },
     {
-      "path": "capturas/Ziggurat 2 + Supporter Pack DLC/6.webp",
+      "path": "capturas/Ziggurat 2/6.webp",
       "size": 15522,
       "sha256": "e86f4c73c397395a5deeb104bbe5feab17c4edecdcb54cc72b2fc8a0510af2ad"
     },
@@ -12807,7 +12807,7 @@
       "sha256": "c405cefdf46750a1c706a32ae696c01d951840298c36776de5fa7cd3f8301220"
     },
     {
-      "path": "sinopsis/Ziggurat 2 + Supporter Pack DLC.txt",
+      "path": "sinopsis/Ziggurat 2.txt",
       "size": 1072,
       "sha256": "4e023a1cd42868866bafb304b978d12428e55d356400df169050967293e996d9"
     },
@@ -14422,7 +14422,7 @@
       "sha256": "4d787ae33b7e9eaff6b7a793ffbd49265a8b04923a56a31ac299ba7d105ad950"
     },
     {
-      "path": "datos/Ziggurat 2 + Supporter Pack DLC.txt",
+      "path": "datos/Ziggurat 2.txt",
       "size": 198,
       "sha256": "f045e10b7c57c132a14d9722ce4b9b40819626fc93313850b829c983de426e37"
     }

@@ -1632,6 +1632,11 @@
       "sha256": "5619d401406d6fda2bb9e77cd99b95fd961e60e7d3e767a3f3ba210be92eb77e"
     },
     {
+      "path": "imagenes/Yasuke Simulator Digital Deluxe Edition.webp",
+      "size": 57912,
+      "sha256": "aa21b8dc771c23ed9f35eb359883028958447d6afa4e9f26acb06b96a134a729"
+    },
+    {
       "path": "imagenes/You Are Empty Absolute Edition Complete.webp",
       "size": 54262,
       "sha256": "d6b7473d96cfcc2312094b8b8aa9259971a7a8578d4ea766a5c4061aa68e6c54"
@@ -11387,6 +11392,31 @@
       "sha256": "ffa7b2c43d41c6c39a39576d0936c6e2bf6bfcb4a5d87d2ae5015f535be2d040"
     },
     {
+      "path": "capturas/Yasuke Simulator Digital Deluxe Edition/1.webp",
+      "size": 18416,
+      "sha256": "7ff29c0e0aa323cae524c169de970831b42673fce08068ee006a03b38668dbbf"
+    },
+    {
+      "path": "capturas/Yasuke Simulator Digital Deluxe Edition/2.webp",
+      "size": 20676,
+      "sha256": "fb8fa758b76da032814ead2e96ea7211abac53362c49f1d4b94a47fe8616ebb3"
+    },
+    {
+      "path": "capturas/Yasuke Simulator Digital Deluxe Edition/3.webp",
+      "size": 24092,
+      "sha256": "958ba66a6e3ca7706d0b5b977b1d6122976c33bea6c6c7bd61d0f5fa0028c3cc"
+    },
+    {
+      "path": "capturas/Yasuke Simulator Digital Deluxe Edition/4.webp",
+      "size": 31488,
+      "sha256": "4626cb5cc5a4d4d94defb93e5af3a641e212f4e08eca0725e4210166a232a312"
+    },
+    {
+      "path": "capturas/Yasuke Simulator Digital Deluxe Edition/5.webp",
+      "size": 30794,
+      "sha256": "d1ee049175c267fd41309a5b749bd7a3e36a1ed991a35a58f02c85f1167cc80b"
+    },
+    {
       "path": "capturas/You Are Empty Absolute Edition Complete/1.webp",
       "size": 21396,
       "sha256": "821dff32207ef4d7445d1dbd9a2669bac8859f250b67c8620d71170151fa608e"
@@ -13082,6 +13112,11 @@
       "sha256": "10e5c91592d29143d9636acf88386e3589e2b2b3c0972acc685765a17853387b"
     },
     {
+      "path": "sinopsis/Yasuke Simulator Digital Deluxe Edition.txt",
+      "size": 319,
+      "sha256": "c08bdbbfb50fa9dc23c9a35801b20df5f925e5f3068d2e0eb4831e58c499927d"
+    },
+    {
       "path": "sinopsis/You Are Empty Absolute Edition Complete.txt",
       "size": 442,
       "sha256": "c405cefdf46750a1c706a32ae696c01d951840298c36776de5fa7cd3f8301220"
@@ -14730,6 +14765,11 @@
       "path": "datos/WWE 2K26.txt",
       "size": 215,
       "sha256": "442f9a5dcae5597d55215fe4f5d911dfacf7890767ec4025b4a4b9d1833eac17"
+    },
+    {
+      "path": "datos/Yasuke Simulator Digital Deluxe Edition.txt",
+      "size": 199,
+      "sha256": "a9cd1aafee906ae2f28f0ce29e2306e785ea266ad50129ac57103102ad1d3e7f"
     },
     {
       "path": "datos/You Are Empty Absolute Edition Complete.txt",

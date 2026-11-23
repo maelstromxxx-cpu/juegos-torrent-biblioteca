@@ -662,6 +662,16 @@
       "sha256": "a0a9eb51b43aa0ad76108322ea9ebd6d7e48ef9dab98f87a207cf81b93d277f9"
     },
     {
+      "path": "imagenes/Graveyard Keeper 2.webp",
+      "size": 65432,
+      "sha256": "cc1ba62b33f8996893a8bc881a1f1571f431f9d61c92158b0cf53436b435c383"
+    },
+    {
+      "path": "imagenes/Graveyard Keeper.webp",
+      "size": 52962,
+      "sha256": "3798ed1828b09ee998d5c146444d447b452894ec1f5db4f6ada432630f6fac6b"
+    },
+    {
       "path": "imagenes/Ground Branch.webp",
       "size": 40750,
       "sha256": "be0044148b4059af8e87832fd5e1ba615287e351cc547c339b61be0b2d82abbe"
@@ -840,6 +850,11 @@
       "path": "imagenes/Mafia The Old Country Definitive Edition.webp",
       "size": 32458,
       "sha256": "e11df64f1f917b44b824d28cb79127945e625fbf4f4567d57a3e7d7fce297ea3"
+    },
+    {
+      "path": "imagenes/Mafia The Old Country.webp",
+      "size": 48902,
+      "sha256": "96966867af7e97cd8d4c37498fcf388879d3f2cf52a52069f06ddd9cad419e8c"
     },
     {
       "path": "imagenes/Magenta Horizon Neverending Harvest.webp",
@@ -1645,6 +1660,11 @@
       "path": "imagenes/Ziggurat 2.webp",
       "size": 52550,
       "sha256": "860c7b7dec6d01025ded8d33ed3c6bf9cd40a66dd02350c4a2671307a40751ce"
+    },
+    {
+      "path": "imagenes/Zombie Graveyard Simulator.webp",
+      "size": 21662,
+      "sha256": "05ecd4f9bcaf1d54fae22a2e8c6d587d688e2b8bd6bb9b43bf7f5e19d982e6f9"
     },
     {
       "path": "capturas/007 First Light/1.webp",
@@ -5617,6 +5637,66 @@
       "sha256": "d646558524b6c9c209716851f16c18d52ebfcc2c8531c0f35a5225bb688faa20"
     },
     {
+      "path": "capturas/Graveyard Keeper/1.webp",
+      "size": 45792,
+      "sha256": "188d63229c8b454755c5beab114760bbaf06ceb4e1549e824adf8a03aeacbd6b"
+    },
+    {
+      "path": "capturas/Graveyard Keeper/2.webp",
+      "size": 48454,
+      "sha256": "e89d4718fc98cf7e7cb3943efac758c22c65694e836279d31884aba0a9f43a52"
+    },
+    {
+      "path": "capturas/Graveyard Keeper/3.webp",
+      "size": 27552,
+      "sha256": "2e9e777f36829b82c37e1b698a7e5f05114371b49f78164d94d5953c1a83f8e7"
+    },
+    {
+      "path": "capturas/Graveyard Keeper/4.webp",
+      "size": 49276,
+      "sha256": "276a7b741bca5cfc805cc0e12c1729bebfd6e45f699394ae955139ecbc90645f"
+    },
+    {
+      "path": "capturas/Graveyard Keeper/5.webp",
+      "size": 42826,
+      "sha256": "eb2e91cefe549be0ab7b8234b68de134bdb34429b6d76e6c7af0520720615b9a"
+    },
+    {
+      "path": "capturas/Graveyard Keeper/6.webp",
+      "size": 28864,
+      "sha256": "c2d94a65347bde4cdaeebf872a5e697cb8283e0249bf64ecef6b9f8c2a1f89b1"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/1.webp",
+      "size": 38046,
+      "sha256": "99fa5bc172cfbd68283600800e66c5dd0922d1b8c5df963560cddb55eff8fb89"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/2.webp",
+      "size": 16188,
+      "sha256": "6d1d4ce5abf07b9e958db7ef9dafdf1fdc037a3f6b316fcb3e86cd4187b07034"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/3.webp",
+      "size": 45768,
+      "sha256": "b98b1dc9ce695c8a8bcf36e231904e3d5ce58ed5b58765484a8d8f21781f45f8"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/4.webp",
+      "size": 35122,
+      "sha256": "4d8e5bb2677ad0dc02c280fcc01777ce8823ae47d339d0f246c1be8bba735066"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/5.webp",
+      "size": 8922,
+      "sha256": "bc8358ee15524d5e164073295b16276eb7f2e98af99af1ee6e4464e2384996f4"
+    },
+    {
+      "path": "capturas/Graveyard Keeper 2/6.webp",
+      "size": 28280,
+      "sha256": "654270be6d3ac190dcd463abd5908334c1390511d1ad9ba2043832292591bb3e"
+    },
+    {
       "path": "capturas/Ground Branch/1.webp",
       "size": 20332,
       "sha256": "9d9d6dfb4435b6789bee212ece6b3e3d4cf07a452433c5165cba996ac851db6c"
@@ -6660,6 +6740,36 @@
       "path": "capturas/Mad Max/6.webp",
       "size": 19018,
       "sha256": "ec96341a166e7c57396a915212d09958eba9a0b3d5a13b939a1690b144089dc9"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/1.webp",
+      "size": 12470,
+      "sha256": "ced68927bd637c820bf22e32f1f2824542e341eed250ca0ae58bf0d3037f934b"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/2.webp",
+      "size": 15744,
+      "sha256": "a2cd21dad0ba77663ac92046a257134e980c5671fdaa7225736c41a24297f175"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/3.webp",
+      "size": 9804,
+      "sha256": "5f61155329e20cabb83f5ff0732144f7d7d2cda8e24ecac53e7e58c20630fe7b"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/4.webp",
+      "size": 20042,
+      "sha256": "efc6a158e17741e63f5be6f0a8ef07f8949cde1ee8ed9d4d2546dda5e3c66320"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/5.webp",
+      "size": 36832,
+      "sha256": "b3a4cd73bb66bc38465c80c960835e82bb9c2973a22ffb72e8a9fe83f048f32e"
+    },
+    {
+      "path": "capturas/Mafia The Old Country/6.webp",
+      "size": 7992,
+      "sha256": "85f146727e9f8bc623563a48bfbc0c8552fdcb6da1cff068e214a7486aefe3f1"
     },
     {
       "path": "capturas/Mafia The Old Country Definitive Edition/1.webp",
@@ -11477,6 +11587,36 @@
       "sha256": "e86f4c73c397395a5deeb104bbe5feab17c4edecdcb54cc72b2fc8a0510af2ad"
     },
     {
+      "path": "capturas/Zombie Graveyard Simulator/1.webp",
+      "size": 23380,
+      "sha256": "e7bb1be9badb08cebaee6519d33bae73c478bfaed683caf0e5a44eb01f9bf6a1"
+    },
+    {
+      "path": "capturas/Zombie Graveyard Simulator/2.webp",
+      "size": 9740,
+      "sha256": "bc5b74ee6d7e5d7b7d9b03f370ade6c8f6bdfd20328c8218d757c71510818970"
+    },
+    {
+      "path": "capturas/Zombie Graveyard Simulator/3.webp",
+      "size": 21902,
+      "sha256": "c2967d26831c2cf993b3662e0cb562dcb2a9a2f871558b35e900a8ae28efd696"
+    },
+    {
+      "path": "capturas/Zombie Graveyard Simulator/4.webp",
+      "size": 9772,
+      "sha256": "e0d82e2e5e534d1b8714774838cbb9561dd3030bb20871e690d9d94a2726741e"
+    },
+    {
+      "path": "capturas/Zombie Graveyard Simulator/5.webp",
+      "size": 8514,
+      "sha256": "18405c64734ca127d1ce5d58662d10a0faa3faf5ed518a2d52fa4125c7837b70"
+    },
+    {
+      "path": "capturas/Zombie Graveyard Simulator/6.webp",
+      "size": 20664,
+      "sha256": "ace2dc77b40a6b518542a76c6346e7fcceb90738bcc84e48eb400b226dcc94ec"
+    },
+    {
       "path": "sinopsis/007 First Light.txt",
       "size": 383,
       "sha256": "6c31a2ca7d3c0efa94e4af16fafcb4f6d5d8009fe12800b0602825f152609a0a"
@@ -12142,6 +12282,16 @@
       "sha256": "f6b14d786eee7e06fdd8b4c56161eb22dbcc01329daaf30eaabd3a1cff2998f3"
     },
     {
+      "path": "sinopsis/Graveyard Keeper 2.txt",
+      "size": 1536,
+      "sha256": "795cb8e58cc3f14e1760878d3fbfd77ce0be36f2b34ebcb5d156e0bf69f76f50"
+    },
+    {
+      "path": "sinopsis/Graveyard Keeper.txt",
+      "size": 1258,
+      "sha256": "cf111c611792d3ff4096df87652550357d0e3fc7e2b1b7559ea5f5e7a1f6e98d"
+    },
+    {
       "path": "sinopsis/Ground Branch.txt",
       "size": 1442,
       "sha256": "024cb8ff5ce5b036a63969227ebb7890d86a6bc6a16551616fa092794cab5f82"
@@ -12320,6 +12470,11 @@
       "path": "sinopsis/Mafia The Old Country Definitive Edition.txt",
       "size": 295,
       "sha256": "7fc349c80aebfda4d3df5a52cfcd6e0c51d86ab624f66c098e4f6f6ce31faaf5"
+    },
+    {
+      "path": "sinopsis/Mafia The Old Country.txt",
+      "size": 571,
+      "sha256": "b9ac5308b5602e52967fab25d46cb89d4ef370cb1aa1a033a71ada14e62b0da2"
     },
     {
       "path": "sinopsis/Magenta Horizon Neverending Harvest.txt",
@@ -13127,6 +13282,11 @@
       "sha256": "4e023a1cd42868866bafb304b978d12428e55d356400df169050967293e996d9"
     },
     {
+      "path": "sinopsis/Zombie Graveyard Simulator.txt",
+      "size": 1666,
+      "sha256": "c8b9d98fa3eb1eabbe1a1a3184b60eef46c9d6ca41e83ed15a2b4c83c7b19700"
+    },
+    {
       "path": "datos/007 First Light.txt",
       "size": 219,
       "sha256": "8d5a63c3cb8d121b05329973f3f3b4f450ed1ac4d2fc608ae7a5af07a00a024b"
@@ -13797,6 +13957,16 @@
       "sha256": "887413025e455e19d92130c183870ffd0e29260378585a2cc4bc57c62e113e43"
     },
     {
+      "path": "datos/Graveyard Keeper 2.txt",
+      "size": 233,
+      "sha256": "6b7fff6048cfcaa84d436e27e066c83619bd489229a527576070d3a31b6e18be"
+    },
+    {
+      "path": "datos/Graveyard Keeper.txt",
+      "size": 192,
+      "sha256": "de437ed436d8344582b0cba41723dedf0d746904e7d32ac6ceb85b1c2794375e"
+    },
+    {
       "path": "datos/Ground Branch.txt",
       "size": 223,
       "sha256": "da7df2ba446db2eceec9ba328ce6a7bfade14942cc8e7a2dd1fb517d85adfb49"
@@ -13975,6 +14145,11 @@
       "path": "datos/Mafia The Old Country Definitive Edition.txt",
       "size": 252,
       "sha256": "1340b660d3be2060daaf3f11930d7bd288cf5a78f3910db95f746a8f4bb6ade2"
+    },
+    {
+      "path": "datos/Mafia The Old Country.txt",
+      "size": 320,
+      "sha256": "5f0e670285586540bdf8eb00898ada4606304519e90718b4df25fc4519fdb419"
     },
     {
       "path": "datos/Magenta Horizon Neverending Harvest.txt",
@@ -14780,6 +14955,11 @@
       "path": "datos/Ziggurat 2.txt",
       "size": 198,
       "sha256": "f045e10b7c57c132a14d9722ce4b9b40819626fc93313850b829c983de426e37"
+    },
+    {
+      "path": "datos/Zombie Graveyard Simulator.txt",
+      "size": 235,
+      "sha256": "d7618bd194635073fb129586cef6ae4a326563d7273a0bd41d6f5c6313639118"
     }
   ]
 }

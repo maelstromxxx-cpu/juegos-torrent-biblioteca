@@ -297,6 +297,11 @@
       "sha256": "47c33e04a45fb07e40b88d5579ae3e39b8885fa92f1a6c59dbc31ad25ea52ca2"
     },
     {
+      "path": "imagenes/Company of Heroes 3 Ultimate Bundle.webp",
+      "size": 50462,
+      "sha256": "4748cd835a4c74859bda39a74eab9c072704783b626745873b96ececdbfe93c7"
+    },
+    {
       "path": "imagenes/Conan Exiles Enhanced Complete Edition.webp",
       "size": 55716,
       "sha256": "7467ff3f1da75a8469a8645066fb412cc98c2e40005a9bcb95c45c1884ba4c2e"
@@ -420,6 +425,11 @@
       "path": "imagenes/Doom The Dark Ages.webp",
       "size": 75804,
       "sha256": "57b9fc4ade46fa9bc30bbe9038657aca9c97cd2133befc0e7c1b10a537f88d40"
+    },
+    {
+      "path": "imagenes/Dragon Ball Sparking! Zero.webp",
+      "size": 123380,
+      "sha256": "393887878114d43f8c694608b30e2c47ba88aca3eaf3dff0957276e1f88d21c5"
     },
     {
       "path": "imagenes/Dragons Dogma 2 Deluxe Edition.webp",
@@ -3412,6 +3422,36 @@
       "sha256": "b001ea6b13d43fabc3f7397a04bcda15a945b698dcbb020809902700f046dfae"
     },
     {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/1.webp",
+      "size": 15868,
+      "sha256": "96d291069b32dd509ca33b9225389d2b2e1aa303827ea1c1270b16f1bacd167a"
+    },
+    {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/2.webp",
+      "size": 20298,
+      "sha256": "1b55b49611662cbf209fbed931f8c8501aec343fa97f9782d840208c566f1cf8"
+    },
+    {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/3.webp",
+      "size": 30816,
+      "sha256": "aa1e849722320f9dbf24cf30ee4d52f0b8e986f971df12ff3c0e5aa68131de47"
+    },
+    {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/4.webp",
+      "size": 41340,
+      "sha256": "04d66836dfa0db36e0ef37c2281c99f2d96d1dce4c05bdfa91d4824359ac3242"
+    },
+    {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/5.webp",
+      "size": 17958,
+      "sha256": "c5f2941ce33416b21d129f99a7c615968f24288b60bc8cb1563e5c4ef66aafd9"
+    },
+    {
+      "path": "capturas/Company of Heroes 3 Ultimate Bundle/6.webp",
+      "size": 32158,
+      "sha256": "b0790b917482dd98a8b5319f38b3359d9e84285777cf195fcf1a56e3c3a894bf"
+    },
+    {
       "path": "capturas/Conan Exiles Enhanced Complete Edition/1.webp",
       "size": 33340,
       "sha256": "4c45007a408b8fafe902b6ba5225ad859f30795c44502c4f728c16f42220a5da"
@@ -4160,6 +4200,36 @@
       "path": "capturas/Doom The Dark Ages/6.webp",
       "size": 21950,
       "sha256": "6641928982ae7acdee184184776109dce7b189e6bce52b0b60538bc1a29532d8"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/1.webp",
+      "size": 32518,
+      "sha256": "0d98d4623ef9f08dbe720ff834ea98e251ac59a73a2b72da5dd0b73c81fe1c92"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/2.webp",
+      "size": 25494,
+      "sha256": "22f78b1bf4766eb1222db5b5b4a0960a232693871a566c147f010ad79a96e380"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/3.webp",
+      "size": 22838,
+      "sha256": "42ac0a0456a789372c7bf6d970da0720bd23ee11fd9eb4b847497423243dbe8d"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/4.webp",
+      "size": 37496,
+      "sha256": "6efa6a95f05a76f0dff60fc3255a429c6822c962d26746003e5a14b1bce3de17"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/5.webp",
+      "size": 45922,
+      "sha256": "9f64825265d89e76324690342244526410651e38847e91f6fbd1285995dba598"
+    },
+    {
+      "path": "capturas/Dragon Ball Sparking! Zero/6.webp",
+      "size": 54160,
+      "sha256": "b394fc79b3a80e8f2343ae49a80ad32e6055c43f79043cbb2a2be4a51a53e919"
     },
     {
       "path": "capturas/Dragons Dogma 2 Deluxe Edition/1.webp",
@@ -11677,6 +11747,11 @@
       "sha256": "9170a9a914321c064804f758692a39b2b4f6c8c521893a9c4736904305e44669"
     },
     {
+      "path": "sinopsis/Company of Heroes 3 Ultimate Bundle.txt",
+      "size": 705,
+      "sha256": "8d6e763afc707105fc27205a347a6698a194c12db01a1d6d8fe6eb315a140cbf"
+    },
+    {
       "path": "sinopsis/Conan Exiles Enhanced Complete Edition.txt",
       "size": 1116,
       "sha256": "41ad77fb449ee1518324833d44947ba3b7ba2b9aaf38b74e88b7761631fe3cc3"
@@ -11800,6 +11875,11 @@
       "path": "sinopsis/Doom The Dark Ages.txt",
       "size": 1012,
       "sha256": "bc0de59fb05d8b3fbef1b89ab2d1d0bcf3a9b119a86e79f8d770887cc18b7447"
+    },
+    {
+      "path": "sinopsis/Dragon Ball Sparking! Zero.txt",
+      "size": 841,
+      "sha256": "e1eb4fffd6c6e4a59224ea215c4755443e2ed56bd650dea43afde3299a574b89"
     },
     {
       "path": "sinopsis/Dragons Dogma 2 Deluxe Edition.txt",
@@ -13317,6 +13397,11 @@
       "sha256": "aed1edef6029f09ab6863e26e3c4495c556942e8938ade457ffde09242b9bdbf"
     },
     {
+      "path": "datos/Company of Heroes 3 Ultimate Bundle.txt",
+      "size": 217,
+      "sha256": "145279af75af47fa9d0ad50423fcf7c9283bd20d8e8458c0085671bddc869353"
+    },
+    {
       "path": "datos/Conan Exiles Enhanced Complete Edition.txt",
       "size": 274,
       "sha256": "48680d9495208b8863ab3035eedbb71a07a8006ab4e0d999ffa249a6695d261c"
@@ -13440,6 +13525,11 @@
       "path": "datos/Doom The Dark Ages.txt",
       "size": 180,
       "sha256": "879f7333226a12ea7c9bfc34a333450b84473bec4992d19f9a45cfdb356432b9"
+    },
+    {
+      "path": "datos/Dragon Ball Sparking! Zero.txt",
+      "size": 221,
+      "sha256": "9d4c940d15a1f6daea2b9e9b3a296b3183875246e00764340a7fce9f0a30afd5"
     },
     {
       "path": "datos/Dragons Dogma 2 Deluxe Edition.txt",

@@ -612,6 +612,11 @@
       "sha256": "9c356f94384bd8963431c631c3c3c1506dab91d5f04f3ffd95f3a3fdd7ea0f87"
     },
     {
+      "path": "imagenes/Goat Simulator 3 Multiversal Travelers Bundle.webp",
+      "size": 54660,
+      "sha256": "aff44d50e848922dfa81949f21d9b86bf46f2c58ac5bec205280913cbe28472f"
+    },
+    {
       "path": "imagenes/God of War III Remastered.webp",
       "size": 148420,
       "sha256": "6d3377e94e330e62a386c6bd2fc6511dc41845bbb5b1272c57aa03c8ea049e93"
@@ -5295,6 +5300,36 @@
       "path": "capturas/Giggleland/6.webp",
       "size": 27152,
       "sha256": "dcec30fcc187e189e3aace60a5b4ac776987610e8d52fe0f62501b052f42bb0e"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/1.webp",
+      "size": 30812,
+      "sha256": "5c1243ed99828550e84e284e2c3589584c726322bd7ac772a2325b0e9f89129a"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/2.webp",
+      "size": 24618,
+      "sha256": "4505352fc602616fd696383358e966510fe076b1ab6699aaa81da26b8f7f69f6"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/3.webp",
+      "size": 33448,
+      "sha256": "92d33187a78f142b46cb8e0fcc198b37c3c0a86dda8ab1b5b70e3e1281535ec4"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/4.webp",
+      "size": 22606,
+      "sha256": "2a3a5cab34bc9c69c4bf606345527fb5e68181baefdaf465590592aa201ef1da"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/5.webp",
+      "size": 25788,
+      "sha256": "f8da65b86298adddc89eee6bd4b17337da20a746eb008b414a7557b635be4c9c"
+    },
+    {
+      "path": "capturas/Goat Simulator 3 Multiversal Travelers Bundle/6.webp",
+      "size": 28712,
+      "sha256": "d732dc0d4a6a718011818fcb74288513f30770b651fe0e9ea0d3ff69587aaa93"
     },
     {
       "path": "capturas/God of War/1.webp",
@@ -11957,6 +11992,11 @@
       "sha256": "2c0397b0b0f22867cb19d3f8542a3ff79f0c6e39fe28b11c81a24aedf7a40400"
     },
     {
+      "path": "sinopsis/Goat Simulator 3 Multiversal Travelers Bundle.txt",
+      "size": 1007,
+      "sha256": "41f881ddbc594e6ffa8f57e03113ae054e93c20aa019761b0169bf69a81f2e8f"
+    },
+    {
       "path": "sinopsis/God of War III Remastered.txt",
       "size": 1093,
       "sha256": "6347acaebfc9d6f1b68574dd96423c79ccf66cf597b7a9bdc0526e57ea9ec865"
@@ -13590,6 +13630,11 @@
       "path": "datos/Giggleland.txt",
       "size": 198,
       "sha256": "508b888b7a9b816276c34db2835f8e2e021565d8900ff5dc96481549fc43ceff"
+    },
+    {
+      "path": "datos/Goat Simulator 3 Multiversal Travelers Bundle.txt",
+      "size": 224,
+      "sha256": "0b25fb7350b5bb37c5d79cbfed0d662b1ab6af0b1a80a8bd6a6240d1cbe03edd"
     },
     {
       "path": "datos/God of War III Remastered.txt",

@@ -397,6 +397,11 @@
       "sha256": "e24efe1c505364374add915392a97f0095f98bd6265b76072a9d314ca08d8d05"
     },
     {
+      "path": "imagenes/Dinkum Official Soundtrack Edition.webp",
+      "size": 62808,
+      "sha256": "8589b9b193e230198dabf0886b1eb47933837c2375944f174413ecf925f4083c"
+    },
+    {
       "path": "imagenes/Directive 8020 Deluxe Edition.webp",
       "size": 42204,
       "sha256": "5158c5b938a454d88015e0c299b245b7907ab281ce38e4775a02443c0686923a"
@@ -500,6 +505,11 @@
       "path": "imagenes/Escape Academy 2 Back 2 School.webp",
       "size": 35554,
       "sha256": "5d7aa354628225cd3256cbaf43485c450915a969bcb7e7fc47ce40577d26cf72"
+    },
+    {
+      "path": "imagenes/Eternal Palace Sakura.webp",
+      "size": 30228,
+      "sha256": "6324682ce09f53868055faab97a1dcc49f1ca92f1ffd1c7807e771a2ea45e9d9"
     },
     {
       "path": "imagenes/Euro Truck Simulator 2.webp",
@@ -4047,6 +4057,36 @@
       "sha256": "6c7e18454cd64b55fe81ef067a9f06e8db4876ae48e1cc685fdec72f0ad4d732"
     },
     {
+      "path": "capturas/Dinkum Official Soundtrack Edition/1.webp",
+      "size": 54810,
+      "sha256": "0932b7d7f9bbc1ef9f10443d86ee66fd4fbfa300355289cb208262feff19f986"
+    },
+    {
+      "path": "capturas/Dinkum Official Soundtrack Edition/2.webp",
+      "size": 36252,
+      "sha256": "aeaad084bc64ede2e871a4f3b4827aa9ede992b42ef070e061202d50ef4e2eab"
+    },
+    {
+      "path": "capturas/Dinkum Official Soundtrack Edition/3.webp",
+      "size": 60452,
+      "sha256": "3837ad9d416c15203d08c6d1495c3108f64a8d57e82af88468f0dc36ae651288"
+    },
+    {
+      "path": "capturas/Dinkum Official Soundtrack Edition/4.webp",
+      "size": 19910,
+      "sha256": "dbeb4107f4ef4aaa0bc8e0469b096c9019e2b177bcef18c031d1d634ff057038"
+    },
+    {
+      "path": "capturas/Dinkum Official Soundtrack Edition/5.webp",
+      "size": 55000,
+      "sha256": "c8337c4226e497379eb5af963a58fb160e18ba281006bd63e825e45d173ede79"
+    },
+    {
+      "path": "capturas/Dinkum Official Soundtrack Edition/6.webp",
+      "size": 31746,
+      "sha256": "d96b843aa40ed5d349d5a8af9ec40b001dbfb49bde265d4d31b46d326cc913f7"
+    },
+    {
       "path": "capturas/Directive 8020 Deluxe Edition/1.webp",
       "size": 7762,
       "sha256": "d862ecafc6b82b6e696a324eafaba8c3eea2e8a6533482ff2a23e3af429a8303"
@@ -4675,6 +4715,36 @@
       "path": "capturas/Escape Academy 2 Back 2 School/6.webp",
       "size": 26768,
       "sha256": "9ef03e1ddc2420139c362d7bce763180d42af91e76ffc187f25abd89558b2961"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/1.webp",
+      "size": 22938,
+      "sha256": "ec9ec9dc3fd1021a8b028d78273ccc0685efabe92dabad4c97e0d5571c33e176"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/2.webp",
+      "size": 20176,
+      "sha256": "e4155eff672f413da6df153b582d36f56d4f54cb629b5640bfdbf218425e4e60"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/3.webp",
+      "size": 21560,
+      "sha256": "0dafc82cf0964f197fcff0282699541d637aee889bbd07e38670b7cecd087194"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/4.webp",
+      "size": 21766,
+      "sha256": "6c594213d29ad59d627dfbd7f3067bbd034cfc635fcee97a7142d9c41c0591d3"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/5.webp",
+      "size": 20176,
+      "sha256": "9b2e9962c58b80ad430f705507cfc8d18cbaf7f6266f0fc15ab2c0550ac868fa"
+    },
+    {
+      "path": "capturas/Eternal Palace Sakura/6.webp",
+      "size": 26876,
+      "sha256": "f0fd2664225a8d285996d90e47e4bed5c508070604136cafb70ae8001fb3a3fa"
     },
     {
       "path": "capturas/Euro Truck Simulator 2/1.webp",
@@ -12017,6 +12087,11 @@
       "sha256": "6dae115cbe7340343961474f51c448bded75fbd6c7958a7486b25e0124ab517a"
     },
     {
+      "path": "sinopsis/Dinkum Official Soundtrack Edition.txt",
+      "size": 1066,
+      "sha256": "f8f7f2d0e36dd68d049f3f595d50715cd9d6486be2f55e8fa52bde2b1bbda348"
+    },
+    {
       "path": "sinopsis/Directive 8020 Deluxe Edition.txt",
       "size": 1789,
       "sha256": "214588aaa3e2790ce5ffeb8bec657e73b085f1841c16badc911665ab9eb8595b"
@@ -12120,6 +12195,11 @@
       "path": "sinopsis/Escape Academy 2 Back 2 School.txt",
       "size": 641,
       "sha256": "7b60bbb9d4bae85b9fdf9783b8430eac04727065ffc5b30728810a263766f418"
+    },
+    {
+      "path": "sinopsis/Eternal Palace Sakura.txt",
+      "size": 811,
+      "sha256": "d688ff68d706115051bd4800d7692a8ec1adf22a758025edec839517c8cb809d"
     },
     {
       "path": "sinopsis/Euro Truck Simulator 2.txt",
@@ -13692,6 +13772,11 @@
       "sha256": "ad04643382d28c7110cf29eb820355b969f3b98a254af6ef4f919eef42965d92"
     },
     {
+      "path": "datos/Dinkum Official Soundtrack Edition.txt",
+      "size": 213,
+      "sha256": "484823a7dd8f77369053655b74c040fc378c61c1e4be2ad200e16595be239084"
+    },
+    {
       "path": "datos/Directive 8020 Deluxe Edition.txt",
       "size": 187,
       "sha256": "3705d536c7b5001f0c2f10feb0ea1660e100aae179ef37ca5ec9026dc9a2b2ee"
@@ -13795,6 +13880,11 @@
       "path": "datos/Escape Academy 2 Back 2 School.txt",
       "size": 218,
       "sha256": "3b08bbd44b21c722be669bc37c4fc2b13088112ea6ba25015649db9d2e8a88b5"
+    },
+    {
+      "path": "datos/Eternal Palace Sakura.txt",
+      "size": 187,
+      "sha256": "b04f6fcc25d3c809c67444b68915e23519a8fe8683050d9c8f724622216292e5"
     },
     {
       "path": "datos/Euro Truck Simulator 2.txt",

@@ -1038,8 +1038,8 @@
     },
     {
       "path": "imagenes/Phantom Blade Zero Deluxe Edition.webp",
-      "size": 33536,
-      "sha256": "5beecc1f45f410d44e0053af11813c8f62a983c5428458eb5fda0dccca8000b2"
+      "size": 81076,
+      "sha256": "70698bff88f944e125bcd3f23b5aa36819a546f6a7e0bfdc5c9390d8b6e23388"
     },
     {
       "path": "imagenes/Planet of Lana II Children Of The Lead.webp",
@@ -7883,33 +7883,33 @@
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/1.webp",
-      "size": 21054,
-      "sha256": "5d552eda4733cfa6eb6833890f5eb36a5811208ccd6c3f4d21536494137828fb"
+      "size": 23098,
+      "sha256": "526f333af19df9e77596005eeaf8b701c33a464d8e4e708cb173f46835212590"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/2.webp",
-      "size": 23978,
-      "sha256": "636754043370e63fa148fad7019566986e25b29e1abffd75ccd10bb8d3381be9"
+      "size": 31012,
+      "sha256": "e5f5084148a4d589afc4f283f21d52204cd91bf79a812b37f11069c3fb721a42"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/3.webp",
-      "size": 24558,
-      "sha256": "c78a4962c819f75dc200dbe65273edd4ea9afd3872f4c5f313bd03653a913417"
+      "size": 20768,
+      "sha256": "6d8738b4f791e125f73bd9f708d13b3aee4023adf2790ef7d8361171807ec43a"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/4.webp",
-      "size": 31032,
-      "sha256": "753f6eb536d8afbc65a0738750091f60b42f3bd913a31a3a50a9760cc8bde8f6"
+      "size": 24532,
+      "sha256": "7aa7a0b7f3a9ebcf1ceab467bdd7836b25dd0e244b264b8c6afc3e7e29c338d5"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/5.webp",
-      "size": 35098,
-      "sha256": "5aaba5d4c0da97ac9619dc046960fb057b8b5aaa00c35ade3f13eb54a67429e4"
+      "size": 21004,
+      "sha256": "80ee440de8e84b9be52fe2bc6ee98ea5c1281797c3dcf2813d715e96152b56b6"
     },
     {
       "path": "capturas/Phantom Blade Zero Deluxe Edition/6.webp",
-      "size": 23156,
-      "sha256": "db116b5fd7a576650b3964c719ceceb08a378cd1e14d29f5c7ca402e602329dc"
+      "size": 21940,
+      "sha256": "f71af92e6066d3832125c1e20ef0e8e1794e3a8ae9a0a9b492ddb1248b2c8e89"
     },
     {
       "path": "capturas/Planet of Lana/1.webp",
@@ -12728,8 +12728,8 @@
     },
     {
       "path": "sinopsis/Phantom Blade Zero Deluxe Edition.txt",
-      "size": 834,
-      "sha256": "3d8b3dba02b7e2e1627b7ef7731b9d8c9d73e27c065f3e52982559803640d9c9"
+      "size": 1444,
+      "sha256": "afbf92b005ef9c723b7256f050a49936885f0edbdb7f1c448071cc96c62370da"
     },
     {
       "path": "sinopsis/Planet of Lana II Children Of The Lead.txt",
@@ -14413,8 +14413,8 @@
     },
     {
       "path": "datos/Phantom Blade Zero Deluxe Edition.txt",
-      "size": 268,
-      "sha256": "105ce54e86a59f5d8b49e934e356a4a95d2da0af47e161b2c72a07a4cf1ae0e2"
+      "size": 209,
+      "sha256": "8d22c2431ff70190b0cdecb4a036d073dc26c414085554fbb3799f6a5335c110"
     },
     {
       "path": "datos/Planet of Lana II Children Of The Lead.txt",

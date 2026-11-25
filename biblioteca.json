@@ -197,6 +197,11 @@
       "sha256": "ca31bf0adb9141cb0746246762b40268a3f1cff048bb0720a0f0bf6facbd424e"
     },
     {
+      "path": "imagenes/Blitzkrieg 3 Deluxe Edition.webp",
+      "size": 28622,
+      "sha256": "c6a4bdee1339828ca2b69ff2588e243960f71bbea2135f2db538e2a6bbeee22e"
+    },
+    {
       "path": "imagenes/Bloodborne Game Of The Year Edition.webp",
       "size": 31434,
       "sha256": "9bb403b00d84846aeb18b722ec4bc1ca7d7ce7e9cfe581713565b1081b64c7d9"
@@ -327,6 +332,11 @@
       "sha256": "02c0ee34ee0dbec5d75f2c80720ecc4c6bb39077045b42f76952bf767f365bd0"
     },
     {
+      "path": "imagenes/Crisol Theater of Idols.webp",
+      "size": 132546,
+      "sha256": "5801d2057dec9dc356dd23574758f06245cc424932e317d46561a73c913660ed"
+    },
+    {
       "path": "imagenes/Croc 2 Kingdom of the Gobbos.webp",
       "size": 35642,
       "sha256": "a2960707b9b4607d4dcc38e82967d77c28a05ed1622846baaac7f2c75952ff43"
@@ -367,6 +377,11 @@
       "sha256": "e5df2e454d6eab6629bce5bb7fd7de30894bfe9fc124784714ff31315f1a972c"
     },
     {
+      "path": "imagenes/Darwin’s Paradox!.webp",
+      "size": 62056,
+      "sha256": "6069e73ab0be78345014dfd825f316d767b8fd686feb2ba49aacf3b09ee68ddc"
+    },
+    {
       "path": "imagenes/Days Gone.webp",
       "size": 22240,
       "sha256": "6e69165670c2f1e8af03f06b0f16c6a96b4eb72818344da29a21bfeb10e7a787"
@@ -380,6 +395,11 @@
       "path": "imagenes/Deep Rock Galactic Deluxe Edition.webp",
       "size": 54612,
       "sha256": "efa9b2a99e3660dd31add8f33a79cea0ce45bb43e79a158ba79539b59a5eaa42"
+    },
+    {
+      "path": "imagenes/Demon Tides.webp",
+      "size": 69080,
+      "sha256": "b673b0a73f270eef349302d7639774045ed6dbfd300593a58801ecec5836d314"
     },
     {
       "path": "imagenes/Demons Souls Black Phantom Edition.webp",
@@ -420,6 +440,11 @@
       "path": "imagenes/Distant Worlds 2.webp",
       "size": 26010,
       "sha256": "f5efdf0b54befce13a0d1b1f7892bb3bceeda245b27d8520fe37528d116803ae"
+    },
+    {
+      "path": "imagenes/Don’t Stop, Girlypop!.webp",
+      "size": 51878,
+      "sha256": "b17a87b7b590d622ef6c40cfe62427cb9706dbd1029c5083046021e975356068"
     },
     {
       "path": "imagenes/Doom Eternal Deluxe Edition.webp",
@@ -550,6 +575,11 @@
       "path": "imagenes/FIFA EA SPORTS FC 27.webp",
       "size": 35976,
       "sha256": "848342663f871dd77436f4b3bb08acdf2bfb1efacc29113263079fff5c487998"
+    },
+    {
+      "path": "imagenes/Flick.webp",
+      "size": 19426,
+      "sha256": "afde0d50bf65d9375a68c3249c8dd02551a36bb81812eac651de4bb1d7a78e23"
     },
     {
       "path": "imagenes/Football Manager 27.webp",
@@ -752,6 +782,16 @@
       "sha256": "50d2f8566e0cea82bd4f32b0266ca46cfd667578f871bd697da0c9ef1fb45910"
     },
     {
+      "path": "imagenes/Hollow Knight Silksong.webp",
+      "size": 60502,
+      "sha256": "eb8c237c12e815a386271b7da3c90c79acbb2b7bccdc7a3e9d5fbee652a70c5d"
+    },
+    {
+      "path": "imagenes/Hollow Knight.webp",
+      "size": 53326,
+      "sha256": "70948168c622c36a96e28e0e9dccfa36ef6c7a798709660933e6bb0d31790623"
+    },
+    {
       "path": "imagenes/HoneyCome Come Come Party.webp",
       "size": 57124,
       "sha256": "522a2e178ee898d701d70c51c3e0d4847f5d9f637ea4df64226dc9ed1de3b1d4"
@@ -917,6 +957,11 @@
       "sha256": "48d8842ebbce9a615e80ddafa00e2e99e218fdf856797c84d3504a00a909864e"
     },
     {
+      "path": "imagenes/MIO Memories in Orbit.webp",
+      "size": 64294,
+      "sha256": "56da3eb2c8b95c643e9f20058cfaf4610fa4ac2a1d877bc92b02686d00f109c8"
+    },
+    {
       "path": "imagenes/Mirror’s Edge Catalyst.webp",
       "size": 32728,
       "sha256": "c55f7cce26088b8755a39253c94a178467875bc3df1be2b55540dcbf9375db6f"
@@ -960,6 +1005,11 @@
       "path": "imagenes/Mount & Blade II Bannerlord.webp",
       "size": 63678,
       "sha256": "de868ce62bc1c5fb61ce9ddc2b8918f306a93f0df1062099a520092ee6ca936d"
+    },
+    {
+      "path": "imagenes/MOUSE P.I. For Hire.webp",
+      "size": 42864,
+      "sha256": "b301609456ff5cfcb8f9128bbc825022c30e4d56908beded110f07f6af365015"
     },
     {
       "path": "imagenes/My Little Puppy.webp",
@@ -1207,6 +1257,11 @@
       "sha256": "2beced21966759262dcce88a0e6bd206f176110e316ccb4c378c5f6dd75f91e6"
     },
     {
+      "path": "imagenes/ROMEO IS A DEAD MAN.webp",
+      "size": 70674,
+      "sha256": "f1bbfbae34374e9fb7a21af2e956fda60d0fa99eaf8378e544696a81f049da2a"
+    },
+    {
       "path": "imagenes/RoomGirl Paradise.webp",
       "size": 28824,
       "sha256": "c47ad208714a7aafd8ba452c02b7cbd69e1e8fa904e06485eab2e8929d07bb13"
@@ -1225,6 +1280,11 @@
       "path": "imagenes/Save Amani.webp",
       "size": 15306,
       "sha256": "f1f24aea26d8982c69f41a18c8d63cdabdced44b05aa9748e57eabbc61147202"
+    },
+    {
+      "path": "imagenes/Serious Sam Fusion.webp",
+      "size": 65468,
+      "sha256": "a2d2fda028f731f2366970ac48da3aeb3dac75d47c7d040fccc477701a01e89e"
     },
     {
       "path": "imagenes/Sexnatural MILFs Must Be Filled.webp",
@@ -1275,6 +1335,11 @@
       "path": "imagenes/Sleeping Dogs Definitive Limited Editions Pack.webp",
       "size": 56354,
       "sha256": "6eb4a0db3d501ccfbb7b1f33dac0c6acfa4cdf9f5415a6f3c083e30ccfa01076"
+    },
+    {
+      "path": "imagenes/Slime Rancher 2.webp",
+      "size": 55804,
+      "sha256": "c43dddd3060a2bd377147fe46000cae7094450cc38ee2cbdb6601b28465f3b40"
     },
     {
       "path": "imagenes/Sniper Elite 3.webp",
@@ -1350,6 +1415,16 @@
       "path": "imagenes/Stellar Blade Complete Edition.webp",
       "size": 28932,
       "sha256": "e8aeeebd64cf32b63b774a4c22643b71230bd7b75dda4deb2b4a91311710f68b"
+    },
+    {
+      "path": "imagenes/Stellaris Ultimate Bundle.webp",
+      "size": 28132,
+      "sha256": "f64eccbdcead3950dbd4b85d18dca0ccab330f53d970f27503c2d8aa51cfa28d"
+    },
+    {
+      "path": "imagenes/Stray Soundtrack Edition.webp",
+      "size": 35978,
+      "sha256": "7084ec0a77f72bde7ff636b5d140e3498b7c99484e3b30246822322e38407e67"
     },
     {
       "path": "imagenes/Stygian Outer Gods.webp",
@@ -1442,6 +1517,11 @@
       "sha256": "0e7a2d103266b46589f9be2378d158a992626f11634a3e4c7a2c0bdced14d97f"
     },
     {
+      "path": "imagenes/The Killing Stone.webp",
+      "size": 9084,
+      "sha256": "291acceaf2f38b7a628d3ecd530fb8ccf46c7066e65072f561dac9a678480aa0"
+    },
+    {
       "path": "imagenes/The Last Of Us Part I.webp",
       "size": 34872,
       "sha256": "3b3863a109ffa9a8857723084d15c5f0b780dfd351b62a38dce13a66c41e1c88"
@@ -1520,6 +1600,11 @@
       "path": "imagenes/Titanfall 2.webp",
       "size": 86640,
       "sha256": "41baba3b44992a4d6211be1838f4947aa48a4c2048de816fcd24c027371cbeff"
+    },
+    {
+      "path": "imagenes/Tokyo Xtreme Racer.webp",
+      "size": 112112,
+      "sha256": "02249ac21932328578b846174af1d1098e5ed2f4628865b650d7c57ed3d0e1c6"
     },
     {
       "path": "imagenes/Tom Clancys Ghost Recon Wildlands Definitive Edition.webp",
@@ -2847,6 +2932,36 @@
       "sha256": "e13597cf43f2285a50ac1a912664af5deb8748bfb2b97a6680232981585917c1"
     },
     {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/1.webp",
+      "size": 54692,
+      "sha256": "54d275e70e7a0a1af90a77f2922e27255fab9db7d902f42cdd5f3fca7f65a54e"
+    },
+    {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/2.webp",
+      "size": 43494,
+      "sha256": "fbe6e2f33e82e02e1d58986ec6490a210ed666572bd3eff479794b4131bb05ae"
+    },
+    {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/3.webp",
+      "size": 39598,
+      "sha256": "fa545a24966c30b5af1d7d01bf94bc27634fab3ba0de47234f9afee41851ea35"
+    },
+    {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/4.webp",
+      "size": 51912,
+      "sha256": "b6dac468d1db197326298939572e42e37a2808051fe7423408891592b99f22b3"
+    },
+    {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/5.webp",
+      "size": 63134,
+      "sha256": "be2c8b4474b27c7515437173bc2a93fb82d355c1f6a3f786e689d717d81dae6e"
+    },
+    {
+      "path": "capturas/Blitzkrieg 3 Deluxe Edition/6.webp",
+      "size": 54472,
+      "sha256": "a68da4672790afc2afda7bd84818d8d70eea6cbb4a82a6aad2df4432b46cd010"
+    },
+    {
       "path": "capturas/Bloodborne Game Of The Year Edition/01.webp",
       "size": 125638,
       "sha256": "969a4f38956e306e945fbda1050b6e82dbf96dcbf2ed4b7e5a041867075b20d2"
@@ -3637,6 +3752,36 @@
       "sha256": "8d229b04c03982327f25d3bfcfa1562901152b7bd73361114f768c90db0cf7d3"
     },
     {
+      "path": "capturas/Crisol Theater of Idols/1.webp",
+      "size": 18426,
+      "sha256": "bb22578303527907eb8068a48aad06969f544ff64e52d91191aad8a0f829d8b7"
+    },
+    {
+      "path": "capturas/Crisol Theater of Idols/2.webp",
+      "size": 20914,
+      "sha256": "50420e281e39641835ef0df8c24d1f05b075a619ee039b6abe72bef661aa0498"
+    },
+    {
+      "path": "capturas/Crisol Theater of Idols/3.webp",
+      "size": 20384,
+      "sha256": "fe6fa239ac8063eec663ca5c0652d1241e0d0a588d576a48e22b516373bed87c"
+    },
+    {
+      "path": "capturas/Crisol Theater of Idols/4.webp",
+      "size": 24100,
+      "sha256": "72dc6e15cb0977678e358b8ac73f619269daff843e54f1caae36eac45938c4ea"
+    },
+    {
+      "path": "capturas/Crisol Theater of Idols/5.webp",
+      "size": 21926,
+      "sha256": "003f5f1227fd01c4772a0cf89444d65513f0a58dceaefc6e2d8f234a778348b7"
+    },
+    {
+      "path": "capturas/Crisol Theater of Idols/6.webp",
+      "size": 26008,
+      "sha256": "65bb168d28fd4c6a3602653a1d87f7d32ac4f7809b2cf7187e64f4b498541e60"
+    },
+    {
       "path": "capturas/Croc 2 Kingdom of the Gobbos/1.webp",
       "size": 22772,
       "sha256": "4861713ff7bb0c17ffa96a8486e140eff43343b90437273fe0f756bd0c8737e5"
@@ -3877,6 +4022,36 @@
       "sha256": "b3ae4c75963f77bd3086841c77318a3f685af848cd623b3dc13e71898bc418da"
     },
     {
+      "path": "capturas/Darwin’s Paradox!/1.webp",
+      "size": 15564,
+      "sha256": "51e1831ab71f4005ce91bf2906b5d96aaa39778292d4621be5a2317c75026f72"
+    },
+    {
+      "path": "capturas/Darwin’s Paradox!/2.webp",
+      "size": 15632,
+      "sha256": "bf2acbd4b6d056493d079c580e4267fc9429605354aa1a6b1a24424dec7074f5"
+    },
+    {
+      "path": "capturas/Darwin’s Paradox!/3.webp",
+      "size": 15090,
+      "sha256": "c58a804fab1f16f0c3b13c85bf21bac88ccc651c9d672f3e321c44f3eed0c195"
+    },
+    {
+      "path": "capturas/Darwin’s Paradox!/4.webp",
+      "size": 5954,
+      "sha256": "e11a732e1d65ab488d8d2d7c509884dd47b487c4332fe81c157f4384a9c4a567"
+    },
+    {
+      "path": "capturas/Darwin’s Paradox!/5.webp",
+      "size": 17190,
+      "sha256": "47d44b02c7e2b1ac6aa75f1a1839c2a85d06cc618d30ffb0935d51e52c532998"
+    },
+    {
+      "path": "capturas/Darwin’s Paradox!/6.webp",
+      "size": 21704,
+      "sha256": "75b744de5b3959d3ae2269ab0d8d4678599c60fecea4290e5fb625c5a407aa06"
+    },
+    {
       "path": "capturas/Days Gone/1.webp",
       "size": 18984,
       "sha256": "bd2cccda455388a2fb42d319c79d2550fa126702ecd276a0757092d468a54fbe"
@@ -3965,6 +4140,36 @@
       "path": "capturas/Deep Rock Galactic Deluxe Edition/6.webp",
       "size": 22000,
       "sha256": "bdc92f689f985e8fa43e7bbb7f2bbacb69ade7c3d6695ab9186c62a1ed2062ca"
+    },
+    {
+      "path": "capturas/Demon Tides/1.webp",
+      "size": 31408,
+      "sha256": "f138eeb8078733dedb643fdf7b1ec54e45cfa64893dab24479b69436a99d560d"
+    },
+    {
+      "path": "capturas/Demon Tides/2.webp",
+      "size": 24948,
+      "sha256": "bbd79cf2ea4886f75084d6fdb2b2101f3823cf6367119031e09cab45cc228c79"
+    },
+    {
+      "path": "capturas/Demon Tides/3.webp",
+      "size": 18476,
+      "sha256": "f95badacd515dac7df614e46a8bfb1e3a83d344768be2cb6eff7627574b2072b"
+    },
+    {
+      "path": "capturas/Demon Tides/4.webp",
+      "size": 18716,
+      "sha256": "f6ca236a9da6dd1b6f8cc2fa72308706c5d64921478008ba3ea1523be452c11f"
+    },
+    {
+      "path": "capturas/Demon Tides/5.webp",
+      "size": 20384,
+      "sha256": "faf3c743a723a1ccd9f9eaf6c5a67276b594a174e9b582ec2432dec901f8353a"
+    },
+    {
+      "path": "capturas/Demon Tides/6.webp",
+      "size": 22064,
+      "sha256": "091d2470554a0a600ce46f61e8fe3caefbcbdb0855c42ca463f6be559c7a4a7e"
     },
     {
       "path": "capturas/Demons Souls Black Phantom Edition/1.webp",
@@ -4205,6 +4410,36 @@
       "path": "capturas/Distant Worlds 2/6.webp",
       "size": 16556,
       "sha256": "0d87460c392591b2a270bbd85db7f15c20c340629465eeb897c5cf98e91127b2"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/1.webp",
+      "size": 42784,
+      "sha256": "a43a167475403b1539f75ea92d2c5a1f091e02d974e20eac309e494a877f3a53"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/2.webp",
+      "size": 41592,
+      "sha256": "fe9eab23b3feda44666b1e083d51c43500025232d4b06671cf188393bdaa6d01"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/3.webp",
+      "size": 36000,
+      "sha256": "c57a6d451ddd7c70f2f71dbf37a5cc41ed0a1b1933ed53b64cb0558375c4ed21"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/4.webp",
+      "size": 29796,
+      "sha256": "00ccecd118c131c41cb927be6a63f50ea95e2e1f81c8592e94daed73731c5f0f"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/5.webp",
+      "size": 40242,
+      "sha256": "869c08ae9e5f990798cf6d7af1fa9456b72d2d0fda76b5b70956d80419edbb36"
+    },
+    {
+      "path": "capturas/Don’t Stop, Girlypop!/6.webp",
+      "size": 45296,
+      "sha256": "b73f70d3fbd47779e07367a7d6c8fedfcce872b876f492e327ded34bd8256ff0"
     },
     {
       "path": "capturas/Doom Eternal Deluxe Edition/1.webp",
@@ -4980,6 +5215,36 @@
       "path": "capturas/FIFA EA SPORTS FC 27/6.webp",
       "size": 19700,
       "sha256": "8195392da932c0ddff86806d7edbd49de9c3df5954053a4de4f1d3a24131a1a0"
+    },
+    {
+      "path": "capturas/Flick/1.webp",
+      "size": 8462,
+      "sha256": "86bfaa735813c9093580e9d3039bc97f24f9ed6bd926e4b2018b29b46c438deb"
+    },
+    {
+      "path": "capturas/Flick/2.webp",
+      "size": 10482,
+      "sha256": "05b8d44682eb00f6006dbd021df7128afcaae674f32a9c08e0a5163630f56a15"
+    },
+    {
+      "path": "capturas/Flick/3.webp",
+      "size": 2002,
+      "sha256": "b8c2f3e5fa5fe6de9756eaa11bb65acfc8d78b135d9512087c95a4a8cecb89da"
+    },
+    {
+      "path": "capturas/Flick/4.webp",
+      "size": 12176,
+      "sha256": "67d7a3096b49dbc4091f7e5dde670d378757e81972bac72d27f0b1f15da8be90"
+    },
+    {
+      "path": "capturas/Flick/5.webp",
+      "size": 7432,
+      "sha256": "0edf54cc38e1b64574805a2afd349749731a7bc1712d97a66016997f7504bdde"
+    },
+    {
+      "path": "capturas/Flick/6.webp",
+      "size": 2614,
+      "sha256": "6acf9c4fa2756ea1a7118a5668ac24ddda0a2b8cdd1217fa955e42ab3112008e"
     },
     {
       "path": "capturas/Football Manager 27/1.webp",
@@ -6187,6 +6452,66 @@
       "sha256": "038d6faac00442b687c1c34ecc39f8e59bd5bf06b06906a2c67d15e983563086"
     },
     {
+      "path": "capturas/Hollow Knight/1.webp",
+      "size": 24258,
+      "sha256": "d94c2c18aef40daf9411703b3b563b0b54dfcc1bbc506efd372fc64e6c2fe11a"
+    },
+    {
+      "path": "capturas/Hollow Knight/2.webp",
+      "size": 20266,
+      "sha256": "ee14fcdc5cef5b02724227c39a8eee5efd781a3f2dd83a694ba7b86d94ba3c3c"
+    },
+    {
+      "path": "capturas/Hollow Knight/3.webp",
+      "size": 21316,
+      "sha256": "fb52054485889d3b18c35ffeb7355b8412c7de4e75e68490822e3ff68ba30746"
+    },
+    {
+      "path": "capturas/Hollow Knight/4.webp",
+      "size": 12878,
+      "sha256": "dfe82432b69f87db25fffe3f4021fc38b092e8d4d8d4d31ee21d51c185d74c43"
+    },
+    {
+      "path": "capturas/Hollow Knight/5.webp",
+      "size": 18048,
+      "sha256": "21248ade3ec0c43d4d85909e13b23e3e090e420755643aa9232ce50611d7eedb"
+    },
+    {
+      "path": "capturas/Hollow Knight/6.webp",
+      "size": 18022,
+      "sha256": "69f58d6fe9bac4e762ee3e116b53219f3103693b8d3ab517ddbe13b45a23f6dd"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/1.webp",
+      "size": 24612,
+      "sha256": "0377dde44144b210fb3ac25d77f94b7a5a05216b47d4ef6d91c2048847e9643b"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/2.webp",
+      "size": 23646,
+      "sha256": "a9e6c85b1e298dfc40e0696879e059115a367c66eba0b125a3c3f9e87d049e0f"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/3.webp",
+      "size": 9810,
+      "sha256": "275228ccf332dfb9c16c8e6708e8dda7f010775fdfb713308ee577ae329a2957"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/4.webp",
+      "size": 35192,
+      "sha256": "66d427fba4f346a3677938f69776e2353c944ce7b2b2c0248b7d062ae074865d"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/5.webp",
+      "size": 19102,
+      "sha256": "5e181c33ea0200db5af3cc6bec8f61a3954753a548193137f54cd7bbbc5b18f2"
+    },
+    {
+      "path": "capturas/Hollow Knight Silksong/6.webp",
+      "size": 21588,
+      "sha256": "83c70c3efc1f0f9361a224a0543f1e05e196b35dbbc0e2fc336a4492af48c8ee"
+    },
+    {
       "path": "capturas/HoneyCome Come Come Party/1.webp",
       "size": 30902,
       "sha256": "5d943b52c11aac3cbe793c47552e2f2a2686b6f9a410f5f80d8a4d4b910bf4f9"
@@ -7172,6 +7497,36 @@
       "sha256": "addc675f0612612eba7fd13780f11f4898a30166bc07b155965f4367275d96a5"
     },
     {
+      "path": "capturas/MIO Memories in Orbit/1.webp",
+      "size": 34978,
+      "sha256": "88886c6fe7ad7f5298cf6de6e7a9ce0360dd0919ef69a988375b327b147a2fa4"
+    },
+    {
+      "path": "capturas/MIO Memories in Orbit/2.webp",
+      "size": 21036,
+      "sha256": "18514e3ca5b647ee92faa8b62a58f6709c7f4e04c37c17725f23552f94102ef1"
+    },
+    {
+      "path": "capturas/MIO Memories in Orbit/3.webp",
+      "size": 19756,
+      "sha256": "e69d65abca961fbda0b7c0a7fa5bb0783fa4a37a0248b1fed7131e14e3c04fe3"
+    },
+    {
+      "path": "capturas/MIO Memories in Orbit/4.webp",
+      "size": 36460,
+      "sha256": "3452938dad15539f5ee6e9b19e144ff8ce6d8aafc9a59abb46f826e32b64d08f"
+    },
+    {
+      "path": "capturas/MIO Memories in Orbit/5.webp",
+      "size": 33426,
+      "sha256": "79b82af434b3543fd29f37193990aab6cef8a5d064eabb816626dceb4f58c6d5"
+    },
+    {
+      "path": "capturas/MIO Memories in Orbit/6.webp",
+      "size": 19684,
+      "sha256": "10375a5bd5124537cf81c70e77fb78b36f8d6884ca81d2057c74a6c0d5517d8b"
+    },
+    {
       "path": "capturas/Mirror’s Edge Catalyst/1.webp",
       "size": 17402,
       "sha256": "3af849b89148544c74d5dee654255dc3573eec2b890cfe423d3c65a061f4280d"
@@ -7445,6 +7800,36 @@
       "path": "capturas/Mount & Blade II Bannerlord/7.webp",
       "size": 33158,
       "sha256": "7e64d3675eeee3345a4f8797c2651becbdeff6c8266ee7b5b3a6a9f376d20fce"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/1.webp",
+      "size": 13026,
+      "sha256": "0a4109d324617f7c7f261e3e652fa542cd3a04461496f6d9ea1c7b9dd33960f2"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/2.webp",
+      "size": 18028,
+      "sha256": "6d47bcf99d61eacef2b121d2d0b6c49223d00a90795c52aec27ff2372d23e711"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/3.webp",
+      "size": 15644,
+      "sha256": "b605095dd4639dbad99db0050437d25bc37e959040f4bb0201ad15e09250c88f"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/4.webp",
+      "size": 17218,
+      "sha256": "319d3a75d09c5d22a2fbfdafdd7db7389c9446cee6a025bbe311d0a8456c54a6"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/5.webp",
+      "size": 14938,
+      "sha256": "2a3073ff6792f684b9f0a42586a481d8c53be11b5fb8f8b68420f4d0e38580b1"
+    },
+    {
+      "path": "capturas/MOUSE P.I. For Hire/6.webp",
+      "size": 18826,
+      "sha256": "20b6c5e54b57f31ff695203a0a3e7512e1270842f1d5262e1b06424b16c6b3dd"
     },
     {
       "path": "capturas/My Little Puppy/1.webp",
@@ -8897,6 +9282,36 @@
       "sha256": "00fae03ac5d6290c9bf35117a59c9fd2915abe61c57226ae873c1e15f9c7d271"
     },
     {
+      "path": "capturas/ROMEO IS A DEAD MAN/1.webp",
+      "size": 34704,
+      "sha256": "372e78717617ab6948df091495765e491fe96319cd0f95623abe2f705b86de7e"
+    },
+    {
+      "path": "capturas/ROMEO IS A DEAD MAN/2.webp",
+      "size": 34340,
+      "sha256": "418fa79ea43d96844d61fc71af4376fb0c9ab2fe84018621d68c3e752360f23d"
+    },
+    {
+      "path": "capturas/ROMEO IS A DEAD MAN/3.webp",
+      "size": 28784,
+      "sha256": "174d5cde2b7b1e1e8f8cc0d6da68b05ac8e3bbc7bf255029b6c674f2ac17bf25"
+    },
+    {
+      "path": "capturas/ROMEO IS A DEAD MAN/4.webp",
+      "size": 39198,
+      "sha256": "3b67b251cd4f5ded65c3e98ca6e7ec881b2957a7846c533cffc12ccba7a45adc"
+    },
+    {
+      "path": "capturas/ROMEO IS A DEAD MAN/5.webp",
+      "size": 46578,
+      "sha256": "51a64bd97b4dd7d86fdd8ffa7f4eed170252a855d6a7aad58b791dfa6fe99895"
+    },
+    {
+      "path": "capturas/ROMEO IS A DEAD MAN/6.webp",
+      "size": 25666,
+      "sha256": "381e58805fc85640fad105e969646b265141450f33c07bd0d934964ad53bae78"
+    },
+    {
       "path": "capturas/RoomGirl Paradise/1.webp",
       "size": 27256,
       "sha256": "f7c8d1d3e6c6aed118c98f84ee00fcbf5ad35373547f93db10ed845f1089537b"
@@ -9015,6 +9430,36 @@
       "path": "capturas/Save Amani/6.webp",
       "size": 16122,
       "sha256": "57407fd5b5f40953cb8b7a1e61851ed7d4768fb5f68dfb370eefa4c953b498b7"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/1.webp",
+      "size": 32396,
+      "sha256": "ab4dd57e8c35340f18fdca4ec94d4e1255316dfcaae19501d45a62c4696f94d0"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/2.webp",
+      "size": 48286,
+      "sha256": "97836bc05e3199a974ada79d392ed022ece93c7ea385405bbef805421181df7f"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/3.webp",
+      "size": 36540,
+      "sha256": "8566f5f67b827eab5d43b8fefeb40d1bacee64057c447883fe9a659e441ed9a6"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/4.webp",
+      "size": 41852,
+      "sha256": "f7feb797752f31b854aa1bc2621f728aa553ca72f5e683d213fe40745403ec90"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/5.webp",
+      "size": 45336,
+      "sha256": "adf42f135ae1b1f312a3b145e912312a8b1b29d82574ee14a24e82290b3a7b89"
+    },
+    {
+      "path": "capturas/Serious Sam Fusion/6.webp",
+      "size": 38014,
+      "sha256": "eacbfb923966bbf6f5547622d09f8fb885773f6c7469dcece6c6335037ab781e"
     },
     {
       "path": "capturas/Sexnatural MILFs Must Be Filled/1.webp",
@@ -9315,6 +9760,36 @@
       "path": "capturas/Sleeping Dogs Definitive Limited Editions Pack/6.webp",
       "size": 21724,
       "sha256": "cdb4aad17a176d412aa1da73a8e16b2d3e1035b0092914ca8b80aca15beed494"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/1.webp",
+      "size": 46996,
+      "sha256": "604594028ada5c6e0753d9c706daf535a81debcbda38313c01e3893bf66fd0f2"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/2.webp",
+      "size": 29676,
+      "sha256": "3d3806630f35c61f9cdb1d2a74f9ebc78bb5b902cca124c3534080ba41e089af"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/3.webp",
+      "size": 32862,
+      "sha256": "81118749551624cfc410940b9d7ad87b983fd8c881b4d2bc2a4360d90d043448"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/4.webp",
+      "size": 28752,
+      "sha256": "cb172e25ad48d60abe771b1fa062a5eac4bc747681f96991191407aea55b88a7"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/5.webp",
+      "size": 23560,
+      "sha256": "f65927b4b19edde7f7c15e3663e3cc3978ab20a74de450cf02a9d4712bf102e6"
+    },
+    {
+      "path": "capturas/Slime Rancher 2/6.webp",
+      "size": 30748,
+      "sha256": "9fadbfa6e2626dacc40dce94578ef3d4856dd08540c396215161da68708a201f"
     },
     {
       "path": "capturas/Sniper Elite 3/1.webp",
@@ -9765,6 +10240,66 @@
       "path": "capturas/Stellar Blade Complete Edition/6.webp",
       "size": 29624,
       "sha256": "88af68cb135ec54fda5617ee9c8d13072bbf1aefebd2148f16f45465935167a7"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/1.webp",
+      "size": 18250,
+      "sha256": "4b7d2d0e61241d38d04b978d7c5cfe911897d2adecbf9de9db31090131a781dc"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/2.webp",
+      "size": 8344,
+      "sha256": "d60e3ea904c831bc15e17df7d92c9450179d83605a0c7f75f7f07a0d1c9ee10f"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/3.webp",
+      "size": 16734,
+      "sha256": "b26f1538eaf590e38c3456ce3b047ae2701b5fdb06453adfdf5d8301182237e9"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/4.webp",
+      "size": 18898,
+      "sha256": "b75f0c5cd187ce46449cfac1f522b05281b16e5ee2da9bea3a46e3bf59013279"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/5.webp",
+      "size": 11424,
+      "sha256": "2c847d42c0cbba07502cd5bded0b61e13785ace819352a0c6b60aac05d3ddbd5"
+    },
+    {
+      "path": "capturas/Stellaris Ultimate Bundle/6.webp",
+      "size": 19242,
+      "sha256": "8547dd5c292e3c188df31bc2161c3fd97f40bf32e4e635b5bf9f6ab4f74f84f0"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/1.webp",
+      "size": 24704,
+      "sha256": "22e8776bbf40f87fbc519c872cc23b08b02ef6e2c7ff9c30bf90cb9258853eb4"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/2.webp",
+      "size": 11488,
+      "sha256": "381d7b01719e55e0c07a25870322e1a4f93e5c39ea4e3363dd8a05fca45b8987"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/3.webp",
+      "size": 21878,
+      "sha256": "972deddcfbabf8a03381e0961ae45271ca7f14fad75323304bdd485d7d52f66e"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/4.webp",
+      "size": 18828,
+      "sha256": "89468ddf5a25c1f098cc28642ee48ce02401cd13020c53382372ca6bd8409a9a"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/5.webp",
+      "size": 13050,
+      "sha256": "15e502453315e5b717f7bfbdeee167def3d262512391a62a97f1436125ed6954"
+    },
+    {
+      "path": "capturas/Stray Soundtrack Edition/6.webp",
+      "size": 8090,
+      "sha256": "65122016b559d830945630b5839252f00631468c3d6a1716a423a507eecbc61b"
     },
     {
       "path": "capturas/Stygian Outer Gods/1.webp",
@@ -10307,6 +10842,36 @@
       "sha256": "943ac459d3122a53b146d333ba8ec5cb108ac66fe7006bdee991a5a3de66fe82"
     },
     {
+      "path": "capturas/The Killing Stone/1.webp",
+      "size": 14924,
+      "sha256": "ed00c131c3ce6a6a74a40da0f29a323f2fb7aafe3fec088269718b9177232149"
+    },
+    {
+      "path": "capturas/The Killing Stone/2.webp",
+      "size": 18040,
+      "sha256": "4e2ad002c9fac060452f376013a0b96a45517659dca7b020bc90634ab5085f45"
+    },
+    {
+      "path": "capturas/The Killing Stone/3.webp",
+      "size": 20310,
+      "sha256": "dabb14ff3db0115375efc2f8a4ff41d47a6e1428d312db26443d2fde5ef62452"
+    },
+    {
+      "path": "capturas/The Killing Stone/4.webp",
+      "size": 13696,
+      "sha256": "ab16acb187d280504fbbdf62f310370af0dd0d658bf7555fd8346659b8773505"
+    },
+    {
+      "path": "capturas/The Killing Stone/5.webp",
+      "size": 27266,
+      "sha256": "ca0c17d19e37be0c3118d329fa195797d1197e45f33d718525b77f74a79730a8"
+    },
+    {
+      "path": "capturas/The Killing Stone/6.webp",
+      "size": 14994,
+      "sha256": "a2effd4fef83c9bbda44ae98208a624a450e2ea0cf4cdb82885136070ca962db"
+    },
+    {
       "path": "capturas/The Last Of Us Part I/1.webp",
       "size": 8494,
       "sha256": "3c831b9247d994e6d52c5d39e1e44a3d3e7a4bc32239c24cbc438ecb6dff9d2f"
@@ -10765,6 +11330,36 @@
       "path": "capturas/Titanfall 2/5.webp",
       "size": 29296,
       "sha256": "0fa29ede4adbdc7744cfb1e92e02708cb1e7b21fe392cac933fee91bcecf6d13"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/1.webp",
+      "size": 18454,
+      "sha256": "51843d70a8d6751d3bb3ccc5a049b594bbe7f2974211a76a8234ce440d09b748"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/2.webp",
+      "size": 15144,
+      "sha256": "eef1ec3fba291371c13251d7c71dd9247684b990f8933639e2501d09fe8c9d21"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/3.webp",
+      "size": 19244,
+      "sha256": "781e9e998823b4d957154222704cb1aeeb515977c8eec5739887a178215fb187"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/4.webp",
+      "size": 33428,
+      "sha256": "b83011dfdda8d569a1dd4218741c36c03c749b273eccbc9470a1698d23017272"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/5.webp",
+      "size": 16894,
+      "sha256": "82969a60859865179e0c5b9391c9b61352d795645f68a2915c86763c281dbaab"
+    },
+    {
+      "path": "capturas/Tokyo Xtreme Racer/6.webp",
+      "size": 17714,
+      "sha256": "42ef078681b203cb3d733dee2ec0512ed9bf55cb2fd681d6c232f1d4b30d41bb"
     },
     {
       "path": "capturas/Tom Clancys Ghost Recon Wildlands Definitive Edition/1.webp",
@@ -11887,6 +12482,11 @@
       "sha256": "44a58a4e63707d1e35e890ef4cdc556e7d9fe5a76fc04ac02bbd5da03da900de"
     },
     {
+      "path": "sinopsis/Blitzkrieg 3 Deluxe Edition.txt",
+      "size": 1310,
+      "sha256": "26237a48b76138d7ef3c171a61a0bb253e418074c92d862950d60c32433cdfb8"
+    },
+    {
       "path": "sinopsis/Bloodborne Game Of The Year Edition.txt",
       "size": 957,
       "sha256": "813dc144f997a7ae7b02cee00609ec2a4e0f3157d15ee6f608c57f5d100ca3c4"
@@ -12017,6 +12617,11 @@
       "sha256": "42b54a3528dac24a307e6b1ac6cea295b9155846871c278d997d0711be9588cf"
     },
     {
+      "path": "sinopsis/Crisol Theater of Idols.txt",
+      "size": 326,
+      "sha256": "01d20d1375b51df9178a1abb08c1344786767e7d4d2e084ffb56453446b80807"
+    },
+    {
       "path": "sinopsis/Croc 2 Kingdom of the Gobbos.txt",
       "size": 717,
       "sha256": "3df4d85835ae23ecde330a9f26de59c044437d719bdde410215771f6f5a552f4"
@@ -12057,6 +12662,11 @@
       "sha256": "43e45c281a2d3c4c364f38acfc684d737f62a088c56228aff05a9c6e6759283d"
     },
     {
+      "path": "sinopsis/Darwin’s Paradox!.txt",
+      "size": 1222,
+      "sha256": "f8453f6dc6776ece1b1e0b608a24e8a76967ddcfb2aefbc529ea6340b1f6680e"
+    },
+    {
       "path": "sinopsis/Days Gone.txt",
       "size": 587,
       "sha256": "9f5422b905f328c892c2a8bd79db5c4ee9ecf6ca7550b9788aee8b22deb52dce"
@@ -12070,6 +12680,11 @@
       "path": "sinopsis/Deep Rock Galactic Deluxe Edition.txt",
       "size": 529,
       "sha256": "ea8c94803e6064d25ef0a337429bb4f42859829ad6c3d94ec0dbaf6ef6694f21"
+    },
+    {
+      "path": "sinopsis/Demon Tides.txt",
+      "size": 942,
+      "sha256": "337c37a332a395a7a7e1caee0a9b315008c103161feb8b66db857656470d3cb9"
     },
     {
       "path": "sinopsis/Demons Souls Black Phantom Edition.txt",
@@ -12110,6 +12725,11 @@
       "path": "sinopsis/Distant Worlds 2.txt",
       "size": 1058,
       "sha256": "22a6ced96b50640103d75213712e09ee82c0adc8a134e8a8a2e2e8aba2d6c2bc"
+    },
+    {
+      "path": "sinopsis/Don’t Stop, Girlypop!.txt",
+      "size": 1252,
+      "sha256": "5916ecfb081ba2350b3438ae8d00d70b5eed390df6ef8d66be4c858f6dc6ece8"
     },
     {
       "path": "sinopsis/Doom Eternal Deluxe Edition.txt",
@@ -12240,6 +12860,11 @@
       "path": "sinopsis/FIFA EA SPORTS FC 27.txt",
       "size": 769,
       "sha256": "e7ca0d1f9cce76c81e6373ffa4aca4d16ea7f14b9246e9b105a5d163e42d812a"
+    },
+    {
+      "path": "sinopsis/Flick.txt",
+      "size": 400,
+      "sha256": "3de59fa99b54af267367745c7b25b31a029e46709acdbe6b524977c298a11b2e"
     },
     {
       "path": "sinopsis/Football Manager 27.txt",
@@ -12442,6 +13067,16 @@
       "sha256": "bb308cab92638f356f71d59c723f40b8f9856a71f1d81395996d0c17c1ee555b"
     },
     {
+      "path": "sinopsis/Hollow Knight Silksong.txt",
+      "size": 598,
+      "sha256": "22b1e4a2a8be5733107f10b874433fe8ba8c543690f6d29b68b746f37ee5c65c"
+    },
+    {
+      "path": "sinopsis/Hollow Knight.txt",
+      "size": 686,
+      "sha256": "1ba5ae24cbd949675714e6b30ce3a550cd6dfac70e7ad7f527bb36c4949f6127"
+    },
+    {
       "path": "sinopsis/HoneyCome Come Come Party.txt",
       "size": 1255,
       "sha256": "12657a885ca52c2f3eb60c027e61fdf10285fec4b0c9ba11962a8d30d274afb2"
@@ -12607,6 +13242,11 @@
       "sha256": "4ff514fd0e019266373b042d39e6d3676f918a4f76717d489870d8b0fd118443"
     },
     {
+      "path": "sinopsis/MIO Memories in Orbit.txt",
+      "size": 1022,
+      "sha256": "2abecb23537b4058b0aa9d5ddcd1f16994241035dfae56b15c23d970b4df8780"
+    },
+    {
       "path": "sinopsis/Mirror’s Edge Catalyst.txt",
       "size": 640,
       "sha256": "20a66859b1380564ee435836f02330ee528956029b197c503cc97baa1469ba70"
@@ -12650,6 +13290,11 @@
       "path": "sinopsis/Mount & Blade II Bannerlord.txt",
       "size": 861,
       "sha256": "2bdb99360ecd29baa75c3f5cdbdd004de6901fb0a476c657eca25ca4353db9e2"
+    },
+    {
+      "path": "sinopsis/MOUSE P.I. For Hire.txt",
+      "size": 1424,
+      "sha256": "1d1bd332e60e54e6e4782e77f7b163b10441c88db54c32f2d055b7265d5c89e1"
     },
     {
       "path": "sinopsis/My Little Puppy.txt",
@@ -12897,6 +13542,11 @@
       "sha256": "f5c420c64878de49e9f3bf8b704c92bbdd892c9472b6940282b7e49cb9439d13"
     },
     {
+      "path": "sinopsis/ROMEO IS A DEAD MAN.txt",
+      "size": 1752,
+      "sha256": "13357b3a23e9b83564dfc35b230a0b667e8d766ab5bb9dacae5cf068886b78b9"
+    },
+    {
       "path": "sinopsis/RoomGirl Paradise.txt",
       "size": 465,
       "sha256": "a800558bff2628d63d194a10df2755947ce7ebbf34ae24187ef9d6972e62407a"
@@ -12915,6 +13565,11 @@
       "path": "sinopsis/Save Amani.txt",
       "size": 762,
       "sha256": "78814284926513e0fe2c2df93dcb14e97f53fb1195d70a334d87253411f92d29"
+    },
+    {
+      "path": "sinopsis/Serious Sam Fusion.txt",
+      "size": 512,
+      "sha256": "e50f7c78b05ecdbf8f57fa2fc4e577ef9331f2cb025468f08041bb1775fe6675"
     },
     {
       "path": "sinopsis/Sexnatural MILFs Must Be Filled.txt",
@@ -12965,6 +13620,11 @@
       "path": "sinopsis/Sleeping Dogs Definitive Limited Editions Pack.txt",
       "size": 946,
       "sha256": "0029bf917fbd9f5cec6cbffb454bc73ebda64dbe8a1a12898bc8fadf3cd25783"
+    },
+    {
+      "path": "sinopsis/Slime Rancher 2.txt",
+      "size": 672,
+      "sha256": "a94287a2ea661f95c90af37db31ce0bd7db785f456174f306830f5bae5e184d8"
     },
     {
       "path": "sinopsis/Sniper Elite 3.txt",
@@ -13040,6 +13700,16 @@
       "path": "sinopsis/Stellar Blade Complete Edition.txt",
       "size": 588,
       "sha256": "415bf5aadc7349778744ec2c0b25b92bcf15579841e2d77437cb1d72832ca25a"
+    },
+    {
+      "path": "sinopsis/Stellaris Ultimate Bundle.txt",
+      "size": 851,
+      "sha256": "30b3602363100b0b8b04fd102795e3b1f92f9d37372d5354ce84ab0d8ef22f87"
+    },
+    {
+      "path": "sinopsis/Stray Soundtrack Edition.txt",
+      "size": 1026,
+      "sha256": "ae26d195869c171b1b7fcb15c0f08fd810c5b59909a93c401b2dab868ca72d70"
     },
     {
       "path": "sinopsis/Stygian Outer Gods.txt",
@@ -13132,6 +13802,11 @@
       "sha256": "bb3ed0df3a8ae21725474c0ded0eaf75b7abcba63f2a7ee5689c15db3bcc11cb"
     },
     {
+      "path": "sinopsis/The Killing Stone.txt",
+      "size": 1495,
+      "sha256": "cd7fb24ec19153f11fb662885c57ff6b77d8e63191af9e0f826daf54630e5a03"
+    },
+    {
       "path": "sinopsis/The Last Of Us Part I.txt",
       "size": 844,
       "sha256": "44b9e6350dd3b757d91a8cf8e9253e70b0da9f535f30f2b955148b3737359c27"
@@ -13210,6 +13885,11 @@
       "path": "sinopsis/Titanfall 2.txt",
       "size": 581,
       "sha256": "9ecd4ecf2c5232ccc8702a781fe548019567d12e2ac3c03dc347320490f718b9"
+    },
+    {
+      "path": "sinopsis/Tokyo Xtreme Racer.txt",
+      "size": 806,
+      "sha256": "51d864e053829d9d7453e1081d853cbf0fc7dd366fc274b2333c096974fb5693"
     },
     {
       "path": "sinopsis/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",
@@ -13572,6 +14252,11 @@
       "sha256": "ebba26b780aaf2a173260bf84c43fcddefe88af64e6f15b4625f9bad4594c2a5"
     },
     {
+      "path": "datos/Blitzkrieg 3 Deluxe Edition.txt",
+      "size": 209,
+      "sha256": "efbd67173e9dc00608fbc4c3720dd0d60d42c54d8114d62a0a53b070ac758154"
+    },
+    {
       "path": "datos/Bloodborne Game Of The Year Edition.txt",
       "size": 222,
       "sha256": "d02c295030f5b35438bf7c6d14062ade791f400be58a3be3133de3fa2b8df881"
@@ -13702,6 +14387,11 @@
       "sha256": "892c522f3440a0d42df394c8b880f9e2829ac47fc5fa79e3b623ad5ccfa7d6f1"
     },
     {
+      "path": "datos/Crisol Theater of Idols.txt",
+      "size": 199,
+      "sha256": "3eb82b5a15cd53f573f57e922795812bf8780756577de4b024a1a50444523b15"
+    },
+    {
       "path": "datos/Croc 2 Kingdom of the Gobbos.txt",
       "size": 172,
       "sha256": "cfc8b31ffe0fa4825d9b2014b969a28253015d99975a61987dc7ef612946eae2"
@@ -13742,6 +14432,11 @@
       "sha256": "168862368270ce88ac7abae99577071f10d37c0c57700be376f3d39385fba5fe"
     },
     {
+      "path": "datos/Darwin’s Paradox!.txt",
+      "size": 225,
+      "sha256": "ffd661a98fe7b912e427a9e13d6814f956bdbb1d4371cc1a1ca2eecebd4a6c49"
+    },
+    {
       "path": "datos/Days Gone.txt",
       "size": 173,
       "sha256": "67448b1bd57c4e32c6e85d47813b15188b7febeecd5da77a77e191259eb6df89"
@@ -13755,6 +14450,11 @@
       "path": "datos/Deep Rock Galactic Deluxe Edition.txt",
       "size": 193,
       "sha256": "59bc8c8f4a682c58032f03dd94401ae22ffeee0a1049348d5d1d8485ab3ebfb0"
+    },
+    {
+      "path": "datos/Demon Tides.txt",
+      "size": 205,
+      "sha256": "53ac07713cb9096031bd8b490a4e9485e6a2e97163d6bfcd5662ebf144f7e001"
     },
     {
       "path": "datos/Demons Souls Black Phantom Edition.txt",
@@ -13795,6 +14495,11 @@
       "path": "datos/Distant Worlds 2.txt",
       "size": 178,
       "sha256": "4bb16ef6825cad12a919d82aa0cf8328bdabcba01c20b7290fa0ce84f7593430"
+    },
+    {
+      "path": "datos/Don’t Stop, Girlypop!.txt",
+      "size": 204,
+      "sha256": "f2f926ac23ec199ab4cbab87f77d01055eaee76006dcc3ada53f1d215b63c0fe"
     },
     {
       "path": "datos/Doom Eternal Deluxe Edition.txt",
@@ -13874,7 +14579,7 @@
     {
       "path": "datos/Entity The Black Day.txt",
       "size": 195,
-      "sha256": "e54d52f53c7e77fca3cbdad55d089bc38246477a03171e7f7040f0dec1a2666b"
+      "sha256": "d5efdbdfade1c05362fde353b91bee36ce991d84b9f6866a05655b0908c4ffdf"
     },
     {
       "path": "datos/Escape Academy 2 Back 2 School.txt",
@@ -13925,6 +14630,11 @@
       "path": "datos/FIFA EA SPORTS FC 27.txt",
       "size": 189,
       "sha256": "3aed9d081c4e3d0ec9c0434082520102bd68f778c5d4fc96e515c50d16b5a9c4"
+    },
+    {
+      "path": "datos/Flick.txt",
+      "size": 223,
+      "sha256": "5710e35c3a999dea02d34fd1ce9fc685235a4af6620db0e15f2f97e0d644c85a"
     },
     {
       "path": "datos/Football Manager 27.txt",
@@ -14127,6 +14837,16 @@
       "sha256": "4011edbef3efa29baaf08f25e5d3273f930b841f2843064eaac7c36ffc115d35"
     },
     {
+      "path": "datos/Hollow Knight Silksong.txt",
+      "size": 207,
+      "sha256": "103fa4903017905c011042dd5201b314adcd6e9376d03d1d028c0d2875659289"
+    },
+    {
+      "path": "datos/Hollow Knight.txt",
+      "size": 206,
+      "sha256": "d75e2f8494079fc01a430a52fab8b48ee8ed1fd8466a670969b343bb006540e5"
+    },
+    {
       "path": "datos/HoneyCome Come Come Party.txt",
       "size": 182,
       "sha256": "e0ff72bd4286e5dccc54edd8cb35533b6a0ac80cbe699ba2c82a6e03eff1fc3d"
@@ -14292,6 +15012,11 @@
       "sha256": "c76472bacd2f32adfb08b94913b8cdd98941b0b402329467e236cc3c4c251bbd"
     },
     {
+      "path": "datos/MIO Memories in Orbit.txt",
+      "size": 206,
+      "sha256": "aab9afb315f421eb3a4ab5a3d2ce0be5200ce4e3a7a87080cb8167bc4e1b90d4"
+    },
+    {
       "path": "datos/Mirror’s Edge Catalyst.txt",
       "size": 213,
       "sha256": "4e085152a657d77391e3a8210567238eaffe39af9b8dda6d5196a579b5e9d5d3"
@@ -14335,6 +15060,11 @@
       "path": "datos/Mount & Blade II Bannerlord.txt",
       "size": 241,
       "sha256": "01cf6fd58741bea9047c6054262c7d11334752e23c7e89aa826a9a07ea2c0f8a"
+    },
+    {
+      "path": "datos/MOUSE P.I. For Hire.txt",
+      "size": 216,
+      "sha256": "34bcd8e6894ff437d7b6e03531cce9bfb1229b325a004f0fce1c536870a40c47"
     },
     {
       "path": "datos/My Little Puppy.txt",
@@ -14582,6 +15312,11 @@
       "sha256": "c0c931586934d43a5523b973850d4a9d9d911a4ce6574a3331e2e66d9a576690"
     },
     {
+      "path": "datos/ROMEO IS A DEAD MAN.txt",
+      "size": 188,
+      "sha256": "614081d97a008186b7a2230fd9f7b4b83ca60f5a3d4e0f4816326ea313fdfbc3"
+    },
+    {
       "path": "datos/RoomGirl Paradise.txt",
       "size": 182,
       "sha256": "25cbe19f121dd26357b181c286d7f82ea1ce0526827dea25bf733baca64b6b9e"
@@ -14600,6 +15335,11 @@
       "path": "datos/Save Amani.txt",
       "size": 231,
       "sha256": "24a70e33d78df0dff2d5bce8a35f672270784658757ba011a4653c203ddf1a75"
+    },
+    {
+      "path": "datos/Serious Sam Fusion.txt",
+      "size": 200,
+      "sha256": "955a9b77855f67abb88e6806ed9b8418f0b3be798c89eaefa3266286b4e91582"
     },
     {
       "path": "datos/Sexnatural MILFs Must Be Filled.txt",
@@ -14650,6 +15390,11 @@
       "path": "datos/Sleeping Dogs Definitive Limited Editions Pack.txt",
       "size": 183,
       "sha256": "ba4d5db9d25688face797e8148ad006855a8fdc9093fe8d0e88119356adbb2d6"
+    },
+    {
+      "path": "datos/Slime Rancher 2.txt",
+      "size": 203,
+      "sha256": "fceff95858d757236bd99a7e0e059f58c8e9e44e9f8c17dacad667cec2ffb64a"
     },
     {
       "path": "datos/Sniper Elite 3.txt",
@@ -14725,6 +15470,16 @@
       "path": "datos/Stellar Blade Complete Edition.txt",
       "size": 222,
       "sha256": "b5b1a060c7c5dac73bb8082e2b7c7583e44024db8f6417c2387dc332aaabda34"
+    },
+    {
+      "path": "datos/Stellaris Ultimate Bundle.txt",
+      "size": 212,
+      "sha256": "46e99b1ee6015fc38516bd2d3ca29c3a7e3d02a9cc2eb8dd84c66e3b778ddb7c"
+    },
+    {
+      "path": "datos/Stray Soundtrack Edition.txt",
+      "size": 229,
+      "sha256": "30bd3bf8d1d594bef3b11b3f244715ba25cf9490367b2d6fd3b0c1dcea2a88fd"
     },
     {
       "path": "datos/Stygian Outer Gods.txt",
@@ -14817,6 +15572,11 @@
       "sha256": "dd91d751be5c60664d5e490f4a620ae02b60f7d6b7983690266e0c421b5c7797"
     },
     {
+      "path": "datos/The Killing Stone.txt",
+      "size": 181,
+      "sha256": "475b82a01a8edd8542c03d048df81c1b9a455afdad5c7318b80c63c0763277fc"
+    },
+    {
       "path": "datos/The Last Of Us Part I.txt",
       "size": 193,
       "sha256": "26af8d2b1da84d729d0f388fbf0b6b0695a91cb97ada934d37406854d1eaafe6"
@@ -14895,6 +15655,11 @@
       "path": "datos/Titanfall 2.txt",
       "size": 176,
       "sha256": "7039c5a94399ce7247077d8a682a5821416fb3badfcd0b1f706470c1165b6669"
+    },
+    {
+      "path": "datos/Tokyo Xtreme Racer.txt",
+      "size": 207,
+      "sha256": "c9adff6e0532835410d652ad23b287b7b096f45a5e56996d2141f8ab26878906"
     },
     {
       "path": "datos/Tom Clancys Ghost Recon Wildlands Definitive Edition.txt",

@@ -1,0 +1,7 @@
+Blitzkrieg 3 es un juego de estrategia en tiempo real en línea, basado en la Segunda Guerra Mundial y diseñado para los verdaderos admiradores de la superioridad estratégica. Desafía tus habilidades tácticas en campañas históricas y derrota a otros jugadores o a la poderosa IA con red neural en partidas competitivas.
+
+Cada una de las tres campañas provee una mezcla única de misiones de tipo JcE, JcJ y JcIA. La impresionante IA con red neural de Blitzkrieg actúa como ninguna máquina lo ha hecho antes. En total, el juego cuenta con más de 70 misiones históricas y más de 200 unidades de combate auténticas.
+
+Blitzkrieg 3 está siendo creado con la participación activa de la comunidad de jugadores. ¡Define la dirección del desarrollo de los proyectos junto a nosotros!
+
+Una máquina con red neural llamada Boris juega al mismo nivel que el mejor de los jugadores sin utilizar ningún tipo de información escondida acerca del enemigo. El general Boris analiza regularmente las partidas y realiza predicciones sobre el comportamiento del enemigo basadas en su red neural. Este proceso le permite pensar en sofisticadas estrategias para contrarrestar a su enemigo y ponerlas en acción. Esto hace que Boris sea un duro e impredecible oponente, por lo que puede sorprenderte una y otra vez.

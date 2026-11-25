@@ -4,6 +4,6 @@ Tamaño: 29GB
 Modo: Singleplayer
 Idioma: MULTI
 Fecha de incorporación: 26/10/2026
-Puntuación: 7,5
+Puntuación: 6,0
 Metacritic: 72
 Repacker: FitGirl

@@ -182,6 +182,21 @@
       "sha256": "e1519faa6945a63ef3a09603110b75c4b10c94d9e3108974816081ac0135496f"
     },
     {
+      "path": "imagenes/BioShock 2 Remastered.webp",
+      "size": 56026,
+      "sha256": "614813a4d583926f6efc0c6f3b32505ba1ce1fcad723b0878ff1d8fd72fc9a2e"
+    },
+    {
+      "path": "imagenes/BioShock Infinite The Complete Edition.webp",
+      "size": 100442,
+      "sha256": "205b43a7f18d8368eb0aaeab961e2bb7221255a19810021e69182a2d6b02180d"
+    },
+    {
+      "path": "imagenes/BioShock Remastered.webp",
+      "size": 56816,
+      "sha256": "f35a8ece7c0105b7bfcf828b8b4da72660768e5de4365551381a13d8ba135a9a"
+    },
+    {
       "path": "imagenes/Black Mesa Definitive Edition.webp",
       "size": 1534735,
       "sha256": "6d76985116649e7c16ed384eb5f5f62d04f26f465fdbc26323356716e1bde7aa"
@@ -1455,6 +1470,11 @@
       "path": "imagenes/Tales of Xillia Remastered.webp",
       "size": 67190,
       "sha256": "bbde02ff4326906d848380fb375a24142c68bad9c14db4cdd35e2ecb784f8cbe"
+    },
+    {
+      "path": "imagenes/Tape to Tape.webp",
+      "size": 106408,
+      "sha256": "e3b823adb73597008d0820c9eedc01343c737d8e3c7cfdab12a4ccfe3213eff5"
     },
     {
       "path": "imagenes/Tekken 7 Ultimate Edition.webp",
@@ -2840,6 +2860,91 @@
       "path": "capturas/Binary Domain/6.webp",
       "size": 17732,
       "sha256": "da8edd344963ee9699fddc6ee29f863dfcc100e261515b6871dd782fa3b30bce"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/1.webp",
+      "size": 8956,
+      "sha256": "9de06f89c5e26869e3d5e8d2670353f65e6fa67c601d2d751469ffdcd8b7201c"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/2.webp",
+      "size": 9034,
+      "sha256": "0395e86702679aa3be86ff9763feb617c8152492fcdb36dbd911a24d75a3a8a1"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/3.webp",
+      "size": 24094,
+      "sha256": "23aa404d9171d0953596f2cbcda7af51b01219b4dc3fe9419a833093a1d47e9f"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/4.webp",
+      "size": 22042,
+      "sha256": "2053d51a47c68acb6f3d4026f77de2d4e040f6cbbbdae0f8506e015c654fa149"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/5.webp",
+      "size": 21002,
+      "sha256": "b4589dfa0e54aacf4ae4e21cfeca4baaeaa433e003337b38272f4b777921ffb4"
+    },
+    {
+      "path": "capturas/BioShock 2 Remastered/6.webp",
+      "size": 26304,
+      "sha256": "d4cd982b3ef215667df0b2b71621c18e55869ffce0beefc1b890120a10cea2dc"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/1.webp",
+      "size": 21318,
+      "sha256": "2e2d396b7bce1fd50bbc12b186076bb4bc784bf57002c595e91854a493709b64"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/2.webp",
+      "size": 12180,
+      "sha256": "1ef32561add03e36919255e99bbff41120f29e7fbc70053266d8fc4295a14de8"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/3.webp",
+      "size": 21622,
+      "sha256": "71d4a814f5e6b17fd5d0c7c15a3f0e8892da096b2581c40718a210d42b21ea33"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/4.webp",
+      "size": 26958,
+      "sha256": "b4edc8a6f6ba3cbba4d02677aacc6710949be2ec34c08f282787f47bd143e8f0"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/5.webp",
+      "size": 23002,
+      "sha256": "585c114cedebb097ff382ff89b7154f02c11ebedd21141ef4f546ae756cc732b"
+    },
+    {
+      "path": "capturas/BioShock Infinite The Complete Edition/6.webp",
+      "size": 18612,
+      "sha256": "81730788cdf579e633da3c27946fc9b1cadf4c8a27b45b54514e6b0037879ff8"
+    },
+    {
+      "path": "capturas/BioShock Remastered/1.webp",
+      "size": 5964,
+      "sha256": "f8dbb855f63339ba54e2e7fb10aa9fa02b8d22e609af9ac1cf3a84acc75584ae"
+    },
+    {
+      "path": "capturas/BioShock Remastered/2.webp",
+      "size": 9870,
+      "sha256": "207ac389541a25001bfc4beac8e41830e7d1c5e64e9fc01e82a53884ffe104c5"
+    },
+    {
+      "path": "capturas/BioShock Remastered/3.webp",
+      "size": 16312,
+      "sha256": "be284d52c79fa3dd16c35f3504a95400e34a82e448a95697a050959aa85ed601"
+    },
+    {
+      "path": "capturas/BioShock Remastered/4.webp",
+      "size": 18144,
+      "sha256": "70c81e2cc76e02385d8560142430e2a66246b250ebf18314f6a9d65689775183"
+    },
+    {
+      "path": "capturas/BioShock Remastered/5.webp",
+      "size": 12238,
+      "sha256": "db217019ec0bf7a5620bc83493f7fac9698c8640bf04d7d9444fcc1d6e4ea798"
     },
     {
       "path": "capturas/Black Mesa Definitive Edition/1.webp",
@@ -10482,6 +10587,36 @@
       "sha256": "66d424646bb4898df1cd398a24aad49f6911e154c3945edeb591d939a45eff5e"
     },
     {
+      "path": "capturas/Tape to Tape/1.webp",
+      "size": 19980,
+      "sha256": "4b68f376606f57ea8e922bc3ff3c11cbf0d59e7d21e007991225903c7510c6cd"
+    },
+    {
+      "path": "capturas/Tape to Tape/2.webp",
+      "size": 33100,
+      "sha256": "cd5de8c788906dacfa645a0eaab92ae6d19cecd6636f92ba9511135ed4d75170"
+    },
+    {
+      "path": "capturas/Tape to Tape/3.webp",
+      "size": 25610,
+      "sha256": "64fff9b7955055457da89d796f89697b51f7c40d32a4d164c3e55de07e8d34da"
+    },
+    {
+      "path": "capturas/Tape to Tape/4.webp",
+      "size": 24980,
+      "sha256": "062498ce0def5e91dd614e8a2006788780760c248014167ff082937ae8bd4c96"
+    },
+    {
+      "path": "capturas/Tape to Tape/5.webp",
+      "size": 28444,
+      "sha256": "e3736ff1a4be5ab1ef97a507bb8fce13d6480a4b5aa9f170d89d57f607860671"
+    },
+    {
+      "path": "capturas/Tape to Tape/6.webp",
+      "size": 35106,
+      "sha256": "ad54e5f120294293717a51b4dc1ed8ffaa4c1e6d74f2c0540f4cc4ee4e95b2cb"
+    },
+    {
       "path": "capturas/Tekken 7 Ultimate Edition/1.webp",
       "size": 33442,
       "sha256": "b02ecf6d479a2ab4ec74fba3a7261bd7bd42299231a747841784633463d77161"
@@ -12467,6 +12602,21 @@
       "sha256": "50bd808633db07988c59386f4177b275d95ccaee9a2e74a03347d4190b96dcba"
     },
     {
+      "path": "sinopsis/BioShock 2 Remastered.txt",
+      "size": 1254,
+      "sha256": "9e27c8562e6febed5f4616030c193231c015f47add738efeb91f6e3e92d27256"
+    },
+    {
+      "path": "sinopsis/BioShock Infinite The Complete Edition.txt",
+      "size": 649,
+      "sha256": "984f66a4cdd76860ff1ace25500609790d167fb59542a0094596393e85009131"
+    },
+    {
+      "path": "sinopsis/BioShock Remastered.txt",
+      "size": 602,
+      "sha256": "dd132aa788bdb4a875773a24c2d7bdbed5616c601205cc67b438eadf10353dbf"
+    },
+    {
       "path": "sinopsis/Black Mesa Definitive Edition.txt",
       "size": 1410,
       "sha256": "c4d396134448806cacdad6f68911468926f14ca9e10efbe0e4480f3e690d39fc"
@@ -13742,6 +13892,11 @@
       "sha256": "4a72b94095028d04bcdc457c11efcb059a93661bd6c01ff6027fbbbd11b9fd79"
     },
     {
+      "path": "sinopsis/Tape to Tape.txt",
+      "size": 1201,
+      "sha256": "a77d9f1c2b916a23f134edeeb1a1b04ed7a551af272c134fe113d31253a15eba"
+    },
+    {
       "path": "sinopsis/Tekken 7 Ultimate Edition.txt",
       "size": 1010,
       "sha256": "1d9f32792423965dc722eb1edaae4dbf7a86a0a29c0b6f2cc0a1b6e0ac76eeb0"
@@ -14235,6 +14390,21 @@
       "path": "datos/Binary Domain.txt",
       "size": 202,
       "sha256": "ed92b315bf3f890176932c2b345007d8abc2f4706e15ec71932d9ccff22d4f41"
+    },
+    {
+      "path": "datos/BioShock 2 Remastered.txt",
+      "size": 193,
+      "sha256": "54f0fa303fefceae29fe109f07a2e963a56c66bb9d3e99be45f8366abb2faf42"
+    },
+    {
+      "path": "datos/BioShock Infinite The Complete Edition.txt",
+      "size": 191,
+      "sha256": "ad829a0bf1e6954614fb76475406a2e2b6e5de52069d12afb47f59f575fd0a8e"
+    },
+    {
+      "path": "datos/BioShock Remastered.txt",
+      "size": 206,
+      "sha256": "b50734f522bb4526afd0204266987b03c8e1f5ac91c4c24f3a415fb041746b0d"
     },
     {
       "path": "datos/Black Mesa Definitive Edition.txt",
@@ -15510,6 +15680,11 @@
       "path": "datos/Tales of Xillia Remastered.txt",
       "size": 227,
       "sha256": "93e646cf9775b482907bd63b3f66d5d327a76c96ca6d4464764a5a69e41a49af"
+    },
+    {
+      "path": "datos/Tape to Tape.txt",
+      "size": 205,
+      "sha256": "19bee15a38c4ce0e672d37f043713450a0f8e67b34f7fc771e42a1136dfc9781"
     },
     {
       "path": "datos/Tekken 7 Ultimate Edition.txt",

@@ -307,6 +307,11 @@
       "sha256": "d6b9378027f443541afc2c3c95d718c44f9a4868bbd4182a78d2866f0cc8c681"
     },
     {
+      "path": "imagenes/Cities Skylines.webp",
+      "size": 86508,
+      "sha256": "fdc032cfac0473fef9001724fc81fe6aa6e65b715b243910bcb9fc335ecae301"
+    },
+    {
       "path": "imagenes/Clair Obscur Expedition 33  Deluxe Edition.webp",
       "size": 65498,
       "sha256": "7953451b1871f0e6a56cf3a0b007d69d686b073811cc5dd61c6a0ebcde944534"
@@ -1602,6 +1607,11 @@
       "sha256": "cf2b1d28ea4af30a3ab37394adde14384d29d3af6b9632631f8934f77b247d0b"
     },
     {
+      "path": "imagenes/The Strange City.webp",
+      "size": 14998,
+      "sha256": "11b7057f6cc3ce3b5872981d677f7f999e49391b4cc108f5cb09cb9d7ecfd93c"
+    },
+    {
       "path": "imagenes/The Witcher 3 Wild Hunt Remastered.webp",
       "size": 68648,
       "sha256": "64399930d76599d3b1048f02a57b01ac3902a941e36baf601fefb352267820c0"
@@ -1645,6 +1655,11 @@
       "path": "imagenes/Tomb Raider IV-VI Remastered.webp",
       "size": 63316,
       "sha256": "72b1ed22c1227daf2ee14d277ca426d54fa0b2c795373f45b54453d3ee7880e2"
+    },
+    {
+      "path": "imagenes/Toto’s Journey.webp",
+      "size": 15308,
+      "sha256": "cde5e124d79ed2e5115b2bd36d8581a8e9342967576ae17a94c51e74d01d8189"
     },
     {
       "path": "imagenes/Toy Shire.webp",
@@ -3615,6 +3630,36 @@
       "path": "capturas/Chained Together/6.webp",
       "size": 14484,
       "sha256": "4015b7a54fcdad948ec2604b256235a89c347b1d63dcb5d7814d0b1193ae335b"
+    },
+    {
+      "path": "capturas/Cities Skylines/1.webp",
+      "size": 42462,
+      "sha256": "927227aed8ab9091bb1c2cd24e672d2508b0d42aa0498e77e0fadf5068c389f6"
+    },
+    {
+      "path": "capturas/Cities Skylines/2.webp",
+      "size": 62946,
+      "sha256": "05aac011939e16558a505f95fc6811a80270078ead790fb45d2065bc804b8870"
+    },
+    {
+      "path": "capturas/Cities Skylines/3.webp",
+      "size": 27274,
+      "sha256": "bcb91ef84e1a9336f0701005481a0f17e63f0dd09dbcee4c2639f0a62cef7caa"
+    },
+    {
+      "path": "capturas/Cities Skylines/4.webp",
+      "size": 44630,
+      "sha256": "41106d93ffeae405024ab1270f96051b68217210a9d934742d2086deac9c9d6c"
+    },
+    {
+      "path": "capturas/Cities Skylines/5.webp",
+      "size": 46084,
+      "sha256": "d12f897c243ae0d020b3e685360624a7cf8f8c8747272d5f482b9971c33cef60"
+    },
+    {
+      "path": "capturas/Cities Skylines/6.webp",
+      "size": 28998,
+      "sha256": "4c2f7c58bb907e08fdf510de0e21aed83be7ad514aa00f15014e631a521e4d9d"
     },
     {
       "path": "capturas/Clair Obscur Expedition 33  Deluxe Edition/1.webp",
@@ -11352,6 +11397,36 @@
       "sha256": "ca6606ea6c6d53f7ba1c22e52b992a27df8949c223093e4eeb9693ab1c4b62a3"
     },
     {
+      "path": "capturas/The Strange City/1.webp",
+      "size": 9086,
+      "sha256": "5ed4cc6d46916a95c7b8f45e9210c53502f9dcc3a623cabdd5bb43e455a72352"
+    },
+    {
+      "path": "capturas/The Strange City/2.webp",
+      "size": 6532,
+      "sha256": "3346f268327ec92fd22efef357e39b950fddeefe12e5e9ed3968b12090311681"
+    },
+    {
+      "path": "capturas/The Strange City/3.webp",
+      "size": 7020,
+      "sha256": "dd4321166ac4d93e77debc31dbe03ceaa2c5cce7aae100f30e2167ab847faa75"
+    },
+    {
+      "path": "capturas/The Strange City/4.webp",
+      "size": 11584,
+      "sha256": "fc20b3db27187a079deff6f538882a07a48af25e4b4e6b36281ac9e8ae46408c"
+    },
+    {
+      "path": "capturas/The Strange City/5.webp",
+      "size": 9868,
+      "sha256": "15deeb558817bcc7c17ea66ca048fec8aa58b0be6d797b2fd07f6095fc22545b"
+    },
+    {
+      "path": "capturas/The Strange City/6.webp",
+      "size": 11320,
+      "sha256": "181e885af828130f12446db251c474523d42ef3cd60750e1c008e984c48308a0"
+    },
+    {
       "path": "capturas/The Witcher 3 Wild Hunt Remastered/01.webp",
       "size": 45572,
       "sha256": "61894db3e297ed83122567bd12fff2767b7d5d528795542a41d4380b19da0a72"
@@ -11615,6 +11690,36 @@
       "path": "capturas/Tomb Raider IV-VI Remastered/6.webp",
       "size": 24222,
       "sha256": "58c7b53718abf5765031139fe6b87825f74d6605b7cdba07f30e467a90b2bef8"
+    },
+    {
+      "path": "capturas/Toto’s Journey/1.webp",
+      "size": 49614,
+      "sha256": "eb550ac9e7a3c01384699b2fc3b0932bc972d195238c16904fe16d0d3cd0a11c"
+    },
+    {
+      "path": "capturas/Toto’s Journey/2.webp",
+      "size": 38860,
+      "sha256": "ce1385fb48feb3e507941762514b8d8a26115def46473c97fb27d7d5ff8bb79c"
+    },
+    {
+      "path": "capturas/Toto’s Journey/3.webp",
+      "size": 25810,
+      "sha256": "f5772e66009869df2ab279fbfe574f2cda1d768378e3e24619d8be0269d7c19f"
+    },
+    {
+      "path": "capturas/Toto’s Journey/4.webp",
+      "size": 29206,
+      "sha256": "8ba54b0b8ea856b5d5af08e309d8abe67fe77a3e8a902fd874487cf17e3192fb"
+    },
+    {
+      "path": "capturas/Toto’s Journey/5.webp",
+      "size": 35944,
+      "sha256": "37bead75f39388bc275a7d954930e3d425e2ce43d1fd5d517f591f63efab6a2b"
+    },
+    {
+      "path": "capturas/Toto’s Journey/6.webp",
+      "size": 25422,
+      "sha256": "1286f115134f75101f35bf495d6f6efbec6054290a38502e03f0cfdfe23cdec8"
     },
     {
       "path": "capturas/Toy Shire/1.webp",
@@ -12725,6 +12830,11 @@
       "path": "sinopsis/Chained Together.txt",
       "size": 451,
       "sha256": "4aff0f6e9fd0fcf37446ba6538d7802bd97e9f2f7913fafb1389eddef08910a3"
+    },
+    {
+      "path": "sinopsis/Cities Skylines.txt",
+      "size": 1607,
+      "sha256": "124614568b1a55b2aa8403d4ed87cefd76ff2a14303edb96870cba523b5b3405"
     },
     {
       "path": "sinopsis/Clair Obscur Expedition 33  Deluxe Edition.txt",
@@ -14022,6 +14132,11 @@
       "sha256": "574662752878e67f9939645d97533b7490b7426b5cd65ced39fd6842eef54b85"
     },
     {
+      "path": "sinopsis/The Strange City.txt",
+      "size": 975,
+      "sha256": "eff04088efac4f3d05381db6a344c4a23ea47349a4cace2aef685c18a6027348"
+    },
+    {
       "path": "sinopsis/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 265,
       "sha256": "08615eddd5cb5ac3d68779720fb83df64f03652d65a0613ed2423cf64fa91638"
@@ -14065,6 +14180,11 @@
       "path": "sinopsis/Tomb Raider IV-VI Remastered.txt",
       "size": 672,
       "sha256": "afd4692966fb4d1fbaeb514753c29a28268937f2fd15f6d7152a0ea26f230feb"
+    },
+    {
+      "path": "sinopsis/Toto’s Journey.txt",
+      "size": 977,
+      "sha256": "cfe57873702d8d3d284e43fb5e1aba5930aedff87544d32778f857b6471e826a"
     },
     {
       "path": "sinopsis/Toy Shire.txt",
@@ -14515,6 +14635,11 @@
       "path": "datos/Chained Together.txt",
       "size": 207,
       "sha256": "1fe4e00e7e6d18b0390827b4fd4090469dde8748c44e282944e05f90d061690e"
+    },
+    {
+      "path": "datos/Cities Skylines.txt",
+      "size": 180,
+      "sha256": "a032cee3b9e4b8add9ea3fc75dc4a02873e31b8d4dfee34ee32d29bbc67d4720"
     },
     {
       "path": "datos/Clair Obscur Expedition 33  Deluxe Edition.txt",
@@ -15812,6 +15937,11 @@
       "sha256": "d74638b0552b799433e4c408d83053d6f9ec0b26a96b80f22f18d26cbeb09436"
     },
     {
+      "path": "datos/The Strange City.txt",
+      "size": 198,
+      "sha256": "6a5d2ec39ff8b0a5bb03c527f17dda3fcfdffa022b35ae03940ee305cae2289d"
+    },
+    {
       "path": "datos/The Witcher 3 Wild Hunt Remastered.txt",
       "size": 223,
       "sha256": "d5dfdda6ba203da67672308e30e2fff5eab10ebdbc21c30ea4a097380f22eb72"
@@ -15855,6 +15985,11 @@
       "path": "datos/Tomb Raider IV-VI Remastered.txt",
       "size": 186,
       "sha256": "67fcd43cdc1395087cd0cd4c63fc2d639b2d45002eed0b4c894a06011c3fe569"
+    },
+    {
+      "path": "datos/Toto’s Journey.txt",
+      "size": 202,
+      "sha256": "f8a3d2b49e6c62ce04972b6bd3078799de78d449b2c87e1065f3113837b7ac68"
     },
     {
       "path": "datos/Toy Shire.txt",
